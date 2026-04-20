@@ -469,52 +469,87 @@ class LLMClient:
         try:
             parsed = json.loads(stripped)
         except json.JSONDecodeError as e:
+            reason = f"JSON parse failed: {e}. Raw output head:\n{raw_text[:500]}"
             if retry_left > 0:
+                logger.warning(
+                    "Call B JSON parse failed (retries left=%d): %s",
+                    retry_left - 1,
+                    str(e)[:300],
+                )
                 return self._call_b_attempt(
                     system_text=system_text,
                     user_text=user_text,
                     valid_cluster_ids=valid_cluster_ids,
                     retry_left=retry_left - 1,
-                    feedback=f"JSON parse failed: {e}. Raw output:\n{raw_text[:500]}",
+                    feedback=reason,
                 )
-            self._abort_call_b(raw_text=raw_text, tag="call_b_schema_abort")
+            self._abort_call_b(
+                raw_text=raw_text, tag="call_b_schema_abort", reason=reason
+            )
 
         # Schema validation
         try:
             briefing = LLMBriefing.model_validate(parsed)
         except pydantic.ValidationError as e:
+            reason = f"Pydantic schema validation failed: {e}"
             if retry_left > 0:
+                logger.warning(
+                    "Call B schema validation failed (retries left=%d): %s",
+                    retry_left - 1,
+                    str(e)[:500],
+                )
                 return self._call_b_attempt(
                     system_text=system_text,
                     user_text=user_text,
                     valid_cluster_ids=valid_cluster_ids,
                     retry_left=retry_left - 1,
-                    feedback=f"Schema validation failed: {e}",
+                    feedback=reason,
                 )
-            self._abort_call_b(raw_text=raw_text, tag="call_b_schema_abort")
+            self._abort_call_b(
+                raw_text=raw_text, tag="call_b_schema_abort", reason=reason
+            )
 
         # Semantic validation
         error = _validate_briefing_semantics(briefing, valid_cluster_ids)
         if error is not None:
+            reason = f"Semantic validation failed: {error}"
             if retry_left > 0:
+                logger.warning(
+                    "Call B semantic validation failed (retries left=%d): %s",
+                    retry_left - 1,
+                    error[:500],
+                )
                 return self._call_b_attempt(
                     system_text=system_text,
                     user_text=user_text,
                     valid_cluster_ids=valid_cluster_ids,
                     retry_left=retry_left - 1,
-                    feedback=f"Semantic validation failed: {error}",
+                    feedback=reason,
                 )
-            self._abort_call_b(raw_text=raw_text, tag="call_b_schema_abort")
+            self._abort_call_b(
+                raw_text=raw_text, tag="call_b_schema_abort", reason=reason
+            )
 
         return briefing, usage
 
-    def _abort_call_b(self, *, raw_text: str, tag: str) -> NoReturn:
+    def _abort_call_b(
+        self, *, raw_text: str, tag: str, reason: str | None = None
+    ) -> NoReturn:
         if self._run_dir is not None:
             self._run_dir.mkdir(parents=True, exist_ok=True)
             (self._run_dir / "call_b_response_raw.json").write_text(
                 raw_text or "", encoding="utf-8"
             )
-        logger.error("Call B aborting with tag=%s", tag)
+        if reason:
+            # Truncate for log readability; full raw response is still persisted
+            # to call_b_response_raw.json when run_dir is set.
+            logger.error(
+                "Call B aborting with tag=%s reason=%s",
+                tag,
+                reason[:1000],
+            )
+        else:
+            logger.error("Call B aborting with tag=%s", tag)
         raise SystemExit(4)
 
     # ----- Request assembly --------------------------------------------------
