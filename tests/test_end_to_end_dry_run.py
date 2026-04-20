@@ -1,12 +1,12 @@
 """End-to-end dry-run pipeline tests.
 
-These tests exercise the full pipeline using fixture data with zero network calls.
+These tests exercise the full pipeline using fixture data with zero network
+calls. PR-4: the EML renderer was retired; the site generator is now the
+sole renderer and emits ``out/index.html``.
 """
 
 from __future__ import annotations
 
-import email
-import email.header
 import json
 import sqlite3
 import subprocess
@@ -28,10 +28,10 @@ _MOCK_CALL_B = _FIXTURES_DIR / "mock_call_b_response.json"
 
 
 def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
-    """Execute the dry-run pipeline programmatically and return (eml_path, run_row)."""
+    """Execute the dry-run pipeline programmatically and return (index_path, run_row)."""
     from morning_brief import collector, selector, summarizer
     from morning_brief.db import bootstrap, insert_run, update_run_completed
-    from morning_brief.renderer import render_and_write
+    from morning_brief.site.site_generator import generate_site
 
     db_path = tmp_path / "briefing.db"
     conn = bootstrap(db_path)
@@ -74,18 +74,15 @@ def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
     stage_durations["call_a"] = stage_timings.get("call_a", 0.0)
     stage_durations["call_b"] = stage_timings.get("call_b", 0.0)
 
-    # Render
+    # Render (static site)
     t0 = time.time()
     ki_by_id = {ki.cluster_id: ki for ki in key_issues_all}
     output_dir = tmp_path / "out"
-    eml_path, subject = render_and_write(
+    index_path = generate_site(
         briefing=briefing,
-        key_issues_by_cluster_id=ki_by_id,
-        today=now.date(),
-        sender="Brief <brief@example.com>",
-        recipients=["team@example.com"],
         output_dir=output_dir,
-        redact_recipients=False,
+        today=now.date(),
+        key_issues_by_cluster_id=ki_by_id,
     )
     stage_durations["render"] = time.time() - t0
 
@@ -107,36 +104,25 @@ def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
     run_data = dict(row)
 
     conn.close()
-    return eml_path, run_data
+    return index_path, run_data
 
 
 # ---------------------------------------------------------------------------
-# 1. Full dry-run pipeline completes and produces valid EML
+# 1. Full dry-run pipeline completes and produces a valid HTML site
 # ---------------------------------------------------------------------------
 
 def test_dry_run_pipeline_completes(tmp_path: Path) -> None:
-    eml_path, run_data = _run_dry_run_pipeline(tmp_path)
+    index_path, run_data = _run_dry_run_pipeline(tmp_path)
 
-    # EML file exists
-    assert eml_path.exists(), f"EML file not found at {eml_path}"
-    assert eml_path.suffix == ".eml"
+    # The site generator writes index.html at the output root.
+    assert index_path.exists(), f"index.html not found at {index_path}"
+    assert index_path.suffix == ".html"
+    assert index_path.name == "index.html"
 
-    # Parse as email
-    msg = email.message_from_bytes(eml_path.read_bytes())
-    assert msg.is_multipart()
-
-    content_types = {part.get_content_type() for part in msg.walk()}
-    assert "text/plain" in content_types
-    assert "text/html" in content_types
-
-    # Subject must be set and non-empty (decode RFC 2047 encoding)
-    raw_subject = msg["Subject"] or ""
-    decoded_parts = email.header.decode_header(raw_subject)
-    subject = "".join(
-        part.decode(enc or "utf-8") if isinstance(part, bytes) else part
-        for part, enc in decoded_parts
-    )
-    assert subject.startswith("[소비재 트렌드 조간]")
+    html = index_path.read_text(encoding="utf-8")
+    assert html, "index.html is empty"
+    # Basic HTML shape — site generator renders a full document.
+    assert "<html" in html.lower() or "<!doctype" in html.lower()
 
 
 # ---------------------------------------------------------------------------
@@ -170,8 +156,8 @@ def test_dry_run_zero_network_calls(tmp_path: Path, monkeypatch: pytest.MonkeyPa
     monkeypatch.setattr(anthropic, "Anthropic", _BlockedAnthropic)
 
     # Should succeed without raising
-    eml_path, _ = _run_dry_run_pipeline(tmp_path)
-    assert eml_path.exists()
+    index_path, _ = _run_dry_run_pipeline(tmp_path)
+    assert index_path.exists()
 
 
 # ---------------------------------------------------------------------------
@@ -196,46 +182,55 @@ def test_dry_run_stage_durations_populated(tmp_path: Path) -> None:
 
 def test_ac8_cross_lingual_merge(tmp_path: Path) -> None:
     """AC8 — the cross_lingual_pair fixture's EN+KO Zara articles collapse into a
-    single Fashion item whose bundle exposes both publisher URLs, and the
-    persisted cluster row flags is_cross_lingual_merge=1.
+    single Fashion item and the persisted cluster row flags
+    is_cross_lingual_merge=1.
 
-    This test exercises the same pipeline as test_dry_run_pipeline_completes but
-    asserts on content, not just structure — it would have caught the MAJOR_GAP
-    where deterministic fixture IDs failed to match UUID-based candidate IDs.
+    PR-4 note: the site renderer exposes only the primary article's URL per
+    card (the EN source wins when it is the bundle's first article), so the
+    original EML-era "both publisher URLs appear in the body" assertion no
+    longer applies. The merge itself is still verified via the DB row and
+    via the archive JSON ``languages`` list, which records every language
+    seen in the bundle.
     """
-    eml_path, _ = _run_dry_run_pipeline(tmp_path)
-    assert eml_path.exists()
+    index_path, _ = _run_dry_run_pipeline(tmp_path)
+    assert index_path.exists()
 
-    # Parse EML → grab HTML part for URL assertions
-    msg = email.message_from_bytes(eml_path.read_bytes())
-    html_payload = ""
-    for part in msg.walk():
-        if part.get_content_type() == "text/html":
-            raw = part.get_payload(decode=True)
-            if raw:
-                html_payload = raw.decode("utf-8", errors="replace")
-                break
-    assert html_payload, "text/html part missing from EML"
+    html_payload = index_path.read_text(encoding="utf-8")
+    assert html_payload, "index.html is empty"
 
-    # Both publisher URLs from the cross-lingual pair must appear
-    assert "businessoffashion.com" in html_payload, (
-        "EN publisher URL missing — cross-lingual merge did not emit both sources"
-    )
+    # The primary publisher URL appears on the rendered page. For the
+    # cross-lingual pair fixture, the merged cluster's primary article is
+    # the KO source (fashionbiz.co.kr).
     assert "fashionbiz.co.kr" in html_payload, (
-        "KO publisher URL missing — cross-lingual merge did not emit both sources"
+        "Primary (KO) publisher URL missing from rendered site"
     )
 
-    # Inspect persisted cluster artefacts. The dry-run pipeline persists runs
-    # into the real .omc/state/briefing/briefing.db regardless of tmp_path,
-    # but the call_b_request.json for this specific run lives under tmp_path
-    # is not correct — the summarizer writes to _RUN_STATE_DIR (a module path).
-    # We therefore load the Call B request artefact from the module path.
-    from morning_brief.summarizer import _RUN_STATE_DIR
+    # The EN side of the merge is not rendered as a clickable link (site
+    # card shows one primary source) but the archive JSON records every
+    # language in the cluster's bundle. Walk archive/YYYY/MM/DD.json
+    # looking for a cards_meta entry whose "languages" list contains both
+    # "en" and "ko".
+    archive_root = (tmp_path / "out").resolve()
+    archive_jsons = list(archive_root.rglob("*.json"))
+    assert archive_jsons, f"no archive JSON under {archive_root}"
+    merged_languages: set[str] = set()
+    for jf in archive_jsons:
+        try:
+            data = json.loads(jf.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        cards_meta = data.get("cards_meta") or {}
+        for meta in cards_meta.values():
+            langs = meta.get("languages") or []
+            if len(langs) > 1:
+                merged_languages.update(langs)
+    assert {"en", "ko"}.issubset(merged_languages), (
+        "archive JSON did not record an EN+KO cross-lingual merge; "
+        f"seen merged languages={merged_languages}"
+    )
 
-    # The helper returned run_data; re-derive the run_id used from tmp_path.
-    # We also have access to the DB via a fresh connection to the same module DB.
-    # Find a cluster_0001 row with is_cross_lingual_merge=1 in the DB path used
-    # by the helper (the helper wrote clusters into tmp_path/briefing.db).
+    # Inspect persisted cluster artefacts. Find a cluster row with
+    # is_cross_lingual_merge=1 in the DB path used by the helper.
     db_path = tmp_path / "briefing.db"
     assert db_path.exists(), f"Test DB missing at {db_path}"
     conn = sqlite3.connect(str(db_path))

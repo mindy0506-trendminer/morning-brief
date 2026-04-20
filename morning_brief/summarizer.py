@@ -64,7 +64,6 @@ _MAX_ARTICLES_PER_BUNDLE = 5
 _MISC_CAP = 3
 _CATEGORIES: tuple[str, ...] = (
     "식음료",
-    "F&B",
     "뷰티",
     "패션",
     "라이프스타일",

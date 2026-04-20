@@ -18,14 +18,14 @@ Language = Literal["ko", "en", "ja", "zh", "es"]
 # {Food, Beauty, Fashion, Living, Hospitality} to the 6-way Korean canonical
 # set. Hospitality is absorbed into 라이프스타일.
 #
-# Post-PR-2 QA (Issue C): 식음료 is the new canonical label for food &
-# beverage; the legacy "F&B" token remains an accepted Literal value so
-# pre-migration briefing.db rows + EML-renderer fixtures still validate.
-# The site renderer adapter and all new fixtures use "식음료". The one-shot
-# ``scripts/migrate_categories.py`` rewrites stored "F&B" values to "식음료".
+# PR-4: the intermediate "F&B" Literal was removed. 식음료 is now the sole
+# canonical label for food & beverage. The one-shot
+# ``scripts/migrate_categories.py`` still rewrites any residual "F&B" rows in
+# briefing.db to "식음료"; ``config/categories.yml`` keeps "F&B" under
+# ``legacy_aliases`` so live collector matches still work during the
+# deprecation window.
 Category = Literal[
     "식음료",
-    "F&B",
     "뷰티",
     "패션",
     "라이프스타일",

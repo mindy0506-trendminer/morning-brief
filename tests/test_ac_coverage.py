@@ -3,16 +3,15 @@
 Covers:
   AC5  — source URLs capped at 3, deduplicated, all http(s)
   AC7  — run_duration_seconds < 600 via dry-run
-  AC11 — .eml parseable by Python's email module (Subject, From, To present;
-          text/plain + text/html parts non-empty)
+  AC11 — rendered index.html is valid HTML with non-empty content
+          (PR-4 superseded the pre-existing "EML parseable" variant — the
+          EML renderer is retired; the site generator is now sole output.)
   AC12 — fewer than 3 distinct source_names → SystemExit(2) with clear message
   AC15 — per-stage absolute duration caps satisfied on dry-run
 """
 
 from __future__ import annotations
 
-import email as email_lib
-import email.header
 import json
 import time
 from datetime import datetime
@@ -28,10 +27,10 @@ _FIXTURES_DIR = Path(__file__).parent / "fixtures"
 
 
 def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
-    """Execute dry-run pipeline, return (eml_path, run_row dict)."""
+    """Execute dry-run pipeline, return (index_path, run_row dict)."""
     from morning_brief import collector, selector, summarizer
     from morning_brief.db import bootstrap, insert_run, update_run_completed
-    from morning_brief.renderer import render_and_write
+    from morning_brief.site.site_generator import generate_site
 
     db_path = tmp_path / "briefing.db"
     conn = bootstrap(db_path)
@@ -74,14 +73,11 @@ def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
     t0 = time.time()
     ki_by_id = {ki.cluster_id: ki for ki in key_issues_all}
     output_dir = tmp_path / "out"
-    eml_path, subject = render_and_write(
+    index_path = generate_site(
         briefing=briefing,
-        key_issues_by_cluster_id=ki_by_id,
-        today=now.date(),
-        sender="Brief <brief@example.com>",
-        recipients=["team@example.com"],
         output_dir=output_dir,
-        redact_recipients=False,
+        today=now.date(),
+        key_issues_by_cluster_id=ki_by_id,
     )
     stage_durations["render"] = time.time() - t0
 
@@ -100,7 +96,7 @@ def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
     ).fetchone()
     run_data = dict(row)
     conn.close()
-    return eml_path, run_data
+    return index_path, run_data
 
 
 # ---------------------------------------------------------------------------
@@ -108,11 +104,14 @@ def _run_dry_run_pipeline(tmp_path: Path) -> tuple[Path, dict]:
 # ---------------------------------------------------------------------------
 
 
-def test_ac5_source_links_cap_and_dedup() -> None:
-    """build_render_context deduplicates and caps source_urls to ≤3; all start with http."""
+def test_ac5_primary_source_link_is_http() -> None:
+    """The site renderer emits one primary source URL per card. Verify that
+    URL is http(s) and is taken from ``article_bundle[0]`` (canonical URL
+    preferred). PR-4 scoped-down from the old "cap at 3 + dedup" contract,
+    which was EML-specific; site cards show a single primary source."""
     from datetime import datetime as dt
     from morning_brief.models import Article, BriefingItem, KeyIssue, LLMBriefing
-    from morning_brief.renderer import build_render_context
+    from morning_brief.site.renderer_adapter import build_template_context
 
     def _make_article(idx: int, url: str) -> Article:
         return Article(
@@ -131,14 +130,11 @@ def test_ac5_source_links_cap_and_dedup() -> None:
             extracted_entities=[],
         )
 
-    # 5 articles: articles 0 and 2 share the same canonical_url (dedup scenario)
-    shared_url = "https://example.com/shared-article"
+    primary_url = "https://example.com/shared-article"
     bundle = [
-        _make_article(0, shared_url),
+        _make_article(0, primary_url),
         _make_article(1, "https://example.com/article-1"),
-        _make_article(2, shared_url),  # duplicate of article 0
-        _make_article(3, "https://example.com/article-3"),
-        _make_article(4, "https://example.com/article-4"),
+        _make_article(2, "https://example.com/article-2"),
     ]
 
     ki = KeyIssue(
@@ -169,26 +165,28 @@ def test_ac5_source_links_cap_and_dedup() -> None:
         insight_box_ko="인사이트.",
     )
 
-    context = build_render_context(
-        briefing=briefing,
-        key_issues_by_cluster_id={"cluster_test": ki},
-        today=dt(2026, 4, 18).date(),
-        sender="Brief <brief@example.com>",
-        recipients=["team@example.com"],
-        redact_recipients=False,
+    context = build_template_context(
+        briefing,
+        {"cluster_test": ki},
+        today_iso="2026-04-18",
     )
 
-    fashion_items = context["sections"]["패션"]
-    assert len(fashion_items) == 1, "Expected exactly 1 Fashion item"
-    source_urls = fashion_items[0]["source_urls"]
+    tabs = context["tabs"]
+    fashion_tab = next((t for t in tabs if t.key == "패션"), None)
+    assert fashion_tab is not None, (
+        f"패션 tab missing; got {[t.key for t in tabs]}"
+    )
+    cards = fashion_tab.cards
+    assert len(cards) == 1, f"expected 1 card, got {len(cards)}"
+    card = cards[0]
 
-    # Must not exceed 3
-    assert len(source_urls) <= 3, f"Too many source URLs: {source_urls}"
-    # No duplicates
-    assert len(source_urls) == len(set(source_urls)), f"Duplicate URLs found: {source_urls}"
-    # All must be http(s)
-    for url in source_urls:
-        assert url.startswith("http"), f"URL does not start with http: {url!r}"
+    # Primary source URL is the article bundle's first article.
+    assert card.source_url == primary_url, (
+        f"expected primary source_url={primary_url!r}, got {card.source_url!r}"
+    )
+    assert card.source_url.startswith("http"), (
+        f"source_url does not start with http: {card.source_url!r}"
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -208,47 +206,22 @@ def test_ac7_run_duration_under_10min_dry_run(tmp_path: Path) -> None:
 
 
 # ---------------------------------------------------------------------------
-# AC11 — .eml parseable by Python's email module
+# AC11 — rendered index.html is a non-empty HTML document
+# (PR-4: replaces the original EML-parseability variant)
 # ---------------------------------------------------------------------------
 
 
-def test_ac11_eml_parseable_by_email_module(tmp_path: Path) -> None:
-    """EML must be parseable; Subject, From, To headers present; text/plain + text/html non-empty."""
-    eml_path, _ = _run_dry_run_pipeline(tmp_path)
+def test_ac11_index_html_is_valid_document(tmp_path: Path) -> None:
+    """index.html must exist, be non-empty, and look like an HTML document."""
+    index_path, _ = _run_dry_run_pipeline(tmp_path)
 
-    raw_bytes = eml_path.read_bytes()
-    msg = email_lib.message_from_bytes(raw_bytes)
-
-    # Required headers
-    assert msg["Subject"], "Subject header missing or empty"
-    assert msg["From"], "From header missing or empty"
-    assert msg["To"], "To header missing or empty"
-
-    # Decode subject (RFC 2047)
-    raw_subject = msg["Subject"]
-    decoded_parts = email.header.decode_header(raw_subject)
-    subject = "".join(
-        part.decode(enc or "utf-8") if isinstance(part, bytes) else part
-        for part, enc in decoded_parts
+    assert index_path.exists(), f"index.html missing at {index_path}"
+    html = index_path.read_text(encoding="utf-8")
+    assert html.strip(), "index.html is empty"
+    lowered = html.lower()
+    assert "<html" in lowered or "<!doctype" in lowered, (
+        "index.html does not look like an HTML document"
     )
-    assert subject, "Decoded subject is empty"
-
-    # Walk parts
-    found_plain = False
-    found_html = False
-    for part in msg.walk():
-        ct = part.get_content_type()
-        if ct == "text/plain":
-            payload = part.get_payload(decode=True)
-            if payload:
-                found_plain = True
-        elif ct == "text/html":
-            payload = part.get_payload(decode=True)
-            if payload:
-                found_html = True
-
-    assert found_plain, "No non-empty text/plain part found in EML"
-    assert found_html, "No non-empty text/html part found in EML"
 
 
 # ---------------------------------------------------------------------------
@@ -273,7 +246,7 @@ def test_ac12_insufficient_feeds_abort(
             canonical_url=f"https://{source}.example.com/article-{idx}",
             language="en",
             published_at=dt(2026, 4, 18, 6, 0, 0),
-            category="F&B",
+            category="식음료",
             raw_summary="Summary.",
             enriched_text=None,
             fetched_at=dt(2026, 4, 18, 6, 0, 0),
@@ -341,7 +314,7 @@ def test_ac12_message_mentions_feeds(
             canonical_url=f"https://{source}.example.com/{idx}",
             language="en",
             published_at=dt(2026, 4, 18, 6, 0, 0),
-            category="F&B",
+            category="식음료",
             raw_summary="S.",
             enriched_text=None,
             fetched_at=dt(2026, 4, 18, 6, 0, 0),

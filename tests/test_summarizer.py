@@ -226,10 +226,10 @@ def test_call_b_cache_control_present():
 
 def test_merge_candidate_clusters_category_span_violation():
     """3 pre-cluster categories → unfold and log category_span_violation."""
-    a1 = _make_article(aid="art_f", category="F&B")
+    a1 = _make_article(aid="art_f", category="식음료")
     a2 = _make_article(aid="art_b", category="뷰티")
     a3 = _make_article(aid="art_s", category="패션")
-    c1 = _make_candidate(cid="cand_001", article_ids=["art_f"], category="F&B")
+    c1 = _make_candidate(cid="cand_001", article_ids=["art_f"], category="식음료")
     c2 = _make_candidate(cid="cand_002", article_ids=["art_b"], category="뷰티")
     c3 = _make_candidate(cid="cand_003", article_ids=["art_s"], category="패션")
     articles_by_id = {"art_f": a1, "art_b": a2, "art_s": a3}
@@ -239,7 +239,7 @@ def test_merge_candidate_clusters_category_span_violation():
             "clusters": [
                 {
                     "input_cluster_ids": ["cand_001", "cand_002", "cand_003"],
-                    "category_confirmed": "F&B",
+                    "category_confirmed": "식음료",
                     "canonical_entity_ko": "잘못된 병합",
                     "is_cross_lingual_merge": False,
                     "key_entities": ["Brand"],
@@ -256,10 +256,10 @@ def test_merge_candidate_clusters_category_span_violation():
     # Each unfolded cluster is non-cross-lingual
     for cluster in result:
         assert cluster.is_cross_lingual_merge is False
-    # Categories preserved from originals. Under Python string ordering
-    # ASCII "F&B" sorts before Hangul "뷰티" and "패션".
+    # Categories preserved from originals. Python string ordering on
+    # Hangul code points yields ["뷰티", "식음료", "패션"].
     cats = sorted(c.category for c in result)
-    assert cats == ["F&B", "뷰티", "패션"]
+    assert cats == ["뷰티", "식음료", "패션"]
 
 
 # ---------------------------------------------------------------------------
@@ -363,7 +363,7 @@ def test_finalize_sections_blocker3_one_cluster_category():
         )
 
     clusters = [
-        _c("F&B", 0.50),  # single, above threshold
+        _c("식음료", 0.50),  # single, above threshold
         _c("뷰티", 0.70),
         _c("뷰티", 0.55),
         _c("뷰티", 0.40),  # still above 0.35
@@ -371,12 +371,12 @@ def test_finalize_sections_blocker3_one_cluster_category():
     result = finalize_sections(clusters, articles_by_id, threshold=0.35, max_per_cat=3)
 
     sections = result["sections"]
-    assert set(sections.keys()) == {"F&B", "뷰티"}
-    assert len(sections["F&B"]) == 1
+    assert set(sections.keys()) == {"식음료", "뷰티"}
+    assert len(sections["식음료"]) == 1
     assert len(sections["뷰티"]) == 3
     # Food must NOT be in misc
     misc_cluster_ids = {ki.cluster_id for ki in result["misc"]}
-    food_cluster_ids = {ki.cluster_id for ki in sections["F&B"]}
+    food_cluster_ids = {ki.cluster_id for ki in sections["식음료"]}
     assert food_cluster_ids.isdisjoint(misc_cluster_ids)
 
 

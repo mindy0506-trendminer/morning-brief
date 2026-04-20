@@ -21,7 +21,7 @@ from morning_brief.models import (
 
 _VALID_CLUSTER_OUT = dict(
     input_cluster_ids=["c1"],
-    category_confirmed="F&B",
+    category_confirmed="식음료",
     canonical_entity_ko="풀무원",
     is_cross_lingual_merge=False,
     key_entities=["Pulmuone"],
@@ -41,7 +41,7 @@ _VALID_BRIEFING_ITEM = dict(
 _VALID_LLM_BRIEFING = dict(
     schema_version="v2",
     exec_summary_ko=["요약 1", "요약 2", "요약 3"],
-    sections={"F&B": [_VALID_BRIEFING_ITEM]},
+    sections={"식음료": [_VALID_BRIEFING_ITEM]},
     misc_observations_ko=None,
     insight_box_ko="이번 주 주목할 트렌드.",
 )
@@ -59,7 +59,7 @@ class TestCallAClusterOutForbidsExtra:
     def test_accepts_valid_payload(self):
         """CallAClusterOut accepts a minimal valid payload."""
         obj = CallAClusterOut(**_VALID_CLUSTER_OUT)
-        assert obj.category_confirmed == "F&B"
+        assert obj.category_confirmed == "식음료"
 
 
 class TestCallAResponseForbidsExtra:
@@ -153,20 +153,20 @@ class TestSchemaVersion:
 
 class TestCategoryLiteralRename:
     """Category Literal must accept canonical D10-A values and reject the fully
-    retired legacy names. PR-2 QA Issue C: ``식음료`` is the new canonical label
-    for food & beverage; ``F&B`` remains accepted for backward compatibility
-    (pre-migration briefing.db rows + EML-renderer fixtures)."""
+    retired legacy names. PR-4: ``F&B`` was removed from the Literal; ``식음료``
+    is the sole canonical label for food & beverage. Legacy ``F&B`` aliases
+    remain in ``config/categories.yml`` and ``scripts/migrate_categories.py``
+    for the deprecation window, but the runtime Literal rejects it."""
 
     _CANONICAL = [
         "식음료",
-        "F&B",
         "뷰티",
         "패션",
         "라이프스타일",
         "소비트렌드",
         "MacroTrends",
     ]
-    _LEGACY = ["Food", "Beauty", "Fashion", "Living", "Hospitality"]
+    _LEGACY = ["Food", "Beauty", "Fashion", "Living", "Hospitality", "F&B"]
 
     @pytest.mark.parametrize("cat", _CANONICAL)
     def test_call_a_accepts_canonical(self, cat):
@@ -204,7 +204,7 @@ _ARTICLE_BASE = dict(
     url="https://example.com/x",
     canonical_url="https://example.com/x",
     published_at=datetime(2026, 4, 18, 6, 0, 0),
-    category="F&B",
+    category="식음료",
     raw_summary="summary",
     enriched_text=None,
     fetched_at=datetime(2026, 4, 18, 6, 0, 0),

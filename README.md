@@ -1,11 +1,17 @@
 # 소비재 트렌드 조간 브리핑 (Morning Brief)
 
 소비재(패션·뷰티·식품·리빙·호스피탈리티) 분야 최신 뉴스를 매일 아침 자동으로 수집·요약해
-팀에게 이메일(.eml)로 전달하는 CLI 파이프라인입니다.
+정적 HTML 사이트(`out/index.html`)로 발행하는 CLI 파이프라인입니다.
 
 A local Python CLI that collects RSS news from 15+ specialized feeds, pre-clusters duplicates,
 scores novelty and diffusion in Python, calls Anthropic's Claude (Haiku → Sonnet two-call pipeline)
-to write a Korean briefing, and produces a ready-to-send `.eml` file — all in under 2 minutes.
+to write a Korean briefing, and publishes a ready-to-read static site at `out/index.html` —
+all in under 2 minutes.
+
+> **PR-4 change.** The legacy `.eml` output path was retired. The static site
+> generator is now the sole renderer. The prior EML renderer + tests are
+> archived at the git tag `pre-renderer-deletion` and can be recovered with
+> `git checkout pre-renderer-deletion -- morning_brief/renderer.py tests/test_renderer.py`.
 
 ---
 
@@ -54,7 +60,8 @@ python morning_brief.py run [--limit-per-cat N]
 ```
 
 Collects live RSS articles, runs the two-call LLM pipeline (Call A: Haiku clustering,
-Call B: Sonnet Korean briefing), and writes `out/briefing_YYYY-MM-DD.eml`.
+Call B: Sonnet Korean briefing), and publishes the static site at `out/index.html`
+(archived snapshots under `out/YYYY/MM/DD/`).
 
 `--limit-per-cat N` caps items per category to N (default: 3).
 
@@ -74,7 +81,7 @@ Ideal for CI and local iteration.
 python morning_brief.py rerender <run_id>
 ```
 
-Re-generates the `.eml` from a previous run's persisted `call_b_response.json`
+Re-generates the static site from a previous run's persisted `call_b_response.json`
 and `key_issues.json` without any API calls. `<run_id>` is the directory name
 under `.omc/state/briefing/runs/` (format: `YYYY-MM-DD-HHMMSS`).
 
@@ -82,12 +89,12 @@ under `.omc/state/briefing/runs/` (format: `YYYY-MM-DD-HHMMSS`).
 
 ## Output
 
-Generated `.eml` files are written to `out/briefing_YYYY-MM-DD.eml`.
+The pipeline writes the live static site to `out/index.html` and archives a
+dated snapshot under `out/YYYY/MM/DD/`.
 
-- **Double-click** the file on Windows/macOS to open in your default mail client
-  (Outlook, Apple Mail, Thunderbird).
-- All source links are clickable in the HTML part.
-- Review the briefing, then forward or send manually.
+- **Open `out/index.html` in any browser** to read the briefing.
+- All source links are clickable.
+- Review the briefing, then share the URL / folder with the team.
 
 ---
 
@@ -118,15 +125,11 @@ sources:
 
 ## PII Note
 
-`out/*.eml` files contain recipient email addresses in `To:` headers.
-To generate commit-safe debug copies, set `REDACT_RECIPIENTS=1` in `.env`:
-
-```bash
-REDACT_RECIPIENTS=1 python morning_brief.py dry-run
-```
-
-The `To:` header will read `__REDACTED__` instead of real addresses.
-`out/` is excluded from version control via `.gitignore`.
+The static site under `out/` does not embed recipient email addresses. The
+legacy `REDACT_RECIPIENTS=1` guard applied only to the retired `.eml` output
+path; it is now a no-op but remains honoured by env-loading helpers for
+backward compatibility with older automation. `out/` is excluded from version
+control via `.gitignore`.
 
 ---
 
@@ -141,7 +144,7 @@ morning_brief/
   selector.py     Pre-clustering (same-language near-dupes via rapidfuzz),
                   novelty/diffusion scoring, top-N picker
   summarizer.py   Two-call LLM pipeline + Blocker-3 section finalization
-  renderer.py     Jinja2 HTML + plain-text + EML construction
+  site/           Static-site generator (Jinja2 templates + archive writer)
   db.py           SQLite schema (articles, clusters, entity_history, runs)
 ```
 
@@ -167,7 +170,7 @@ scored CandidateCluster list
           (no numeric scores — all 4 LLM models use ConfigDict(extra="forbid"))
         |
         v
-  Renderer injects Python-computed scores → HTML → EML
+  Site generator writes out/index.html + out/YYYY/MM/DD/ archive snapshot
 ```
 
 Both calls use `cache_control: {"type": "ephemeral"}` on the system block for
@@ -208,9 +211,10 @@ Test files and their coverage:
 | `test_collector.py` | AC12 (insufficient feeds), AC17 (R6 cross-language entity extraction) |
 | `test_selector.py` | AC4 (1–3 items), AC9 (novelty warmup) |
 | `test_summarizer.py` | AC3 (pydantic validated), AC10a/b (cache_control), AC14 (extra-forbid), AC16 (R1 sanity) |
-| `test_renderer.py` | AC6 (Hangul ratio ≥80%), AC11 (EML parseable) |
-| `test_ac_coverage.py` | AC5 (source URLs ≤3, deduped), AC7 (duration <600s), AC11 (email module parse), AC12 (SystemExit guard), AC15 (per-stage caps) |
+| `test_site_*` | Site generator, templates, search index, archive, macro integration |
+| `test_ac_coverage.py` | AC5 (primary source URL http), AC7 (duration <600s), AC11 (valid HTML document), AC12 (SystemExit guard), AC15 (per-stage caps) |
 | `test_models_forbid.py` | AC3/AC14 (pydantic model strictness) |
+| `test_legacy_removed.py` | PR-4 guard — renderer module + `--renderer` flag are gone |
 | `test_db_bootstrap.py` | Schema bootstrap idempotency |
 
 ---
@@ -238,10 +242,6 @@ Test files and their coverage:
 **"call_a schema error" / SystemExit(3)**
 : Call A (Haiku) returned a malformed JSON response twice in a row.
   This is typically a transient API issue; retry after a few minutes.
-
-**EML links are not clickable**
-: Ensure your mail client is rendering the HTML part, not just the plain-text part.
-  In Thunderbird: View → Message Body As → Original HTML.
 
 **Windows path issues with Git Bash**
 : Always use forward slashes in paths. If `python` is not found in Git Bash,

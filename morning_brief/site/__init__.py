@@ -5,7 +5,6 @@ Public surface:
     - search_index.build(archive_root)
     - renderer_adapter.build_template_context(briefing, ...)
 
-The package is only activated when the CLI is invoked with
-``--renderer=site`` (plan v2 §D8 PR-2). The default ``eml`` renderer
-path (``morning_brief.renderer``) is untouched.
+As of PR-4, this is the sole renderer — the CLI always writes to the static
+site, and the legacy ``morning_brief.renderer`` EML path has been removed.
 """

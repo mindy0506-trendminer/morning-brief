@@ -1,8 +1,8 @@
-"""PR-3 Task 2 — CLI default renderer is ``site`` (formerly ``eml``).
+"""PR-3/PR-4 — the CLI emits the static site at ``out/index.html``.
 
-Running ``python morning_brief.py dry-run`` with no ``--renderer`` flag must
-now land at ``out/index.html``. The ``--renderer=eml`` path remains a
-supported fallback until PR-4 retires ``morning_brief/renderer.py`` proper.
+Running ``python morning_brief.py dry-run`` with no flags must write
+``out/index.html``. The legacy ``--renderer=eml`` path was retired in PR-4
+and is archived at git tag ``pre-renderer-deletion``.
 """
 
 from __future__ import annotations
@@ -32,7 +32,7 @@ def _run(cwd: Path, *extra: str) -> subprocess.CompletedProcess[str]:
 
 
 def test_default_renderer_is_site() -> None:
-    """No ``--renderer`` flag → the site generator writes ``out/index.html``."""
+    """``dry-run`` with no flags → the site generator writes ``out/index.html``."""
     root = Path(__file__).parent.parent
     result = _run(root)
     assert result.returncode == 0, (
@@ -48,18 +48,4 @@ def test_default_renderer_is_site() -> None:
     # The actual file exists (sanity check).
     assert (root / "out" / "index.html").exists(), (
         "default renderer did not produce out/index.html"
-    )
-
-
-def test_eml_fallback_still_works() -> None:
-    """``--renderer=eml`` still writes a ``.eml`` file (legacy path preserved)."""
-    root = Path(__file__).parent.parent
-    result = _run(root, "--renderer=eml")
-    assert result.returncode == 0, (
-        f"dry-run --renderer=eml exit={result.returncode}\n"
-        f"stdout={result.stdout}\nstderr={result.stderr}"
-    )
-    stdout = result.stdout.strip().splitlines()[-1] if result.stdout.strip() else ""
-    assert stdout.endswith(".eml"), (
-        f"expected final stdout line to end with '.eml', got {stdout!r}"
     )

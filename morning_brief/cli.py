@@ -4,6 +4,10 @@ Subcommands:
   run        — full pipeline (collect → select → summarize → render)
   dry-run    — same pipeline but uses fixture data and mock LLM responses
   rerender   — re-render from persisted call_b_response.json + key_issues.json
+
+Note (PR-4): The legacy ``--renderer=eml`` output path was retired. The static
+site generator is now the sole renderer. The EML code path and its tests are
+archived at git tag ``pre-renderer-deletion``.
 """
 
 from __future__ import annotations
@@ -77,17 +81,14 @@ def _run_pipeline(
     call_a_model: str,
     call_b_model: str,
     limit_per_cat: int | None,
-    renderer: str = "eml",
 ) -> None:
     """Execute the full morning_brief pipeline.
 
-    ``renderer`` selects the output path:
-        "eml"  — existing renderer.py (unchanged); default.
-        "site" — new static-site generator (plan v2 §C, PR-2).
+    Writes the static HTML site under ``out/`` (plan v2 §C). The legacy EML
+    output was retired in PR-4; recover via git tag ``pre-renderer-deletion``.
     """
     from morning_brief import collector, selector, summarizer
     from morning_brief.db import bootstrap, insert_run, update_run_completed
-    from morning_brief.renderer import render_and_write
 
     now = datetime.now(timezone.utc).replace(tzinfo=None)
     run_id = _generate_run_id(now)
@@ -163,43 +164,28 @@ def _run_pipeline(
             stage_durations["call_a"] = total_summ * 0.25
             stage_durations["call_b"] = total_summ * 0.75
 
-        # ---- Render ----
+        # ---- Render (static site) ----
         t0 = time.time()
         # Build cluster_id → KeyIssue lookup
         ki_by_id = {ki.cluster_id: ki for ki in key_issues_all}
 
         output_dir = _DEFAULT_OUTPUT_DIR
-        render_output: Path
-        if renderer == "site":
-            # PR-2 path. SCTEEP tagging lands in a separate Sonnet pass
-            # (macro_tagger); when no key is available the tagger is a
-            # no-op, so the dry-run flow stays fully offline.
-            from morning_brief.site.site_generator import generate_site
-            from morning_brief.macro_tagger import tag_macro_clusters
+        from morning_brief.site.site_generator import generate_site
+        from morning_brief.macro_tagger import tag_macro_clusters
 
-            # macro_tagger works on Cluster objects; the summarizer does not
-            # return them directly, so we harvest the MacroTab cluster ids
-            # from key_issues and pass a placeholder that the tagger can
-            # enrich when/if real clusters are wired in here. Dry-run stays
-            # offline because tag_macro_clusters no-ops without a key.
-            _ = tag_macro_clusters  # kept in scope for future wiring (PR-3)
+        # macro_tagger works on Cluster objects; the summarizer does not
+        # return them directly, so we harvest the MacroTab cluster ids
+        # from key_issues and pass a placeholder that the tagger can
+        # enrich when/if real clusters are wired in here. Dry-run stays
+        # offline because tag_macro_clusters no-ops without a key.
+        _ = tag_macro_clusters  # kept in scope for future wiring (PR-3)
 
-            render_output = generate_site(
-                briefing=briefing,
-                output_dir=output_dir,
-                today=now.date(),
-                key_issues_by_cluster_id=ki_by_id,
-            )
-        else:
-            render_output, subject = render_and_write(
-                briefing=briefing,
-                key_issues_by_cluster_id=ki_by_id,
-                today=now.date(),
-                sender=sender,
-                recipients=recipients,
-                output_dir=output_dir,
-                redact_recipients=redact_recipients,
-            )
+        render_output = generate_site(
+            briefing=briefing,
+            output_dir=output_dir,
+            today=now.date(),
+            key_issues_by_cluster_id=ki_by_id,
+        )
         stage_durations["render"] = time.time() - t0
 
         # ---- Persist run completion ----
@@ -233,7 +219,6 @@ def cmd_run(args: argparse.Namespace) -> None:
     call_a = os.environ.get("LLM_CALL_A_MODEL", _DEFAULT_CALL_A_MODEL)
     call_b = os.environ.get("LLM_CALL_B_MODEL", _DEFAULT_CALL_B_MODEL)
     limit_per_cat: int | None = getattr(args, "limit_per_cat", None)
-    renderer: str = getattr(args, "renderer", "site") or "site"
 
     _run_pipeline(
         dry_run=False,
@@ -244,7 +229,6 @@ def cmd_run(args: argparse.Namespace) -> None:
         call_a_model=call_a,
         call_b_model=call_b,
         limit_per_cat=limit_per_cat,
-        renderer=renderer,
     )
 
 
@@ -263,7 +247,6 @@ def cmd_dry_run(args: argparse.Namespace) -> None:
     call_a = os.environ.get("LLM_CALL_A_MODEL", _DEFAULT_CALL_A_MODEL)
     call_b = os.environ.get("LLM_CALL_B_MODEL", _DEFAULT_CALL_B_MODEL)
     limit_per_cat: int | None = getattr(args, "limit_per_cat", None)
-    renderer: str = getattr(args, "renderer", "site") or "site"
 
     _run_pipeline(
         dry_run=True,
@@ -274,7 +257,6 @@ def cmd_dry_run(args: argparse.Namespace) -> None:
         call_a_model=call_a,
         call_b_model=call_b,
         limit_per_cat=limit_per_cat,
-        renderer=renderer,
     )
 
 
@@ -312,7 +294,7 @@ def cmd_rerender(args: argparse.Namespace) -> None:
         sys.exit(1)
 
     from morning_brief.models import KeyIssue, LLMBriefing
-    from morning_brief.renderer import render_and_write
+    from morning_brief.site.site_generator import generate_site
 
     briefing = LLMBriefing.model_validate(
         json.loads(call_b_path.read_text(encoding="utf-8"))
@@ -323,11 +305,6 @@ def cmd_rerender(args: argparse.Namespace) -> None:
     key_issues_all = [KeyIssue.model_validate(ki) for ki in all_ki_raw]
     ki_by_id = {ki.cluster_id: ki for ki in key_issues_all}
 
-    sender = os.environ.get("BRIEF_SENDER", "Morning Brief <brief@example.com>")
-    recipients_raw = os.environ.get("BRIEF_RECIPIENTS", "team@example.com")
-    recipients = [r.strip() for r in recipients_raw.split(",") if r.strip()]
-    redact = _env_truthy("REDACT_RECIPIENTS")
-
     # Parse date from run_id (YYYY-MM-DD-HHMM)
     try:
         from datetime import date
@@ -337,17 +314,14 @@ def cmd_rerender(args: argparse.Namespace) -> None:
         today = date.today()
 
     output_dir = _DEFAULT_OUTPUT_DIR
-    eml_path, subject = render_and_write(
+    render_output = generate_site(
         briefing=briefing,
-        key_issues_by_cluster_id=ki_by_id,
-        today=today,
-        sender=sender,
-        recipients=recipients,
         output_dir=output_dir,
-        redact_recipients=redact,
+        today=today,
+        key_issues_by_cluster_id=ki_by_id,
     )
 
-    print(str(eml_path.absolute()))
+    print(str(render_output.absolute()))
 
 
 # ---------------------------------------------------------------------------
@@ -365,27 +339,11 @@ def main() -> None:
     # run
     run_p = sub.add_parser("run", help="Full pipeline with real API calls")
     run_p.add_argument("--limit-per-cat", type=int, dest="limit_per_cat", default=None)
-    run_p.add_argument(
-        "--renderer",
-        choices=("site", "eml"),
-        default="site",
-        help="Output renderer (default: site). 'site' writes the static "
-             "HTML site; 'eml' writes the legacy email file (kept for "
-             "fallback during the PR-4 deprecation window).",
-    )
     run_p.set_defaults(func=cmd_run)
 
     # dry-run
     dry_p = sub.add_parser("dry-run", help="Dry-run pipeline on fixture data")
     dry_p.add_argument("--limit-per-cat", type=int, dest="limit_per_cat", default=None)
-    dry_p.add_argument(
-        "--renderer",
-        choices=("site", "eml"),
-        default="site",
-        help="Output renderer (default: site). 'site' writes the static "
-             "HTML site; 'eml' writes the legacy email file (kept for "
-             "fallback during the PR-4 deprecation window).",
-    )
     dry_p.set_defaults(func=cmd_dry_run)
 
     # rerender
