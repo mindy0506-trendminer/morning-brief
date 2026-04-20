@@ -1,0 +1,154 @@
+# Canonical IndustryTab categories for morning_brief (plan v2 §D10-A).
+#
+# D10-A chose full rename + one-shot migration (scripts/migrate_categories.py)
+# rather than carrying a 9-way Literal union forever. Legacy names
+# (Food, Beauty, Fashion, Living, Hospitality) are accepted ONLY during the
+# migration pass via ``legacy_aliases`` — no runtime code should rely on them
+# after PR-1 merges.
+#
+# Canonical keys (match morning_brief.models.Category):
+#   식음료 | 뷰티 | 패션 | 라이프스타일 | 소비트렌드 | MacroTrends
+#
+# PR-2 QA Issue C: the food & beverage tab uses "식음료" as the canonical
+# Korean label (consistent with the other Korean tabs). "F&B" remains an
+# accepted legacy alias so pre-migration briefing.db rows + older EML
+# fixtures continue to load.
+
+schema_version: v2
+
+categories:
+  식음료:
+    keywords:
+      - 식품
+      - 음식료
+      - 식음료
+      - 레스토랑
+      - 외식
+      - food
+      - restaurant
+      - FnB
+      - F&B
+      - 푸드테크
+      - meal kit
+      - 식자재
+      - 음료
+      - beverage
+    legacy_aliases:
+      - F&B
+      - Food
+
+  뷰티:
+    keywords:
+      - 뷰티
+      - 화장품
+      - 스킨케어
+      - 코스메틱
+      - beauty
+      - cosmetics
+      - skincare
+      - makeup
+      - 메이크업
+      - 색조
+      - K-Beauty
+      - K뷰티
+    legacy_aliases:
+      - Beauty
+
+  패션:
+    keywords:
+      - 패션
+      - 의류
+      - 스타일
+      - 어패럴
+      - fashion
+      - apparel
+      - style
+      - brand
+      - 컬렉션
+      - collection
+      - 럭셔리
+      - luxury
+    legacy_aliases:
+      - Fashion
+
+  라이프스타일:
+    keywords:
+      - 리빙
+      - 인테리어
+      - 가구
+      - 홈
+      - living
+      - home
+      - interior
+      - furniture
+      - lifestyle
+      - 라이프스타일
+      - 호스피탈리티
+      - 호텔
+      - 숙박
+      - 여행
+      - hospitality
+      - hotel
+      - travel
+      - accommodation
+      - resort
+      - 레저
+      - leisure
+      - 웰니스
+      - wellness
+    legacy_aliases:
+      - Living
+      - Hospitality
+
+  소비트렌드:
+    keywords:
+      - 소비트렌드
+      - 소비자 트렌드
+      - 세대론
+      - Z세대
+      - 알파세대
+      - MZ세대
+      - 가성비
+      - 가심비
+      - 구독경제
+      - subscription economy
+      - 공유경제
+      - sharing economy
+      - consumer trend
+      - DTC
+      - direct to consumer
+      - 숏폼
+      - short-form
+      - 크리에이터 이코노미
+      - creator economy
+    legacy_aliases: []
+
+  MacroTrends:
+    keywords:
+      - 거시매크로
+      - 매크로
+      - macro
+      - 대선
+      - election
+      - 금리
+      - interest rate
+      - inflation
+      - 인플레이션
+      - ESG
+      - 지정학
+      - geopolitics
+      - 기술 패러다임
+      - technology paradigm
+      - AI paradigm
+      - 공급망
+      - supply chain
+      - 탈중국
+      - decoupling
+      - 통화정책
+      - monetary policy
+      - 재정정책
+      - fiscal policy
+      - climate policy
+      - 탄소중립
+      - carbon neutrality
+    legacy_aliases: []

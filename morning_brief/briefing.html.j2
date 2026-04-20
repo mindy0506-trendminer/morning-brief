@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>소비재 트렌드 조간 {{ date_str }}</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f4f4;font-family:Arial,'Helvetica Neue',sans-serif;color:#222222;">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f4f4f4;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <!-- Outer wrapper -->
+        <table width="640" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;border-radius:6px;overflow:hidden;">
+
+          <!-- Header -->
+          <tr>
+            <td style="background-color:#1a237e;padding:24px 32px;">
+              <h1 style="margin:0;font-size:20px;color:#ffffff;font-weight:700;letter-spacing:-0.3px;">
+                소비재 트렌드 조간
+              </h1>
+              <p style="margin:6px 0 0;font-size:13px;color:#c5cae9;">{{ date_str }}</p>
+            </td>
+          </tr>
+
+          <!-- Executive Summary -->
+          <tr>
+            <td style="padding:24px 32px 16px;">
+              <p style="margin:0 0 8px;font-size:11px;font-weight:700;color:#1a237e;text-transform:uppercase;letter-spacing:0.8px;">오늘의 소비재 트렌드</p>
+              <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                {% for line in exec_summary %}
+                <tr>
+                  <td style="padding:4px 0;vertical-align:top;">
+                    <span style="display:inline-block;width:6px;height:6px;background-color:#1a237e;border-radius:50%;margin-right:10px;margin-top:6px;vertical-align:top;"></span>
+                  </td>
+                  <td style="padding:4px 0;font-size:14px;line-height:1.6;color:#333333;">{{ line }}</td>
+                </tr>
+                {% endfor %}
+              </table>
+            </td>
+          </tr>
+
+          <!-- Divider -->
+          <tr>
+            <td style="padding:0 32px;">
+              <hr style="border:none;border-top:1px solid #e0e0e0;margin:0;" />
+            </td>
+          </tr>
+
+          <!-- Category Sections -->
+          {% for cat in ['F&B', '뷰티', '패션', '라이프스타일', '소비트렌드', 'MacroTrends'] %}
+          {% if cat in sections %}
+          <tr>
+            <td style="padding:20px 32px 8px;">
+              <h2 style="margin:0 0 16px;font-size:16px;font-weight:700;color:#1a237e;border-left:4px solid #1a237e;padding-left:10px;">
+                {{ cat }} &nbsp;<span style="font-size:13px;color:#666666;font-weight:400;">({{ category_korean_names[cat] }})</span>
+              </h2>
+              {% for item in sections[cat] %}
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:16px;background-color:#fafafa;border:1px solid #e8e8e8;border-radius:4px;">
+                <tr>
+                  <td style="padding:14px 16px 10px;">
+                    <!-- Title row -->
+                    <p style="margin:0 0 6px;font-size:14px;font-weight:700;color:#1a1a1a;line-height:1.4;">
+                      {% if item.is_paywalled %}<span style="display:inline-block;font-size:10px;background-color:#ff6f00;color:#ffffff;padding:1px 5px;border-radius:3px;margin-right:6px;vertical-align:middle;font-weight:700;">[요약본]</span>{% endif %}{{ item.title_ko }}
+                    </p>
+                    <!-- Summary -->
+                    <p style="margin:0 0 10px;font-size:13px;line-height:1.7;color:#444444;">{{ item.summary_ko }}</p>
+                    <!-- Score pills -->
+                    <p style="margin:0 0 8px;">
+                      <span style="display:inline-block;font-size:11px;background-color:#e8eaf6;color:#3949ab;padding:2px 8px;border-radius:12px;margin-right:4px;">신규성 {{ '%.2f'|format(item.scores.novelty) }}</span>
+                      <span style="display:inline-block;font-size:11px;background-color:#e8eaf6;color:#3949ab;padding:2px 8px;border-radius:12px;margin-right:4px;">확산도 {{ '%.2f'|format(item.scores.diffusion) }}</span>
+                      <span style="display:inline-block;font-size:11px;background-color:#1a237e;color:#ffffff;padding:2px 8px;border-radius:12px;font-weight:700;">종합 {{ '%.2f'|format(item.scores.combined) }}</span>
+                    </p>
+                    <!-- Source links -->
+                    {% if item.source_urls %}
+                    <p style="margin:0;font-size:11px;color:#757575;">
+                      출처:
+                      {% for url in item.source_urls %}
+                      <a href="{{ url }}" style="color:#3949ab;text-decoration:none;">{{ url }}</a>{% if not loop.last %} &nbsp;|&nbsp; {% endif %}
+                      {% endfor %}
+                    </p>
+                    {% endif %}
+                  </td>
+                </tr>
+              </table>
+              {% endfor %}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+
+          <!-- Misc Section -->
+          {% if misc %}
+          <tr>
+            <td style="padding:0 32px;">
+              <hr style="border:none;border-top:1px solid #e0e0e0;margin:0;" />
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px 32px 8px;">
+              <h2 style="margin:0 0 16px;font-size:16px;font-weight:700;color:#555555;border-left:4px solid #bdbdbd;padding-left:10px;">기타 관찰</h2>
+              {% for item in misc %}
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:12px;background-color:#fafafa;border:1px solid #e8e8e8;border-radius:4px;">
+                <tr>
+                  <td style="padding:12px 16px 10px;">
+                    <p style="margin:0 0 4px;font-size:13px;font-weight:700;color:#333333;">{{ item.title_ko }}</p>
+                    <p style="margin:0 0 8px;font-size:13px;line-height:1.6;color:#555555;">{{ item.summary_ko }}</p>
+                    {% if item.source_urls %}
+                    <p style="margin:0;font-size:11px;color:#757575;">
+                      출처: <a href="{{ item.source_urls[0] }}" style="color:#3949ab;text-decoration:none;">{{ item.source_urls[0] }}</a>
+                    </p>
+                    {% endif %}
+                  </td>
+                </tr>
+              </table>
+              {% endfor %}
+            </td>
+          </tr>
+          {% endif %}
+
+          <!-- Insight Box -->
+          <tr>
+            <td style="padding:0 32px;">
+              <hr style="border:none;border-top:1px solid #e0e0e0;margin:0;" />
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px 32px;">
+              <div class="insight" style="background-color:#e8f5e9;border-left:4px solid #2e7d32;border-radius:4px;padding:16px 18px;">
+                <p style="margin:0 0 6px;font-size:11px;font-weight:700;color:#2e7d32;text-transform:uppercase;letter-spacing:0.8px;">인사이트</p>
+                <p style="margin:0;font-size:13px;line-height:1.7;color:#1b5e20;">{{ insight_box }}</p>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="background-color:#f5f5f5;padding:16px 32px;border-top:1px solid #e0e0e0;">
+              <p style="margin:0 0 4px;font-size:11px;color:#9e9e9e;">
+                생성일시: {{ date_str }} &nbsp;|&nbsp; 발신: {{ sender }} &nbsp;|&nbsp; 수신: {{ recipients_display }}
+              </p>
+              <p style="margin:0;font-size:11px;color:#9e9e9e;">
+                본 브리핑은 내부 검토용 초안입니다. 외부 배포 전 반드시 내용을 확인하십시오.
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

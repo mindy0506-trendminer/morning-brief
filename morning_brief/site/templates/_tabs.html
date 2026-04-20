@@ -1,0 +1,14 @@
+<nav class="mb-tabs" role="tablist" aria-label="카테고리 탭">
+  {% for tab in tabs %}
+    <button type="button"
+            class="mb-tab-button{% if loop.first %} is-active{% endif %}"
+            role="tab"
+            id="tab-{{ tab.slug }}"
+            aria-controls="panel-{{ tab.slug }}"
+            aria-selected="{% if loop.first %}true{% else %}false{% endif %}"
+            data-tab-target="{{ tab.slug }}">
+      {{ tab.ko_label }}
+      <span class="mb-tab-count">{{ tab.cards|length }}</span>
+    </button>
+  {% endfor %}
+</nav>

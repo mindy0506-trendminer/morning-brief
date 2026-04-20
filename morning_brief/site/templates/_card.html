@@ -1,0 +1,37 @@
+<article class="mb-card" data-card-id="{{ card.card_id }}" data-lang="{{ card.language }}">
+  <header class="mb-card-head">
+    <span class="mb-country" title="{{ card.country_code }}">
+      <span class="mb-flag" aria-hidden="true">{{ card.country_flag }}</span>
+      <span class="mb-iso">({{ card.country_code }})</span>
+    </span>
+    {% if card.is_paywalled %}
+      <span class="mb-paywall" aria-label="유료 기사">유료</span>
+    {% endif %}
+  </header>
+
+  <h3 class="mb-headline">{{ card.headline_ko }}</h3>
+  <p class="mb-summary">{{ card.summary_ko }}</p>
+
+  {% if card.sceep_dimensions %}
+    <div class="mb-sceep-row" aria-label="SCTEEP 차원">
+      {% for dim in card.sceep_dimensions %}
+        {% with dim=dim %}{% include "_macro_badge.html" %}{% endwith %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <footer class="mb-card-source">
+    {% if card.source_url %}
+      <a href="{{ card.source_url }}" target="_blank" rel="noopener noreferrer">
+        {{ card.source_name or card.source_url }}
+      </a>
+    {% else %}
+      <span>{{ card.source_name }}</span>
+    {% endif %}
+    {% if card.original_headline %}
+      <span class="mb-original" lang="{{ card.language }}">
+        &mdash; {{ card.original_headline }}
+      </span>
+    {% endif %}
+  </footer>
+</article>

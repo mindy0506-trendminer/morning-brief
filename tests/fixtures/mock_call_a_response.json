@@ -1,0 +1,131 @@
+{
+  "clusters": [
+    {
+      "input_cluster_ids": [
+        "cand_001",
+        "cand_002",
+        "cand_003"
+      ],
+      "category_confirmed": "패션",
+      "canonical_entity_ko": "자라 AI 생성 캠페인",
+      "is_cross_lingual_merge": true,
+      "key_entities": [
+        "Zara",
+        "AI 생성 캠페인",
+        "합성 모델"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_004"
+      ],
+      "category_confirmed": "식음료",
+      "canonical_entity_ko": "편의점 프리미엄 도시락 수요",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "편의점",
+        "도시락"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_005"
+      ],
+      "category_confirmed": "식음료",
+      "canonical_entity_ko": "기능성 발효 음료 시장 확대",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "발효 음료",
+        "프리바이오틱스"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_006"
+      ],
+      "category_confirmed": "뷰티",
+      "canonical_entity_ko": "K뷰티 숏폼 리뷰 부상",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "K-Beauty",
+        "숏폼"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_007"
+      ],
+      "category_confirmed": "라이프스타일",
+      "canonical_entity_ko": "AI 가전 자율 제어 경쟁",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "AI 가전",
+        "삼성전자",
+        "LG전자"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_008"
+      ],
+      "category_confirmed": "MacroTrends",
+      "canonical_entity_ko": "Gen Z 세대 소비 재편",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "Gen Z",
+        "MZ 세대"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_009"
+      ],
+      "category_confirmed": "MacroTrends",
+      "canonical_entity_ko": "미국 대선과 관세 정책",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "2026 election",
+        "tariff",
+        "관세"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_010"
+      ],
+      "category_confirmed": "MacroTrends",
+      "canonical_entity_ko": "AI 반도체 투자 경쟁",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "AI",
+        "반도체",
+        "삼성"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_011"
+      ],
+      "category_confirmed": "MacroTrends",
+      "canonical_entity_ko": "ESG 기후 공시 의무화",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "ESG",
+        "climate",
+        "환경"
+      ]
+    },
+    {
+      "input_cluster_ids": [
+        "cand_012"
+      ],
+      "category_confirmed": "소비트렌드",
+      "canonical_entity_ko": "스페인 지속가능 소비 전환",
+      "is_cross_lingual_merge": false,
+      "key_entities": [
+        "sostenibilidad",
+        "ESG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+/* Print styles: linearize every tab vertically for PDF export.
+ * Triggered by the browser's native window.print() / Ctrl+P.
+ */
+
+@media print {
+  @page {
+    size: A4;
+    margin: 15mm 12mm 18mm 12mm;
+    @top-center {
+      content: "트렌드랩506 브리핑";
+    }
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt;
+  }
+
+  /* Hide interactive chrome. */
+  .mb-sidebar,
+  .mb-tabs,
+  .mb-hamburger,
+  .mb-search,
+  .mb-search-results,
+  script,
+  noscript {
+    display: none !important;
+  }
+
+  .mb-header {
+    position: static;
+    border-bottom: 1px solid #000;
+    padding: 0.25rem 0;
+    background: transparent !important;
+  }
+
+  .mb-layout {
+    grid-template-columns: 1fr;
+    padding: 0;
+    max-width: none;
+  }
+
+  /* Linearize all tabs vertically. */
+  .mb-tab-panel[hidden] {
+    display: block !important;
+  }
+
+  .mb-tab-panel {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .mb-tab-panel:first-of-type {
+    break-before: auto;
+    page-break-before: auto;
+  }
+
+  .mb-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    box-shadow: none !important;
+    border: 1px solid #cccccc !important;
+  }
+
+  .mb-card a {
+    color: #000 !important;
+    text-decoration: none;
+  }
+
+  .mb-summary {
+    -webkit-line-clamp: unset;
+    display: block;
+    overflow: visible;
+  }
+}

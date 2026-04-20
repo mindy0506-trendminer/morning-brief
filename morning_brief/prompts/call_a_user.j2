@@ -1,0 +1,15 @@
+Cluster candidates to consider (pre-grouped by same-language title similarity):
+
+{% for c in candidates %}
+CLUSTER {{ c.id }}:
+ - category (pre-cluster): {{ c.category }}
+ - language: {{ c.language }}
+ - representative_title: {{ c.representative_title }}
+ - members:
+{% for art in c.articles %}
+   - [{{ art.source_name }} / {{ art.language }}] {{ art.title }}
+     summary: {{ art.raw_summary[:300] }}
+{% endfor %}
+{% endfor %}
+
+Return the JSON exactly as specified in the output contract.

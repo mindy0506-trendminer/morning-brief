@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+!.env.example
+out/
+# Atomic-write temporaries from site_generator (PR-2).
+*.tmp
+out/**/*.tmp
+.omc/state/briefing/
+.vscode/
+.idea/
+*.swp
+.pytest_cache/
+.claude/settings.local.json
+briefing.db
+*.sqlite
+*.sqlite3

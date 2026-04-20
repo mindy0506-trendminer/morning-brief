@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>트렌드랩506 브리핑 {{ today }}</title>
+  <link rel="stylesheet" href="{{ static_prefix }}css/base.css">
+  <link rel="stylesheet" href="{{ static_prefix }}css/tabs.css">
+  <link rel="stylesheet" href="{{ static_prefix }}css/card.css">
+  <link rel="stylesheet" href="{{ static_prefix }}css/sidebar.css">
+  <link rel="stylesheet" href="{{ static_prefix }}css/responsive.css">
+  <link rel="stylesheet" href="{{ static_prefix }}css/print.css" media="print">
+</head>
+<body>
+  <header class="mb-header">
+    <div class="mb-brand">
+      <span class="mb-logo">트렌드랩506</span>
+      <span class="mb-title">소비재 트렌드 조간 — {{ today }}</span>
+    </div>
+    {# PR-2 QA Issue F: header search is removed; the archive search field
+       now lives at the top of the sidebar drawer. #}
+    <button type="button" class="mb-hamburger" aria-label="메뉴" aria-expanded="false"
+            aria-controls="mb-sidebar">&#9776;</button>
+  </header>
+
+  {% if partial_banner_reason %}
+    {% include "_partial_banner.html" %}
+  {% endif %}
+
+  {# Dim overlay shown under the sidebar drawer on narrow viewports only. #}
+  <div class="mb-backdrop" aria-hidden="true" hidden></div>
+
+  <div class="mb-layout">
+    <aside class="mb-sidebar" id="mb-sidebar">
+      {% include "_sidebar.html" %}
+    </aside>
+
+    <main class="mb-main">
+      {% block main %}{% endblock %}
+    </main>
+  </div>
+
+  <script src="{{ static_prefix }}js/tabs.js" defer></script>
+  <script src="{{ static_prefix }}js/sidebar.js" defer></script>
+  <script src="{{ static_prefix }}js/search.js" defer></script>
+</body>
+</html>

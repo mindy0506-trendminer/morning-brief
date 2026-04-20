@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block main %}
+  {# PR-2 browser-QA Issue E: "Executive Insight First" layout — the
+     trendlab506 brand positions itself as an interpreter, so the
+     insight block renders above the tab navigation. The legacy
+     ``오늘의 요약`` (exec_summary) block is intentionally not rendered
+     here; it stays available to the EML fallback renderer. #}
+  {% if insight_box %}
+    <section class="mb-insight" aria-label="오늘의 인사이트">
+      <h2>오늘의 인사이트</h2>
+      <p>{{ insight_box }}</p>
+    </section>
+  {% endif %}
+
+  {% include "_tabs.html" %}
+
+  <div class="mb-tab-panels">
+    {% for tab in tabs %}
+      <section class="mb-tab-panel"
+               id="panel-{{ tab.slug }}"
+               data-tab="{{ tab.slug }}"
+               {% if not loop.first %}hidden{% endif %}>
+        <h2 class="mb-tab-heading">{{ tab.ko_label }}</h2>
+        {% if tab.cards %}
+          <div class="mb-card-grid">
+            {% for card in tab.cards %}
+              {% include "_card.html" %}
+            {% endfor %}
+          </div>
+        {% else %}
+          <p class="mb-empty">이 탭에 해당하는 오늘의 브리핑이 없습니다.</p>
+        {% endif %}
+      </section>
+    {% endfor %}
+  </div>
+{% endblock %}

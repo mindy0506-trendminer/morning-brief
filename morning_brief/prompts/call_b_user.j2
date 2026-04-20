@@ -1,0 +1,30 @@
+TODAY: {{ today_iso }}
+
+Selected clusters (categorized, with full article bundles — NO SCORES IN INPUT):
+
+{% for category, items in sections.items() %}
+## {{ category }}
+{% for ki in items %}
+- cluster_id: {{ ki.cluster_id }}
+  canonical_entity_ko: {{ ki.canonical_entity_ko }}
+  primary_entity: {{ ki.primary_entity }}
+  articles:
+  {% for art in ki.article_bundle %}
+   - [{{ art.source_name }} ({{ art.language }})] {{ art.title }}
+     published: {{ art.published_at }}
+     summary: {{ art.raw_summary }}
+     {% if art.enriched_text %}enriched: {{ art.enriched_text[:500] }}{% endif %}
+  {% endfor %}
+{% endfor %}
+{% endfor %}
+
+{% if misc %}
+## MISC CLUSTERS (candidates for 기타 관찰)
+{% for ki in misc %}
+- cluster_id: {{ ki.cluster_id }}
+  canonical_entity_ko: {{ ki.canonical_entity_ko }}
+  articles: {{ ki.article_bundle | length }} items
+{% endfor %}
+{% endif %}
+
+Return the JSON per the output schema.

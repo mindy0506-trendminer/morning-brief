@@ -1,0 +1,152 @@
+/* Date-tree sidebar. Uses native <details>/<summary> so the drop-down
+ * tree works without JS; sidebar.js only enhances the open/close state.
+ *
+ * PR-2 QA Issue F: the sidebar hosts the archive search field on top and
+ * the date tree below. The "아카이브" title was removed — the search +
+ * tree are self-explanatory. A close button (✕) surfaces only inside
+ * the mobile drawer (≤768px, controlled by responsive.css).
+ */
+
+.mb-sidebar {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+  align-self: start;
+  position: sticky;
+  top: 4.5rem;
+  max-height: calc(100vh - 5rem);
+  overflow-y: auto;
+}
+
+.mb-sidebar-close {
+  /* Hidden on desktop; responsive.css surfaces it below 768px. */
+  display: none;
+  background: transparent;
+  border: 0;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #6b7280;
+  padding: 0.25rem 0.5rem;
+}
+
+.mb-sidebar-close:hover,
+.mb-sidebar-close:focus {
+  color: #111827;
+  outline: 2px solid transparent;
+}
+
+.mb-sidebar-empty {
+  color: #9ca3af;
+  font-size: 0.85rem;
+}
+
+.mb-year-list,
+.mb-month-list,
+.mb-day-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mb-year > details > summary,
+.mb-month > details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.25rem 0;
+}
+
+.mb-month {
+  padding-left: 0.75rem;
+}
+
+.mb-day {
+  padding-left: 1.25rem;
+  font-size: 0.85rem;
+}
+
+.mb-day a {
+  color: #1f2937;
+}
+
+.mb-day a:hover {
+  color: #0b5bd3;
+}
+
+.mb-search {
+  position: relative;
+  width: 100%;
+  margin-bottom: 0.75rem;
+}
+
+.mb-search-label {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.mb-search input[type="search"] {
+  width: 100%;
+  padding: 0.4rem 0.7rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font: inherit;
+  background: #f9fafb;
+}
+
+.mb-search input[type="search"]:focus {
+  outline: 2px solid #0b5bd3;
+  outline-offset: 2px;
+  background: #ffffff;
+}
+
+.mb-search-results {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  padding: 0.25rem 0;
+  margin: 0;
+  list-style: none;
+  max-height: 60vh;
+  overflow-y: auto;
+  z-index: 30;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+.mb-search-results li {
+  padding: 0.35rem 0.75rem;
+}
+
+.mb-search-results a {
+  display: block;
+  color: #1f2937;
+}
+
+.mb-search-results a:hover {
+  background: #f3f4f6;
+}
+
+.mb-search-results mark {
+  background: #fef08a;
+  color: inherit;
+}
+
+/* Dim backdrop for the mobile drawer. Hidden by default; responsive.css
+ * toggles visibility on narrow viewports when the sidebar is open. */
+.mb-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 35;
+}
+
+.mb-backdrop[hidden] {
+  display: none;
+}

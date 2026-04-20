@@ -1,0 +1,70 @@
+/* Tab nav. CSS-first: when JS is disabled, all panels remain visible
+ * (hidden attribute is overridden by the no-js fallback below).
+ */
+
+.mb-tabs {
+  display: flex;
+  gap: 0.25rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-bottom: 2px solid #e5e7eb;
+  margin-bottom: 1rem;
+  padding: 0 0 0.25rem;
+  scrollbar-width: thin;
+}
+
+.mb-tab-button {
+  flex: 0 0 auto;
+  background: transparent;
+  border: none;
+  padding: 0.6rem 1rem;
+  font: inherit;
+  font-weight: 600;
+  color: #4b5563;
+  cursor: pointer;
+  border-radius: 8px 8px 0 0;
+  border-bottom: 3px solid transparent;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.mb-tab-button:hover {
+  background: #f3f4f6;
+}
+
+.mb-tab-button.is-active {
+  color: #0b5bd3;
+  border-bottom-color: #0b5bd3;
+  background: #eff6ff;
+}
+
+.mb-tab-count {
+  font-size: 0.75rem;
+  background: #e5e7eb;
+  color: #374151;
+  padding: 0.05rem 0.4rem;
+  border-radius: 999px;
+}
+
+.mb-tab-button.is-active .mb-tab-count {
+  background: #0b5bd3;
+  color: #ffffff;
+}
+
+.mb-tab-panel[hidden] {
+  display: none;
+}
+
+.mb-tab-heading {
+  font-size: 1.15rem;
+  color: #111827;
+  margin-bottom: 0.75rem;
+}
+
+/* No-JS fallback: if tabs.js never runs, reveal every panel. The <noscript>
+ * tag in base.html is optional; this ruleset guards against stale data. */
+html.no-js .mb-tab-panel[hidden] {
+  display: block;
+}

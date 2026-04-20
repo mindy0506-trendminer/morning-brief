@@ -1,0 +1,7 @@
+<div class="mb-partial-banner" role="alert">
+  <strong>부분 브리핑</strong>
+  <span>오늘 브리핑은 일부 탭 장애로 불완전합니다.</span>
+  {% if partial_banner_reason %}
+    <span class="mb-partial-reason"> — {{ partial_banner_reason }}</span>
+  {% endif %}
+</div>

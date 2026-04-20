@@ -1,0 +1,186 @@
+sources:
+  - name: Business of Fashion
+    url: "https://www.businessoffashion.com/arc/outboundfeeds/rss/"
+    source_type: SpecializedMedia
+    language: en
+    country: GBR
+    category_hint: Fashion
+    status: confirmed
+
+  - name: Vogue Business
+    url: "https://www.voguebusiness.com/rss"
+    source_type: SpecializedMedia
+    language: en
+    country: GBR
+    category_hint: Fashion
+    status: confirmed
+
+  - name: Retail Dive
+    url: "https://www.retaildive.com/feeds/news/"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: null
+    status: confirmed
+
+  - name: Skift
+    url: "https://skift.com/feed/"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: Hospitality
+    status: confirmed
+
+  - name: Food Dive
+    url: "https://www.fooddive.com/feeds/news/"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: Food
+    status: confirmed
+
+  - name: Hospitality Net
+    url: "https://www.hospitalitynet.org/rss/channel.rss"
+    source_type: TraditionalMedia
+    language: en
+    country: NLD
+    category_hint: Hospitality
+    status: confirmed
+
+  - name: TrendWatching
+    url: "https://www.trendwatching.com/feed/"
+    source_type: CuratedTrendReport
+    language: en
+    country: NLD
+    category_hint: null
+    status: uncertain
+
+  - name: Springwise
+    url: "https://www.springwise.com/feed/"
+    source_type: CuratedTrendReport
+    language: en
+    country: GBR
+    category_hint: null
+    status: uncertain
+
+  - name: Google News KR Food
+    url: "https://news.google.com/rss/search?q=%EC%8B%9D%ED%92%88+OR+%EC%9C%A0%ED%86%B5&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: Food
+    status: confirmed
+
+  - name: Google News KR Beauty
+    url: "https://news.google.com/rss/search?q=%ED%99%94%EC%9E%A5%ED%92%88+OR+%EB%B7%B0%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: Beauty
+    status: confirmed
+
+  - name: Google News KR Fashion
+    url: "https://news.google.com/rss/search?q=%ED%8C%A8%EC%85%98+OR+%EC%9D%98%EB%A5%98&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: Fashion
+    status: confirmed
+
+  - name: Google News KR Living
+    url: "https://news.google.com/rss/search?q=%EB%A6%AC%EB%B9%99+OR+%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: Living
+    status: confirmed
+
+  - name: Google News KR Hospitality
+    url: "https://news.google.com/rss/search?q=%ED%98%B8%ED%85%94+OR+%EC%97%AC%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: Hospitality
+    status: confirmed
+
+  # -------------------------------------------------------------------------
+  # 5-language extension (plan v2 §A3 / PR-1 Task 5).
+  # JA / ZH / ES feeds marked status=uncertain until the user validates each
+  # URL + RSS payload in production; the collector downgrades retries on
+  # `uncertain` feeds to "skip on final failure" (collector.fetch_feeds).
+  # -------------------------------------------------------------------------
+
+  # ---------- Japanese (ja) ----------
+  - name: Nikkei Business RSS
+    url: "https://www.nikkei.com/rss/topstories.rdf"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: null
+    status: uncertain
+
+  - name: WWD Japan
+    url: "https://www.wwdjapan.com/feed"
+    source_type: SpecializedMedia
+    language: ja
+    country: JPN
+    category_hint: 패션
+    status: uncertain
+
+  - name: Fashionsnap
+    url: "https://www.fashionsnap.com/feed/"
+    source_type: SpecializedMedia
+    language: ja
+    country: JPN
+    category_hint: 패션
+    status: uncertain
+
+  # ---------- Chinese (zh) ----------
+  - name: 36Kr
+    url: "https://36kr.com/feed"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: 소비트렌드
+    status: uncertain
+
+  - name: Jing Daily
+    url: "https://jingdaily.com/feed/"
+    source_type: SpecializedMedia
+    language: zh
+    country: USA
+    category_hint: 패션
+    status: uncertain
+
+  - name: PANDAILY
+    url: "https://pandaily.com/feed/"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: 소비트렌드
+    status: uncertain
+
+  # ---------- Spanish (es) ----------
+  - name: Modaes
+    url: "https://www.modaes.com/feed.xml"
+    source_type: SpecializedMedia
+    language: es
+    country: ESP
+    category_hint: 패션
+    status: uncertain
+
+  - name: Food Retail
+    url: "https://www.foodretail.es/rss/portada"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: 식음료
+    status: uncertain
+
+  - name: Marketing News ES
+    url: "https://www.marketingnews.es/rss"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: 소비트렌드
+    status: uncertain

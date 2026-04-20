@@ -1,0 +1,36 @@
+[
+  {
+    "id": "en_zara_001",
+    "title": "Zara launches AI-generated campaign featuring synthetic models",
+    "source_name": "Business of Fashion",
+    "source_type": "SpecializedMedia",
+    "url": "https://www.businessoffashion.com/news/retail/zara-ai-campaign/",
+    "canonical_url": "https://www.businessoffashion.com/news/retail/zara-ai-campaign/",
+    "language": "en",
+    "published_at": "2026-04-17T14:00:00",
+    "category": "패션",
+    "raw_summary": "Spanish fast-fashion retailer Zara unveiled its first wholly AI-generated marketing campaign this week, featuring synthetic models created via diffusion-based tooling.",
+    "enriched_text": null,
+    "fetched_at": "2026-04-18T06:00:00",
+    "extracted_entities": [
+      "Zara"
+    ]
+  },
+  {
+    "id": "ko_zara_001",
+    "title": "자라, AI 생성 캠페인 공개…합성 모델 등장",
+    "source_name": "패션비즈",
+    "source_type": "TraditionalMedia",
+    "url": "https://www.fashionbiz.co.kr/article/zara-ai-campaign.html",
+    "canonical_url": "https://www.fashionbiz.co.kr/article/zara-ai-campaign.html",
+    "language": "ko",
+    "published_at": "2026-04-17T15:30:00",
+    "category": "패션",
+    "raw_summary": "스페인 패스트패션 브랜드 자라가 AI로 생성한 합성 모델을 활용한 첫 마케팅 캠페인을 공개했다.",
+    "enriched_text": null,
+    "fetched_at": "2026-04-18T06:00:00",
+    "extracted_entities": [
+      "자라"
+    ]
+  }
+]

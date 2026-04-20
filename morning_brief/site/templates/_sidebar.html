@@ -1,0 +1,38 @@
+{# PR-2 QA Issue F: sidebar hosts the archive search field on top and the
+   date tree below. Header no longer carries a search bar; hamburger opens
+   the sidebar as a left-side drawer on mobile. Current year and its most
+   recent month are rendered with <details open> by default. #}
+<button type="button" class="mb-sidebar-close" aria-label="닫기">✕</button>
+{% include "_search_bar.html" %}
+{% if sidebar_tree %}
+  <ul class="mb-year-list">
+    {% for year, months in sidebar_tree.items()|sort(reverse=true) %}
+      {% set year_open = loop.first %}
+      <li class="mb-year">
+        <details {% if year_open %}open{% endif %}>
+          <summary>{{ year }}</summary>
+          <ul class="mb-month-list">
+            {% for month, days in months.items()|sort(reverse=true) %}
+              <li class="mb-month">
+                <details {% if year_open and loop.first %}open{% endif %}>
+                  <summary>{{ month }}</summary>
+                  <ul class="mb-day-list">
+                    {% for day in days|sort(reverse=true) %}
+                      <li class="mb-day">
+                        <a href="{{ archive_prefix }}{{ year }}/{{ month }}/{{ day }}.html">
+                          {{ year }}-{{ month }}-{{ day }}
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </details>
+              </li>
+            {% endfor %}
+          </ul>
+        </details>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="mb-sidebar-empty">아카이브가 비어 있습니다.</p>
+{% endif %}

@@ -1,0 +1,13 @@
+{# Render a single SCTEEP dimension chip. Only included from MacroTab cards. #}
+{% set letter_map = {
+  "Social": "S",
+  "Culture": "C",
+  "Technology": "T",
+  "Economy": "E",
+  "Environment": "E",
+  "Politics": "P"
+} %}
+<span class="mb-sceep mb-sceep-{{ dim|lower }}" title="{{ dim }}">
+  <span class="mb-sceep-letter">{{ letter_map[dim] }}</span>
+  <span class="mb-sceep-label">{{ dim }}</span>
+</span>

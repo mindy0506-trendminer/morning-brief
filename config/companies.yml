@@ -1,0 +1,237 @@
+# Canonical company list for morning_brief (plan v2 §D3 / PR-1 Task 1).
+#
+# 3-class schema:
+#   - 대기업          (enterprise: diversified conglomerates, blue-chips)
+#   - 유통            (distributor: retailers, e-commerce, marketplaces)
+#   - 혁신스타트업     (innovative startup: digitally-native / high-growth)
+#
+# Each entry must carry:
+#   name       - canonical display form (Korean or English)
+#   class      - one of the 3 values above
+#   aliases    - list of alternate surface forms (latinization, abbreviations)
+#   categories - list of IndustryTab categories the company is relevant to.
+#                Must draw from categories.yml keys:
+#                {식음료, 뷰티, 패션, 라이프스타일, 소비트렌드, MacroTrends}
+#
+# Seed set: ≥30 well-known Korean + global consumer companies across the
+# 5 industry tabs. No TrendLab506-proprietary information — all entries are
+# public brands sourced from mainstream business press.
+
+schema_version: v1
+
+classes:
+  - 대기업
+  - 유통
+  - 혁신스타트업
+
+companies:
+  # ---------- 식음료 ----------
+  - name: CJ제일제당
+    class: 대기업
+    aliases: ["CJ Cheiljedang", "CJ제일제당", "CJ"]
+    categories: ["식음료"]
+
+  - name: 롯데웰푸드
+    class: 대기업
+    aliases: ["Lotte Wellfood", "롯데웰푸드", "롯데제과"]
+    categories: ["식음료"]
+
+  - name: 농심
+    class: 대기업
+    aliases: ["Nongshim", "농심"]
+    categories: ["식음료"]
+
+  - name: 오뚜기
+    class: 대기업
+    aliases: ["Ottogi", "오뚜기"]
+    categories: ["식음료"]
+
+  - name: 풀무원
+    class: 대기업
+    aliases: ["Pulmuone", "풀무원"]
+    categories: ["식음료"]
+
+  - name: Nestlé
+    class: 대기업
+    aliases: ["Nestle", "네슬레"]
+    categories: ["식음료"]
+
+  - name: Starbucks
+    class: 대기업
+    aliases: ["스타벅스", "Starbucks Coffee"]
+    categories: ["식음료", "라이프스타일"]
+
+  # ---------- 뷰티 ----------
+  - name: 아모레퍼시픽
+    class: 대기업
+    aliases: ["Amorepacific", "AmorePacific", "아모레퍼시픽"]
+    categories: ["뷰티"]
+
+  - name: LG생활건강
+    class: 대기업
+    aliases: ["LG H&H", "LG Household & Health Care", "LG생활건강"]
+    categories: ["뷰티", "라이프스타일"]
+
+  - name: 이니스프리
+    class: 혁신스타트업
+    aliases: ["Innisfree", "이니스프리"]
+    categories: ["뷰티"]
+
+  - name: 설화수
+    class: 대기업
+    aliases: ["Sulwhasoo", "설화수"]
+    categories: ["뷰티"]
+
+  - name: L'Oréal
+    class: 대기업
+    aliases: ["L'Oreal", "로레알", "LOreal"]
+    categories: ["뷰티"]
+
+  - name: Estée Lauder
+    class: 대기업
+    aliases: ["Estee Lauder", "에스티로더"]
+    categories: ["뷰티"]
+
+  - name: Shiseido
+    class: 대기업
+    aliases: ["시세이도", "資生堂"]
+    categories: ["뷰티"]
+
+  - name: Sephora
+    class: 유통
+    aliases: ["세포라"]
+    categories: ["뷰티", "라이프스타일"]
+
+  # ---------- 패션 ----------
+  - name: Zara
+    class: 대기업
+    aliases: ["자라", "ZARA", "Inditex"]
+    categories: ["패션", "소비트렌드"]
+
+  - name: Uniqlo
+    class: 대기업
+    aliases: ["유니클로", "UNIQLO", "Fast Retailing"]
+    categories: ["패션"]
+
+  - name: Shein
+    class: 혁신스타트업
+    aliases: ["쉬인", "SHEIN"]
+    categories: ["패션", "소비트렌드"]
+
+  - name: Nike
+    class: 대기업
+    aliases: ["나이키"]
+    categories: ["패션", "라이프스타일"]
+
+  - name: Adidas
+    class: 대기업
+    aliases: ["아디다스"]
+    categories: ["패션"]
+
+  - name: LVMH
+    class: 대기업
+    aliases: ["루이비통모에헤네시", "Louis Vuitton Moët Hennessy"]
+    categories: ["패션", "뷰티"]
+
+  - name: Chanel
+    class: 대기업
+    aliases: ["샤넬"]
+    categories: ["패션", "뷰티"]
+
+  - name: Gucci
+    class: 대기업
+    aliases: ["구찌", "Kering"]
+    categories: ["패션"]
+
+  # ---------- 라이프스타일 / Hospitality ----------
+  - name: Airbnb
+    class: 혁신스타트업
+    aliases: ["에어비앤비"]
+    categories: ["라이프스타일", "소비트렌드"]
+
+  - name: Marriott
+    class: 대기업
+    aliases: ["메리어트", "Marriott International"]
+    categories: ["라이프스타일"]
+
+  - name: Hilton
+    class: 대기업
+    aliases: ["힐튼"]
+    categories: ["라이프스타일"]
+
+  - name: IKEA
+    class: 유통
+    aliases: ["이케아"]
+    categories: ["라이프스타일"]
+
+  - name: 삼성전자
+    class: 대기업
+    aliases: ["Samsung Electronics", "Samsung", "삼성"]
+    categories: ["라이프스타일", "소비트렌드"]
+
+  - name: LG전자
+    class: 대기업
+    aliases: ["LG Electronics", "LG", "엘지전자"]
+    categories: ["라이프스타일"]
+
+  # ---------- 유통 (retail / marketplaces) ----------
+  - name: 쿠팡
+    class: 유통
+    aliases: ["Coupang", "쿠팡"]
+    categories: ["식음료", "라이프스타일", "소비트렌드"]
+
+  - name: 이마트
+    class: 유통
+    aliases: ["E-mart", "Emart", "이마트"]
+    categories: ["식음료", "라이프스타일"]
+
+  - name: 신세계
+    class: 유통
+    aliases: ["Shinsegae", "신세계"]
+    categories: ["패션", "라이프스타일"]
+
+  - name: 롯데쇼핑
+    class: 유통
+    aliases: ["Lotte Shopping", "롯데쇼핑", "롯데마트"]
+    categories: ["식음료", "라이프스타일"]
+
+  - name: Amazon
+    class: 유통
+    aliases: ["아마존", "Amazon.com"]
+    categories: ["라이프스타일", "소비트렌드"]
+
+  - name: Walmart
+    class: 유통
+    aliases: ["월마트"]
+    categories: ["식음료", "라이프스타일"]
+
+  - name: 마켓컬리
+    class: 혁신스타트업
+    aliases: ["Market Kurly", "Kurly", "컬리", "마켓컬리"]
+    categories: ["식음료"]
+
+  # ---------- 혁신스타트업 / platforms ----------
+  - name: 네이버
+    class: 대기업
+    aliases: ["Naver", "네이버"]
+    categories: ["소비트렌드", "라이프스타일"]
+
+  - name: 카카오
+    class: 대기업
+    aliases: ["Kakao", "카카오"]
+    categories: ["소비트렌드", "라이프스타일"]
+
+  - name: 무신사
+    class: 혁신스타트업
+    aliases: ["Musinsa", "무신사"]
+    categories: ["패션", "소비트렌드"]
+
+  - name: Cosrx
+    class: 혁신스타트업
+    aliases: ["코스알엑스", "COSRX"]
+    categories: ["뷰티"]
+
+  - name: Anua
+    class: 혁신스타트업
+    aliases: ["아누아"]
+    categories: ["뷰티"]

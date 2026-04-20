@@ -1,0 +1,133 @@
+/* News card layout. Mobile-first single-column; responsive.css upgrades
+ * the grid at 768px+ / 1200px+ breakpoints.
+ */
+
+.mb-card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+}
+
+.mb-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.mb-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  color: #4b5563;
+}
+
+.mb-country {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.mb-flag {
+  font-size: 1.1rem;
+}
+
+.mb-iso {
+  font-variant: tabular-nums;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.mb-paywall {
+  font-size: 0.72rem;
+  color: #92400e;
+  background: #fef3c7;
+  padding: 0.1rem 0.5rem;
+  border-radius: 4px;
+}
+
+.mb-headline {
+  font-size: clamp(0.98rem, 1vw + 0.4rem, 1.1rem);
+  color: #111827;
+  margin: 0;
+}
+
+.mb-summary {
+  color: #374151;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.mb-card-source {
+  font-size: 0.78rem;
+  color: #6b7280;
+  border-top: 1px solid #f3f4f6;
+  padding-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.mb-card-source a {
+  color: #155fd1;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.mb-card-source a:hover {
+  text-decoration: underline;
+}
+
+.mb-original {
+  color: #6b7280;
+  font-style: italic;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+/* SCTEEP chips (MacroTab only). */
+.mb-sceep-row {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.mb-sceep {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-weight: 600;
+  color: #ffffff;
+  background: #6b7280;
+}
+
+.mb-sceep-letter {
+  background: rgba(255,255,255,0.25);
+  border-radius: 999px;
+  width: 1.25em;
+  height: 1.25em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+}
+
+.mb-sceep-social      { background: #2563eb; }
+.mb-sceep-culture     { background: #9333ea; }
+.mb-sceep-technology  { background: #0891b2; }
+.mb-sceep-economy     { background: #059669; }
+.mb-sceep-environment { background: #16a34a; }
+.mb-sceep-politics    { background: #dc2626; }

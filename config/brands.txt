@@ -1,0 +1,45 @@
+자라=Zara
+ZARA=Zara
+유니클로=Uniqlo
+UNIQLO=Uniqlo
+아모레퍼시픽=Amorepacific
+LG생활건강=LG H&H
+이니스프리=Innisfree
+설화수=Sulwhasoo
+신세계=Shinsegae
+이마트=E-mart
+쿠팡=Coupang
+마켓컬리=Market Kurly
+SSG
+네이버=Naver
+Nike
+Adidas
+Nestlé
+Samsung
+LG
+Shiseido
+L'Oreal
+Sephora
+Estée Lauder
+Chanel
+Dior
+Gucci
+Prada
+Louis Vuitton
+Apple
+Amazon
+Airbnb
+Marriott
+Hilton
+Hyatt
+롯데=Lotte
+Lotte
+한화=Hanwha
+Hanwha
+CJ
+풀무원=Pulmuone
+Pulmuone
+오뚜기=Ottogi
+Ottogi
+농심=Nongshim
+Nongshim
