@@ -248,7 +248,7 @@ class LLMClient:
     def __init__(
         self,
         api_key: str,
-        call_a_model: str = "claude-haiku-4",
+        call_a_model: str = "claude-haiku-4-5",
         call_b_model: str = "claude-sonnet-4-6",
         run_dir: Path | None = None,
     ) -> None:
@@ -854,7 +854,7 @@ def run_summarizer(
     run_id: str,
     dry_run: bool = False,
     api_key: str = "",
-    call_a_model: str = "claude-haiku-4",
+    call_a_model: str = "claude-haiku-4-5",
     call_b_model: str = "claude-sonnet-4-6",
     stage_timings: dict[str, float] | None = None,
 ) -> tuple[LLMBriefing, list[KeyIssue], list[str], dict[str, Any]]:

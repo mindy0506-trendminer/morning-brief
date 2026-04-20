@@ -28,7 +28,7 @@ from pathlib import Path
 _DB_PATH = Path(".omc/state/briefing/briefing.db")
 _RUN_STATE_DIR = Path(".omc/state/briefing/runs")
 _DEFAULT_OUTPUT_DIR = Path("out")
-_DEFAULT_CALL_A_MODEL = "claude-haiku-4"
+_DEFAULT_CALL_A_MODEL = "claude-haiku-4-5"
 _DEFAULT_CALL_B_MODEL = "claude-sonnet-4-6"
 
 # Pre-flight cost cap (plan v2 §D9). When MB_MAX_COST_USD is set and the

@@ -20,7 +20,7 @@ all in under 2 minutes.
 - **Python 3.11+** (tested on 3.12.10)
 - **Windows / macOS / Linux** — Windows users should use **Git Bash** for the commands below
 - **Git Bash on Windows**: `source .venv/Scripts/activate` (not PowerShell `Activate.ps1`)
-- **Anthropic API key** with access to `claude-haiku-4` and `claude-sonnet-4-6`
+- **Anthropic API key** with access to `claude-haiku-4-5` and `claude-sonnet-4-6`
 
 ---
 
@@ -154,7 +154,7 @@ morning_brief/
 scored CandidateCluster list
         |
         v
-  [Call A — claude-haiku-4]
+  [Call A — claude-haiku-4-5]
   Input : pre-cluster titles + entity lists (~2 500 tokens)
   Output: merged clusters with cross-lingual flags + canonical Korean entity names
         |
