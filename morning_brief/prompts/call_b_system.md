@@ -65,11 +65,12 @@ Python이 계산한 값으로 주입한다. 당신의 출력에 `novelty_score`,
   "schema_version": "v2",
   "exec_summary_ko": ["line1", "line2", "line3"],
   "sections": {
-    "Food":        [BriefingItem, ...],
-    "Beauty":      [BriefingItem, ...],
-    "Fashion":     [BriefingItem, ...],
-    "Living":      [BriefingItem, ...],
-    "Hospitality": [BriefingItem, ...]
+    "식음료":       [BriefingItem, ...],
+    "뷰티":         [BriefingItem, ...],
+    "패션":         [BriefingItem, ...],
+    "라이프스타일": [BriefingItem, ...],
+    "소비트렌드":   [BriefingItem, ...],
+    "MacroTrends":  [BriefingItem, ...]
   },
   "misc_observations_ko": [BriefingItem, ...] | null,
   "insight_box_ko": "..."
@@ -86,16 +87,21 @@ BriefingItem = {
 핵심 규칙:
 
 - `schema_version`은 정확히 `"v2"`.
+- `sections`의 키는 **정확히 이 6개 중 하나만 허용**된다:
+  `식음료`, `뷰티`, `패션`, `라이프스타일`, `소비트렌드`, `MacroTrends`.
+  영문 레거시 이름(`Food`, `Beauty`, `Fashion`, `Living`, `Hospitality`)은
+  스키마가 거부한다. 반드시 한글 정식명을 쓴다. `MacroTrends`만 영문 유지.
 - `sections`의 키는 입력 KeyIssue가 해당 카테고리를 포함한 경우에만
-  존재한다. 입력에 Fashion KeyIssue가 0개라면 출력에도 `"Fashion"` 키를
+  존재한다. 입력에 패션 KeyIssue가 0개라면 출력에도 `"패션"` 키를
   넣지 않는다. 빈 배열로 남기지 마라. 키 자체를 생략하라.
 - `misc_observations_ko`는 입력에 MISC 후보가 없으면 `null`이다.
   있으면 해당 BriefingItem 리스트다. 최대 3개.
 - 모든 `cluster_id`는 입력 KeyIssue의 cluster_id 중 하나와 정확히
   일치해야 한다. 새 cluster_id를 만들어내지 마라.
 - `title_ko`와 `summary_ko`는 한국어로 작성한다. URL, 이메일, HTML
-  태그를 제거한 뒤의 한글 비율이 80% 이상이어야 한다. 고유명사를 영어로
-  쓰는 것은 허용되지만 문장 전체가 영어처럼 보이면 실패로 간주된다.
+  태그를 제거한 뒤의 한글 비율이 70% 이상이어야 한다. 고유명사(브랜드),
+  표준 축약어(`MZ`, `AI`, `K-`, `GPT` 등)를 영문으로 쓰는 것은 허용되지만
+  문장 전체가 영어처럼 보이면 실패로 간주된다.
 - `summary_ko`와 `title_ko`에는 `http://`, `https://`, `www.` 같은
   URL 토큰을 쓰지 마라. 소스 링크는 렌더러가 KeyIssue.article_bundle에서
   추출해 붙인다.
@@ -119,17 +125,17 @@ BriefingItem = {
 ```
 TODAY: 2026-04-18
 sections:
-  Fashion:
+  패션:
     - cluster_id: cluster_0001
       canonical_entity_ko: 자라 AI 생성 캠페인
       primary_entity: Zara
       articles: (BoF en, 패션비즈 ko — 같은 이벤트)
-  Beauty:
+  뷰티:
     - cluster_id: cluster_0002
       canonical_entity_ko: 숏폼 화장품 리뷰
       primary_entity: Short-form
       articles: (Allure ko, Glossy en — 같은 트렌드)
-  Living:
+  라이프스타일:
     - cluster_id: cluster_0003
       canonical_entity_ko: AI 탑재 로봇청소기
       primary_entity: LG
@@ -148,7 +154,7 @@ misc: []
     "라이프스타일: 가전사, AI 자율주행 로봇청소기로 프리미엄 경쟁 재편"
   ],
   "sections": {
-    "Fashion": [
+    "패션": [
       {
         "cluster_id": "cluster_0001",
         "title_ko": "Zara, AI 캠페인 전면화",
@@ -156,7 +162,7 @@ misc: []
         "is_paywalled": false
       }
     ],
-    "Beauty": [
+    "뷰티": [
       {
         "cluster_id": "cluster_0002",
         "title_ko": "숏폼 리뷰, 구매 결정권 장악",
@@ -164,7 +170,7 @@ misc: []
         "is_paywalled": false
       }
     ],
-    "Living": [
+    "라이프스타일": [
       {
         "cluster_id": "cluster_0003",
         "title_ko": "AI 로봇청소기 프리미엄화",
@@ -189,7 +195,7 @@ misc: []
     "숏폼 리뷰가 중요하다."
   ],
   "sections": {
-    "Fashion": [
+    "패션": [
       {
         "cluster_id": "cluster_99999",
         "title_ko": "Zara news",
@@ -198,7 +204,8 @@ misc: []
         "novelty_score": 0.9
       }
     ],
-    "Beauty": []
+    "뷰티": [],
+    "Fashion": []
   },
   "misc_observations_ko": null,
   "insight_box_ko": ""
@@ -216,8 +223,10 @@ misc: []
   to the renderer.
 - WRONG: `novelty_score: 0.9` is a fabricated numeric field. Pydantic
   `extra="forbid"` rejects the entire response.
-- WRONG: `Beauty` is rendered as an empty array. Either populate it or
+- WRONG: `뷰티` is rendered as an empty array. Either populate it or
   omit the key entirely.
+- WRONG: `Fashion` uses the legacy English name. The schema only accepts
+  `식음료`, `뷰티`, `패션`, `라이프스타일`, `소비트렌드`, or `MacroTrends`.
 - WRONG: `insight_box_ko` is empty. Must be a non-trivial 2~4 sentence
   synthesis.
 
@@ -226,7 +235,12 @@ misc: []
 
 - Output the JSON object only. No markdown fences. No commentary.
 - `exec_summary_ko` has exactly 3 Korean lines.
+- `sections` keys must be exactly one of: `식음료`, `뷰티`, `패션`,
+  `라이프스타일`, `소비트렌드`, `MacroTrends`. Legacy English names
+  (`Food`, `Beauty`, `Fashion`, `Living`, `Hospitality`) WILL BE REJECTED.
 - No numeric score fields anywhere.
 - No URLs in `title_ko` or `summary_ko`.
 - Every `cluster_id` must exist in the input KeyIssue set.
 - Omit absent category keys rather than emitting empty arrays.
+- Hangul ratio of `title_ko` / `summary_ko` ≥ 70% (standard abbreviations
+  like `MZ`, `AI`, `K-`, `GPT` are acceptable; full English sentences are not).

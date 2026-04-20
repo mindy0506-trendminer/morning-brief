@@ -59,10 +59,25 @@ For each output cluster, produce:
   written in Latin script in Korean media (e.g., "Zara", "Nike"), leaving
   it in Latin is acceptable.
 
-- `category_confirmed`: exactly one of `Food`, `Beauty`, `Fashion`, `Living`,
-  `Hospitality`. If a story plausibly spans two categories, pick the
-  dominant one — the one the consumer-trend editor would foreground in an
-  executive briefing.
+- `category_confirmed`: exactly one of `식음료`, `뷰티`, `패션`,
+  `라이프스타일`, `소비트렌드`, `MacroTrends`. Legacy English values
+  (`Food`, `Beauty`, `Fashion`, `Living`, `Hospitality`) WILL BE REJECTED
+  by the schema. Use the Korean canonical names above (only `MacroTrends`
+  stays in English for internal routing). If a story plausibly spans two
+  categories, pick the dominant one — the one the consumer-trend editor
+  would foreground in an executive briefing.
+
+  Category mapping from legacy to canonical (for reference only):
+  - Food → 식음료
+  - Beauty → 뷰티
+  - Fashion → 패션
+  - Living → 라이프스타일
+  - Hospitality → 라이프스타일 (absorbed: hotels, travel, experiential venues)
+  - (new) 소비트렌드: consumer-behavior trends not specific to one industry
+    (generational cohorts, subscription economy, DTC, creator economy,
+    etc.)
+  - (new) MacroTrends: macro forces that affect all consumer industries
+    (elections, interest rates, ESG policy, geopolitics, AI paradigm shifts).
 
 - `is_cross_lingual_merge`: `true` if and only if the merged
   `input_cluster_ids` include at least one Korean-language candidate cluster
@@ -137,7 +152,7 @@ Respond with a single JSON object that matches this schema EXACTLY:
   "clusters": [
     {
       "input_cluster_ids": ["cand_XXX", "cand_YYY", ...],
-      "category_confirmed": "Food" | "Beauty" | "Fashion" | "Living" | "Hospitality",
+      "category_confirmed": "식음료" | "뷰티" | "패션" | "라이프스타일" | "소비트렌드" | "MacroTrends",
       "canonical_entity_ko": "...",
       "is_cross_lingual_merge": true | false,
       "key_entities": ["...", "...", "..."]
@@ -192,7 +207,7 @@ Expected output:
   "clusters": [
     {
       "input_cluster_ids": ["cand_101", "cand_102"],
-      "category_confirmed": "Fashion",
+      "category_confirmed": "패션",
       "canonical_entity_ko": "자라 AI 생성 캠페인",
       "is_cross_lingual_merge": true,
       "key_entities": ["Zara", "AI 생성 캠페인", "합성 모델"]
@@ -236,14 +251,14 @@ Expected output:
   "clusters": [
     {
       "input_cluster_ids": ["cand_201"],
-      "category_confirmed": "Fashion",
+      "category_confirmed": "패션",
       "canonical_entity_ko": "나이키 경량 러닝화",
       "is_cross_lingual_merge": false,
       "key_entities": ["Nike", "러닝화"]
     },
     {
       "input_cluster_ids": ["cand_202"],
-      "category_confirmed": "Fashion",
+      "category_confirmed": "패션",
       "canonical_entity_ko": "아디다스 시그니처 농구화",
       "is_cross_lingual_merge": false,
       "key_entities": ["Adidas", "농구화"]
