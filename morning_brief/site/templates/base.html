@@ -10,6 +10,13 @@
   <link rel="stylesheet" href="{{ static_prefix }}css/sidebar.css">
   <link rel="stylesheet" href="{{ static_prefix }}css/responsive.css">
   <link rel="stylesheet" href="{{ static_prefix }}css/print.css" media="print">
+  {# Pagefind UI stylesheet — resolved from the site root so both index.html
+     (./) and archive pages (../../../) use the same absolute path. Loaded
+     with onerror fallback so the page still renders when Pagefind has not
+     been built yet (local dev). #}
+  <link rel="stylesheet"
+        href="/pagefind/pagefind-ui.css"
+        onerror="this.remove();">
 </head>
 <body>
   <header class="mb-header">
@@ -42,6 +49,49 @@
 
   <script src="{{ static_prefix }}js/tabs.js" defer></script>
   <script src="{{ static_prefix }}js/sidebar.js" defer></script>
+  {# Pagefind UI loader — falls back to the JSON-based search.js below when
+     /pagefind/pagefind-ui.js is missing (e.g. local dev without `npx
+     pagefind`). The JSON fallback stays wired as a second source of truth
+     so dev iteration does not block on the Pagefind build step. #}
+  <script>
+    (function () {
+      var pf = document.createElement("script");
+      pf.src = "/pagefind/pagefind-ui.js";
+      pf.defer = true;
+      pf.onload = function () {
+        try {
+          new PagefindUI({
+            element: "#mb-search-pagefind-ui",
+            showSubResults: true,
+            translations: {
+              placeholder: "아카이브 검색",
+              clear_search: "지우기",
+              load_more: "더 보기",
+              search_label: "이 사이트 검색",
+              filters_label: "필터",
+              zero_results: "[SEARCH_TERM] 에 대한 결과 없음",
+              many_results: "[SEARCH_TERM] 에 대한 [COUNT] 개의 결과",
+              one_result: "[SEARCH_TERM] 에 대한 1 개의 결과",
+              alt_search: "[SEARCH_TERM] 에 대한 결과 없음. [DIFFERENT_TERM] 결과 표시:",
+              search_suggestion: "[SEARCH_TERM] 에 대한 결과 없음. 검색어를 바꿔 보세요.",
+              searching: "[SEARCH_TERM] 검색 중..."
+            }
+          });
+          var pfBox = document.getElementById("mb-search-pagefind");
+          var fb = document.getElementById("mb-search-fallback");
+          if (pfBox) pfBox.hidden = false;
+          if (fb) fb.hidden = true;
+        } catch (e) {
+          // Pagefind UI exploded mid-init — keep the JSON fallback visible.
+        }
+      };
+      pf.onerror = function () {
+        // Pagefind not available (local dev or build failure). The JSON
+        // fallback form stays visible; search.js handles it.
+      };
+      document.head.appendChild(pf);
+    })();
+  </script>
   <script src="{{ static_prefix }}js/search.js" defer></script>
 </body>
 </html>

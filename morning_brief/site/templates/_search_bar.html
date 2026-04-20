@@ -1,4 +1,18 @@
-<form class="mb-search" role="search" action="#" onsubmit="return false;">
+{# Pagefind (v2 §D5) is the production search index. The loader below tries
+   Pagefind first; if its assets are absent (local dev without `npx pagefind`,
+   or CDN / Pages build failure) the JSON-based fallback form below is used
+   by search.js as before. Both UIs are keyed off the same input id so only
+   one is visible at a time. #}
+<div id="mb-search-pagefind" class="mb-search mb-search--pagefind" hidden>
+  <label class="mb-search-label" for="mb-search-pagefind-ui">검색</label>
+  <div id="mb-search-pagefind-ui" data-pagefind-ui></div>
+</div>
+
+<form id="mb-search-fallback"
+      class="mb-search mb-search--fallback"
+      role="search"
+      action="#"
+      onsubmit="return false;">
   <label class="mb-search-label" for="mb-search-input">검색</label>
   <input type="search"
          id="mb-search-input"
@@ -7,4 +21,5 @@
          autocomplete="off"
          data-search-input>
   <ul class="mb-search-results" data-search-results hidden></ul>
+  <p class="mb-search-fallback-note" hidden>검색 준비 중 — 색인 생성 후 다시 시도하세요.</p>
 </form>

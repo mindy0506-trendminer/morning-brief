@@ -7,10 +7,18 @@ dist/
 .env
 .env.*
 !.env.example
-out/
+# Build output — most is rebuilt daily, but archive is persistent (Git-as-DB per v2 §D4).
+# Keep: out/archive/**, out/search_index.json, out/.gitkeep
+out/index.html
+out/index.html.tmp
+out/static/
+out/pagefind/
 # Atomic-write temporaries from site_generator (PR-2).
 *.tmp
 out/**/*.tmp
+# Legacy EML outputs (removed in PR-4) and revision artifacts from iterative regen.
+out/*.eml
+out/archive/**/*-rev*.html
 .omc/state/briefing/
 .vscode/
 .idea/

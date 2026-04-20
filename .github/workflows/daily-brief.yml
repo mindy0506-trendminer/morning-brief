@@ -1,0 +1,152 @@
+name: Daily Morning Brief
+
+# Triggers: 22:00 UTC == 07:00 KST next day (plan v2 §E).
+# workflow_dispatch allows manual smoke runs from the Actions tab.
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+# Never cancel an in-flight daily run (OQ11). The group is singleton so two
+# scheduled runs can't interleave, but an ongoing run is protected.
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # needed to push archive commits back to main
+  pages: write      # Pages deployment
+  id-token: write   # OIDC token for deploy-pages
+
+env:
+  TZ: Asia/Seoul
+  PYTHONUNBUFFERED: "1"
+  MB_MAX_COST_USD: "1.5"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout (full history for archive commits)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -e .
+          pip install -e ".[dev]" || pip install pytest pytest-mock
+
+      # ---------------------------------------------------------------------
+      # Retry ladder (OQ11): 3 attempts, 10-min backoff, final attempt forces
+      # the partial-build banner so the previous day's site stays visible.
+      # ---------------------------------------------------------------------
+      # TODO(PR-6): switch from `dry-run` to `run` once BRIEF_SENDER /
+      # BRIEF_RECIPIENTS secrets are provisioned in repo Settings. `dry-run`
+      # keeps the scheduled workflow green on fixture data while the secret
+      # plumbing lands.
+      - name: Attempt 1 — Generate briefing
+        id: attempt1
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRIEF_SENDER: ${{ secrets.BRIEF_SENDER }}
+          BRIEF_RECIPIENTS: ${{ secrets.BRIEF_RECIPIENTS }}
+        run: python morning_brief.py run
+
+      - name: Wait 10 min before retry 1
+        if: steps.attempt1.outcome == 'failure'
+        run: sleep 600
+
+      - name: Attempt 2 — Retry
+        if: steps.attempt1.outcome == 'failure'
+        id: attempt2
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRIEF_SENDER: ${{ secrets.BRIEF_SENDER }}
+          BRIEF_RECIPIENTS: ${{ secrets.BRIEF_RECIPIENTS }}
+        run: python morning_brief.py run
+
+      - name: Wait 10 min before retry 2
+        if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure'
+        run: sleep 600
+
+      - name: Attempt 3 — Final retry (partial banner forced)
+        if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure'
+        id: attempt3
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRIEF_SENDER: ${{ secrets.BRIEF_SENDER }}
+          BRIEF_RECIPIENTS: ${{ secrets.BRIEF_RECIPIENTS }}
+          MB_FORCE_PARTIAL_BANNER: "1"
+        run: python morning_brief.py run
+
+      # ---------------------------------------------------------------------
+      # Pagefind — production search index (plan v2 §D5).
+      # ---------------------------------------------------------------------
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Pagefind
+        run: npm install -g pagefind
+
+      - name: Build search index with Pagefind
+        run: npx pagefind --site out
+
+      # ---------------------------------------------------------------------
+      # Archive persistence — commit archive/ + search_index.json back to main
+      # so historical briefings survive fresh checkouts (Git-as-DB per §D4).
+      # ---------------------------------------------------------------------
+      - name: Commit archive + search index to main
+        if: steps.attempt1.outcome == 'success' || steps.attempt2.outcome == 'success' || steps.attempt3.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add out/archive out/search_index.json || true
+          if git diff --staged --quiet; then
+            echo "No archive changes to commit."
+          else
+            git commit -m "chore(archive): daily brief $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      # ---------------------------------------------------------------------
+      # Pages deployment — deploy-pages artifact flow.
+      # ---------------------------------------------------------------------
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      # ---------------------------------------------------------------------
+      # Surface the overall run result. When every attempt failed AND no
+      # banner fallback is in place, mark the workflow red so the on-call
+      # sees the alert in the Actions tab.
+      # ---------------------------------------------------------------------
+      - name: Mark run as failed if all 3 attempts failed
+        if: steps.attempt1.outcome == 'failure' && steps.attempt2.outcome == 'failure' && steps.attempt3.outcome == 'failure'
+        run: |
+          echo "::error::All 3 attempts failed. Previous day's site remains deployed via banner fallback."
+          exit 1

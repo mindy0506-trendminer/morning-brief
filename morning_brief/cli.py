@@ -31,6 +31,21 @@ _DEFAULT_OUTPUT_DIR = Path("out")
 _DEFAULT_CALL_A_MODEL = "claude-haiku-4"
 _DEFAULT_CALL_B_MODEL = "claude-sonnet-4-6"
 
+# Pre-flight cost cap (plan v2 §D9). When MB_MAX_COST_USD is set and the
+# pre-flight estimate exceeds it, the CLI exits with code 5 before any file
+# write. The default estimate is intentionally conservative (roughly one
+# full daily pipeline) so the guard only trips on obvious budget blowouts.
+_DEFAULT_PREFLIGHT_ESTIMATE_USD = 0.60
+_EXIT_COST_CAP = 5
+_EXIT_PARTIAL_BUILD = 6
+
+# Workflow-side force flag (plan v2 §E / OQ11). When set, the site generator
+# injects the partial-build banner even when the pipeline itself completed —
+# used by the daily-brief.yml "Attempt 3" retry step.
+_PARTIAL_BANNER_FORCE_REASON_KO = (
+    "전일 브리핑 표시 중 — 자동 재시도 실패"
+)
+
 # run_id format emitted by _generate_run_id: YYYY-MM-DD-HHMMSS
 _RUN_ID_RE = re.compile(r"^\d{4}-\d{2}-\d{2}-\d{6}$")
 
@@ -64,6 +79,52 @@ def _require_env(key: str) -> str:
 def _env_truthy(name: str) -> bool:
     """Return True if env var ``name`` is a common truthy string."""
     return os.environ.get(name, "").strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _preflight_cost_check() -> None:
+    """Enforce the ``MB_MAX_COST_USD`` pre-flight budget (plan v2 §D9).
+
+    Reads ``MB_MAX_COST_USD`` from the environment (in US dollars). When
+    set and the conservative pre-flight estimate exceeds the cap, exits
+    with code 5 before any collector / LLM / file write runs.
+
+    A0 cost measurement (OQ8) is deferred; until real per-run telemetry
+    is wired in, the pre-flight estimate is a constant — see
+    ``_DEFAULT_PREFLIGHT_ESTIMATE_USD``. Callers can override the
+    estimate via ``MB_PREFLIGHT_ESTIMATE_USD`` for testing.
+    """
+    raw_cap = os.environ.get("MB_MAX_COST_USD", "").strip()
+    if not raw_cap:
+        return
+    try:
+        cap = float(raw_cap)
+    except ValueError:
+        print(
+            f"ERROR: MB_MAX_COST_USD must be a number, got {raw_cap!r}",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    raw_est = os.environ.get("MB_PREFLIGHT_ESTIMATE_USD", "").strip()
+    try:
+        estimate = float(raw_est) if raw_est else _DEFAULT_PREFLIGHT_ESTIMATE_USD
+    except ValueError:
+        estimate = _DEFAULT_PREFLIGHT_ESTIMATE_USD
+
+    if estimate > cap:
+        print(
+            f"ERROR: pre-flight cost estimate ${estimate:.2f} exceeds cap ${cap:.2f}"
+            " (MB_MAX_COST_USD); aborting before any file write.",
+            file=sys.stderr,
+        )
+        sys.exit(_EXIT_COST_CAP)
+
+
+def _partial_banner_reason_from_env() -> str | None:
+    """Return the KO banner reason when ``MB_FORCE_PARTIAL_BANNER`` is truthy."""
+    if _env_truthy("MB_FORCE_PARTIAL_BANNER"):
+        return _PARTIAL_BANNER_FORCE_REASON_KO
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -185,6 +246,7 @@ def _run_pipeline(
             output_dir=output_dir,
             today=now.date(),
             key_issues_by_cluster_id=ki_by_id,
+            partial_banner_reason=_partial_banner_reason_from_env(),
         )
         stage_durations["render"] = time.time() - t0
 
@@ -211,6 +273,8 @@ def _run_pipeline(
 
 def cmd_run(args: argparse.Namespace) -> None:
     _load_env()
+    # Pre-flight cost cap (plan v2 §D9) — must run before any network / writes.
+    _preflight_cost_check()
     api_key = _require_env("ANTHROPIC_API_KEY")
     sender = _require_env("BRIEF_SENDER")
     recipients_raw = _require_env("BRIEF_RECIPIENTS")

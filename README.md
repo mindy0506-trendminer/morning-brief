@@ -219,6 +219,74 @@ Test files and their coverage:
 
 ---
 
+## Deployment (GitHub Actions + Pages)
+
+The production pipeline is a single GitHub Actions workflow,
+[`.github/workflows/daily-brief.yml`](.github/workflows/daily-brief.yml),
+that runs daily at **07:00 KST** (`22:00 UTC` the previous day) and publishes
+the resulting static site to GitHub Pages.
+
+### One-time setup
+
+1. **Enable Pages.** `Settings → Pages → Source: GitHub Actions`.
+2. **Add secrets.** `Settings → Secrets and variables → Actions → New repository secret`:
+   - `ANTHROPIC_API_KEY` — your Claude API key
+   - `BRIEF_SENDER` — e.g. `Morning Brief <brief@yourcompany.com>`
+   - `BRIEF_RECIPIENTS` — comma-separated list (legacy, retained for CLI contract)
+3. **Optional tuning env vars** (defined inline in the workflow):
+   - `MB_MAX_COST_USD` — daily budget cap (default `1.5`). Exceeding it exits
+     with code `5` *before* any file write (plan v2 §D9).
+   - `TZ=Asia/Seoul` — drives the KST date rendered on the page.
+
+### Workflow anatomy
+
+```
+schedule: 0 22 * * *     ← daily at 07:00 KST
+concurrency: daily-brief ← cancel-in-progress: false (never kill in-flight)
+Retry ladder: 3 attempts × 10-min backoff (OQ11)
+  └─ Attempt 3 forces MB_FORCE_PARTIAL_BANNER=1 so the banner
+     surfaces on the previous day's site during failures.
+Pagefind: npx pagefind --site out  ← production search index (§D5)
+Commit archive: out/archive/** + out/search_index.json → main
+Deploy: actions/deploy-pages@v4
+```
+
+### Expected URL
+
+`https://<owner>.github.io/<repo>/` — visible after the first green run.
+
+### Manual trigger
+
+`Actions → Daily Morning Brief → Run workflow`. Useful for smoke-testing the
+retry ladder or re-publishing after a manual fix to `out/archive/`.
+
+### Monitoring
+
+- **Actions tab** — each run is green / red. Red means all 3 attempts
+  failed; the last successful site remains deployed and a partial-build
+  banner is shown on the page.
+- **Commit log on `main`** — every successful run produces a
+  `chore(archive): daily brief YYYY-MM-DD` commit as persistence (Git-as-DB
+  per plan v2 §D4).
+
+### Troubleshooting deployment
+
+- **3 consecutive failures** → last successful site stays visible, the
+  partial-build banner is shown ("전일 브리핑 표시 중 — 자동 재시도 실패"),
+  manual intervention required. Check Actions logs, fix root cause, re-run
+  via `workflow_dispatch`.
+- **Exit code 5 (cost cap)** → raise `MB_MAX_COST_USD` in the workflow `env:`
+  block or trim the candidate pool (`--limit-per-cat`).
+- **Exit code 6 (partial build)** → the banner is rendered automatically.
+  Check `out/archive/YYYY/MM/DD.html` on the next successful run.
+- **Rebuild a specific day** → delete `out/archive/YYYY/MM/DD.{html,json}`
+  (and any `-revN.html` siblings) on `main`, then re-run the workflow.
+- **Pagefind missing locally** → `python morning_brief.py dry-run` still
+  works without `npx pagefind`; the Pagefind UI silently falls back to the
+  JSON-based `search.js` form, and the sidebar remains functional.
+
+---
+
 ## Troubleshooting
 
 **"Python not found"**

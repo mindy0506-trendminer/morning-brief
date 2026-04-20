@@ -1,4 +1,8 @@
-<article class="mb-card" data-card-id="{{ card.card_id }}" data-lang="{{ card.language }}">
+<article class="mb-card"
+         data-card-id="{{ card.card_id }}"
+         data-lang="{{ card.language }}"
+         data-pagefind-body
+         data-pagefind-filter="country:{{ card.country_code }},lang:{{ card.language }}">
   <header class="mb-card-head">
     <span class="mb-country" title="{{ card.country_code }}">
       <span class="mb-flag" aria-hidden="true">{{ card.country_flag }}</span>
