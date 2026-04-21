@@ -1,105 +1,95 @@
 {
   "schema_version": "v2",
   "exec_summary_ko": [
-    "K-뷰티, 미국 수입 시장 1위 탈환하며 올리브영 없이도 매출 급성장 사례 등장",
-    "여름 시즌 패션 수요 조기 폭발, 업계 시즌 대응 일정 앞당기는 구도 가속",
-    "해외여행, 단기·근거리·반복 방문의 마이크로투어 패턴으로 지형 재편"
+    "K-뷰티, 미국 수입 1위 등극 후 온라인 직판·인도 진출로 전선 확장 중",
+    "무신사, 매거진B 인수로 패션 콘텐츠 플랫폼 구도 재편 신호탄",
+    "천원빵 620개 전수 검사 결과 '이상 없음'…가성비 식품 불안 심리 반전"
   ],
   "sections": {
     "식음료": [
       {
-        "cluster_id": "81940f2b-140b-4db4-8479-08cd13c090f5",
-        "title_ko": "가성비 건강식품 재조명",
-        "summary_ko": "고물가 속 소비자들이 비용 대비 효능이 검증된 건강 식품으로 눈을 돌리고 있다. 프리미엄 건강기능식품 시장과 달리, 일상 식단에 쉽게 편입 가능한 '실용형 건강식' 수요가 구체적으로 부각되는 흐름이다.",
+        "cluster_id": "36017b70-0211-4d39-beb2-3305ffd03c64",
+        "title_ko": "천원빵 유통기한 논란, 검사 결과는",
+        "summary_ko": "6개월 유통기한으로 소비자 불안을 샀던 천원빵 620개를 전수 검사한 결과, 품질 이상이 없는 것으로 확인됐다. 가성비 식품에 대한 품질 의구심이 팽배한 가운데, 검증 결과가 오히려 신뢰 회복의 계기가 될 수 있다는 점에서 주목된다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "0fc020f9-66dd-4340-bf28-ef7c928fd318",
-        "title_ko": "천원빵, 안전 논란 뒤집혔다",
-        "summary_ko": "유통기한 6개월의 초저가 빵 620개를 실제 검사한 결과, 우려와 달리 안전 기준을 충족했다. 가격 불신을 품질 검증이 상쇄한 사례로, 저가 간편식 카테고리 전반의 신뢰 회복에 긍정적 시그널이 될 수 있다.",
+        "cluster_id": "53470e1a-faa6-4776-b9c0-27d00cce8350",
+        "title_ko": "농식품부, 축산 유통 현장 점검",
+        "summary_ko": "농식품부가 부경양돈농협을 직접 방문해 축산물 유통 현장을 점검했다. 소비자 물가 민감도가 높은 축산 유통 전반에 대한 정부 모니터링이 강화되는 흐름이다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "c42209aa-92ad-4a2e-a979-9fa3c9b31f39",
-        "title_ko": "식품 점자 표기, 자율 확산",
-        "summary_ko": "식품업계가 규제 의무 없이 자체적으로 점자 표기를 늘리고 있다. 포용적 패키징이 브랜드 신뢰도와 연결되는 흐름으로, 이른바 '인클루시브 디자인'이 식품 분야로 확산되는 신호로 읽힌다.",
+        "cluster_id": "4fa7f19d-3690-4839-9fc2-5a1accc26333",
+        "title_ko": "거점도매 시행, 업계 절차 검증 요구",
+        "summary_ko": "거점도매 시스템이 가동에 들어갔으나 유통업계는 절차의 투명성과 검증 체계 미비를 지적하고 있다. 도매 유통 구조 개편이 속도보다 신뢰 확보 쪽으로 무게를 실어야 한다는 목소리가 높아지고 있다.",
         "is_paywalled": false
       }
     ],
     "뷰티": [
       {
-        "cluster_id": "e68dc47c-4d6c-4e2d-9778-78ee225497fb",
-        "title_ko": "K-뷰티, 미국서 프랑스 제쳤다",
-        "summary_ko": "K-뷰티가 미국 화장품 수입 시장 1위에 올라서며 프랑스를 밀어냈다. 기초 스킨케어 중심의 가성비 전략과 SNS 채널 확산이 맞물린 결과로, 미국 시장 내 K-뷰티의 주류화가 수치로 확인된 시점이다.",
+        "cluster_id": "72b080bd-761e-4b09-8ca1-20616611ccef",
+        "title_ko": "K-뷰티, 미국 수입 1위 탈환",
+        "summary_ko": "한국 화장품이 미국 수입 시장에서 프랑스를 제치고 1위로 올라섰다. 기초 스킨케어 중심의 제품 경쟁력이 글로벌 소비자 기호 변화와 맞물린 결과로, K-뷰티 위상이 단기 유행을 넘어 구조적 점유로 굳어지는 신호다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "5eeee811-4d04-43c2-95a0-14675330952d",
-        "title_ko": "올리브영 우회가 오히려 매출 6배",
-        "summary_ko": "일부 K-뷰티 브랜드가 올리브영 입점을 포기하고 직접 판매·해외 플랫폼 중심으로 전환한 뒤 매출이 6배 급증했다. 유통 채널 의존도를 낮추고 브랜드 마진을 지키는 전략이 실증 성과를 내고 있다는 점에서, 중소 브랜드의 채널 전략 재설계가 본격화될 수 있다.",
+        "cluster_id": "28420d29-0aba-42d8-8f95-cd42b3c2450b",
+        "title_ko": "올리브영 대신 직판, 매출 6배 사례",
+        "summary_ko": "올리브영 입점을 포기하고 온라인 자사몰·해외 직판 채널로 전환한 K-뷰티 브랜드가 매출 6배 성장을 기록했다. 채널 의존도를 낮추고 마진과 브랜드 통제권을 동시에 확보하는 전략이 실증되면서, 유통 구조 재편 논의가 본격화될 전망이다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "50a95ca6-7aaa-44b9-9abf-a13ef7e23a7a",
-        "title_ko": "화장품 수입관리 제도 설명회",
-        "summary_ko": "5월 20일 의약품·화장품 수입관리 제도 및 산업 동향 설명회가 열린다. 수입 규제 환경 변화에 민감한 K-뷰티 해외 역직구·현지 유통 업체라면 참고할 필요가 있다.",
+        "cluster_id": "e051a4c5-5167-4885-b515-52204f544c38",
+        "title_ko": "인도, K-뷰티 다음 격전지로",
+        "summary_ko": "인도 화장품 시장에서 기초화장품과 선크림을 중심으로 한국식 스킨케어 수요가 빠르게 늘고 있다. 미국 1위 달성 이후 다음 대형 시장으로 인도가 부상하면서, 선점 타이밍이 중요하다는 업계 진단이 나온다.",
         "is_paywalled": false
       }
     ],
     "패션": [
       {
-        "cluster_id": "8f09284d-eb36-4f6a-a2a9-267d05ff62f8",
-        "title_ko": "성수동, 패션 브랜드 실험장으로",
-        "summary_ko": "성수동이 패션 브랜드의 팝업·플래그십 실험 집결지로 자리를 굳히고 있다. 20대 소비자 집객력과 SNS 확산 구조가 결합되며, 브랜드 인지도 구축 비용 대비 효율이 높은 공간으로 평가된다.",
+        "cluster_id": "47d8924e-d162-4f80-95b3-2b44e7f6e338",
+        "title_ko": "무신사, 매거진B 인수로 콘텐츠 확장",
+        "summary_ko": "무신사가 브랜드 저널 매거진B를 인수하며 패션 유통을 넘어 콘텐츠·브랜딩 영역으로 사업을 확장했다. 플랫폼이 편집 권력까지 내재화하는 수직 통합 전략으로, 패션업계 생태계 구도에 적잖은 파장이 예상된다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "80961ad1-8e6c-4565-a3fb-182cf9a1af15",
-        "title_ko": "여름 패션 수요, 시즌 앞당겨졌다",
-        "summary_ko": "벚꽃 시즌이 채 끝나기 전에 여름 의류 수요가 폭발하면서 패션업계가 시즌 전환 일정을 앞당기고 있다. 기후 변화에 따른 소비 시계 이동이 MD 계획과 재고 전략 전반에 영향을 주는 추세다.",
+        "cluster_id": "619e861a-732e-4a40-b289-f0719b9fb33e",
+        "title_ko": "성수동, 패션 브랜드 집결지로 굳혀",
+        "summary_ko": "성수동이 이번 주에도 패션 브랜드 팝업과 핫플 중심지로 주목받고 있다. MZ 소비층의 오프라인 경험 욕구가 특정 상권에 집중되는 현상이 반복되며, 성수동은 단발 이벤트가 아닌 상시 브랜드 테스트베드로 자리잡는 추세다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "43203b9c-0866-4043-8196-7c1ab93f0f24",
-        "title_ko": "브랜드 공간, 경험 설계가 핵심",
-        "summary_ko": "패션 브랜드들이 매장 공간을 단순 진열 공간이 아닌 브랜드 세계관 구현의 장으로 재설계하고 있다. 공간 디자인이 구매 전환보다 브랜드 충성도를 높이는 마케팅 수단으로 기능하는 흐름이 뚜렷해지고 있다.",
+        "cluster_id": "a0678772-3a8e-46b4-bb8c-a92ded8d61a1",
+        "title_ko": "패션 브랜드, 공간 디자인을 무기로",
+        "summary_ko": "패션 브랜드들이 매장 공간 디자인을 브랜드 정체성의 핵심 수단으로 활용하는 전략이 주목받고 있다. 제품 판매 공간을 넘어 경험 설계로 소비자 접점을 확장하려는 흐름이 두드러진다.",
         "is_paywalled": false
       }
     ],
     "라이프스타일": [
       {
-        "cluster_id": "9d2f7959-bf06-435f-81bf-3e86b6017097",
-        "title_ko": "마이크로투어, 여행 판도 바꾼다",
-        "summary_ko": "짧고, 자주, 가까운 곳으로 떠나는 마이크로투어가 해외여행의 새로운 표준으로 부상하고 있다. 여행 소비가 1회 대형 지출에서 소규모 반복 지출로 분산되면서, 항공·숙박·여행 플랫폼의 상품 구성도 달라질 전망이다.",
+        "cluster_id": "a7eb4155-cccf-4ca7-b4dd-e19932749e33",
+        "title_ko": "5월 바다 여행 수요 본격화",
+        "summary_ko": "5월을 앞두고 해양 여행 콘텐츠 소비가 급증하고 있다. 정부 정책 채널까지 바다 여행 홍보에 나서며, 내수 관광 소비 진작과 맞물린 계절 수요가 본격 가동되는 시점이다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "a252dfbe-27cb-4812-b4db-1c106812823e",
-        "title_ko": "여행 영어, 아는 만큼 절약",
-        "summary_ko": "해외 호텔의 'incidentals' 같은 실무 용어를 모르면 예상치 못한 지출로 이어질 수 있다. 여행 소비가 정교해질수록 정보 격차가 실질 비용 차이로 이어지는 구조가 강화되고 있다.",
+        "cluster_id": "309146f3-c7a8-41cd-a5a6-b5bd2b792260",
+        "title_ko": "호텔 요금 용어, 아는 만큼 절약",
+        "summary_ko": "디파짓과 인시덴탈스 등 호텔 체크인 시 혼동하기 쉬운 요금 용어를 짚어주는 콘텐츠가 주목받고 있다. 해외 여행 수요 회복과 함께 여행 정보 리터러시에 대한 소비자 관심이 높아진 결과다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "f7d6040a-87b3-463a-9e5f-d3c26d77b283",
-        "title_ko": "2026 리빙 트렌드, 페어에서 포착",
-        "summary_ko": "서울리빙디자인페어에서 드러난 2026년 리빙 트렌드는 소재의 자연친화성과 기능 중심 미니멀 디자인의 공존이다. 집을 소비 공간이자 회복 공간으로 인식하는 흐름이 가구·인테리어 제품 기획 방향에 반영되고 있다.",
+        "cluster_id": "f1745552-e9c1-49c4-8ade-bd3d1f4a47c3",
+        "title_ko": "2026 리빙 트렌드, 페어서 읽다",
+        "summary_ko": "서울리빙디자인페어가 2026년 주목할 리빙 트렌드를 제시했다. 소재의 자연성과 다기능 가구 중심의 공간 효율화가 키워드로 부상하며, 팬데믹 이후 집에 대한 투자 심리가 지속되고 있음을 확인시킨다.",
         "is_paywalled": false
       }
     ]
   },
-  "insight_box_ko": "이번 브리핑을 관통하는 키워드는 '우회와 재설계'다. K-뷰티는 올리브영을 건너뛰어 직접 채널로 고수익을 실증했고, 패션은 유통 매장보다 공간 경험으로 브랜드 가치를 쌓으며, 여행 소비는 대형 일정 대신 소규모 반복으로 분산되고 있다. 기존 유통·채널의 지배력이 약해지는 자리에서 브랜드 직접성과 경험 설계 역량이 새로운 경쟁 우위로 부상하는 흐름이 뚜렷하다.",
+  "insight_box_ko": "이번 주 소비재 전반을 관통하는 흐름은 '검증과 직접 통제'다. K-뷰티는 대형 유통 채널 의존을 끊고 직판으로 마진과 브랜드 통제권을 동시에 확보했고, 무신사는 콘텐츠 편집권까지 내재화해 플랫폼의 수직 통합을 완성해가고 있다. 식품 분야에서는 천원빵 전수 검사와 거점도매 절차 검증 요구가 동시에 불거지며, 가격 경쟁력만큼 신뢰 입증이 중요해진 시장 분위기가 확인된다. 유통 구조의 탈중개화와 품질 투명성 요구가 카테고리를 가리지 않고 동시에 진행되고 있다는 점에서, 브랜드와 유통사 모두 검증 역량을 핵심 경쟁력으로 재정의해야 할 시점이다.",
   "cards_meta": {
-    "81940f2b-140b-4db4-8479-08cd13c090f5": {
-      "category": "식음료",
-      "source_name": "Google News KR Food",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYWlUYmxzZURrUk15SVh2WWpkZHYzX25hT3dMU2JlN2hCZjdqaUktcTJSaHExLWNtR0tMQzZwMWp3elBfOE5xU1ZEZFJ0ZlBoUW1YaVFyTzM3YzdqU1MzMk4xbUQ2YU9HVnNCOXNOMzAtTXNlbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "매일 먹기 좋은 ‘가성비’ 건강 식품 7가지… 뭘까? - 헬스조선",
-      "languages": [
-        "ko"
-      ],
-      "sceep_dimensions": []
-    },
-    "0fc020f9-66dd-4340-bf28-ef7c928fd318": {
+    "36017b70-0211-4d39-beb2-3305ffd03c64": {
       "category": "식음료",
       "source_name": "Google News KR Food",
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pM0QxMGtwTUNBVzlOTnA1NTh1eWljSjVaczRjWnl5UmFReHY3QnM1RkhVSVR5ek10cTVrYlBCbW9nb0dIc3dneEw3bFJpdUVjTHJhNlJn?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -109,17 +99,27 @@
       ],
       "sceep_dimensions": []
     },
-    "c42209aa-92ad-4a2e-a979-9fa3c9b31f39": {
+    "53470e1a-faa6-4776-b9c0-27d00cce8350": {
       "category": "식음료",
       "source_name": "Google News KR Food",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsbXB6YWZ6X3p2blN0d0dWUC1TZ28yV19NWUxnVEhNVWoxdklMY2xSYkM4NkFPMUtsdUxFUXZPQnJHeTFCTEJrZE5zRmVuNFl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "손 끝으로 맛 알 수 있게… 식품업계 스스로 ‘점자 표기’ 늘려[안전한 食·醫·藥, 국민건강 일군다] - 문화일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mWnl0elhXUDBvZTFPZldWckxSOWQ4NHZrYjNqSTFvTS1xZ2tZSHhfRlJEUTFLNndmc3BFUkFKNVdnUWx2RGU2eXRpVzFlUUpmbktTZDRSWG9XU0oxZEtRSTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[돼지와사람] 농식품부 신우식 과장, 부경양돈농협 방문해 축산 유통 현장 점검 - pigpeople.net",
       "languages": [
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "e68dc47c-4d6c-4e2d-9778-78ee225497fb": {
+    "4fa7f19d-3690-4839-9fc2-5a1accc26333": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NVFBTZzhSTk1DRkUzRGFuOHczamhWVzhvbHBhNEE5a3FHc1ZxVENramR1blhRYjhVN0xMU1hvTHZpcVl0OWFMcGFnV3E4WjhnUTlIVXZDODVqLU15TGlLd3pxeV9VdTZCMVB4Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "거점도매 시작됐지만…유통업계 \"절차 검증 필요\" 목소리 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "72b080bd-761e-4b09-8ca1-20616611ccef": {
       "category": "뷰티",
       "source_name": "Google News KR Beauty",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MS2lOcVQ0Yl9Td1k1WXBPeUt1VXc2UjZqVjV5UHJsMFhYajNVcWZEMVNWV1FaZ1JhSTlmVkRQTGNDWnIzVF9VMnVINWlCSkx1c04wd21kS1UyUdIBX0FVX3lxTFBSMmhPNjhtU3d4bkQ2T3RIeGdYeTVvOHNYR25keF9HeHFja1ZpaW9aQmVJTjRHTVVyUy1lbENkSFZkWkwyWmlFLWNxSXE2VjlsZVg4ck1jcWJyMkNjNHZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -129,7 +129,7 @@
       ],
       "sceep_dimensions": []
     },
-    "5eeee811-4d04-43c2-95a0-14675330952d": {
+    "28420d29-0aba-42d8-8f95-cd42b3c2450b": {
       "category": "뷰티",
       "source_name": "Google News KR Beauty",
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VmRtQVdVQ1BaaHk3cDUwMWNyQm9SVnZudzJEdzZDY1FYLWNCcjZIUDRUTWlGQmRQS25JMVJmelJmdjkyRElmNmtXMEJlcE5GdmZIa0V3?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -139,17 +139,27 @@
       ],
       "sceep_dimensions": []
     },
-    "50a95ca6-7aaa-44b9-9abf-a13ef7e23a7a": {
+    "e051a4c5-5167-4885-b515-52204f544c38": {
       "category": "뷰티",
       "source_name": "Google News KR Beauty",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhUEdmbnBvM2ZEVndrcllKdFRqRXEzUzVkUTluZVZqVFIxNC03ZndhZTExT1VIMlI3Z09TSmh3N2FGVXE0X2RYblVSOHBYR1ZXOXU2SFh0Qnl1amFEbWhkUEVpYkJwN3FVY09V?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "5월 20일 의약품·화장품 수입관리제도·산업동향 설명회 - 히트뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odEZaUi1wdjJEYldtdGM2clRoRkNYbDZRbEdDNWlmTmgtVmd5QmNPUVktejhFeGN2cmptSjZxMU1Ma3F3V0x1SHJNUDAxN1BhYVlFQW5lZ2JxdzhNNXpoVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "인도 화장품시장 ‘지금’ 진출해야... 기초화장품·선크림 유망, 한국식 스킨케어 인기 - cncnews.co.kr",
       "languages": [
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "8f09284d-eb36-4f6a-a2a9-267d05ff62f8": {
+    "47d8924e-d162-4f80-95b3-2b44e7f6e338": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82dlkzRnZZNjRZWUlwZENVWC1MVXhkYnp2aGpJYXFZTk9lUWllVkkwY1ZKcjBJOE5GWUd2Nl9SdDFzcHRsRGxnb09XVG1Ed0c2c0VCX0ZzTFZ1d9IBVEFVX3lxTE5kY2FBOXROLUJNMmptLVlGQ3JmRVJ2UW1rU3lSd29RbkkwRko5QVNtWHhhcTFPT2dYZy1YOXRKb1dnaUZoUlppR2lDd3dCSDVZS0R5Vg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션업계 판을 짠다…무신사, 조수용의 '매거진B' 인수 - 한국경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "619e861a-732e-4a40-b289-f0719b9fb33e": {
       "category": "패션",
       "source_name": "Google News KR Fashion",
       "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1fazJFQ0dIWlRWWV9zUEo3dUNoSm1FcEFCR0x4Mjd5QWExWTVOZndFbTN2MGFrTE53VDZEYmFlUDM?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -159,17 +169,7 @@
       ],
       "sceep_dimensions": []
     },
-    "80961ad1-8e6c-4565-a3fb-182cf9a1af15": {
-      "category": "패션",
-      "source_name": "Google News KR Fashion",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40cUFNV3pEUGhoQ2s1Q3F5UE1HeE9GSFpkRHRTSGh6OFRuTkhoeEFlSWtsSWQ4eTBmLXJuNmtpUDRJbGxVRFZQc2NtRW1IZ2dYdm9NbGdxWXktbG1aa3VxV1JWMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "벚꽃 지니 벌써 여름…패션업계, 빨라진 여름 수요 잡는다 - 쿠키뉴스",
-      "languages": [
-        "ko"
-      ],
-      "sceep_dimensions": []
-    },
-    "43203b9c-0866-4043-8196-7c1ab93f0f24": {
+    "a0678772-3a8e-46b4-bb8c-a92ded8d61a1": {
       "category": "패션",
       "source_name": "Google News KR Fashion",
       "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IdDVhbl9wRFZwYVpfTUVwNkNUMzlkNmhCaGg1eloxRnN6RjFka2FOeVBkaVlGM1lwSllEMlBnZ0RuNEd4Z3FzeHpSSHM?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -179,17 +179,17 @@
       ],
       "sceep_dimensions": []
     },
-    "9d2f7959-bf06-435f-81bf-3e86b6017097": {
+    "a7eb4155-cccf-4ca7-b4dd-e19932749e33": {
       "category": "라이프스타일",
       "source_name": "Google News KR Hospitality",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXhCRVpHWU42SEM4UTJRVmRVamhVUkMxSDVQR1RvN005ZnYwR2pnRVpXN1VBZ0FoOGdqUlowZGxjb0I3eXE3cFJLWXNneUtncFk1MnQ5LUpQaC1SNDlLdC1GamlzZFE0b2IyWU9lUzl2TFU3a1U0WmlZMUNxNE9PTFU0d2w?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "짧게, 자주, 가깝게… 해외여행 지도가 바뀐다 - 조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXcwejdvVGNjZ3ZDVG85SzFHNDlfeVlXUC1XSWp3cVE2azl2akEzVVBwNmxhcUwwclR1WUdJWDhiM3otMDZ3ZTdfdUhuOUx0ZndmZFdETWw5UkN6Vmk5b0VXUDd1RXFFNnhtMFlQVmIyY0QzRGlYYjc4VVBGMEFzN3MwbW1KQnQyRWdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "5월은 바다 가는 달, 파도파도 색다른 바다 여행 떠나요 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "languages": [
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "a252dfbe-27cb-4812-b4db-1c106812823e": {
+    "309146f3-c7a8-41cd-a5a6-b5bd2b792260": {
       "category": "라이프스타일",
       "source_name": "Google News KR Hospitality",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3VFeEo0SmYwZzlYSWVHcXhQWERKdG90d1Z6V3NMYkVlaGZzSFFZUkdRRmFmWUlCVEFEd3Bxa2paVC1GN0xPNm9JZXJ2Q3cxOHU2dVkxYVdKNEcwc2lEOWR0S2xCSUk2N3RvWEVUUElvRm44MjRVb1o2eVUtMUJfUW91Q1VWclk?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -199,7 +199,7 @@
       ],
       "sceep_dimensions": []
     },
-    "f7d6040a-87b3-463a-9e5f-d3c26d77b283": {
+    "f1745552-e9c1-49c4-8ade-bd3d1f4a47c3": {
       "category": "라이프스타일",
       "source_name": "Google News KR Living",
       "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByRUEwc1ZhQkYtbUZiMXpnVUl6Tmd4NVRTcUIwaERiREJZMFYyYkFmVXVyYWZVdFFDRzVPZnFUc2xIcEVUVnNpT2QyTUY?oc=5&hl=en-US&gl=US&ceid=US:en",
