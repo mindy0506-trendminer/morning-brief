@@ -1,0 +1,215 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미국 화장품 수입 1위로 프랑스 추월하며 글로벌 판도 재편",
+    "무신사, 패션 넘어 건기식까지 일본 등 해외 영토 확장 본격화",
+    "중동 리스크發 유럽 관광객 이탈로 일본 호텔업계 직격탄"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "89b099d7-2bd0-47a9-81a2-7e8deea29dd2",
+        "title_ko": "천원빵 안전성 논란, 검사 결과는",
+        "summary_ko": "유통기한 6개월짜리 초저가 빵 620개를 전수 검사한 결과가 공개됐다. 소비자 의심과 달리 반전 결과가 나와 주목받고 있으며, 극저가 베이커리 제품의 품질 신뢰 논쟁에 새 기준점이 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0195704e-d567-4868-bdb1-d1b80e3d8b81",
+        "title_ko": "거점도매 철회 요구, 유통협 집회",
+        "summary_ko": "유통협이 거점도매 정책 즉각 철회를 요구하는 대규모 집회를 열었다. 식품·의약품 유통 구조 재편에 반발하는 업계 목소리가 커지고 있어 정책 추진 속도에 변수가 될 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bb61c86e-ca5a-416e-9ce4-5a7314957608",
+        "title_ko": "커피믹스 개척자 조필제 별세",
+        "summary_ko": "세계 최초 커피믹스 개발을 이끈 조필제 전 동서식품 부회장이 별세했다. 그의 발명은 한국인의 커피 소비 문화를 정의했으며, 인스턴트 음료 카테고리 자체를 창출한 사례로 식음료 역사에 기록된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "b304ac3f-c183-4eee-81f1-86cafe30863f",
+        "title_ko": "K-뷰티, 미국 수입 화장품 1위",
+        "summary_ko": "K-뷰티가 미국 화장품 수입 시장에서 프랑스를 처음으로 제치고 1위에 올랐다. 성분 중심 스킨케어와 가성비 포지셔닝이 주효했으며, 단순 트렌드를 넘어 구조적 시장 지위 확보로 평가된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "67564781-283c-4aae-a6c3-a6631ed21c1f",
+        "title_ko": "강원·제주·전남, 메디뷰티 산업 경쟁",
+        "summary_ko": "강원·제주·전남 3개 지역이 의료와 화장품을 결합한 K-메디뷰티 산업 육성에 동시 도전장을 냈다. 미용 의료 관광 수요와 맞물려 지역 기반 뷰티 클러스터 구축 경쟁이 가속될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0578573c-d489-412a-904e-4d889159f370",
+        "title_ko": "성인 BJ 광고 기용, 장기 고객 이탈",
+        "summary_ko": "한 화장품 브랜드가 성인 방송 BJ를 광고 모델로 기용하자 10년 이상 충성 고객들이 집단 반발했다. 브랜드 정체성과 모델 선택의 불일치가 기존 고객 이탈로 직결된 사례로, 뷰티 업계 광고 전략의 리스크 관리 필요성을 환기한다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2ce1dc6c-1421-4125-a428-8a2d26a885aa",
+        "title_ko": "무신사, 건기식으로 카테고리 확장",
+        "summary_ko": "무신사가 K-패션을 앞세워 일본 등 해외 시장을 넓히는 동시에 건강기능식품 카테고리까지 영역을 확대하고 있다. 패션 플랫폼의 라이프스타일 종합몰 전환 시도가 해외 수익화와 맞물려 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c21133aa-f674-4677-b8ca-1305219a2db7",
+        "title_ko": "패션 브랜드, 공간으로 말하다",
+        "summary_ko": "패션 브랜드들이 공간 디자인을 차별화 도구로 적극 활용하는 흐름이 이어지고 있다. 플래그십 스토어 기획이 단순 판매 공간을 넘어 브랜드 세계관을 체험하는 장으로 진화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4478fa86-4090-44b9-a39a-4c981611917b",
+        "title_ko": "AI·패션·창업 연계 교육 모델 확장",
+        "summary_ko": "서경대가 AI와 패션, 창업을 연결하는 실무형 융합 교육 모델을 확대하고 있다. 패션 산업 인재 양성에 AI 역량이 핵심으로 편입되는 흐름으로, 업계 채용 기준 변화에도 영향을 줄 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5a938e9e-8987-4bbb-9bec-8bfff63a7dc8",
+        "title_ko": "중동 리스크, 일본 호텔 예약 강타",
+        "summary_ko": "중동 지역 불안 고조로 유럽 관광객 4천 명 이상이 일본 호텔 예약을 취소했다. 지정학 리스크가 아시아 관광 수요로 직접 전이되는 경로가 확인되며, 국내 관광·숙박업계에도 반사 기회와 리스크가 공존한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "93d6f65e-3ef7-4a0f-b371-ad88968d7ab6",
+        "title_ko": "호텔 부가 요금 이해가 여행 실력",
+        "summary_ko": "보증금(디파짓)은 알아도 부대비용(incidentals) 개념을 모르는 여행자가 많다는 소비자 교육형 콘텐츠가 주목받고 있다. 호텔 요금 구조가 복잡해질수록 투명한 요금 안내가 브랜드 신뢰와 직결되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ba8916cf-cdf0-418f-9391-66dae9539f21",
+        "title_ko": "삼성, 가전 인테리어 설치 서비스 운영",
+        "summary_ko": "삼성전자가 가전 제품을 인테리어와 통합해 설치해주는 '인테리어핏' 서비스를 운영 중이다. 가전의 구매 경험이 제품 단위에서 공간 단위로 이동하는 흐름의 일환으로, 프리미엄 홈 시장 공략을 강화하는 포석이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이날 브리핑을 가로지르는 핵심 흐름은 'K-브랜드의 외연 확장'과 '신뢰 리스크의 동시 부상'이다. K-뷰티의 미국 1위 등극, 무신사의 해외·카테고리 동시 확장은 한국 소비재가 글로벌 구도를 바꾸는 단계에 진입했음을 보여준다. 반면 화장품 브랜드의 광고 모델 논란은 브랜드 자산이 하루 만에 균열될 수 있음을 상기시킨다. 성장과 리스크 관리가 같은 속도로 요구되는 국면이다.",
+  "cards_meta": {
+    "89b099d7-2bd0-47a9-81a2-7e8deea29dd2": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pM0QxMGtwTUNBVzlOTnA1NTh1eWljSjVaczRjWnl5UmFReHY3QnM1RkhVSVR5ek10cTVrYlBCbW9nb0dIc3dneEw3bFJpdUVjTHJhNlJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "유통기한 6개월 ‘천원빵’ 의심…620개 검사해보니 반전 결과 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0195704e-d567-4868-bdb1-d1b80e3d8b81": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbVRfYjZIbVRaRnRxWWdDLU9nZk5XYWV4cFVfNFJmM2ZwM2VTUEtDRHpsbkRpUkRmUmpISEZrQjdyR1duWGJKMUhtS0R3QUZ4MXFPTmJTQjZveWJmSS1qV0F2YXpNLXV4SDBMVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"거점도매 즉각철회\"…유통협 대규모 집회 전개 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bb61c86e-ca5a-416e-9ce4-5a7314957608": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tYWJsd0NBNER4SzRhaElqS3QwMHFtWWlnLTdEM0VpQVREbklIR2h4bUlNR2Vwd1E3ZU4yaDVCZlBXcVFPSXBoRUpFQmE3LXpoTUt5MmFyVVpsQWY5V2ZjTzVCTkNKX0FuVkRKS2tFNm0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'커피믹스 개척자' 조필제 전 동서식품 부회장 별세 - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b304ac3f-c183-4eee-81f1-86cafe30863f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MS2lOcVQ0Yl9Td1k1WXBPeUt1VXc2UjZqVjV5UHJsMFhYajNVcWZEMVNWV1FaZ1JhSTlmVkRQTGNDWnIzVF9VMnVINWlCSkx1c04wd21kS1UyUdIBX0FVX3lxTFBSMmhPNjhtU3d4bkQ2T3RIeGdYeTVvOHNYR25keF9HeHFja1ZpaW9aQmVJTjRHTVVyUy1lbENkSFZkWkwyWmlFLWNxSXE2VjlsZVg4ck1jcWJyMkNjNHZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-뷰티, 미국 화장품 수입 시장 1위…프랑스 제쳤다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "67564781-283c-4aae-a6c3-a6631ed21c1f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWERxb2xqUENCV0NoNUhtYWRacVdWUEJNQmIyQVZMM3Jydm5SVGlBMHZZSlNmM3Y2TUV2UnJQT3Jsa0dtQXU3WkZfZXBuSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "강원·제주·전남 ‘K-메디뷰티(의료+화장품) 산업’ 도전 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0578573c-d489-412a-904e-4d889159f370": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUmZpN1drSElTY1UxUm5DdDBtXzlBTWlhN3dwWmhKUDY1X3h4WThkUFlaeDRMS0dFbTB3QVMtN0lHbUhpZ0M4R2VpNllmYTJjSzI4al9UbmJKa1lUaWZnWkkwV3ZMaWV3Unc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"10년 썼는데 ‘벗방 BJ’ 광고라니\"…한 화장품 브랜드에 고객들 분노한 이유 - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2ce1dc6c-1421-4125-a428-8a2d26a885aa": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3TC1WZlp2UGtkeVF2RW9vTy1qRDRIMm82UWwzTjhPVHE5VkZkdm1LZEEyTlBsNzJRUGVmcUdCcGF1MTNaOVlJc2gzQVZmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[단독] K-패션 넘어 'K-건기식'까지…무신사, 日 등 글로벌 영토 확장 - 전자신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c21133aa-f674-4677-b8ca-1305219a2db7": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IdDVhbl9wRFZwYVpfTUVwNkNUMzlkNmhCaGg1eloxRnN6RjFka2FOeVBkaVlGM1lwSllEMlBnZ0RuNEd4Z3FzeHpSSHM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[위클리 디자인] 공간 디자인 비하인드 스토리_패션 브랜드 편 - 디자인플러스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4478fa86-4090-44b9-a39a-4c981611917b": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13Tmoxa01QaVJqa1drS2hyWTV6SUhWUjZxcGIzdkhTWTlWTVNfQzlVbkt5SkwwTGE3NkFjSE5CUFdRRjdxRXVzM1g1aDAxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“AI·패션·창업 연결”…서경대, 실무형 융합 교육 모델 확장 - 전자신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5a938e9e-8987-4bbb-9bec-8bfff63a7dc8": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41cGY2Y2RremVZNl84QmVLb0NuWW5jT0JORG5NaUV1Z0JsaGhwcGlnS2lueEtvVHpMZHNneXhqaEs0bGFCMTNtdXYyMmRmSDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"유럽 관광객 4천명 호텔 취소했다\" 日 관광업계 중동 리스크 직격탄 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "93d6f65e-3ef7-4a0f-b371-ad88968d7ab6": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3VFeEo0SmYwZzlYSWVHcXhQWERKdG90d1Z6V3NMYkVlaGZzSFFZUkdRRmFmWUlCVEFEd3Bxa2paVC1GN0xPNm9JZXJ2Q3cxOHU2dVkxYVdKNEcwc2lEOWR0S2xCSUk2N3RvWEVUUElvRm44MjRVb1o2eVUtMUJfUW91Q1VWclk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘디파짓’만 알고 ‘incidentals’ 모르면 여행 초보 - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ba8916cf-cdf0-418f-9391-66dae9539f21": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbkxGNktrckdLcXBFWG4xdE45SnF0ai16d2VXSTFEOWFLTFl4cDN2dzRvWUpod2hMVkZpRjJjd05Dc3NTeERwbXFnLWRVVTRxQl9lNDhNazRjcmtTNmpqX3lQVmRCSGJ2RVR6LXd1d0RkbTNBZDF6QTE1WkFPWjdZeW5FSV9RcHB1akJsS1c2ZlZSUEtHcDNpOGljMV9hQzAxOGdrLXE2eXVsWDI1dkduYVlJVGtSeXc1N29ha0MzcHQzVktBLVd1a09GLWhOVDMyN3BZSjZZZnlmZmxtNHJtVFp6Z0RkdVZJSjBEVTVZdWpMUGM2bExJZlFja1dZR0VGOFV0V3dJVEZMR0VZOEd2c3JDbUU5NTcxN3p5cnQ5Y1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "삼성전자, ‘삼성 인테리어핏 설치 서비스’ 운영 - samsung.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
