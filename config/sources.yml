@@ -1,186 +1,746 @@
+# =============================================================================
+# morning-brief — RSS / keyword feed registry
+# =============================================================================
+# Last audit: 2026-04-21
+# Coverage target: >=5 active feeds per category, >=90 daily unique stories
+# Languages: ko, en, ja, zh, es (plan v2 sec A3)
+#
+# Sections:
+#   1. English trade media (11)
+#   2. Korean trade media (3)
+#   3. Spanish trade media (2)
+#   4. Chinese trade media (2)
+#   5. Google News keyword feeds (KO 29 + JA 10 + ZH 10 + ES 10 + EN 5 = 64)
+#   6. Commented-out dead feeds (historical reference)
+# =============================================================================
+
 sources:
-  - name: Business of Fashion
+
+  # ---------- 1. English trade media (verified 2026-04-21) ----------
+
+  - name: "Business of Fashion"
     url: "https://www.businessoffashion.com/arc/outboundfeeds/rss/"
     source_type: SpecializedMedia
     language: en
     country: GBR
-    category_hint: Fashion
+    category_hint: "패션"
     status: confirmed
 
-  - name: Vogue Business
-    url: "https://www.voguebusiness.com/rss"
-    source_type: SpecializedMedia
-    language: en
-    country: GBR
-    category_hint: Fashion
-    status: confirmed
-
-  - name: Retail Dive
+  - name: "Retail Dive"
     url: "https://www.retaildive.com/feeds/news/"
     source_type: TraditionalMedia
     language: en
     country: USA
-    category_hint: null
+    category_hint: "소비트렌드"
     status: confirmed
 
-  - name: Skift
+  - name: "Skift"
     url: "https://skift.com/feed/"
     source_type: TraditionalMedia
     language: en
     country: USA
-    category_hint: Hospitality
+    category_hint: "라이프스타일"
     status: confirmed
 
-  - name: Food Dive
+  - name: "Food Dive"
     url: "https://www.fooddive.com/feeds/news/"
     source_type: TraditionalMedia
     language: en
     country: USA
-    category_hint: Food
+    category_hint: "식음료"
     status: confirmed
 
-  - name: Hospitality Net
-    url: "https://www.hospitalitynet.org/rss/channel.rss"
+  - name: "WWD"
+    url: "https://wwd.com/feed/"
+    source_type: SpecializedMedia
+    language: en
+    country: USA
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "Glossy"
+    url: "https://www.glossy.co/feed/"
+    source_type: SpecializedMedia
+    language: en
+    country: USA
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "Modern Retail"
+    url: "https://www.modernretail.co/feed/"
+    source_type: SpecializedMedia
+    language: en
+    country: USA
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "Grocery Dive"
+    url: "https://www.grocerydive.com/feeds/news/"
     source_type: TraditionalMedia
     language: en
-    country: NLD
-    category_hint: Hospitality
+    country: USA
+    category_hint: "식음료"
     status: confirmed
 
-  - name: TrendWatching
-    url: "https://www.trendwatching.com/feed/"
-    source_type: CuratedTrendReport
+  - name: "Restaurant Dive"
+    url: "https://www.restaurantdive.com/feeds/news/"
+    source_type: TraditionalMedia
     language: en
-    country: NLD
-    category_hint: null
-    status: uncertain
+    country: USA
+    category_hint: "식음료"
+    status: confirmed
 
-  - name: Springwise
-    url: "https://www.springwise.com/feed/"
-    source_type: CuratedTrendReport
+  - name: "Cosmetics Business"
+    url: "https://www.cosmeticsbusiness.com/rss"
+    source_type: SpecializedMedia
     language: en
     country: GBR
-    category_hint: null
-    status: uncertain
-
-  - name: Google News KR Food
-    url: "https://news.google.com/rss/search?q=%EC%8B%9D%ED%92%88+OR+%EC%9C%A0%ED%86%B5&hl=ko&gl=KR&ceid=KR:ko"
-    source_type: TraditionalMedia
-    language: ko
-    country: KOR
-    category_hint: Food
+    category_hint: "뷰티"
     status: confirmed
 
-  - name: Google News KR Beauty
-    url: "https://news.google.com/rss/search?q=%ED%99%94%EC%9E%A5%ED%92%88+OR+%EB%B7%B0%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
-    source_type: TraditionalMedia
-    language: ko
-    country: KOR
-    category_hint: Beauty
-    status: confirmed
-
-  - name: Google News KR Fashion
-    url: "https://news.google.com/rss/search?q=%ED%8C%A8%EC%85%98+OR+%EC%9D%98%EB%A5%98&hl=ko&gl=KR&ceid=KR:ko"
-    source_type: TraditionalMedia
-    language: ko
-    country: KOR
-    category_hint: Fashion
-    status: confirmed
-
-  - name: Google News KR Living
-    url: "https://news.google.com/rss/search?q=%EB%A6%AC%EB%B9%99+OR+%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko"
-    source_type: TraditionalMedia
-    language: ko
-    country: KOR
-    category_hint: Living
-    status: confirmed
-
-  - name: Google News KR Hospitality
-    url: "https://news.google.com/rss/search?q=%ED%98%B8%ED%85%94+OR+%EC%97%AC%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
-    source_type: TraditionalMedia
-    language: ko
-    country: KOR
-    category_hint: Hospitality
-    status: confirmed
-
-  # -------------------------------------------------------------------------
-  # 5-language extension (plan v2 §A3 / PR-1 Task 5).
-  # JA / ZH / ES feeds marked status=uncertain until the user validates each
-  # URL + RSS payload in production; the collector downgrades retries on
-  # `uncertain` feeds to "skip on final failure" (collector.fetch_feeds).
-  # -------------------------------------------------------------------------
-
-  # ---------- Japanese (ja) ----------
-  - name: Nikkei Business RSS
-    url: "https://www.nikkei.com/rss/topstories.rdf"
-    source_type: TraditionalMedia
-    language: ja
-    country: JPN
-    category_hint: null
-    status: uncertain
-
-  - name: WWD Japan
-    url: "https://www.wwdjapan.com/feed"
+  - name: "Dezeen"
+    url: "https://www.dezeen.com/feed/"
     source_type: SpecializedMedia
-    language: ja
-    country: JPN
-    category_hint: 패션
-    status: uncertain
+    language: en
+    country: GBR
+    category_hint: "라이프스타일"
+    status: confirmed
 
-  - name: Fashionsnap
-    url: "https://www.fashionsnap.com/feed/"
+  # ---------- 2. Korean trade media (verified 2026-04-21) ----------
+  # NOTE: 패션비즈 and 어패럴뉴스 have no public RSS endpoint as of audit;
+  # their coverage is delegated to Google News KO keyword feeds in section 5.
+
+  - name: "식품외식경제"
+    url: "https://www.foodbank.co.kr/rss/allArticle.xml"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "뷰티경제"
+    url: "https://www.thebk.co.kr/rss/allArticle.xml"
     source_type: SpecializedMedia
-    language: ja
-    country: JPN
-    category_hint: 패션
-    status: uncertain
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
 
-  # ---------- Chinese (zh) ----------
-  - name: 36Kr
+  - name: "장업신문"
+    url: "https://www.jangup.com/rss/allArticle.xml"
+    source_type: SpecializedMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  # ---------- 3. Spanish trade media (verified 2026-04-21) ----------
+
+  - name: "Modaes.es"
+    url: "https://www.modaes.es/rss.xml"
+    source_type: SpecializedMedia
+    language: es
+    country: ESP
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "Expansion Distribucion"
+    url: "https://e00-expansion.uecdn.es/rss/empresas/distribucion.xml"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  # ---------- 4. Chinese trade media (carried over) ----------
+
+  - name: "36Kr"
     url: "https://36kr.com/feed"
     source_type: TraditionalMedia
     language: zh
     country: CHN
-    category_hint: 소비트렌드
-    status: uncertain
+    category_hint: "소비트렌드"
+    status: confirmed
 
-  - name: Jing Daily
-    url: "https://jingdaily.com/feed/"
-    source_type: SpecializedMedia
-    language: zh
-    country: USA
-    category_hint: 패션
-    status: uncertain
-
-  - name: PANDAILY
+  - name: "PANDAILY"
     url: "https://pandaily.com/feed/"
     source_type: TraditionalMedia
     language: zh
     country: CHN
-    category_hint: 소비트렌드
-    status: uncertain
+    category_hint: "소비트렌드"
+    status: confirmed
 
-  # ---------- Spanish (es) ----------
-  - name: Modaes
-    url: "https://www.modaes.com/feed.xml"
-    source_type: SpecializedMedia
-    language: es
-    country: ESP
-    category_hint: 패션
-    status: uncertain
+  # ---------- 5a. Google News KO (existing broad feeds) ----------
 
-  - name: Food Retail
-    url: "https://www.foodretail.es/rss/portada"
+  - name: "Google News KR Food"
+    url: "https://news.google.com/rss/search?q=%EC%8B%9D%ED%92%88%20OR%20%EC%9C%A0%ED%86%B5&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "Google News KR Beauty"
+    url: "https://news.google.com/rss/search?q=%ED%99%94%EC%9E%A5%ED%92%88%20OR%20%EB%B7%B0%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "Google News KR Fashion"
+    url: "https://news.google.com/rss/search?q=%ED%8C%A8%EC%85%98%20OR%20%EC%9D%98%EB%A5%98&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "Google News KR Living"
+    url: "https://news.google.com/rss/search?q=%EB%A6%AC%EB%B9%99%20OR%20%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "Google News KR Hospitality"
+    url: "https://news.google.com/rss/search?q=%ED%98%B8%ED%85%94%20OR%20%EC%97%AC%ED%96%89&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  # ---------- 5b. Google News KO (category-specific, 24) ----------
+
+  - name: "GN-KO [식음료] 건강기능식품 OR 건기식"
+    url: "https://news.google.com/rss/search?q=%EA%B1%B4%EA%B0%95%EA%B8%B0%EB%8A%A5%EC%8B%9D%ED%92%88%20OR%20%EA%B1%B4%EA%B8%B0%EC%8B%9D&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-KO [식음료] 외식업 OR 프랜차이즈"
+    url: "https://news.google.com/rss/search?q=%EC%99%B8%EC%8B%9D%EC%97%85%20OR%20%ED%94%84%EB%9E%9C%EC%B0%A8%EC%9D%B4%EC%A6%88&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-KO [식음료] 편의점 OR 대형마트"
+    url: "https://news.google.com/rss/search?q=%ED%8E%B8%EC%9D%98%EC%A0%90%20OR%20%EB%8C%80%ED%98%95%EB%A7%88%ED%8A%B8&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-KO [식음료] 대체육 OR 비건"
+    url: "https://news.google.com/rss/search?q=%EB%8C%80%EC%B2%B4%EC%9C%A1%20OR%20%EB%B9%84%EA%B1%B4&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-KO [뷰티] K뷰티 OR K-beauty"
+    url: "https://news.google.com/rss/search?q=K%EB%B7%B0%ED%8B%B0%20OR%20K-beauty&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-KO [뷰티] 화장품 신제품"
+    url: "https://news.google.com/rss/search?q=%ED%99%94%EC%9E%A5%ED%92%88%20%EC%8B%A0%EC%A0%9C%ED%92%88&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-KO [뷰티] 올리브영"
+    url: "https://news.google.com/rss/search?q=%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-KO [뷰티] 인디 뷰티"
+    url: "https://news.google.com/rss/search?q=%EC%9D%B8%EB%94%94%20%EB%B7%B0%ED%8B%B0&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-KO [패션] 럭셔리 OR 명품"
+    url: "https://news.google.com/rss/search?q=%EB%9F%AD%EC%85%94%EB%A6%AC%20OR%20%EB%AA%85%ED%92%88&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-KO [패션] K패션"
+    url: "https://news.google.com/rss/search?q=K%ED%8C%A8%EC%85%98&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-KO [패션] 스트리트패션 OR 스트릿"
+    url: "https://news.google.com/rss/search?q=%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%ED%8C%A8%EC%85%98%20OR%20%EC%8A%A4%ED%8A%B8%EB%A6%BF&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-KO [패션] 리세일 OR 중고명품"
+    url: "https://news.google.com/rss/search?q=%EB%A6%AC%EC%84%B8%EC%9D%BC%20OR%20%EC%A4%91%EA%B3%A0%EB%AA%85%ED%92%88&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-KO [라이프스타일] 프리미엄 가전"
+    url: "https://news.google.com/rss/search?q=%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EA%B0%80%EC%A0%84&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-KO [라이프스타일] 호캉스 OR 호텔"
+    url: "https://news.google.com/rss/search?q=%ED%98%B8%EC%BA%89%EC%8A%A4%20OR%20%ED%98%B8%ED%85%94&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-KO [라이프스타일] 인테리어 트렌드"
+    url: "https://news.google.com/rss/search?q=%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%ED%8A%B8%EB%A0%8C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-KO [라이프스타일] 웰니스"
+    url: "https://news.google.com/rss/search?q=%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-KO [소비트렌드] MZ세대 소비"
+    url: "https://news.google.com/rss/search?q=MZ%EC%84%B8%EB%8C%80%20%EC%86%8C%EB%B9%84&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-KO [소비트렌드] 구독경제"
+    url: "https://news.google.com/rss/search?q=%EA%B5%AC%EB%8F%85%EA%B2%BD%EC%A0%9C&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-KO [소비트렌드] DTC"
+    url: "https://news.google.com/rss/search?q=DTC&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-KO [소비트렌드] 가치소비"
+    url: "https://news.google.com/rss/search?q=%EA%B0%80%EC%B9%98%EC%86%8C%EB%B9%84&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-KO [MacroTrends] ESG 소비재"
+    url: "https://news.google.com/rss/search?q=ESG%20%EC%86%8C%EB%B9%84%EC%9E%AC&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  - name: "GN-KO [MacroTrends] AI 리테일"
+    url: "https://news.google.com/rss/search?q=AI%20%EB%A6%AC%ED%85%8C%EC%9D%BC&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  - name: "GN-KO [MacroTrends] 금리 소비"
+    url: "https://news.google.com/rss/search?q=%EA%B8%88%EB%A6%AC%20%EC%86%8C%EB%B9%84&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  - name: "GN-KO [MacroTrends] 인구 구조 소비"
+    url: "https://news.google.com/rss/search?q=%EC%9D%B8%EA%B5%AC%20%EA%B5%AC%EC%A1%B0%20%EC%86%8C%EB%B9%84&hl=ko&gl=KR&ceid=KR:ko"
+    source_type: TraditionalMedia
+    language: ko
+    country: KOR
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  # ---------- 5c. Google News JA (10) ----------
+  # Japanese trade-media RSS all dead per audit; GN-JA covers the language.
+
+  - name: "GN-JA [식음료] 食品 トレンド"
+    url: "https://news.google.com/rss/search?q=%E9%A3%9F%E5%93%81%20%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-JA [식음료] 外食 チェーン"
+    url: "https://news.google.com/rss/search?q=%E5%A4%96%E9%A3%9F%20%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-JA [뷰티] 化粧品 ブランド"
+    url: "https://news.google.com/rss/search?q=%E5%8C%96%E7%B2%A7%E5%93%81%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-JA [뷰티] コスメ 新商品"
+    url: "https://news.google.com/rss/search?q=%E3%82%B3%E3%82%B9%E3%83%A1%20%E6%96%B0%E5%95%86%E5%93%81&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-JA [패션] ファッション 業界"
+    url: "https://news.google.com/rss/search?q=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%A5%AD%E7%95%8C&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-JA [패션] ラグジュアリー 日本"
+    url: "https://news.google.com/rss/search?q=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%BC%20%E6%97%A5%E6%9C%AC&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-JA [라이프스타일] ホテル ニュース"
+    url: "https://news.google.com/rss/search?q=%E3%83%9B%E3%83%86%E3%83%AB%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-JA [라이프스타일] ライフスタイル ブランド"
+    url: "https://news.google.com/rss/search?q=%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-JA [소비트렌드] Z世代 消費"
+    url: "https://news.google.com/rss/search?q=Z%E4%B8%96%E4%BB%A3%20%E6%B6%88%E8%B2%BB&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-JA [소비트렌드] サブスク 消費"
+    url: "https://news.google.com/rss/search?q=%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%20%E6%B6%88%E8%B2%BB&hl=ja&gl=JP&ceid=JP:ja"
+    source_type: TraditionalMedia
+    language: ja
+    country: JPN
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  # ---------- 5d. Google News ZH-Hans (10) ----------
+
+  - name: "GN-ZH [식음료] 食品 消费"
+    url: "https://news.google.com/rss/search?q=%E9%A3%9F%E5%93%81%20%E6%B6%88%E8%B4%B9&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-ZH [식음료] 餐饮 品牌"
+    url: "https://news.google.com/rss/search?q=%E9%A4%90%E9%A5%AE%20%E5%93%81%E7%89%8C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-ZH [뷰티] 化妆品 品牌"
+    url: "https://news.google.com/rss/search?q=%E5%8C%96%E5%A6%86%E5%93%81%20%E5%93%81%E7%89%8C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-ZH [뷰티] 美妆 新品"
+    url: "https://news.google.com/rss/search?q=%E7%BE%8E%E5%A6%86%20%E6%96%B0%E5%93%81&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-ZH [패션] 时尚 品牌"
+    url: "https://news.google.com/rss/search?q=%E6%97%B6%E5%B0%9A%20%E5%93%81%E7%89%8C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-ZH [패션] 奢侈品"
+    url: "https://news.google.com/rss/search?q=%E5%A5%A2%E4%BE%88%E5%93%81&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-ZH [라이프스타일] 生活方式 品牌"
+    url: "https://news.google.com/rss/search?q=%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F%20%E5%93%81%E7%89%8C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-ZH [라이프스타일] 酒店 旅游"
+    url: "https://news.google.com/rss/search?q=%E9%85%92%E5%BA%97%20%E6%97%85%E6%B8%B8&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-ZH [소비트렌드] Z世代 消费"
+    url: "https://news.google.com/rss/search?q=Z%E4%B8%96%E4%BB%A3%20%E6%B6%88%E8%B4%B9&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-ZH [소비트렌드] 国潮"
+    url: "https://news.google.com/rss/search?q=%E5%9B%BD%E6%BD%AE&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    source_type: TraditionalMedia
+    language: zh
+    country: CHN
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  # ---------- 5e. Google News ES (10) ----------
+  # Spanish trade coverage is thin; GN-ES supplements Modaes.es and Expansion.
+
+  - name: "GN-ES [식음료] alimentacion tendencias"
+    url: "https://news.google.com/rss/search?q=alimentacion%20tendencias&hl=es&gl=ES&ceid=ES:es"
     source_type: TraditionalMedia
     language: es
     country: ESP
-    category_hint: 식음료
-    status: uncertain
+    category_hint: "식음료"
+    status: confirmed
 
-  - name: Marketing News ES
-    url: "https://www.marketingnews.es/rss"
+  - name: "GN-ES [식음료] restaurante Espana"
+    url: "https://news.google.com/rss/search?q=restaurante%20Espana&hl=es&gl=ES&ceid=ES:es"
     source_type: TraditionalMedia
     language: es
     country: ESP
-    category_hint: 소비트렌드
-    status: uncertain
+    category_hint: "식음료"
+    status: confirmed
+
+  - name: "GN-ES [뷰티] belleza cosmetica"
+    url: "https://news.google.com/rss/search?q=belleza%20cosmetica&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-ES [뷰티] skincare Espana"
+    url: "https://news.google.com/rss/search?q=skincare%20Espana&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "뷰티"
+    status: confirmed
+
+  - name: "GN-ES [패션] moda Espana"
+    url: "https://news.google.com/rss/search?q=moda%20Espana&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-ES [패션] lujo Espana"
+    url: "https://news.google.com/rss/search?q=lujo%20Espana&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "패션"
+    status: confirmed
+
+  - name: "GN-ES [라이프스타일] estilo de vida marca"
+    url: "https://news.google.com/rss/search?q=estilo%20de%20vida%20marca&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-ES [라이프스타일] hotel viajes Espana"
+    url: "https://news.google.com/rss/search?q=hotel%20viajes%20Espana&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "라이프스타일"
+    status: confirmed
+
+  - name: "GN-ES [소비트렌드] consumo generacion Z"
+    url: "https://news.google.com/rss/search?q=consumo%20generacion%20Z&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-ES [소비트렌드] DTC Espana"
+    url: "https://news.google.com/rss/search?q=DTC%20Espana&hl=es&gl=ES&ceid=ES:es"
+    source_type: TraditionalMedia
+    language: es
+    country: ESP
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  # ---------- 5f. Google News EN — soft trend / macro (5) ----------
+
+  - name: "GN-EN [소비트렌드] gen z consumer trends"
+    url: "https://news.google.com/rss/search?q=gen%20z%20consumer%20trends&hl=en-US&gl=US&ceid=US:en"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-EN [소비트렌드] subscription economy"
+    url: "https://news.google.com/rss/search?q=subscription%20economy&hl=en-US&gl=US&ceid=US:en"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: "소비트렌드"
+    status: confirmed
+
+  - name: "GN-EN [MacroTrends] consumer sentiment index"
+    url: "https://news.google.com/rss/search?q=consumer%20sentiment%20index&hl=en-US&gl=US&ceid=US:en"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  - name: "GN-EN [MacroTrends] retail AI adoption"
+    url: "https://news.google.com/rss/search?q=retail%20AI%20adoption&hl=en-US&gl=US&ceid=US:en"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  - name: "GN-EN [MacroTrends] ESG consumer goods"
+    url: "https://news.google.com/rss/search?q=ESG%20consumer%20goods&hl=en-US&gl=US&ceid=US:en"
+    source_type: TraditionalMedia
+    language: en
+    country: USA
+    category_hint: "MacroTrends"
+    status: confirmed
+
+  # =============================================================================
+  # 6. Commented-out DEAD feeds (audit 2026-04-21)
+  # Preserved as comments so future RSS revival can be checked quickly.
+  # =============================================================================
+
+  # - name: "Vogue Business"    # DEAD 404 2026-04-21
+  #   url: "https://www.voguebusiness.com/rss"
+  #   language: en
+
+  # - name: "Hospitality Net"    # DEAD 404 2026-04-21
+  #   url: "https://www.hospitalitynet.org/rss/channel.rss"
+  #   language: en
+
+  # - name: "TrendWatching"    # DEAD 404 2026-04-21 — RSS discontinued
+  #   url: "https://www.trendwatching.com/feed/"
+  #   language: en
+
+  # - name: "Springwise"    # DEAD 403 2026-04-21 — Cloudflare
+  #   url: "https://www.springwise.com/feed/"
+  #   language: en
+
+  # - name: "Nikkei Business RSS"    # DEAD 404 2026-04-21
+  #   url: "https://www.nikkei.com/rss/topstories.rdf"
+  #   language: ja
+
+  # - name: "WWD Japan"    # DEAD 403 2026-04-21 — login wall
+  #   url: "https://www.wwdjapan.com/feed"
+  #   language: ja
+
+  # - name: "Fashionsnap"    # DEAD 404 2026-04-21
+  #   url: "https://www.fashionsnap.com/feed/"
+  #   language: ja
+
+  # - name: "Jing Daily"    # DEAD 404 2026-04-21
+  #   url: "https://jingdaily.com/feed/"
+  #   language: zh
+
+  # - name: "Modaes (legacy URL)"    # DEAD 404 2026-04-21 — replaced by modaes.es/rss.xml
+  #   url: "https://www.modaes.com/feed.xml"
+  #   language: es
+
+  # - name: "Food Retail"    # DEAD 404 2026-04-21
+  #   url: "https://www.foodretail.es/rss/portada"
+  #   language: es
+
+  # - name: "Marketing News ES"    # DEAD 410 2026-04-21 — permanently gone
+  #   url: "https://www.marketingnews.es/rss"
+  #   language: es

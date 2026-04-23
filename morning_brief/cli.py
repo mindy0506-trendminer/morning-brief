@@ -14,12 +14,15 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 import os
 import re
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -148,7 +151,7 @@ def _run_pipeline(
     Writes the static HTML site under ``out/`` (plan v2 §C). The legacy EML
     output was retired in PR-4; recover via git tag ``pre-renderer-deletion``.
     """
-    from morning_brief import collector, selector, summarizer
+    from morning_brief import collector, db as db_mod, selector, summarizer
     from morning_brief.db import bootstrap, insert_run, update_run_completed
 
     now = datetime.now(timezone.utc).replace(tzinfo=None)
@@ -166,6 +169,25 @@ def _run_pipeline(
         articles, collect_errors = collector.collect(conn, now, dry_run=dry_run)
         stage_durations["collect"] = time.time() - t0
         run_notes.extend(collect_errors)
+
+        # ---- Cross-run article dedup (filter) ----
+        # Drop articles whose ids were already marked as briefed in a
+        # previous successful run. Happens BEFORE AC12's distinct-feed
+        # check so the threshold applies to the post-filter pool.
+        briefed_ids = db_mod.get_briefed_article_ids(conn)
+        if briefed_ids:
+            pre_filter_count = len(articles)
+            articles = [a for a in articles if a.id not in briefed_ids]
+            filtered_count = pre_filter_count - len(articles)
+            if filtered_count > 0:
+                logger.info(
+                    "Filtered %d already-briefed articles (%d remain)",
+                    filtered_count,
+                    len(articles),
+                )
+                run_notes.append(
+                    f"dedup: filtered {filtered_count} already-briefed articles"
+                )
 
         # AC12: abort early if fewer than 3 distinct feeds contributed articles
         if not dry_run:
@@ -249,6 +271,36 @@ def _run_pipeline(
             partial_banner_reason=_partial_banner_reason_from_env(),
         )
         stage_durations["render"] = time.time() - t0
+
+        # ---- Cross-run article dedup (mark) ----
+        # Record every article that made it into the final briefing so it
+        # cannot resurface in a later run. Happens AFTER renderer success:
+        # Call B failure raises SystemExit(4) above and render failures
+        # propagate — either path skips marking, leaving articles eligible.
+        # Setting MB_NO_DEDUP_PERSIST=1 opts out for repeated local tests.
+        if not _env_truthy("MB_NO_DEDUP_PERSIST"):
+            article_cluster_pairs: list[tuple[str, str | None]] = []
+            seen_article_ids: set[str] = set()
+            for ki in key_issues_all:
+                cluster_id = ki.cluster_id
+                for article in ki.article_bundle:
+                    if article.id in seen_article_ids:
+                        continue
+                    seen_article_ids.add(article.id)
+                    article_cluster_pairs.append((article.id, cluster_id))
+
+            briefed_at = datetime.now(timezone.utc).isoformat()
+            inserted = db_mod.mark_articles_briefed(
+                conn,
+                article_cluster_pairs,
+                run_id=run_id,
+                briefed_at=briefed_at,
+            )
+            logger.info(
+                "Marked %d articles as briefed (run_id=%s)", inserted, run_id
+            )
+        else:
+            logger.info("MB_NO_DEDUP_PERSIST set — skipping briefed marking")
 
         # ---- Persist run completion ----
         completed_at = datetime.now(timezone.utc).replace(tzinfo=None)

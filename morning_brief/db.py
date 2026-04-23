@@ -80,6 +80,25 @@ def _create_tables(conn: sqlite3.Connection) -> None:
             schema_version          TEXT,
             notes                   TEXT
         );
+
+        -- Cross-run article-level deduplication ledger.
+        -- Rationale: user requirement — "한번 다루었던 기사를 다시 게시하는
+        -- 일은 없어야 할 것 같아요" (an article already briefed must never be
+        -- published again). Rows are inserted ONLY after the renderer has
+        -- successfully emitted the briefing site, so pipeline aborts (Call B
+        -- failure, render failure) leave articles eligible for a future run.
+        -- A subsequent pipeline run reads this table pre-clustering to
+        -- filter out previously-briefed article_ids from the candidate pool.
+        CREATE TABLE IF NOT EXISTS briefed_articles (
+            article_id     TEXT NOT NULL,
+            run_id         TEXT NOT NULL,
+            briefed_at     TEXT NOT NULL,
+            cluster_id     TEXT,
+            PRIMARY KEY (article_id, run_id),
+            FOREIGN KEY (article_id) REFERENCES articles(id)
+        );
+        CREATE INDEX IF NOT EXISTS idx_briefed_articles_article_id
+            ON briefed_articles(article_id);
         """
     )
     conn.commit()
@@ -92,11 +111,35 @@ def _apply_migrations(conn: sqlite3.Connection) -> None:
       - Add ``articles.company_tags`` (TEXT, JSON-encoded list, default '[]')
         for DBs bootstrapped before PR-1. ``PRAGMA table_info`` is consulted
         so calls are safe on both fresh and existing DBs.
+      - Add ``briefed_articles`` table + index for cross-run article
+        deduplication. For pre-existing DBs where ``_create_tables`` ran
+        before this table existed, we check ``sqlite_master`` and create
+        the table + index idempotently.
     """
     cols = {row["name"] for row in conn.execute("PRAGMA table_info(articles)")}
     if "company_tags" not in cols:
         conn.execute(
             "ALTER TABLE articles ADD COLUMN company_tags TEXT NOT NULL DEFAULT '[]'"
+        )
+
+    existing_tables = {
+        row["name"]
+        for row in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")
+    }
+    if "briefed_articles" not in existing_tables:
+        conn.executescript(
+            """
+            CREATE TABLE IF NOT EXISTS briefed_articles (
+                article_id     TEXT NOT NULL,
+                run_id         TEXT NOT NULL,
+                briefed_at     TEXT NOT NULL,
+                cluster_id     TEXT,
+                PRIMARY KEY (article_id, run_id),
+                FOREIGN KEY (article_id) REFERENCES articles(id)
+            );
+            CREATE INDEX IF NOT EXISTS idx_briefed_articles_article_id
+                ON briefed_articles(article_id);
+            """
         )
     conn.commit()
 
@@ -298,6 +341,64 @@ def query_entity_prior_days(
         (entity_norm, since),
     ).fetchone()
     return row["total_occurrences"] if row else 0
+
+
+def mark_articles_briefed(
+    conn: sqlite3.Connection,
+    article_cluster_pairs: list[tuple[str, str | None]],
+    run_id: str,
+    briefed_at: str,
+) -> int:
+    """Insert rows into ``briefed_articles``. Returns the count inserted.
+
+    Uses ``INSERT OR IGNORE`` so reruns of the same ``(article_id, run_id)``
+    pair are idempotent — re-running ``rerender`` or a retry step cannot
+    inflate the ledger.
+    """
+    if not article_cluster_pairs:
+        return 0
+    rows = [
+        (article_id, run_id, briefed_at, cluster_id)
+        for (article_id, cluster_id) in article_cluster_pairs
+    ]
+    cur = conn.executemany(
+        """
+        INSERT OR IGNORE INTO briefed_articles
+            (article_id, run_id, briefed_at, cluster_id)
+        VALUES (?, ?, ?, ?)
+        """,
+        rows,
+    )
+    conn.commit()
+    # sqlite3 exposes rowcount on the cursor returned by executemany as the
+    # total number of affected rows (OR IGNORE skips are not counted).
+    return cur.rowcount if cur.rowcount is not None and cur.rowcount >= 0 else 0
+
+
+def get_briefed_article_ids(conn: sqlite3.Connection) -> set[str]:
+    """Return the set of ``article_id`` values present in ``briefed_articles``.
+
+    Used as a pre-filter to exclude previously-briefed articles from the
+    candidate pool before scoring/clustering on later runs.
+    """
+    rows = conn.execute("SELECT DISTINCT article_id FROM briefed_articles").fetchall()
+    return {row["article_id"] for row in rows}
+
+
+def get_briefed_article_canonical_urls(conn: sqlite3.Connection) -> set[str]:
+    """Return the set of ``canonical_url`` values of previously-briefed articles.
+
+    Joined via ``articles.id = briefed_articles.article_id``. Useful when
+    filtering BEFORE articles are upserted (during collect).
+    """
+    rows = conn.execute(
+        """
+        SELECT DISTINCT a.canonical_url
+        FROM briefed_articles b
+        JOIN articles a ON a.id = b.article_id
+        """
+    ).fetchall()
+    return {row["canonical_url"] for row in rows}
 
 
 def is_warmup_phase(conn: sqlite3.Connection, today: datetime) -> bool:

@@ -145,8 +145,24 @@ morning_brief/
                   novelty/diffusion scoring, top-N picker
   summarizer.py   Two-call LLM pipeline + Blocker-3 section finalization
   site/           Static-site generator (Jinja2 templates + archive writer)
-  db.py           SQLite schema (articles, clusters, entity_history, runs)
+  db.py           SQLite schema (articles, clusters, entity_history, runs,
+                  briefed_articles)
 ```
+
+### Cross-run article dedup
+
+An article's `canonical_url` must appear in **at most one** completed briefing
+across the lifetime of the DB. After a successful run, every article that
+reached the final briefing is recorded in the `briefed_articles` table
+(keyed by `(article_id, run_id)`). On every subsequent run, the pipeline
+pre-filters the candidate pool against this ledger so the same article
+cannot resurface once it has been published — even if the underlying feed
+keeps serving it for days.
+
+Marking happens **after** renderer success, so Call B failures and render
+errors leave articles eligible for the next run. Set
+`MB_NO_DEDUP_PERSIST=1` to opt out of marking during repeated local
+dry-runs.
 
 ### Two-call LLM pipeline
 

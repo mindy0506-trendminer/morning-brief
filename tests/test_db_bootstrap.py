@@ -11,7 +11,14 @@ import pytest
 from morning_brief.db import bootstrap, is_warmup_phase
 
 
-_ALL_TABLES = {"articles", "entity_history", "clusters", "cluster_members", "runs"}
+_ALL_TABLES = {
+    "articles",
+    "entity_history",
+    "clusters",
+    "cluster_members",
+    "runs",
+    "briefed_articles",
+}
 
 
 def _table_names(conn) -> set[str]:
@@ -23,7 +30,7 @@ def _table_names(conn) -> set[str]:
 
 class TestBootstrap:
     def test_creates_all_tables(self, tmp_path: Path):
-        """bootstrap() on a fresh path creates all 5 expected tables."""
+        """bootstrap() on a fresh path creates all 6 expected tables."""
         db_path = tmp_path / "sub" / "briefing.db"
         conn = bootstrap(db_path)
         assert _table_names(conn) == _ALL_TABLES
