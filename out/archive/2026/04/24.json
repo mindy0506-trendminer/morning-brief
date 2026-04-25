@@ -1,148 +1,163 @@
 {
   "schema_version": "v2",
   "exec_summary_ko": [
-    "K-뷰티·패션, 동남아 현지 상담회·전시로 수출 공세 본격화",
-    "로레알 1분기 매출 7.6% 성장, 글로벌 뷰티 프리미엄 수요 견고 확인",
-    "호텔 객실의 미디어아트 전시 전환, 체험형 공간 소비 구도 재편"
+    "코스맥스, AI 헬스케어와 손잡고 개인 맞춤형 화장품 개발 본격화",
+    "중국 Z세대, 브랜드 충성도보다 가격·편의성 중심으로 소비 구조 재편",
+    "호텔신라 1분기 흑자 전환, 내실 경영이 프리미엄 호스피탈리티 반등 이끌어"
   ],
   "sections": {
-    "식음료": [
-      {
-        "cluster_id": "f536066e-de34-43ef-b0f1-9c8e2a834cfc",
-        "title_ko": "대체육 불만족, 한·미 온도차",
-        "summary_ko": "대체육에 대한 불만족 이유가 한국과 미국에서 정반대로 나타났다. 한국 소비자는 맛·식감을 우선 지적한 반면, 미국은 가격과 가공도에 민감한 것으로 분석된다. 두 시장의 소비 기준이 다른 만큼 제품 전략도 달라져야 한다는 함의를 준다.",
-        "is_paywalled": false
-      },
-      {
-        "cluster_id": "c04b59c5-ea2a-44af-85ea-22c6ea9deb94",
-        "title_ko": "비거니즘 인지도, 구매로 이어지나",
-        "summary_ko": "2025년 한국리서치 조사에 따르면 비거니즘 인지도는 높아졌으나 비건 제품 실구매 경험은 여전히 제한적이다. 인지와 행동 사이의 간극이 좁혀지지 않는 한 대체육·비건 시장의 실질 성장은 더딜 수 있다.",
-        "is_paywalled": false
-      }
-    ],
     "뷰티": [
       {
-        "cluster_id": "73445f40-4590-4490-b73f-68f90757e3ce",
-        "title_ko": "K-뷰티, 싱가포르 공략 강화",
-        "summary_ko": "코이코가 싱가포르 마리나베이샌즈에서 열린 BeautyAsia 2026 한국관을 주관하며 8개 국내 기업의 아시아 시장 진출을 지원했다. 28회 역사의 권위 있는 전시회 참가로 동남아 바이어 네트워크 확장에 속도를 냈다.",
+        "cluster_id": "42054eb7-8898-4ced-8491-32b3ce8b2cb7",
+        "title_ko": "코스맥스, AI로 맞춤 화장품 시대 열어",
+        "summary_ko": "코스맥스가 미국 AI 헬스케어 스타트업 EON.HEALTH와 MOU를 체결하고 웨어러블 생체 데이터 기반 개인 맞춤형 화장품 큐레이션 모델 개발에 착수했다. 제조 역량과 디지털 AI 기술의 결합은 K-뷰티 ODM 경쟁의 축을 '효능'에서 '개인화'로 이동시키는 신호탄으로 읽힌다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "f788b393-f973-41f4-b25c-99add9ecdc7d",
-        "title_ko": "중진공, K-뷰티 베트남 상담회",
-        "summary_ko": "중소벤처기업부·중진공이 K-뷰티 중소기업을 대상으로 베트남 현지 비즈니스 상담회를 개최했다. 싱가포르 전시와 맞물려 동남아 전방위 진출 지원 체계가 가동되고 있다.",
-        "is_paywalled": false
-      },
-      {
-        "cluster_id": "2f2313b6-df67-40f9-bcf9-b3934a203d26",
-        "title_ko": "로레알, 1분기 매출 120억 유로 돌파",
-        "summary_ko": "로레알이 2026년 1분기 매출 121억 5200만 유로를 기록하며 전년 대비 비교 성장률 7.6%를 달성했다. 글로벌 프리미엄 화장품 수요가 거시 불확실성 속에서도 탄탄하게 유지되고 있음을 보여주는 결과다.",
+        "cluster_id": "18e4512d-6440-41be-bebc-5f3013b1c39b",
+        "title_ko": "화장품 소형주, 급등세로 섹터 주도",
+        "summary_ko": "4월 24일 화장품 섹터 지수가 4.72% 급등하며 전주 조정 구간을 완전히 만회했다. CSA코스믹·오가닉티코스메틱이 상한가를 기록하는 등 66개 종목 중 55개가 강세를 보여, 소형주 중심의 투자 심리 회복이 뚜렷하다.",
         "is_paywalled": false
       }
     ],
     "패션": [
       {
-        "cluster_id": "4088575a-9aa6-4f81-9382-99ce58d134fa",
-        "title_ko": "K-콘텐츠가 K-패션 수출 견인",
-        "summary_ko": "한일 합작 드라마 '내 남편과 결혼해줘' 흥행 배경에는 K-패션·웹툰·댄스를 연계 지원하는 정부 수출 인프라가 있었다. 콘텐츠 성공이 패션 수출로 이어지는 선순환 구조가 가시화되고 있다.",
+        "cluster_id": "47500f1d-b2cf-4ce0-a543-718f0025e88c",
+        "title_ko": "중고 명품 플랫폼 경쟁 가속화",
+        "summary_ko": "합리적 소비 기조가 확산되며 중고 명품 시장이 가파르게 성장하고 있다. 플랫폼 간 경쟁이 치열해지면서 가격 신뢰성과 정품 보증 역량이 시장 선점의 핵심 변수로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "68a72df0-01ac-4f34-96de-7c00ac75e42e",
+        "title_ko": "K-패션·미식, 팝업으로 접점 확대",
+        "summary_ko": "강남·서초 일대에서 K-맛·멋·미를 묶은 케미스트릿 팝업 이벤트가 진행됐다. 패션과 F&B를 교차 배치한 체험형 팝업 형식은 Z세대 유입과 SNS 확산을 동시에 겨냥한 전략으로 자리잡고 있다.",
         "is_paywalled": false
       }
     ],
     "라이프스타일": [
       {
-        "cluster_id": "eae2ab59-1f9c-40a8-a109-38238ae6f16d",
-        "title_ko": "호텔 객실, 미디어아트 전시장으로",
-        "summary_ko": "아트페어 '루프 플러스'가 호텔 객실을 미디어아트 전시 공간으로 전환해 개막했다. 숙박과 예술 감상을 결합한 체험형 소비가 호캉스 시장의 새로운 차별화 축으로 떠오르고 있다.",
+        "cluster_id": "49ad0bd6-1dbc-4a29-be90-a2f9f40f1c3c",
+        "title_ko": "호텔신라, 내실 경영으로 흑자 전환",
+        "summary_ko": "호텔신라가 2026년 1분기 영업이익 204억 원을 기록하며 흑자로 돌아섰다. 비용 구조 최적화와 내실 경영의 효과가 가시화된 결과로, 프리미엄 숙박 수요 회복과 맞물려 실적 개선 흐름이 이어질지 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d680af24-bb35-411e-802c-1ba01631dabf",
+        "title_ko": "제주신라호텔, 몰튼 브라운 국내 최대 매장 오픈",
+        "summary_ko": "제주신라호텔이 국내 최대 규모의 몰튼 브라운 단독 매장을 열었다. 호텔 내 프리미엄 향 브랜드 입점은 투숙 경험을 차별화하는 동시에 리조트형 리테일 매출을 강화하는 복합 전략의 일환이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bdd09cfd-63a4-438e-826f-775169084d3d",
+        "title_ko": "거제삼성호텔, 보훈대상자 할인 협약",
+        "summary_ko": "거제삼성호텔이 경남동부보훈지청과 업무협약을 맺고 국가보훈대상자에게 이용료 할인을 제공한다. 지역 거점 호텔의 사회 공헌형 협약으로, 브랜드 신뢰도 제고와 지역 연계 마케팅 효과를 함께 노린 행보다.",
         "is_paywalled": false
       }
     ],
     "소비트렌드": [
       {
-        "cluster_id": "596b7e75-3c23-46c2-92e1-4911eb19847e",
-        "title_ko": "구독형 보험 시대 예고",
-        "summary_ko": "국내 보험업계에서 구독 경제 모델을 적용한 '구독형 보험' 시대가 열릴 것으로 전망된다. 소비자가 필요한 시점에 보험을 켜고 끄는 유연한 방식으로, 구독형 소비 패턴이 금융 상품으로까지 확산되는 흐름이다.",
+        "cluster_id": "60b3e920-5f3f-4f20-aeca-0d0815b432a1",
+        "title_ko": "중국 Z세대, 가성비·편의성 최우선",
+        "summary_ko": "중국 Z세대 소비자는 월 200위안 수준의 뷰티 예산 안에서 브랜드보다 가격과 사용 편의성을 우선 기준으로 삼으며, 제품 정보는 샤오홍슈를 통해 획득한다. K-뷰티 브랜드가 이 시장에서 프리미엄 포지셔닝을 유지하려면 가격 정당성과 콘텐츠 접점 전략을 동시에 재점검해야 한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b9006374-70a3-41e2-9f60-67ce33da9415",
+        "title_ko": "구독형 보험, 국내 보험업 판도 예고",
+        "summary_ko": "국내 보험업계에서 구독 방식의 보험 서비스 시대 개막이 예고되고 있다. 구독 경제의 소비 습관이 금융 영역까지 확장되며, 단기·유연 가입 구조가 MZ 세대를 겨냥한 새로운 경쟁 축으로 부상할 전망이다.",
         "is_paywalled": false
       }
     ]
   },
-  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '경험의 프리미엄화'와 'K-브랜드의 동남아 거점 다변화'다. 로레알의 견고한 성장과 호텔 객실 아트페어는 소비자가 제품과 공간 모두에서 단순 구매를 넘어 감각적 경험에 기꺼이 지갑을 연다는 신호다. 동시에 K-뷰티와 K-패션은 싱가포르·베트남을 동시 공략하며 동남아 내 복수 거점 전략으로 전환하고 있다. 대체육 시장은 인지도와 실구매 사이의 간극이 여전히 좁혀지지 않아, 브랜드가 '건강 명분' 이상의 맛·가격 설득력을 갖춰야 한다는 숙제를 남긴다.",
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '개인화'와 '가치 재정의'의 동시 진행이다. 코스맥스의 AI 맞춤 화장품은 뷰티 제조의 개인화를 기술로 풀려는 시도이고, 중국 Z세대의 브랜드 이탈은 소비자 스스로 가치 기준을 재정의하는 현상이다. 프리미엄 호텔의 흑자 전환과 몰튼 브라운 매장 확장은 '경험 소비' 수요가 회복 국면에 접어들었음을 보여준다. 결국 브랜드가 살아남으려면 기술·가격·경험 세 축 중 최소 두 개에서 명확한 답을 갖춰야 하는 시점이다.",
   "cards_meta": {
-    "f536066e-de34-43ef-b0f1-9c8e2a834cfc": {
-      "category": "식음료",
-      "source_name": "GN-KO [식음료] 대체육 OR 비건",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZXljMDZ3TmhkQ2R1T0QySnNxWDFjX0l6aVlBUXQ0aGRScndwWHhJR2dacV9aZjlyUkNpVTFDb1dGQzI1aVFPN05rWFlwUi1Cdkp0UUF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "'건강 만점' 대체육, 왠지 불만족...그 이유, 한·미 180도 달랐다 - 중앙일보",
-      "languages": [
-        "ko"
-      ],
-      "sceep_dimensions": []
-    },
-    "c04b59c5-ea2a-44af-85ea-22c6ea9deb94": {
-      "category": "식음료",
-      "source_name": "GN-KO [식음료] 대체육 OR 비건",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3VzlIQWFRRWdSVFdNVF9CdmJ1M0hnSG0xZWhtdUxMV0VBaFU4enFKVFR4RVdicE85cDJ5ZEFDTjlScWdRTEt0b3hPN1ZoS2NS0gFWQVVfeXFMT1JMWEx6bTNWQTYxcnJRR3JqM1hWRHVkNzBXTGh3MlducXlJYVZWQTFWaEtuOGZ2aXRSY3NaUjd1ay1FbGtDU2MtX2otbm9mYUFHN3BVQ2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "[2025년 채식·비거니즘 인식조사] 비거니즘 인지도와 향후 전망, 비건제품 구매 경험 - 한국리서치 정기조사 여론속의 여론",
-      "languages": [
-        "ko"
-      ],
-      "sceep_dimensions": []
-    },
-    "73445f40-4590-4490-b73f-68f90757e3ce": {
+    "42054eb7-8898-4ced-8491-32b3ce8b2cb7": {
       "category": "뷰티",
-      "source_name": "장업신문",
-      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98571",
-      "original_headline": "코이코, ‘뷰티아시아 싱가포르 2026’ 한국관 운영",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309130",
+      "original_headline": "코스맥스, 미국 AI 헬스케어기업과 개인 맞춤형 화장품 개발",
       "languages": [
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "f788b393-f973-41f4-b25c-99add9ecdc7d": {
+    "18e4512d-6440-41be-bebc-5f3013b1c39b": {
       "category": "뷰티",
-      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03eVRPTEhFSmFtdE9hSzM2am40bTlZS3Y1WmQ4bjd1MGdXUkxFcGZ2eWQ0WGxwbkNOWGVBOXVIcEdoT3dJM25jbDlGSFNiZGE1dTZz?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "중진공, K-뷰티 中企 베트남 진출 지원 '비즈니스 상담회' 개최 - 네이트",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309131",
+      "original_headline": "화장품 동전주 강세...CSA코스믹·오가닉티코스메틱 상한가",
       "languages": [
-        "ko",
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "2f2313b6-df67-40f9-bcf9-b3934a203d26": {
-      "category": "뷰티",
-      "source_name": "Modaes.es",
-      "source_url": "https://www.modaes.com/empresas/loreal-aumenta-sus-ventas-un-36-en-el-primer-trimestre-hasta-12152-millones-de-euros",
-      "original_headline": "L’Oréal aumenta sus ventas un 3,6% en el primer trimestre, hasta 12.152 millones de euros",
-      "languages": [
-        "es"
-      ],
-      "sceep_dimensions": []
-    },
-    "4088575a-9aa6-4f81-9382-99ce58d134fa": {
+    "47500f1d-b2cf-4ce0-a543-718f0025e88c": {
       "category": "패션",
-      "source_name": "GN-KO [패션] K패션",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51RUdiOExTdXVWQXhQbDU2X1FvVW45cFRIYnZtZ3NTR2ItU3Nhei1Gd0VOQjJ3Q3Y1N091WFF0RmhWYTVOQ2JaZHNSajNtb3lqcWVhTTlTZVoyRmtzRzdRWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "한일합작 '내남결' 성공 뒤엔 이곳 있었다…K패션, 웹툰, 댄스 수출도 지원 - 네이트",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11bWJwczU3YUpoeWdPOW82NWFYZlpxTVNqRkdjZjZkVmExakFnamd6ckxTS1dJRWctT25FeHcxRV9haFBiRlRCYXF3OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고 명품 시장 급성장…합리적 소비 확산 속 플랫폼 경쟁 치열 - v.daum.net",
       "languages": [
-        "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "eae2ab59-1f9c-40a8-a109-38238ae6f16d": {
+    "68a72df0-01ac-4f34-96de-7c00ac75e42e": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "49ad0bd6-1dbc-4a29-be90-a2f9f40f1c3c": {
       "category": "라이프스타일",
       "source_name": "Google News KR Hospitality",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GemxWX0QxTzZXWV9Kd0gzYk1mYlpBb21uWC1MYmc0Ujg3QjZZVzZ5Ylc5WHA4Q1Rwb0xtMk5Mc1NpV3dDbGgwWmZocWZGYjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "미디어아트 전시장 된 호텔 객실…아트페어 '루프 플러스' 개막 - v.daum.net",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUm1jVHVielF2c3ZOTjVhcWJ3TTVxekVQd1V0NjZwQ0cyVndROVREU2U5dWM0RmtsWGZHbzdLYmVxY1NHNUJqWHJZZ1lERk53NkNsa2NvSUZGNWROeXBBZlBxeTR6MTF0WGJZQl9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔신라, 1분기 영업익 204억 ‘흑자 전환’…내실 경영 효과 본격화 - 이지경제",
       "languages": [
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "596b7e75-3c23-46c2-92e1-4911eb19847e": {
+    "d680af24-bb35-411e-802c-1ba01631dabf": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mdjhzV2hXN1pPZVM1YTQ1QzhzaGg4NXpubVdlTnFvZkI0NkJ1ZDVGTWpqT05kWGlxNkF4RVdlZU1pRHJSekRJTmQ3MWJiV2loYnY2a3hvNndkRHNuTDlkU0RBdWktemFRYXltbEQ3ZkYzcHExd3cwbm5NcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주신라호텔, 국내 최대 규모 ‘몰튼 브라운’ 매장 오픈 - 한국금융신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bdd09cfd-63a4-438e-826f-775169084d3d": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmxPUTRpelg0SkJCUjVYcHpQNy0xVVBINnJaR1RZNW83RWpvYnZ5b2tnYU5XdEZOUkZDZ0N4bVU3S3ZlaWJ1X3ZRSDBiemM2ckxlLWhYSGZtdG9pUWJnblhHM1dNcWMtMlBGV0hxcVhXeDl5MENkLWpicHdxM3ZvXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경남동부보훈지청-거제삼성호텔, 국가보훈대상자 이용료 할인 업무협약 체결 - 의령신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "60b3e920-5f3f-4f20-aeca-0d0815b432a1": {
+      "category": "소비트렌드",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=308690",
+      "original_headline": "중국 Z세대의 뷰티 소비관, \"브랜드보다 가격과 사용 편리성\"",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b9006374-70a3-41e2-9f60-67ce33da9415": {
       "category": "소비트렌드",
       "source_name": "GN-EN [소비트렌드] subscription economy",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWFqNTFQMnpEYjNaalMtajd4WWZtUE9PWVlGTW9URTJzcnJmVEZFUEhpNGFfT3FwYkdFOFB4NXNpaGY1RkZTRUswRmVzQlpqWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
