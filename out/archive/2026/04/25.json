@@ -1,0 +1,156 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 올리브영 우회 독립 채널로 매출 6배 사례 나오며 유통 전략 재편 가속",
+    "중고 명품 리세일 시장, 플랫폼 경쟁 격화 속 브랜드 자체 프로그램으로 확전",
+    "뉴욕 월드컵 특수 실종, 이벤트 기대 수요 공식이 흔들리는 조짐"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "7b4b2067-f60b-4c09-a765-bc329a7606fc",
+        "title_ko": "CJ웰케어, 혈당·체지방 동시 관리 제품 출시",
+        "summary_ko": "CJ웰케어가 혈당 조절과 체지방 감소를 동시에 겨냥한 건강기능식품 '이너비 슬리밍 컷 루틴'을 출시했다. 다이어트 기능성과 혈당 관리를 결합한 복합 포지셔닝은 GLP-1 계열 약물 열풍이 건기식 시장으로 확산되는 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "1a762713-8afb-49b3-baf6-70b2c9a3f783",
+        "title_ko": "올리브영 포기, 매출 6배의 역설",
+        "summary_ko": "올리브영 입점을 포기한 일부 K-뷰티 브랜드가 자사몰·해외 직판 채널로 전환 후 매출 6배 성장을 기록했다는 사례가 보도됐다. 플랫폼 의존도를 낮추고 브랜드 마진을 직접 확보하는 D2C 전략이 국내 인디 브랜드의 현실적 대안으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "42843994-bd62-4c63-a3ed-3d8872a4101d",
+        "title_ko": "K-뷰티, 싱가포르 전시에서 동남아 공략",
+        "summary_ko": "코이코가 '뷰티아시아 싱가포르 2026' 한국관을 주관하며 국내 8개 브랜드의 동남아 바이어 접점을 마련했다. 아시아 최대급 뷰티 박람회 참가는 K-뷰티의 동남아 현지화 거점 확보 움직임과 궤를 같이한다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "8ca3a9e1-2519-40d5-888f-4e4bac33ba07",
+        "title_ko": "K-패션, 콘텐츠 IP와 수출 연동",
+        "summary_ko": "한일합작 드라마 '내남결' 흥행을 이끈 지원 기관이 K-패션, 웹툰, 댄스 수출까지 묶어 지원한다는 사실이 알려졌다. 콘텐츠 IP를 소비재 수출의 전위로 삼는 정부 주도 연계 전략이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f25249fa-fd1b-4574-a6bd-046baf25c651",
+        "title_ko": "중고 명품 플랫폼 경쟁 격화",
+        "summary_ko": "합리적 소비 심리 확산으로 중고 명품 리세일 시장이 급성장하며 플랫폼 간 경쟁이 치열해지고 있다. 가격 투명성과 정품 보증이 핵심 경쟁 요인으로 떠올랐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a2d91e8e-80b0-46c1-b9e1-ce8ac2eaa2ba",
+        "title_ko": "브랜드 자체 리세일 프로그램 등장",
+        "summary_ko": "마들렌메모리와 이새가 협업해 브랜드 자체 리세일 프로그램 '이새 리스펙트'를 운영했다. 중고 유통을 외부 플랫폼에 맡기지 않고 브랜드가 직접 관리하는 방식으로, 고객 재구매 유도와 브랜드 자산 보호를 동시에 노린다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c3988a37-df2d-44f4-a88a-e3f899e545b7",
+        "title_ko": "뉴욕 월드컵 특수, 기대 이하로 실종",
+        "summary_ko": "2026 FIFA 월드컵 개최를 앞두고 있음에도 뉴욕 호텔 예약률이 전년 동기 대비 오히려 하락한 것으로 나타났다. 대형 스포츠 이벤트가 숙박 수요를 자동으로 견인한다는 통념이 흔들리며, 여행 소비 심리 자체가 위축됐을 가능성이 거론된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "ececfaf3-65ee-4286-9200-a027dc7e0199",
+        "title_ko": "구독형 보험 시대 개막 예고",
+        "summary_ko": "국내 보험 시장에 월정액 기반 구독형 보험 모델이 도입될 것이라는 전망이 나왔다. 구독 경제가 식음료·콘텐츠에서 금융 서비스로 확장되는 흐름으로, 소비자의 보험 가입 행동 자체를 바꿀 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '탈(脫)중간 플랫폼'이다. K-뷰티 브랜드는 올리브영을, 패션 브랜드는 외부 리세일 플랫폼을 우회해 D2C·자체 프로그램으로 수익 구조를 재편하고 있다. 여행 시장에서도 대형 이벤트 프리미엄이 예상대로 작동하지 않으면서 중간 수요 예측 공식이 흔들리고 있다. 플랫폼과 이벤트 특수에 기댄 전통적 유통·마케팅 논리가 동시에 검증대에 오른 하루다.",
+  "cards_meta": {
+    "7b4b2067-f60b-4c09-a765-bc329a7606fc": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQcFZaZXFTWDdybzRWRWFzTmVjLXc2Tkx5YnM2a2VzdjE1SU1nVW5DUEtJaldjOUZDdkdVdzhwX3luREtieDc5VnotZldIMU1sNzZwdGEyMUdJcV9EN1RRVjRORERlSFk4QVA4XzdERXh4Q1pyZTh0cDdGSjlicHlqejBpX0hYVG1CNFpUdFRXUlc4M3BmcWFzNWFFa05NUUt0VGlqR3ZkVkZmbFJUMVlfWklPdGlab3hDaklOYk5mOEFCaHNtREQ1WUtWVjdfQ28ydU5KZ2hPS3JxbEQzY2l2Z1JYTXlJMWMtcHdaUGprMFY1bXBBekNabFA2YlR0VHZDVVlOUUlGaDlLMC0tVkhBOGEyZklqblJTemJ4ZEJvcXJ2Z2tORUc3WTYxVGJsb3RMak9KaWQxTm43cjluZnFyNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ웰케어, 혈당·체지방 잡는 다이어트 건강기능식품 ‘이너비 슬리밍 컷 루틴’ 출시 - CJ 뉴스룸",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1a762713-8afb-49b3-baf6-70b2c9a3f783": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNVBQMXVvTXdZX2NxNmdrc2h6UmR4NHppX0pwa1IycGFSWDdfSzY1UEZzR2dUWW9tbVpMQlIwWkEwMFlCb2p3ZXhzZ3QwcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영 입점 포기했더니 매출 6배? K뷰티의 ‘반전 승부수’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "42843994-bd62-4c63-a3ed-3d8872a4101d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98571",
+      "original_headline": "코이코, ‘뷰티아시아 싱가포르 2026’ 한국관 운영",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ca3a9e1-2519-40d5-888f-4e4bac33ba07": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BU014TVNjSllIbmk1VGlJQXZISE40VnkzN3l6Z2h0dWF1WVAwS3V3ZVJQRDF3WlctSHRRR3VyY0lyR0ZCWkF4TDZmZHNBOUpwN0FZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한일합작 '내남결' 성공 뒤엔 이곳 있었다…K패션, 웹툰, 댄스 수출도 지원 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f25249fa-fd1b-4574-a6bd-046baf25c651": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11bWJwczU3YUpoeWdPOW82NWFYZlpxTVNqRkdjZjZkVmExakFnamd6ckxTS1dJRWctT25FeHcxRV9haFBiRlRCYXF3OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고 명품 시장 급성장…합리적 소비 확산 속 플랫폼 경쟁 치열 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a2d91e8e-80b0-46c1-b9e1-ce8ac2eaa2ba": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c3988a37-df2d-44f4-a88a-e3f899e545b7": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92VzRLSE1tRU9XNmRmXy1QZnA4ZzBoRWcyemwwc094MGpKWktJT2VwMTFIVmwxZ24zVS1wVXY1U2pjZWt1WElSdWFQcG1idkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "슈퍼볼 104번 효과라더니... 사라진 ‘월드컵 특수’, 뉴욕 호텔 예약률 작년보다 낮아 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ececfaf3-65ee-4286-9200-a027dc7e0199": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWFqNTFQMnpEYjNaalMtajd4WWZtUE9PWVlGTW9URTJzcnJmVEZFUEhpNGFfT3FwYkdFOFB4NXNpaGY1RkZTRUswRmVzQlpqWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
