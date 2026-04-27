@@ -1,0 +1,173 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티·패션, 베트남을 중심으로 동남아 수출 구도 본격 재편",
+    "Z세대, 인플루언서 소비 거부 '디스인플루언싱'으로 구매 권력 분산",
+    "구독형 보험 등 구독경제, 금융·일상 전 영역으로 침투 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "54845ad3-4552-47ef-9ef9-cb9b948f66b3",
+        "title_ko": "장흥표고, 대체육·화장품까지 영역 확장",
+        "summary_ko": "장흥표고버섯이 빵·대체육·화장품 원료로 활용 범위를 넓히고 있다. 단일 농산물이 식물성 단백질 소재와 뷰티 원료로 동시에 주목받는 사례로, 국내 로컬 식재료의 고부가가치 전환 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "82c6bef0-f729-4b0a-ac3b-c9f81b2be133",
+        "title_ko": "뷰홀 31, 예술 감성으로 브랜드 차별화",
+        "summary_ko": "뷰홀 31이 문화 기획자와 협업해 자연 감성을 메이크업 언어로 풀어낸 아트 에피소드를 선보였다. 제품 스펙 경쟁 대신 서사와 감각을 내세우는 K-뷰티 인디 브랜드의 차별화 전략이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c6ac4a58-de67-403d-81cc-630903fbc71e",
+        "title_ko": "중진공, K-뷰티 베트남 진출 공식 지원",
+        "summary_ko": "중소벤처기업부·중진공이 베트남 현지에서 K-뷰티 기업의 수출을 직접 지원하는 체계를 가동했다. 정부 주도 인프라가 붙으면서 중소 뷰티 브랜드의 동남아 진입 문턱이 낮아질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fb8153e8-7723-4781-82f7-b959f896fd12",
+        "title_ko": "K-뷰티 수출, 단일 시장 의존 탈피",
+        "summary_ko": "K-뷰티 수출 허브 다변화 논의가 긍정적 평가를 받고 있다. 특정 국가 집중에서 벗어나 복수 거점을 확보하는 전략이 업계 리스크 분산에 실질적으로 기여할 수 있다는 시각이 확산되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "96d04f4d-f1d7-4347-ac80-0ec9d93eb209",
+        "title_ko": "W컨셉, 베트남서 K-패션 판로 확대",
+        "summary_ko": "온라인 패션 플랫폼 W컨셉이 베트남 시장을 통해 K-패션 수출을 본격 확장하고 있다. 뷰티에 이어 패션까지 베트남이 동남아 K-콘텐츠 소비재의 전략 거점으로 부상하는 흐름이 겹친다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bfda5f3a-6298-43ae-8f75-8cdedc5627ff",
+        "title_ko": "스트릿 댄스 문화, 패션 코드로 흡수",
+        "summary_ko": "'월드 오브 스트릿 우먼 파이터'를 계기로 스트릿 댄스 문화의 스타일이 주류 패션 언어로 편입되는 양상이 포착됐다. 서브컬처가 콘텐츠 IP를 매개로 패션 소비 트렌드에 빠르게 영향을 미치는 구조다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "9b48763d-e388-49f0-a5d7-edb52c4f69d7",
+        "title_ko": "신도림 호텔 화재, 안전 이슈 재점화",
+        "summary_ko": "서울 신도림 호텔에서 화재가 발생해 투숙객 135명이 대피했다. 호텔 안전 관리에 대한 소비자 신뢰 문제가 다시 수면 위로 올라오면서 숙박 선택 기준에서 안전 인프라의 비중이 높아질 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "ba596a6a-25f1-4d98-a50f-af6e4b51717b",
+        "title_ko": "구독형 보험, 금융 소비 패러다임 전환",
+        "summary_ko": "국내 보험 시장에 구독형 모델 도입 논의가 본격화되고 있다. 고정 계약 대신 유연한 가입·해지가 가능한 구조는 가성비를 중시하는 소비자 심리와 맞닿아 있어, 전통 보험 상품의 경쟁 방식을 바꿀 변수로 꼽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6743d711-468b-446e-9f23-ee21d1cd9d53",
+        "title_ko": "디스인플루언싱, Z세대 소비 저항 확산",
+        "summary_ko": "Z세대가 인플루언서의 과소비 조장에 맞서 '디스인플루언싱' 운동으로 소비 자율성을 회복하고 있다. 브랜드 마케팅이 인플루언서 협찬만으로 구매를 이끌기 어려워지는 환경이 현실화되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 가로지르는 핵심 축은 두 가지다. 하나는 '베트남 집중'으로, K-뷰티와 K-패션 모두 정부 지원과 플랫폼 역량을 앞세워 베트남을 동남아 교두보로 삼는 움직임이 동시에 가시화됐다. 다른 하나는 '소비자 권력의 분산'으로, Z세대의 디스인플루언싱과 구독형 금융 소비 모두 브랜드·기관이 일방적으로 설계한 소비 구조를 개인이 해체하려는 시도다. 고성장 수출 전략과 국내 소비자의 저항 심리가 동시에 강해지는 이 시점은, 브랜드가 해외 진출과 국내 신뢰 구축을 별개가 아닌 하나의 과제로 묶어야 할 이유를 제공한다.",
+  "cards_meta": {
+    "54845ad3-4552-47ef-9ef9-cb9b948f66b3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zOW9sRGY0RE5QcmFWUW1nbTdETzZDVjVCc21QOURWc2lHN2NXZFU4NjQzZFIwb0VQSVJLZzBEUHozMWFIUVRzcE1fT01nSXNGRy1RdjBycnN0STIzVGp0Q0pfcnNEUEZsTUltRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[현장플러스] 빵·대체육·화장품···장흥표고 ‘무한변신’ 이끈다 - 한국농어민신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82c6bef0-f729-4b0a-ac3b-c9f81b2be133": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309151",
+      "original_headline": "[뷰홀 31] 메이크업으로 피어난 자연의 감성",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c6ac4a58-de67-403d-81cc-630903fbc71e": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoMnptQTRDb2JCdFRyUnAtY1kta1RhSGdERkI3aXhLcUFrM3M4cVpGUEdvZUd4QjNmbEp4R1hMNmFHNzV2OU1JVS1zS3VFZ3I2X3pPVHJTSkhINEprbnNhZFhIZkZGQ01Z?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중진공, K-뷰티 베트남 진출 지원한다 - 경남매일",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fb8153e8-7723-4781-82f7-b959f896fd12": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WODFmcXk1S3RMMTA1NVlabDI5WGlLd01kazNuUG1PQjNJNjRkWVZKM1FjNDFxdTNGS1Z4a0N2cnFhOTByeEY3Znk2ZXMtd1BualZZQjhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] K-뷰티 수출 허브···수출시장 다변화 ´긍정적´ - 무등일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "96d04f4d-f1d7-4347-ac80-0ec9d93eb209": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU0ZOTzAtcEk5UGJUVzU3MDg1VmRKNF9xV3E2cVIwNFM2WF9jdzlWMXIxcGNLd0RobGtjODJiam04NkZMSkxLSmUtLVlIZGJlRnpDXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "W컨셉, 베트남서 K-패션 수출길 넓힌다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bfda5f3a-6298-43ae-8f75-8cdedc5627ff": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdGF6OFczZTVzT1hoalZ6bVR1MnJVc2Z3OXpJbDJndlBUMXVMWVN0U3V3T09qLV9WZ3RLQ1g4SWxNN3RlRzc5cEM1SHBReHpoemZNVEtjQWR5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "오죠 갱이 '월드 오브 스트릿 우먼 파이터'를 즐긴 방법 - esquirekorea.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9b48763d-e388-49f0-a5d7-edb52c4f69d7": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55N0ZkNW5hanBPM2RoNmxNUTF1bWdBMnZ0RERDLVlfOXJRYmt5ME1OaTA5QmhqOVhua2Z5TG0tcDJIem1aRXBOWjZqOG5oa2hx?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서울 신도림 호텔서 화재…투숙객 등 135명 대피 - 문화일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ba596a6a-25f1-4d98-a50f-af6e4b51717b": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en",
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "6743d711-468b-446e-9f23-ee21d1cd9d53": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNEZoWW96MUN1OVpJQUxucUZoWTF4MFhMNUQ2V1JTcVA0bmZ6U3dEQ3RGcUFnREI4ck1iRE9TQTJnZWJ4NUYwMXFFZ0IybHkzVThQOFFoR1o3MVFHSVZTb01fOXAzRlAwQkFXMEtmcEtwc1doVFRXaXFZX3dwQ1RYN25MT2dsZThVX2QtQTUxMXdjUEI4bXJKeFNKUHhtNEEzRHFOa1FxQnVqNlVQWjRRTkZlR0pKdWJaUVd2OG5qTkZVZ01lWGtEMmg5NE50N2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué es el ‘desinfluencing’?: Así lucha la generación Z contra el consumismo de los ‘influencers’ en redes sociales - elconfidencial.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
