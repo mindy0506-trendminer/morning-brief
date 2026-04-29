@@ -1,0 +1,190 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영이 IP 협업과 신규 브랜드 입점을 동시 가동, 오프라인 채널 집객 강화",
+    "패션: 중고 명품 리커머스·리세일 플랫폼 투자 유치 잇따르며 시장 제도화 가속",
+    "소비트렌드: Z세대 문화 정체성 소비와 구독형 금융상품 확장이 동시에 진행 중"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f1e91f21-a09f-4ee6-96a6-a4d2f116174d",
+        "title_ko": "식자재 산지직거래 모델 본격화",
+        "summary_ko": "한국식자재유통협회가 국내산 양파 1000톤을 회원사에 공급하며 산지직거래 초기 모델의 실효성을 입증했다. 수급 불균형 완화와 가격 안정을 동시에 노린 이 구조가 정착될 경우, 중간 유통 단계 축소가 식자재 원가 전반에 영향을 줄 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5075961f-6a4b-4893-8714-492f2c1262f1",
+        "title_ko": "세포랩, 올리브영 전국 입점",
+        "summary_ko": "누적 판매액 2000억 원을 넘긴 바이오 화장품 세포랩이 올리브영 명동 타운을 시작으로 상반기 내 전국 매장에 입점한다. 2030 세대 접점 확대를 노린 행보로, 단일 품목 강자가 오프라인 대형 채널로 확장하는 패턴이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3897b552-43d5-4f93-ae08-807dcbfb0fc1",
+        "title_ko": "포켓몬 에디션으로 선케어 공략",
+        "summary_ko": "AHC가 포켓몬코리아 30주년 기념 올리브영 협업 행사에 선케어 브랜드로 선정돼 한정 에디션 4종을 출시한다. 캐릭터 IP를 활용한 시즌 한정 협업이 선케어처럼 계절성 강한 카테고리의 구매 유인을 높이는 전략으로 자리잡고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "46a3e087-9643-4ca9-879e-0575a6810bfe",
+        "title_ko": "중고 명품 시계 플랫폼 투자 유치",
+        "summary_ko": "중고 명품 시계 리커머스 플랫폼 '왓타임'이 프리 시리즈A 투자를 유치했다. 고가 시계 시장에서 검증된 중고 거래 수요가 투자자 관심을 끌며, 명품 리세일 시장의 플랫폼화가 진행 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a6c962c5-8b57-4ff6-80fa-105e77e81554",
+        "title_ko": "명품 가격 상승, 중고 시장 반사이익",
+        "summary_ko": "신품 명품 가격이 잇따라 오르면서 장롱 속 중고 가방·시계를 처분하려는 수요가 늘고 있다. 공급 증가와 가격 상승이 맞물리며 중고 명품 시장의 유동성이 커지는 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7be68688-5e91-43c5-8c30-47b3f99a269d",
+        "title_ko": "브랜드 직접 운영 리세일 프로그램 등장",
+        "summary_ko": "패션 브랜드 이새가 마들렌메모리와 손잡고 자사 제품 리세일 프로그램 '이새 리스펙트'를 운영한다. 브랜드가 중고 거래를 직접 관리함으로써 제품 가치와 고객 충성도를 동시에 지키려는 시도다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "f9712439-b77b-49fe-86c5-95074e819a46",
+        "title_ko": "호텔 폐비누 재활용, 지역 나눔으로",
+        "summary_ko": "충주 수안보상록호텔이 객실에서 수거한 폐비누를 재가공해 지역사회에 기부하는 활동을 이어가고 있다. 소규모 호텔이 실천할 수 있는 친환경 사례로 주목되며, 호텔 ESG 활동이 지역 연계로 구체화되는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0fcf3d7f-0f5e-40ac-9fc5-50eeca7ed261",
+        "title_ko": "Z세대, 전통 복식으로 문화 정체성 표현",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 소비가 문화적 자기표현 수단으로 자리잡고 있다. 단순한 유행을 넘어 전통 문화를 현대 소비로 재해석하는 흐름으로, 국내 K-전통 콘텐츠 시장에도 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "21eef429-0fa3-4679-b897-4ecf9c3a3716",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에 구독 방식의 상품 출시가 예고되면서 구독 경제가 금융 영역으로 확장되는 흐름이 뚜렷해지고 있다. 소비자 입장에서는 필요한 시기에만 보험을 유지하는 유연한 구조로, 기존 장기 계약 중심 모델과의 충돌이 불가피하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "22b23d07-beb2-4602-812e-7cdd18fa97fb",
+        "title_ko": "Z세대 취향 소비, 관심사가 지갑 연다",
+        "summary_ko": "Z세대의 소비 패턴이 필요 중심에서 취향·관심사 중심으로 이동하고 있다. 특정 커뮤니티나 문화권에 속한다는 정체성이 구매 결정의 핵심 동인이 되면서, 브랜드의 커뮤니티 연계 전략이 더욱 중요해지는 국면이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '기존 채널과 가치의 재정의'다. 뷰티에서는 올리브영이 신규 브랜드 입점과 IP 협업을 동시에 구사하며 오프라인 집객력을 키우고, 패션에서는 중고 명품 시장이 플랫폼 투자·브랜드 직영 리세일로 제도권 안에 편입되고 있다. 소비트렌드 측면에서는 Z세대가 전통 문화와 취향 공동체를 소비 정체성의 축으로 삼으면서, 브랜드에게 '무엇을 파느냐'보다 '어떤 세계관에 속하느냐'를 요구하는 압력이 커지고 있다. 유통·리세일·구독형 금융까지 소비의 외연이 동시에 확장되는 국면이다.",
+  "cards_meta": {
+    "f1e91f21-a09f-4ee6-96a6-a4d2f116174d": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=67891",
+      "original_headline": "한국식자재유통협회, ‘산지직거래’ 선도 모델 구축",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5075961f-6a4b-4893-8714-492f2c1262f1": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98633",
+      "original_headline": "“국민 에센스 세포랩, 이제 올리브영에서 체험하세요”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3897b552-43d5-4f93-ae08-807dcbfb0fc1": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98644",
+      "original_headline": "AHC, 올리브영X포켓몬코리아 협업 참여",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "46a3e087-9643-4ca9-879e-0575a6810bfe": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FT0NNODVqdzVGd3p6YzZPb1RjaWxjTldYVDZaQUVsSW1lVmNUWm0ybnF3dnpBZk95a1VvOUd0aHFQV3htbExSNzZTNkMtQUJFTHh2aGNtaFZLRF9qdVlkOXMtck9GQTdhWEpN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고 명품 시계 리커머스 ‘왓타임’ 프리 시리즈A 투자 유치 - 한경매거진&북",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a6c962c5-8b57-4ff6-80fa-105e77e81554": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kd2dENHk4Z052ODJ3NUpTYUtzSm1JdFY2Znh6Y2J1N3RRM3lyYndFeTFSZ0RsMlFUdEdOUFpLZko4TFk2QkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7be68688-5e91-43c5-8c30-47b3f99a269d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f9712439-b77b-49fe-86c5-95074e819a46": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96LUh1Wk82enFJOVFDYUtKb1VsVUFoR1c3R1pjb2xlMHU5VmZuUHlZdmxhcjdYbjctTk4yZ2htaHFYdnQxSzhDeWtycXZIUngydTZVaFZFaTFDd05fV29wT0lvR1VYVjlUdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "수안보상록호텔, 폐비누 재활용해 나눔 실천 - 동양일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fcf3d7f-0f5e-40ac-9fc5-50eeca7ed261": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "21eef429-0fa3-4679-b897-4ecf9c3a3716": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en",
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "22b23d07-beb2-4602-812e-7cdd18fa97fb": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HMzBCbVNFVTV6T3NSSkN5eWpqc1B6VWxHZDhpLWpqRGMxTmtrb2lOQ0VOSkhjSi1wRmMzbHRublF1VUtmSk13MklfaTlrZGlpdGYwT0NNRVRYRC1rTmpLQW1wOXlrbVh3YjlwNGMza3VXZkJBaXA1Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "兴趣圈消费涌上Z世代的账单 - 中青在线",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
