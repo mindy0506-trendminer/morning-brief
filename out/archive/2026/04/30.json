@@ -1,0 +1,138 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영, 광장시장 입점으로 K뷰티 관광 거점화 본격화",
+    "뷰티: AI가 맞춤형 경험·제품 혁신·브랜드 신뢰 세 축에서 경쟁 구도 재편",
+    "소비트렌드: 구독 경제 모델, 보험·문화 소비 등 전방위로 확장 신호"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "c2966b44-ac3a-43c6-a0da-5c7bf4bc6203",
+        "title_ko": "올리브영, 광장시장 K뷰티 거점 개장",
+        "summary_ko": "올리브영이 광장시장 주단부 2층에 244평 규모의 '광장마켓점'을 열었다. 1960년대 상점 콘셉트에 K뷰티를 접목한 '올영양행' 테마로, 방한 외국인을 겨냥한 K데일리케이션 관광 수요를 직접 흡수하려는 전략이다. 전통시장을 K컬처 필수 관광 코스로 편입시키는 오프라인 거점 확장이 본격화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "de80b0dd-7342-4fdb-8139-ebffa500ae18",
+        "title_ko": "AI, K뷰티 경쟁 구도 재편 가속",
+        "summary_ko": "AI가 뷰티 산업에서 소비자 맞춤 경험, 제품 혁신, 브랜드 신뢰성 강화라는 세 축을 중심으로 새로운 경쟁 질서를 만들고 있다. 중국 시장에서 디지털 패션·피부 진단 서비스 수요가 급증하는 가운데, AI 주도권을 먼저 확보한 브랜드가 시장을 선점할 가능성이 높다는 분석이 나온다. K뷰티의 빠른 대응이 요구되는 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d16dc23b-900f-460d-966b-525175058073",
+        "title_ko": "마녀공장, 포켓몬 IP로 소장 가치 강화",
+        "summary_ko": "마녀공장이 누적 2,200만 병 판매 클렌징 라인에 포켓몬 고라파덕 패키지와 굿즈를 결합한 한정판을 올리브영에서 출시했다. 캐릭터 IP를 활용해 제품 실용성에 소장 욕구를 더하는 전략으로, 뷰티템의 '굿즈화'가 구매 동기를 확장하는 흐름을 잘 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2c21c4aa-ea2c-4749-9043-e83d8687000d",
+        "title_ko": "스트릿 우먼 파이터, 패션 담론 확산",
+        "summary_ko": "'월드 오브 스트릿 우먼 파이터' 리더 5인의 스타일과 철학이 패션 매체의 주요 콘텐츠로 다뤄졌다. 댄스 경연 IP가 스트리트 패션 트렌드와 결합해 대중 매체 속 영향력을 넓히는 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f6f94d8a-7507-4468-bbfd-f13c910aa11e",
+        "title_ko": "케미스트릿, K-맛·멋·미 팝업 전개",
+        "summary_ko": "케미스트릿이 강남역 인근에서 음식·패션·뷰티를 한데 묶은 'K-맛·멋·미' 팝업 행사를 열었다. 단일 카테고리를 넘어 K라이프스타일 전반을 체험 공간으로 구성하는 팝업 전략이 여름 마케팅 공식으로 자리잡고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "f712ca22-ad27-4189-8b17-093def2ed5c5",
+        "title_ko": "중국 Z세대, 한복으로 문화 자신감 소비",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 국조(國潮) 트렌드의 핵심 표현 수단으로 부상했다. 전통 복식을 현대적 정체성과 연결짓는 문화 소비가 확산되며, 이 세대의 소비 동기가 실용성보다 가치·자긍심 표현 쪽으로 무게가 이동하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3f050328-1797-4e98-a9aa-35d0320d5322",
+        "title_ko": "구독형 보험, 국내 시장 개화 예고",
+        "summary_ko": "국내 보험 시장에 구독 경제 모델이 도입되는 흐름이 가시화되고 있다. 소비자가 필요에 따라 보장을 유연하게 조정하는 구독형 상품은 기존 장기 계약 구조를 흔들며 금융 소비의 경험 설계를 바꿀 잠재력을 갖는다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 가로지르는 핵심 흐름은 '경험과 정체성 중심으로 재편되는 소비 동기'다. 올리브영의 광장시장 입점, 마녀공장의 포켓몬 IP 협업, 케미스트릿의 K라이프 팝업은 모두 제품 기능을 넘어 체험·소장·문화 정체성을 구매 이유로 제시한다. 중국 Z세대의 한복 소비와 구독형 보험의 부상도 같은 맥락에서 읽힌다. 소비자는 무엇을 사느냐보다 그 구매가 자신을 어떻게 표현하느냐에 더 민감해졌으며, AI가 이 맞춤화 욕구를 기술적으로 가속하는 구조가 뷰티를 시작으로 전 카테고리로 확산되고 있다.",
+  "cards_meta": {
+    "c2966b44-ac3a-43c6-a0da-5c7bf4bc6203": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98655",
+      "original_headline": "CJ올리브영, 광장시장에 ‘K뷰티 랜드마크’…‘광장마켓점’ 오픈",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "de80b0dd-7342-4fdb-8139-ebffa500ae18": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=308201",
+      "original_headline": "AI, 뷰티 산업 주도권 재편… K-뷰티 적극 대응 필요",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d16dc23b-900f-460d-966b-525175058073": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98652",
+      "original_headline": "마녀공장, 판매 1등 클렌징 올리브영 포켓몬 에디션 한정 출시",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2c21c4aa-ea2c-4749-9043-e83d8687000d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNLW9pcVNNcmRRRzNlOU95SFFXYUlLVEp5QnZnT2wyZjRlNVcxWWMwcXhwc29DUXMzU2R3SmExYWNxRkJjY2RJNVNsSkxTTGZVWnVVdElIa0xOVXZpc3pKNFpSNHRHdGh6SzdwX2l6eHJVeVhua1V3b0M2SUwwNlRmVl93bE4tS1lHQW1YMGhDSXR1ZnJyaU1pbENYYXpMSGs2YWhETUE1a3Budl9RYzVzbWJaMjJ0VnBpdkRwSXdRLVAyN1JRTHFTaGdXeWYwVHhWeEV0SXk2UGZsVmVzU2U2MUVIVlRPRHduRzJzYXRtQ3RFYVh4ZGgzQTZfcnBQY095RUtUZTNNejJfX1gtSWJrMWRia3hqUndRV0pxWU5jVUZaTGlvbGJST2EyUlBxUktXMkszZWl0cTFqWEhTakR2VDM3aVBPZlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘월드 오브 스트릿 우먼 파이터’ 리더 5인과 나눈 이야기 - wkorea.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f6f94d8a-7507-4468-bbfd-f13c910aa11e": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f712ca22-ad27-4189-8b17-093def2ed5c5": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "3f050328-1797-4e98-a9aa-35d0320d5322": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en",
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
