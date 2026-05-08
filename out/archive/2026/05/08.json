@@ -1,0 +1,157 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 할랄 인증 규제 강화에 맞서 중동·동남아 공략 본격화",
+    "중소 K-뷰티 수출 신기록 행진, 티몰 클렌징폼 시장도 질적 전환 국면",
+    "홈카페 인테리어 수요 확산, 호텔 헤리티지 테이블웨어 등 공간 소비 고급화"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "d3c0ccf5-5e1e-4b30-a3b5-4d393a9628f8",
+        "title_ko": "K-뷰티 할랄 시장 진출 국가 지원",
+        "summary_ko": "식품의약품안전처가 할랄 인증 준비 기업 30곳에 맞춤형 컨설팅을 제공하고 UAE·사우디와 상호인정 협력도 확대한다. 인도네시아의 할랄 인증 표시 의무화(2026년 10월 시행)를 앞두고, 국가별로 상이한 규제가 중소기업 진입 장벽으로 작용해온 만큼 이번 지원이 시장 진입 속도를 앞당길 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1aee8436-64c2-4d80-9573-2450cab4e9ce",
+        "title_ko": "K-클렌징폼, 티몰서 질적 전환",
+        "summary_ko": "중국 티몰의 K-뷰티 클렌징폼 시장이 물량 중심 성장에서 벗어나 가치 중심으로 재편되고 있다. 2019년부터 자체 집계한 장기 판매 데이터가 이 변곡점을 뒷받침하며, 단순 세정 기능보다 성분·경험을 앞세운 제품군이 상위권을 차지하는 구도로 바뀌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b36a6fd0-4e1c-4b47-b317-81dab7dff8ea",
+        "title_ko": "중소 K-뷰티, 수출 신기록 경신",
+        "summary_ko": "중소 K-뷰티 브랜드의 해외 수출이 신기록 행진을 이어가고 있다. '한국에 가면 예뻐진다'는 인식이 소비 욕구를 자극하는 국가 브랜드 효과로 작용하며, 대기업 중심이 아닌 중소업체 주도의 수출 확대라는 점에서 구조적 의미가 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "12e618fb-2c4b-4c8f-a52f-ec337d611938",
+        "title_ko": "국내 브랜드 리세일 프로그램 도입",
+        "summary_ko": "마들렌메모리와 이새가 '이새 리스펙트'라는 공식 리세일 프로그램을 운영한다. 해외 럭셔리 중심이던 리세일 문화가 국내 디자이너 브랜드로 확장되는 신호로, 제품 수명 주기를 브랜드가 직접 관리하는 방식이 국내에서도 자리 잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "07b6876a-ec5b-467a-a12f-92318a5ba897",
+        "title_ko": "K-맛·멋·미 팝업, 오프라인 체험 강화",
+        "summary_ko": "케미스트릿이 강남역 인근에서 K-문화 복합 팝업 행사를 열며 음식·패션·미용을 한 공간에 묶었다. 카테고리 간 경계를 허무는 복합 체험형 팝업이 소비자 접점 전략의 주류로 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b3fe99b5-2508-4d15-adf0-87758fb24bbb",
+        "title_ko": "호텔 헤리티지, 테이블웨어로 확장",
+        "summary_ko": "웨스틴 조선 서울이 호텔 역사를 담은 테이블웨어를 제공하는 숙박 패키지를 출시했다. 호텔 브랜드 경험을 객실 밖 일상으로 연장하는 '헤리티지 굿즈' 전략이 프리미엄 호캉스 수요와 맞물려 새로운 수익 채널로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "54709f09-900e-4f76-9734-842836e62a03",
+        "title_ko": "홈카페 인테리어 수요 본격 확산",
+        "summary_ko": "집 안에 카페 감성을 구현하는 홈카페 인테리어 트렌드가 대중화 단계에 접어들고 있다. 외식 물가 상승과 재택 생활 습관이 맞물리며, 바 의자·에스프레소 머신·조명 등 관련 소품 수요가 동반 상승하는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0bbe99d9-c38e-4151-bb8c-f251d806eff4",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에서 필요한 기간만 유지하는 구독형 보험 모델이 본격화될 것으로 전망된다. 정기 구독 경제에 익숙해진 소비자 행동이 전통적 보험 구조를 흔들기 시작한 신호로 해석된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터 전반을 관통하는 흐름은 '경험의 고급화와 일상화의 동시 진행'이다. K-뷰티는 할랄·리세일·수출 신기록이라는 세 축에서 모두 시장 확장의 질적 전환을 보여주고, 라이프스타일 영역에서는 호텔 헤리티지와 홈카페가 각자의 방식으로 일상 공간을 프리미엄화하고 있다. 소비자는 브랜드 경험을 특정 공간이나 채널에 가두지 않고 일상 전반으로 끌어오려 하며, 이에 대응하는 브랜드는 제품 수명 주기 관리(리세일), 공간 확장(테이블웨어 패키지), 인증 획득(할랄) 등 기존과 다른 접점 전략을 빠르게 실험하고 있다.",
+  "cards_meta": {
+    "d3c0ccf5-5e1e-4b30-a3b5-4d393a9628f8": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98714",
+      "original_headline": "식약처, K-뷰티 할랄 시장진출 지원 확대",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1aee8436-64c2-4d80-9573-2450cab4e9ce": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309346",
+      "original_headline": "[5]K-클렌징폼, 티몰서 '씻어내는 시대를 끝내고 있다'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b36a6fd0-4e1c-4b47-b317-81dab7dff8ea": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVUkRzcUxtR3l2b0VuemF0dFlxNGl4djBNMzJKdjZBLU0tTUxUWk9SY2lBOEFQMVowT0ZhLVdPa0k0YlJPLUlhNlBMM1M5b2pkMHluTS1OblNCRWNheW9sc3FSMGlWYVlFYzlHVE40YWMtV0txZWNTMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"한국 가면 예뻐진다\"…중소 K-뷰티 수출 신기록 행진 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "12e618fb-2c4b-4c8f-a52f-ec337d611938": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "07b6876a-ec5b-467a-a12f-92318a5ba897": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b3fe99b5-2508-4d15-adf0-87758fb24bbb": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Hdlg2SXg1dVp2YVp0QUxDSkF2Sk9XcnY4UEZJU3dsbDRaS0JXY1ROR2tONTdXNHprdE9XY0Y0emI4Qkl6S2c0VHh5QUhUcjJydWpN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "웨스틴 조선 서울, 호텔 헤리티지 담은 테이블웨어 제공 패키지 선봬 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "54709f09-900e-4f76-9734-842836e62a03": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9iLVU4c2txMlhJY29UQVlfeHpFVUtfS3FweFRnZkF4MmdXdXA0UV9FcVZEcFpjR1U4V2xaZWg0dUJRdVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "홈카페 인테리어 트렌드 확산, “집에서도 감성 카페 분위기 연출” 인기 - 한국공공정책신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0bbe99d9-c38e-4151-bb8c-f251d806eff4": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
