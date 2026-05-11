@@ -1,0 +1,191 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티 핵심 카테고리, 중국 티몰에서 프리미엄·고신뢰 구조로 재편 가속",
+    "Z세대, 한복·절주 등 문화 소비와 음주 탈피로 소비 가치관 분화 선명",
+    "중고 명품 수요 확대, 국내 리세일 프로그램 잇달아 공식화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "7b6fc4ff-519d-4312-8f2f-d418b7418d63",
+        "title_ko": "대상, 대체육·배양육 동시 공략",
+        "summary_ko": "대상이 식물성 대체육과 배양육 모두를 겨냥한 친환경 단백질 사업을 공식화했다. 단일 영역이 아닌 두 기술 경로를 병행한다는 점에서, 국내 식품 대기업의 미래 단백질 전략이 본격화 단계에 들어섰다고 볼 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "a9711ae4-a589-47de-89be-f4c38413885e",
+        "title_ko": "쿠션파운데이션, 티몰서 프리미엄 재편",
+        "summary_ko": "티몰 2년치 판매 데이터 분석 결과, K뷰티 쿠션파운데이션은 판매량이 줄어드는 대신 고가 제품 중심으로 재편되고 있다. 물량 경쟁보다 브랜드 신뢰와 가격대 상향이 카테고리 생존 조건이 되는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d1909a63-46a9-4a3c-a970-e4493a9ec52d",
+        "title_ko": "에센스·세럼, 고신뢰 시장으로 전환",
+        "summary_ko": "티몰 내 K뷰티 에센스·세럼 카테고리가 고관여·고신뢰 시장으로 구조 전환 중이다. 쿠션파운데이션의 프리미엄화 흐름과 맞물려, 중국 소비자가 K뷰티 스킨케어에서 성분과 효능 검증을 우선시하는 단계로 이행하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1c93398c-d207-42a5-9261-88ac5f13832a",
+        "title_ko": "오송 K뷰티 아카데미 운영 기관 공모",
+        "summary_ko": "충북경제자유구역청이 오송국제 K뷰티 아카데미 수탁 운영 기관을 공개 모집한다. 산업 인프라 차원에서 K뷰티 전문 인력 양성 거점을 제도화하려는 움직임으로, 정부 주도의 생태계 구축이 가속되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a12d54cf-340d-4dca-9316-b2d937551bbe",
+        "title_ko": "이새·마들렌메모리, 리세일 공식화",
+        "summary_ko": "국내 디자이너 브랜드 이새가 중고 거래 플랫폼 마들렌메모리와 손잡고 '이새 리스펙트' 리세일 프로그램을 운영한다. 한국 패션 브랜드가 중고 유통을 브랜드 경험의 일부로 편입시키는 첫 사례 중 하나로, 지속가능성 전략이 실질적 채널 전략으로 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f26b7c5c-1a6e-42fd-ade1-40baedef5fa3",
+        "title_ko": "K패션, 도쿄서 입장 대기 1시간",
+        "summary_ko": "도쿄 현지에서 K패션 팝업·매장에 입장과 계산 각각 1시간 대기가 빚어지고 있다. K팝·드라마 소비에서 패션 직접 구매로 이어지는 문화 전파 경로가 뚜렷해지며, 일본 시장이 K패션의 새 거점으로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5d705ed3-c7ea-478b-bd60-4b556661a860",
+        "title_ko": "소공동 화재 계기, 외국인 대피 매뉴얼 제작",
+        "summary_ko": "서울 중구가 소공동 호텔 화재 수습 경험을 바탕으로 외국인 대상 재난대응 매뉴얼을 제작했다. 외래 관광객 증가에 따라 숙박 시설의 안전 커뮤니케이션이 서비스 경쟁력의 일부로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "834e4d44-d3cc-43a8-9fae-86f6102f80c2",
+        "title_ko": "중국 Z세대, 한복으로 문화 자부심 소비",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 국조(國潮) 트렌드의 핵심 표현 방식으로 자리잡고 있다. 전통문화를 일상 소비로 재해석하는 흐름은 뷰티·식품 분야의 국조 소비와 연동되며, 문화 소비 주도권이 젊은 세대로 이동 중임을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0fedfe4b-80aa-47da-b082-6952ae364369",
+        "title_ko": "Z세대, 음주 문화 탈피 가속",
+        "summary_ko": "아르헨티나 등 중남미 Z세대에서 음주를 거부하거나 최소화하는 '음주 탈프로그래밍' 경향이 확산 중이다. 주류 업계의 저알코올·무알코올 제품 라인 확대와 맞물려, 글로벌 Z세대의 절주 트렌드가 소비재 포트폴리오를 재구성하는 압력으로 작용하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9f4a6e97-a77f-4371-be1b-46f1bad785bd",
+        "title_ko": "구독형 보험 시대 개막 예고",
+        "summary_ko": "국내 보험업계에서 구독 경제 모델을 적용한 구독형 보험 출시가 예고되고 있다. 소비자가 필요 시점에만 가입·해지하는 방식으로, 구독 소비에 익숙한 MZ세대를 겨냥한 금융 상품 혁신이 가속될 전망이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 흐름은 '소비의 가치 재정렬'이다. K뷰티는 티몰에서 물량 경쟁을 접고 신뢰와 프리미엄으로 축을 옮기고 있고, Z세대는 음주 탈피·전통문화 소비로 소비 기준 자체를 다시 쓰고 있다. 명품 중고화·리세일 공식화, 구독형 보험 출시 예고까지 더하면, '더 적게 사되 더 의미 있게'라는 소비 철학이 카테고리를 가로질러 동시에 구현되는 국면이다. 브랜드는 판매량보다 관계와 신뢰를 설계하는 방향으로 전략을 재편할 필요가 있다.",
+  "cards_meta": {
+    "7b6fc4ff-519d-4312-8f2f-d418b7418d63": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaVZzVDk4Q0pYWkdlOWNzZ3QtVm1yRkZvY3Q0OXpWQ1oxYkhQMHAtZ2UwQkk3Ymx5ZHU4VEt6ZWN1NTByejZGVjhfanRZcmMzS3ZEcks2OG9JOW5rRk9wMndOTmlWWUVDZThtQ2tR0gFyQVVfeXFMUGNJMmxQLUlSX1d0ZDZvVy1tSFU3RW5Od0w3TnYwVzYyWjJOVDZPSUhHT25sdWpuZXJTS0hGS2NleEpSdlRnU1VkQ09fUDZYb25iQWhSbnZMVWFMM0IzckJXRy15VnpOVjZYYUh2SUJEYnJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대상 “친환경 식물성 대체육·배양육 모두 잡는다” - 뉴스펭귄",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a9711ae4-a589-47de-89be-f4c38413885e": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309349",
+      "original_headline": "K-Beauty Cushion Foundations on Tmall Enter a New Phase",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1909a63-46a9-4a3c-a970-e4493a9ec52d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309351",
+      "original_headline": "K-Beauty Essences on Tmall Reach a Structural Turning Point",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1c93398c-d207-42a5-9261-88ac5f13832a": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ZzlCYXN5SGc2d01vNWx3dE9fZmxscmVaUWRLcHVtN2ppUkRKUzdyZ1hjZkVGN2p1anVaZ1ZaQWxTdlJXN2hRZHpERl9KWnhqaEJQeHBfYnQ0VW1iVGhzZUln?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "충북경자청, 오송국제 K-뷰티 아카데미 관리·운영 수탁기관 공모 - 충북일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a12d54cf-340d-4dca-9316-b2d937551bbe": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f26b7c5c-1a6e-42fd-ade1-40baedef5fa3": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHJfbzFFWXlUOVdHR1FHcG9Sa010TUJCS0k5bHdwaDdscGtCb2dCS2FjMjczRElvMmN0bGNIMGpFY3BuUU1QMmlrc2oweFJBd3ViakRDUm10WFh5QWloV0hfVl9PaHBsdkVWUEc2R2RGN2ozOGlkTHY0aEFoQTRidVFSMUZaR1NmNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"입장에 1시간, 계산에 1시간\" K패션에 빠진 도쿄 - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d705ed3-c7ea-478b-bd60-4b556661a860": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR01QM2FhNEFpT2xtRlRQSFV3RnJjOF96YTVjQ3JPbi1rUVNZY0U5b2lOaUlsZ3NlY3k4cndSZFVyeGNTZHR6bDhHSnlyeWdwTS1iMXRyX2hHNWQ2eGZHQUhBZm5sR1BxcWNwRjFGdHFfb093bDd3Slk2ZzhIQVpsVk5XXzZPN2t3U1lxSDNuMEQxdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘소공동 호텔 화재’ 수습과정 녹였다…중구 ‘외국인 재난대응 매뉴얼’ - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "834e4d44-d3cc-43a8-9fae-86f6102f80c2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fedfe4b-80aa-47da-b082-6952ae364369": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "9f4a6e97-a77f-4371-be1b-46f1bad785bd": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
