@@ -1,0 +1,193 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 튀르키예·국내 인프라 동시 확충하며 글로벌 공략 본격화",
+    "Z세대, 음주 문화 이탈과 전통 문화 소비 확대로 소비 지형 재편",
+    "트럼프 방중 변수, 미·중 공급망 연동 소비재 기업 리스크 재점검 필요"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "a3699058-d599-4b85-bd8f-95affbb9e243",
+        "title_ko": "트럼프 방중, 베이징 긴장 고조",
+        "summary_ko": "트럼프 대통령의 베이징 방문을 앞두고 현지 경계 태세가 크게 강화됐다. 미·중 정상 간 직접 접촉이 관세·공급망 협상에 미칠 파급력이 주목되며, 대중 수출 의존도가 높은 소비재 기업은 협상 결과를 예의주시할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "9777d013-a0e1-4158-8e06-f0b1afe2835b",
+        "title_ko": "대상, 대체육·배양육 동시 공략",
+        "summary_ko": "대상이 식물성 대체육과 배양육 두 축을 모두 아우르는 사업 확장 전략을 공식화했다. 친환경 소비 수요를 선점하려는 국내 식품 대기업의 포트폴리오 다각화 흐름이 가속되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "53302313-c984-4ab0-953e-1b7c03a48cbe",
+        "title_ko": "K-뷰티, 이스탄불서 유럽·중동 교두보 확보",
+        "summary_ko": "7회를 맞은 뷰티 이스탄불 전시회에서 K-뷰티 기업들이 튀르키예를 유럽·중동 진출 거점으로 적극 활용했다. 전시 규모와 참관객 수가 매년 확대되며, 이스탄불이 아시아 뷰티 브랜드의 서진 교두보로 자리매김하는 구도가 굳어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "961e7f11-918d-463f-9f27-ae6479201216",
+        "title_ko": "오송에 K-뷰티 글로벌 교육 거점 조성",
+        "summary_ko": "충북경자청이 오송역 인근에 연면적 9천㎡ 규모의 국제 K-뷰티 아카데미를 짓고 수탁 운영 기관 모집에 나섰다. 헤어·피부미용·네일 실습부터 창업 지원까지 갖춘 이 시설은 K-뷰티 인재 공급망을 제도화하려는 정부 의지의 표현이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b373bfb9-83cf-4cb5-9c75-1347b447d2c9",
+        "title_ko": "인터참코리아, 7월 코엑스서 개막",
+        "summary_ko": "24회를 맞는 인터참코리아가 7월 1~3일 코엑스에서 열린다. UFI 국제 인증 B2B 전시회로서, 상반기 K-뷰티 수출 흐름을 가늠할 수 있는 실수요 지표로 기능할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a443f279-7e28-4d35-9d36-c9a5ac503722",
+        "title_ko": "On, 1분기 매출 14% 성장",
+        "summary_ko": "스위스 스포츠 브랜드 On이 2026년 1분기 매출 약 9억 800만 유로를 기록하며 14% 성장했고, 순이익은 1억 1,270만 유로로 거의 두 배 수준으로 올랐다. 나이키·아디다스가 고전하는 시장에서 On의 프리미엄 포지셔닝 전략이 수익성까지 입증하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0cb1992f-e05e-4397-8c20-f9d4dd5d832c",
+        "title_ko": "세종호텔 점거 노조 지부장, 1심 무죄",
+        "summary_ko": "세종호텔 점거 사건으로 기소된 노조 지부장이 1심에서 무죄 판결을 받았다. 호텔업계의 노사 분쟁이 법리 공방으로 이어지며, 서울 중심가 호텔의 운영 리스크 관리 방식에 관심이 쏠린다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "c7c9dbed-083d-4b48-b2cb-1d8f846b8dd1",
+        "title_ko": "중국 Z세대, 한복 소비로 문화 자신감 표출",
+        "summary_ko": "중국 Z세대 사이에서 전통 복식 소비가 문화적 정체성 표현 수단으로 부상하고 있다. 국조(國潮) 트렌드가 패션 소비를 넘어 전통 문화 전반으로 확장되는 흐름으로, 국내 K-콘텐츠·패션 기업의 대중 전략에도 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d31e9569-abdf-4ed8-ba15-5987cf90556b",
+        "title_ko": "구독형 보험 시대 도래 예고",
+        "summary_ko": "국내 보험 시장에서 구독 모델 기반의 보험 상품이 등장할 것이라는 전망이 제기됐다. 정기 결제에 익숙한 소비자 행동 양식이 금융 상품 구조 자체를 바꾸는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "70d632f7-9135-4e85-8d6b-5e3e637115fe",
+        "title_ko": "Z세대, 음주 문화에서 이탈 중",
+        "summary_ko": "아르헨티나를 포함한 여러 시장에서 Z세대가 음주 중심 문화에서 멀어지는 '탈프로그래밍' 현상이 보고됐다. 비알코올·저알코올 음료 시장 확대와 맞물려, 주류 소비재 기업의 포트폴리오 재편 압력이 높아지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 키워드는 '탈중심화'다. K-뷰티는 이스탄불과 오송이라는 두 거점을 동시에 구축하며 서울 집중에서 벗어나고 있고, Z세대는 음주 문화와 주류 소비 규범에서 이탈해 전통 문화 소비와 건강 지향으로 재편되고 있다. On의 급성장은 나이키·아디다스 양강 구도가 균열 중임을 수치로 증명한다. 여기에 트럼프 방중이라는 거시 변수까지 더해지면, 기존 공급망과 유통 질서를 전제로 짜인 소비재 전략을 지금 다시 점검해야 할 이유가 충분하다.",
+  "cards_meta": {
+    "a3699058-d599-4b85-bd8f-95affbb9e243": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zMFlib0pHazM2M2FIU0RSbTJ5NzNWQldkZEI3eUFBamc1ZE8zdXNCeWlqbHNLRjVyOEI3VVA4MGFyNlBTQzhRTmpuandDTE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[르포] 호텔앞 도로변 순찰차 20대…트럼프 방중 앞둔 베이징 곳곳 긴장감 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9777d013-a0e1-4158-8e06-f0b1afe2835b": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GaVZzVDk4Q0pYWkdlOWNzZ3QtVm1yRkZvY3Q0OXpWQ1oxYkhQMHAtZ2UwQkk3Ymx5ZHU4VEt6ZWN1NTByejZGVjhfanRZcmMzS3ZEcks2OG9JOW5rRk9wMndOTmlWWUVDZThtQ2tR0gFyQVVfeXFMUGNJMmxQLUlSX1d0ZDZvVy1tSFU3RW5Od0w3TnYwVzYyWjJOVDZPSUhHT25sdWpuZXJTS0hGS2NleEpSdlRnU1VkQ09fUDZYb25iQWhSbnZMVWFMM0IzckJXRy15VnpOVjZYYUh2SUJEYnJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대상 “친환경 식물성 대체육·배양육 모두 잡는다” - 뉴스펭귄",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53302313-c984-4ab0-953e-1b7c03a48cbe": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98729",
+      "original_headline": "K-뷰티, 튀르키예 거점으로 유럽·중동 시장 공략 가속",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "961e7f11-918d-463f-9f27-ae6479201216": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98738",
+      "original_headline": "충북경자청, 오송국제 K-뷰티 아카데미 수탁기관 공개 모집",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b373bfb9-83cf-4cb5-9c75-1347b447d2c9": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98754",
+      "original_headline": "글로벌 뷰티•화장품 B2B전문 전시회 ‘2026 인터참코리아’ 7월 1일 개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a443f279-7e28-4d35-9d36-c9a5ac503722": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/on-crece-un-14-en-el-primer-trimestre-e-impulsa-su-rentabilidad-casi-duplicando-el-beneficio",
+      "original_headline": "On crece un 14% en el primer trimestre e impulsa su rentabilidad casi duplicando el beneficio",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "0cb1992f-e05e-4397-8c20-f9d4dd5d832c": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdXNGUlJOeWoyX3RPdHBZZzRGNXg5X1BlMExBazA2U24xUThUQmdLQUs1Mk5MeHNNelN2YTFHa3NCMFBzTGhyMjN1N210UWw0R05v?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[속보]고진수 노조지부장, '세종호텔 점거' 1심 무죄 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c7c9dbed-083d-4b48-b2cb-1d8f846b8dd1": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "d31e9569-abdf-4ed8-ba15-5987cf90556b": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "70d632f7-9135-4e85-8d6b-5e3e637115fe": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
