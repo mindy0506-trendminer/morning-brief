@@ -1,0 +1,158 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 중소기업 온라인 수출 3억 달러 돌파, 전년 대비 38% 급성장으로 구조적 확장 국면 진입",
+    "중국 MZ세대, K팝 아이돌 메이크업 재현 소비가 한국 화장품 수요의 실질 동력으로 작동",
+    "국내 패션·리세일 시장, 브랜드 협업형 되사기 프로그램으로 순환 소비 모델 본격 실험"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "ce145edc-ad93-4e56-8695-317064497660",
+        "title_ko": "건기식 협회, 식품안전의 날 홍보 성료",
+        "summary_ko": "한국건강기능식품협회가 제25회 식품안전의 날 행사에서 건강기능식품 홍보 부스를 운영하고 성황리에 마쳤다. 소비자 접점 행사를 통한 신뢰 구축이 건기식 업계의 주요 마케팅 축으로 자리잡는 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "9c82d0b9-995b-489b-9e2f-41da5b8a3562",
+        "title_ko": "K-뷰티 온라인 수출 3억 달러 돌파",
+        "summary_ko": "2026년 1분기 중소기업 온라인 수출액이 전년 동기 대비 38.2% 증가한 3억 달러를 기록하며 역대 최고치를 경신했다. 온라인 총 수출에서 중소기업 비중이 70%에 달해, K-뷰티 글로벌화의 실질 주체가 대기업이 아닌 중소 브랜드임을 재확인했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7410cc1d-f86e-4987-8b68-8074ef45a50e",
+        "title_ko": "중국 MZ, 아이돌 메이크업이 구매 동기",
+        "summary_ko": "중국 산동성 대학생 사례처럼, BTS·블랙핑크 팬덤이 K-뷰티 소비의 직접적 진입 경로로 기능하고 있다. 월 500위안 규모의 화장품 지출이 아이돌 분위기 재현을 목적으로 이뤄지며, K팝 콘텐츠가 수출 마케팅 비용을 대신하는 구조가 뚜렷해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "c9d26212-1c09-4fdd-a89f-ec3dbc1f8eaf",
+        "title_ko": "강남역 K-문화 팝업, 케미스트릿 운영",
+        "summary_ko": "케미스트릿이 서초·강남역 일대에서 K-맛·멋·미를 내세운 여름 팝업 이벤트를 진행했다. 거리 패션과 식음료·미용을 결합한 복합 체험형 팝업이 도심 상권 활성화 수단으로 활용되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c57d4ac1-31ab-40fc-a840-a5bbddb2c53d",
+        "title_ko": "연신내 썸머스트릿 파티 개최",
+        "summary_ko": "은평구가 연신내 일대에서 썸머스트릿 파티를 열었다. 서울 외곽 상권이 스트릿 패션 이벤트를 통해 지역 브랜딩에 나서는 사례가 늘고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "92940bb3-ef4e-49dd-9494-285d37bdc7f8",
+        "title_ko": "이새·마들렌메모리, 리세일 프로그램 협업",
+        "summary_ko": "국내 디자이너 브랜드 이새와 중고 거래 플랫폼 마들렌메모리가 '이새 리스펙트' 리세일 프로그램을 공동 운영한다. 브랜드가 직접 되사기 구조를 설계해 제품 생애주기를 연장하는 순환 소비 모델이 국내 패션 시장에서 실험 단계를 넘어서고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "1703301f-ec22-4e14-a06c-037e4ab19d11",
+        "title_ko": "시공 없는 인테리어 필름 시장 확대",
+        "summary_ko": "벽·문·가구에 별도 시공 없이 부착할 수 있는 인테리어 필름 신제품이 출시됐다. 전문 업체 의존 없이 공간을 바꾸려는 셀프 인테리어 수요가 저비용 소재 시장을 키우고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "bf1242f6-72cf-4bc8-a3ce-9573558072ba",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에서 구독 방식의 상품 모델이 본격 도입될 것으로 전망된다. 정기 결제에 익숙한 소비자층을 겨냥해 보험료와 보장 범위를 유연하게 조정하는 구조가 기존 장기 계약 중심 시장을 흔들 변수로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '소비자가 콘텐츠와 경험을 통해 제품을 발견하고, 디지털 채널로 구매까지 완결짓는 구조의 고도화'다. K-뷰티 수출 급성장의 배경에는 K팝 아이돌이 무보수 콘텐츠 마케터로 기능하는 팬덤 경제가 있고, 도심 팝업과 스트릿 이벤트는 오프라인 체험을 온라인 구매 전환의 촉매로 쓰고 있다. 패션의 리세일 프로그램, 보험의 구독 모델은 업종은 다르지만 '소유 방식의 유연화'라는 동일한 소비자 욕구에 응답한다는 점에서 같은 맥락이다. 브랜드 전략의 초점이 제품 자체보다 소비자가 그 제품을 만나는 여정 설계로 이동하고 있음을 시사한다.",
+  "cards_meta": {
+    "ce145edc-ad93-4e56-8695-317064497660": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRUtsUk5uTVQyQlJaRU96UE9uVnEzV1o5WmlRZVdpazdqcF9kdDBoUDdndTVpZ0JLT2dLUDU5VERTZmYyWkV0NU1TNFRrM2NFZWpZTkZWV2w4QTFnWHNhSjdWS2o3RFot?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국건강기능식품협회, ‘제25회 식품안전의 날’ 건기식 홍보부스 성료 - 헬스경향",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9c82d0b9-995b-489b-9e2f-41da5b8a3562": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98769",
+      "original_headline": "K-뷰티 중소기업 온라인 수출 ‘3억 달러’ 돌파 역대 최고치 경신",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7410cc1d-f86e-4987-8b68-8074ef45a50e": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309266",
+      "original_headline": "중국 MZ 뷰티 소비관 “BTS·블랙핑크 메이크업 따라잡기”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c9d26212-1c09-4fdd-a89f-ec3dbc1f8eaf": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c57d4ac1-31ab-40fc-a840-a5bbddb2c53d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iUWZScXIxVjJ4enROVWc0ck9fbWxQemJSM3h4YkVwZVdMYlhwajlzT1phOElIb1hoWXNfbW5zdXlnQmNjYmljekV6NzBPWEJoZjdHX2xqWGV4NUXSAWBBVV95cUxNb25wQU92b29UVEpTM1lxR2lLWjQ4QlROek5CMmM1eEJMNllhRDRwSXk5akxTdUhJcjVucHFRUnlkeUpyOTR0NUgtLVNtVERxVjhIM2xCWjFhWXBDek1mVlM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "은평구 '연신내 썸머스트릿 파티' 29일 개최 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "92940bb3-ef4e-49dd-9494-285d37bdc7f8": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1703301f-ec22-4e14-a06c-037e4ab19d11": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81amMzNDBZR0ZEZW9ncXBXY0RtUW9RWWg0TVRkRmttX0xKTEZjeE9tanZqMXlwWG1RVXZ0Mml1ZTVFWEp3dU9RNlZkbU5ocEc5R3Zz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "벽·방문·가구에 붙일 수 있는 '인테리어 필름' 나왔다 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bf1242f6-72cf-4bc8-a3ce-9573558072ba": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
