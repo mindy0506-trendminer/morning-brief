@@ -1,0 +1,203 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 중소기업 온라인 수출, 1분기 3억 달러 돌파로 글로벌 채널 주도권 확인",
+    "중국 시장 둔화 속 ODM 중심 재편, 설화수는 일본 럭셔리 공략으로 대응",
+    "마르디 메크르디 해외 성과로 K-패션 브랜드 독자 글로벌화 가능성 부각"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "b76fb972-947e-4c96-88e6-637d15a6e4ce",
+        "title_ko": "K-뷰티 온라인 수출 최고치",
+        "summary_ko": "2026년 1분기 중소기업 온라인 수출액이 전년 동기 대비 38.2% 증가해 처음으로 3억 달러를 넘었다. 온라인 총 수출의 70%를 중소기업이 차지하며, 대형 채널 의존 없이 브랜드 단위의 직접 수출 구조가 정착 단계에 진입했다는 평가다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "921c81e5-3e6b-4739-8a1c-8ce6f813f547",
+        "title_ko": "중국 둔화에 ODM이 전면 부상",
+        "summary_ko": "중국 뷰티 시장의 성장세가 꺾이면서 한국 브랜드의 현지 전시회 존재감도 줄고 있다. 빈자리를 채우는 것은 ODM 업체들로, 브랜드 대신 제조 경쟁력을 앞세워 글로벌 바이어와 직접 계약하는 구도로 산업 구조가 재편 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e427b356-e1f7-4933-9525-3c454074236f",
+        "title_ko": "설화수, 일본 럭셔리 시장 정조준",
+        "summary_ko": "아모레퍼시픽의 설화수가 일본 최대 뷰티 플랫폼 @cosme TOKYO를 거점으로 체험형 마케팅을 강화하고 있다. K-뷰티를 저가 대중 브랜드가 아닌 럭셔리 카테고리로 재정의하려는 전략으로, 일본 프리미엄 시장 공략의 실험대로 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "318daa5d-b9b7-4e69-8932-45a0ffab307d",
+        "title_ko": "마르디 메크르디, 글로벌 도약 가시화",
+        "summary_ko": "마르디 메크르디가 해외 시장에서 유의미한 성과를 내며 K-패션 독자 브랜드의 글로벌 가능성을 증명하고 있다. 대기업 패션 계열사가 아닌 독립 브랜드의 해외 확장 사례로서 업계 주목도가 높다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8d3fdc0b-3447-4352-ab0b-242f1821ac3b",
+        "title_ko": "케미스트릿, 강남역 팝업 개최",
+        "summary_ko": "케미스트릿이 서초·강남역 일대에서 K-맛·멋·미를 결합한 여름 팝업 행사를 열었다. 스트릿 패션과 식음료·미용을 묶은 복합 체험 방식으로 젊은 소비층 접점을 확장하는 시도다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "3353ac64-0f64-4ed8-a055-ca9bd9d0861a",
+        "title_ko": "현대L&C, 올해 키워드는 '굿 무드'",
+        "summary_ko": "현대L&C가 2025년 인테리어 트렌드로 '굿 무드'를 제시했다. 기능 중심에서 감성과 분위기 중심으로 소비자 선호가 이동하고 있음을 반영한 방향 설정이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "511331db-5a8f-42bf-9ef0-ba6e36c4d9e9",
+        "title_ko": "여름 패브릭으로 공간 분위기 전환",
+        "summary_ko": "계절감을 살린 패브릭 인테리어가 여름 홈스타일링의 핵심 수단으로 조명받고 있다. 대형 가구 교체 없이 소품 교체만으로 공간을 바꾸려는 실속형 소비 성향과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3eed12b7-f2a4-43d3-81cf-9e0d2476b81c",
+        "title_ko": "현대무용과 스트릿댄스의 교차",
+        "summary_ko": "현대무용과 스트릿댄스의 협업 공연이 문화 소비층의 관심을 끌고 있다. 장르 경계를 허무는 콜라보레이션이 라이프스타일 이벤트 영역에서도 확산되는 흐름의 일부다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "e1ea8bdc-28e4-4e14-96f6-e5e507c5fdf0",
+        "title_ko": "구독형 보험, 시장 개화 예고",
+        "summary_ko": "국내 보험 시장에서 구독 방식의 상품이 본격화될 것이라는 전망이 나오고 있다. 고정 지출보다 유연한 가입·해지를 선호하는 소비 성향이 보험 산업 구조에도 압력을 가하는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "69027665-17e4-46e1-920d-513793a38178",
+        "title_ko": "Z세대 소비자 전반적 행동 지형도",
+        "summary_ko": "중국 Z세대의 소비 행동 전반을 분석한 자료로, 자기표현·경험 중심 지출 성향이 두드러진다. 국내 브랜드의 중국 청년 소비층 공략 전략 수립에 참고할 수 있는 기초 자료다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f0c174f3-2534-4f61-9b31-7217c067726a",
+        "title_ko": "무엇이 Z세대 지갑을 여는가",
+        "summary_ko": "중국 Z세대의 소비 선호도 추이를 추적한 분석으로, 브랜드 충성도보다 콘텐츠·경험 기반의 순간적 구매 결정이 강화되는 경향을 보여 준다. K-뷰티·K-패션이 이 세대를 공략할 때 유효한 접근법을 시사한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑의 핵심 축은 'K-브랜드의 시장 다변화'다. 뷰티 중소기업은 온라인 직접 수출로, 설화수는 일본 럭셔리 포지셔닝으로, 마르디 메크르디는 독자 브랜드 파워로 각각 다른 경로를 택했다. 공통점은 중국 단일 의존에서 벗어나 시장과 채널을 동시에 분산하고 있다는 점이다. 구독형 보험과 Z세대 소비 분석이 시사하듯, 소비자 행동의 유연화·개인화 흐름은 뷰티·패션뿐 아니라 금융 상품 구조까지 바꾸고 있으며, 브랜드 전략도 이 변화 속도에 맞춰 재설계가 필요한 시점이다.",
+  "cards_meta": {
+    "b76fb972-947e-4c96-88e6-637d15a6e4ce": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98769",
+      "original_headline": "K-뷰티 중소기업 온라인 수출 ‘3억 달러’ 돌파 역대 최고치 경신",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "921c81e5-3e6b-4739-8a1c-8ce6f813f547": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309572",
+      "original_headline": "K-Beauty Shifts as China Slows, ODMs Take the Lead",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e427b356-e1f7-4933-9525-3c454074236f": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309480",
+      "original_headline": "Sulwhasoo Bets Big on Japan, Using @cosme to Redefine K-Beauty as Luxury",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "318daa5d-b9b7-4e69-8932-45a0ffab307d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMd05MUW5jbnVVMUUzTFZnNEdTNUV4Q3hFb3o1bGpBakNsc1RWTjJKeDVLZzBPTFg5eXZ2dGJvSU5oYlpJNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[주末머니]\"마르디 메크르디 글로벌 통했다\"…K패션 대표주자 도약 시동 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d3fdc0b-3447-4352-ab0b-242f1821ac3b": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3353ac64-0f64-4ed8-a055-ca9bd9d0861a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbzhtWmtfR2NWNFhxNmN5Vm1FZ1Q5c2ZtX2RMMkxnVGZUaHRrMlN4VmlVa1NQUkJrUmpFMGhfOTlaOHZ6SUpyd2pmZUFKSEhNNHZrZlhGQ21QRm02X1BJTm1ZTlZSejhNY1Uwb3JSTjdSN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C, 올해 인테리어 트렌드 '굿 무드' 제시 - 오늘경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "511331db-5a8f-42bf-9ef0-ba6e36c4d9e9": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fSW1GNThlNmlMeHlIdU1IblRwZi0xTHRCSGFJZzA0VkNhZmZOTmo3RUFOclEwaHptOW0wTkdGUXZhSlNUYUpEOGZlOC0xOXc4b0dJYjdxZ3ZCTWhTaVgzZk5oRWdoM0FVNTBv0gFuQVVfeXFMUDMtU0NCQXBSdDN2dExxU2wyR2dXSGZac1p4YlBWYmoyU0NCTm1xVW5MajRpOFlRXzl5QWZhWllGdFc4RmZLOUJzT3pzeGtpanMyTERDd0Vzd3YtbUZZa09zQnA3Skg1TFlxNUs5d3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "집안에 여름을 들이는 패브릭 인테리어 ① - 여성조선",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3eed12b7-f2a4-43d3-81cf-9e0d2476b81c": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OUHVsUFExenNGSE5ITzBxeVJRSk93NV9FVWxtR0xwWFAxaTFvNmlESW1HR3AyOXdqcG1aUjZ6S0pySUl0UW5oR3I1WTU4c2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대무용과 스트릿댄스의 특별한 만남 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e1ea8bdc-28e4-4e14-96f6-e5e507c5fdf0": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "69027665-17e4-46e1-920d-513793a38178": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9valZYRWhEc1dRWVpfaFZxNXE1R09EQkgtUnc4WjhZWEx0N21acEktbnExYlp6WEE5NzlHWDNDWU9zQ2VTaFhMUUEtNE5FS25mY29EWlFUVUV1OUdkekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "我的青春我做主——Z世代人群整体画像 - 北京商报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "f0c174f3-2534-4f61-9b31-7217c067726a": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTRyS0VQMDlMdkcxd0VoaGE0YVQ4Tlk4Q2pqYUxndnNWTzhSTTRMc2M1ckozU0JJc2RNLU5Fa1NiNnN6bldOd1dKQjVQaDlZalRqS3hxeEw3YnFmUXUzVHlqbjlKSExGQ1IzTGRnN29uQnJ0TTByNGQ2aHFoZXk0Q1ZpRzVoN1VKdTdPcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "谁动了Z世代的钱包？浅析Z世代青年消费偏好趋势 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
