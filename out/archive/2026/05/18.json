@@ -1,0 +1,189 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 미국 수출 33% 급증, 북미 중심 구조 재편이 본격화",
+    "중소기업 온라인 수출 3억 달러 돌파, K-뷰티가 성장 견인",
+    "패션 산업, AI 도입과 지속가능성 전략 모두 실증 단계로 진입"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "2971061e-1c13-405d-b2c7-ce7edcee1bca",
+        "title_ko": "국내 첫 채식 관광 프로그램 출범",
+        "summary_ko": "강원도에서 국내 최초 채식 관광 프로그램 '강원 비건 어게인'이 열렸다. 비건 식문화가 여행·관광 콘텐츠로 확장되는 흐름으로, 소비재 시장에서 채식의 저변이 넓어지고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d59fa3b9-ced5-4e45-9a86-6ddba29b0a3c",
+        "title_ko": "K-뷰티 미국 수출 사상 최고",
+        "summary_ko": "2026년 4월 K-뷰티 미국 수출이 전년 동기 대비 33.4% 급증하며 미국이 최대 수출국 지위를 굳혔다. 북미 중심의 수출 구조 재편이 뚜렷해지는 가운데, 품목별 성장 양극화도 함께 진행 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6d86f57f-af78-4029-837a-67d2bfb48321",
+        "title_ko": "미국 시장서 K-뷰티 성분 주목",
+        "summary_ko": "글로벌 유통사 랜딩인터내셔널이 Ulta Beauty 컨퍼런스에서 K-뷰티 전용 부스를 운영하며 현지 바이어들의 높은 관심을 확인했다. 미국 소비자들이 혁신 성분을 K-뷰티 선택의 핵심 이유로 꼽는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0c67b4dc-6e9f-4e5f-a7f1-6bb401ed03e6",
+        "title_ko": "중소기업 온라인 수출 3억 달러 돌파",
+        "summary_ko": "2026년 1분기 중소기업 온라인 수출이 전년 동기 대비 38.2% 증가하며 처음으로 3억 달러를 넘어섰다. K-뷰티 글로벌화 정책이 실질적 성과로 이어지고 있으며, 온라인 수출의 70%를 중소기업이 담당하는 구조도 주목할 만하다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "08f9f7b7-820f-4b31-9382-7dfa8c71b8c2",
+        "title_ko": "지속가능성, 구호에서 성과 중심으로",
+        "summary_ko": "패션 업계에서 형식적 지속가능성 전략은 사실상 퇴장하고, 사업 성과와 연결된 실질적 모델이 주류로 자리잡는 추세다. 성숙 단계에 접어든 전환으로 평가되며, 규제 대응보다 브랜드 경쟁력 강화 수단으로 재정의되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5c41908b-90ac-411c-8b0e-87534191a3b1",
+        "title_ko": "패션 AI 도입, 증명의 시간",
+        "summary_ko": "패션 산업의 AI 도입이 실험 단계를 넘어 대규모 실증 요구에 직면했다. 도입 속도가 기대보다 느리고 부분적이라는 평가가 나오며, 가능성보다 측정 가능한 성과를 묻는 국면으로 전환되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d9b06e12-80b0-49b7-8ccc-1e26c0d21d72",
+        "title_ko": "모리셔스 럭셔리 리조트 부상",
+        "summary_ko": "마리끌레르 코리아가 모리셔스 콘스탄스 호텔을 차기 여행지로 집중 조명했다. 국내 고소득 소비자의 여행 반경이 기존 유럽·동남아를 넘어 인도양 프리미엄 리조트로 넓어지는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "1309769b-79bd-4acd-905b-f1f971a0224e",
+        "title_ko": "Z세대 지갑을 움직이는 요인",
+        "summary_ko": "중국 Z세대의 소비 선호 트렌드를 분석한 연구가 주목받고 있다. 가성비와 경험 소비를 동시에 추구하는 이중적 소비 패턴이 두드러지며, 브랜드 충성도보다 콘텐츠 기반 발견 구매가 핵심 동인으로 부각된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1390c1bc-2cc2-4a23-ab42-d39b8efa2373",
+        "title_ko": "중국 젊은층 소비 태도 변화",
+        "summary_ko": "소비 신세력으로 떠오른 중국 젊은 세대의 행동 양식이 기존 세대와 뚜렷하게 갈린다. 개성 표현과 실용성을 함께 중시하는 가치관이 제품 선택과 채널 이용 방식 모두에서 영향을 미치고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "623718e9-bbe0-4119-8873-7b6c75ed6944",
+        "title_ko": "젊은 소비관 변화의 배경",
+        "summary_ko": "인민일보가 분석한 중국 청년층의 새로운 소비 관념은 경제 환경 변화와 디지털 미디어 확산이 복합적으로 작용한 결과로 지목된다. 가치 소비와 절약 소비가 동시에 강화되는 역설적 구조가 특징이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '검증된 성과'에 대한 요구다. K-뷰티는 수출 수치로 북미 재편을 입증했고, 패션 산업은 AI와 지속가능성 모두 구호 단계를 넘어 실질 성과를 요구받는 국면에 들어섰다. 중국 Z세대 소비 분석도 같은 맥락으로 읽힌다. 브랜드 선호보다 실제 경험과 가치 증명이 구매 결정을 좌우하는 구조로 시장이 재편되고 있다. 성분, 기능, 데이터 기반의 '증명 가능한 차별화'가 소비재 전 카테고리의 공통 경쟁 축으로 부상하고 있다.",
+  "cards_meta": {
+    "2971061e-1c13-405d-b2c7-ce7edcee1bca": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNkVaR0tnbDA3cFlldkZZZzNzaWwyajNlRWhkWUZtQ3J6MUg1NFBCRUZ1QUxuaUdEWjJTVEpRTXU0bEtNMW05UXVqNGQzY3dxR0ZPZ0VoNnRidw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "국내 첫 ‘채식 관광’ 프로그램…‘강원 비건 어게인’ 개최 - 농민신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d59fa3b9-ced5-4e45-9a86-6ddba29b0a3c": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309579",
+      "original_headline": "[K-뷰티 수출①] 4월 K뷰티 미국 수출…33.4% 급증, 미국 1위 고착",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6d86f57f-af78-4029-837a-67d2bfb48321": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98786",
+      "original_headline": "“美 소비자, K뷰티의 혁신적 성분에 홀릭”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c67b4dc-6e9f-4e5f-a7f1-6bb401ed03e6": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98769",
+      "original_headline": "K-뷰티 중소기업 온라인 수출 ‘3억 달러’ 돌파 역대 최고치 경신",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "08f9f7b7-820f-4b31-9382-7dfa8c71b8c2": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGV0NXRG1oOEJORTJPX2pUTnBXQzZuN19ocVVfU3pmNmJiTTQyOWtsOEx4TWV0UnNfRy1DMldlUVpSbTNxMGg4TVk1dkJjRGozMTQ5T0lhVnhHV05SQnZERjByTkhpazM3R2k4OG5zLVJoTVFlWlYyaVc1a1PSAXxBVV95cUxQejcxckpoTVhYd3lLel95eko4NHhRVVVSYWxMNkdqZmdDN2JFZTN5RE1aaHBVSk5NWkhoeVFkM2VyT2lrMkFSQzhBR1VObmJlS3J4aHhtcEhEWUttZXVwbE1ZOXFfcFhxQ2xOX1ZJNHVXTkprenJDY2syVDlO?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La 'isla' del mercado inmobiliario de lujo en España que supera a Italia o Francia: \"Ofrecemos un modelo más equilibrado de inversión, estilo de vida y sostenibilidad\" - El Mundo",
+      "languages": [
+        "es",
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "5c41908b-90ac-411c-8b0e-87534191a3b1": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/back-stage/ia-el-momento-de-demostrar",
+      "original_headline": "IA: el momento de demostrar",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "d9b06e12-80b0-49b7-8ccc-1e26c0d21d72": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQm53T2tONE10b1gzMnBCeTNEbzYxRjdMYm1mY3NqWHhKTTAyeXB3X3lObl8tczVBY1Q4Q2pmNGdndDBrc0VTRHlkaGkzSk9HamZKQ2JaRTFFWlFoMmUwZnM3Ql8wcTRNa29JTlhQMHF6UkRNdUxvaHFDMmpFdHkxN3hoc0xnU1dwZ2gxVjdVUTlmUzd6SjI2ZFhhZGk2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "새로운 여행지를 찾고 있다면? 모리셔스 ‘콘스탄스 호텔 앤 리조트’ – 마리끌레르 코리아 - 마리끌레르 코리아",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1309769b-79bd-4acd-905b-f1f971a0224e": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTRyS0VQMDlMdkcxd0VoaGE0YVQ4Tlk4Q2pqYUxndnNWTzhSTTRMc2M1ckozU0JJc2RNLU5Fa1NiNnN6bldOd1dKQjVQaDlZalRqS3hxeEw3YnFmUXUzVHlqbjlKSExGQ1IzTGRnN29uQnJ0TTByNGQ2aHFoZXk0Q1ZpRzVoN1VKdTdPcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "谁动了Z世代的钱包？浅析Z世代青年消费偏好趋势 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "1390c1bc-2cc2-4a23-ab42-d39b8efa2373": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "623718e9-bbe0-4119-8873-7b6c75ed6944": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSeUlnaEFsSUpoQ0NoZ212XzAzRDhaeEJQZlJMTDh1dUYzcGM3RjU3RnJzeVItNXJhRkhLS3NXX3YyNnVHLVl3amlMTXNfR3E1a25iWE5uWnBPQlpUVE85TndpNG9lQ01NOW1Jb1VMa3ZnT0dUemZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "年轻人消费观念的新变化及其动因 - 人民日报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
