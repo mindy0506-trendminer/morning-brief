@@ -1,0 +1,158 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국 기초화장품 수출 25% 급감…일본·아세안으로 축 이동 본격화",
+    "여성 1인 여행객 겨냥한 도심 캡슐호텔 출시, 소규모 단기 체류 시장 가시화",
+    "Z세대, 전통문화 소비와 저알코올 음료로 소비 가치관 재정의"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b6ed1cbd-5421-404f-a067-30bb9539df1e",
+        "title_ko": "건기식 브랜드, 사회공헌으로 신뢰 구축",
+        "summary_ko": "팜스빌이 초록우산과 손잡고 취약계층 아동에게 건강기능식품을 후원했다. 건기식 시장의 경쟁이 심화되는 가운데 사회공헌 활동을 통한 브랜드 신뢰도 제고 전략이 확산되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "7e8b8eb2-53a5-4b95-a2d5-2867e0343331",
+        "title_ko": "K-뷰티 중국 수출 구조 재편",
+        "summary_ko": "2026년 4월 기준 대중국 기초화장품 수출이 전년 대비 25.6% 감소했다. 중국은 여전히 K-뷰티 수출 2위 시장이지만 핵심 품목 전반에서 하락세가 겹치며 단순 수요 둔화가 아닌 구조적 전환 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "49ba674c-e65f-43a0-b262-e58ab60e0a88",
+        "title_ko": "대봉엘에스, 아세안 소재 공략 확대",
+        "summary_ko": "대봉엘에스가 인도네시아 파트너사 조직 확대를 기반으로 아세안 화장품 시장에 천연 기능성 소재 공급을 강화하고 있다. 중국 의존도 축소 흐름 속에서 동남아 원료 공급망 구축이 K-뷰티 업계 전반의 대안 전략으로 부상 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ac4702be-7c78-41db-8cc4-e5566a9590f8",
+        "title_ko": "K-뷰티, 일본 B2B 공세 가속",
+        "summary_ko": "IBITA와 KOTRA가 일본 최대 B2B 뷰티 전시회 '뷰티월드 재팬 도쿄 2026'에 한국관과 단체관을 동시 운영하며 대일 수출 저변 확대에 나섰다. 7만여 명 규모의 바이어 접점이 형성되는 이번 전시는 중국 대안 시장으로서 일본의 전략적 비중이 커지고 있음을 방증한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8ef57865-b730-4b88-baf3-fd1c0c384094",
+        "title_ko": "여성 전용 캡슐호텔, 도심 틈새 공략",
+        "summary_ko": "로카101이 서울 종로 관수동에 여성 전용 캡슐호텔을 개장하며 도심 단기 체류 수요를 겨냥했다. 1인 여성 여행객과 도심 직장인 단기 체류 수요가 맞물리면서 안전·편의 중심의 소형 숙박 포맷이 새로운 세분 시장으로 자리잡는 신호로 볼 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0fe3ce59-49cd-4bcf-ad16-c3d21ee59440",
+        "title_ko": "Z세대 전통문화 소비, 구매력으로 전환",
+        "summary_ko": "중국 Z세대 사이에서 한복(汉服) 등 전통 문화 콘텐츠 소비가 '국조(国潮)' 트렌드와 맞물려 확산되고 있다. 문화 정체성 표현이 실제 소비 지출로 이어지는 구조는 K-콘텐츠·전통 소재 브랜드에도 참고할 만한 방향성이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "36b8052c-4a6b-4e73-ad1f-72fd41164783",
+        "title_ko": "Z세대, 저알코올로 음주 문화 재정의",
+        "summary_ko": "스페인을 비롯한 서구 Z세대 사이에서 무알코올·저알코올 음료 선호가 뚜렷해지고 있다. 술자리 문화 자체는 유지하되 음주량은 줄이는 행태로, 주류 업계의 포트폴리오 재편 압력이 한국 시장에도 이미 진행형이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "87b3eafb-8e97-498e-84bd-09d0ab3908f1",
+        "title_ko": "구독형 보험 시대 임박",
+        "summary_ko": "국내 보험 업계에서 구독 경제 모델을 접목한 구독형 보험 상품 출시 논의가 가시화되고 있다. 소비자의 유연성 선호가 금융 상품으로까지 확대되는 흐름으로, 소비재 구독 서비스와의 번들링 가능성도 주목할 지점이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑의 저변에는 '탈중국 분산'과 'Z세대 가치 소비'라는 두 축이 동시에 작동하고 있다. K-뷰티는 대중국 수출 감소에 대응해 일본·아세안으로 빠르게 축을 옮기고 있으며, 소재 기업까지 현지 공급망 구축에 나서 공급·유통 양면의 구조 재편이 진행 중이다. 한편 Z세대는 전통문화 소비, 저알코올 선호, 구독형 금융 수용으로 소비 패턴 자체를 바꾸고 있어, 브랜드가 이들을 공략할 때 '가격'보다 '가치 정렬' 여부가 결정 변수가 되고 있다. 여성 1인 소비자를 위한 캡슐호텔 등 안전·편의 중심의 세분 시장 출현도 이 흐름의 연장선에 있다.",
+  "cards_meta": {
+    "b6ed1cbd-5421-404f-a067-30bb9539df1e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWkdmSnpLb05kOEFKQ08zNnZQZ0xHNVYxdjREWXdmRzNLRzFubVF3RkYxUnpKYUpET0VfQjdodTRRT1VMd3dRU1dOU3VLeGdmeEpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "초록우산-팜스빌, 취약계층 아동에 건강기능식품 후원 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7e8b8eb2-53a5-4b95-a2d5-2867e0343331": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309580",
+      "original_headline": "[K-뷰티 수출 시리즈②] 4월 중국 수출 감소 본격화…K-뷰티 구조 재편 신호",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "49ba674c-e65f-43a0-b262-e58ab60e0a88": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98790",
+      "original_headline": "대봉엘에스, 인도네시아 'K-뷰티 기능성 소재' 시장 공략 박차",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ac4702be-7c78-41db-8cc4-e5566a9590f8": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98812",
+      "original_headline": "IBITA·KOTRA, ‘뷰티월드 재팬 도쿄 2026’서 K-뷰티 일본 시장 공략 본격화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ef57865-b730-4b88-baf3-fd1c0c384094": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NzcxTDRaUnN0ZU91Z0ZDZ3p6WWZMRkxJWEZZdXNBSk1aVmkxWHVBUGlTMHpDd1hTdHY3VHdKTmVKRmJaU3k0Wl91S2lZcHNRQ1NFdmhwWWNob1p6UFBjY2Vjdl9LY29qMDhnOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "로카101, 종로 관수동에 여성 전용 캡슐호텔 오픈 - ER 이코노믹리뷰",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fe3ce59-49cd-4bcf-ad16-c3d21ee59440": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "36b8052c-4a6b-4e73-ad1f-72fd41164783": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "87b3eafb-8e97-498e-84bd-09d0ab3908f1": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
