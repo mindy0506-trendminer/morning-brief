@@ -1,0 +1,210 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영 미국 1호점 개설로 K-뷰티 오프라인 글로벌 거점 확보 본격화",
+    "에어비앤비, 호텔·렌터카·짐 보관까지 확장하며 여행 플랫폼 구도 재편",
+    "무신사스탠다드 명동 2호점·K-패션 해외 교육으로 국내외 영향력 동시 확대"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "6f1ba5d3-4332-4ecd-904d-5aa88d3bf7cc",
+        "title_ko": "건기식 섭취 주의사항 재조명",
+        "summary_ko": "정부 채널이 건강기능식품 올바른 섭취법을 카드뉴스 형식으로 재배포했다. 보충제 과잉 복용과 성분 중복 우려가 커지는 시점에 공식 가이드라인이 소비자 접점에 직접 노출되는 흐름은 건기식 카테고리 전반의 신뢰 관리와 직결된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "020d9332-ef92-411a-844a-e7ac8409f383",
+        "title_ko": "한국콜마, 표적 항노화 소재 개발",
+        "summary_ko": "한국콜마가 제약의 표적 항암 치료 원리와 약물전달시스템(DDS)을 화장품에 접목해 항산화 신소재 TOT를 개발했다. 스마트 리포좀으로 진피층까지 전달하는 기술까지 구현, 기능성 화장품의 기술 경쟁이 제약·바이오 영역으로 무게중심을 옮기고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "261f737e-52ab-4c69-9f85-df90a54fbb1c",
+        "title_ko": "K-뷰티, 일본 B2B 전시 총력전",
+        "summary_ko": "IBITA와 KOTRA가 일본 최대 B2B 뷰티 전시회 '뷰티월드 재팬 도쿄 2026'에 한국관을 공동 운영하며 대일 수출 교두보를 넓혔다. 7만 명 이상 바이어가 방문하는 행사를 활용한 것으로, K-뷰티의 일본 시장 공략이 기업 단위에서 정부 지원 체계로 격상되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ceff8579-10fc-4c50-88b9-ff5ea54f906b",
+        "title_ko": "올리브영, 미국 첫 오프라인 매장 출격",
+        "summary_ko": "올리브영이 미국 1호 오프라인 매장을 열며 K-뷰티 글로벌 유통 전진기지를 구축했다. 온라인 역직구에 의존하던 미국 공략 방식이 직영 오프라인으로 전환되면서, 브랜드 큐레이션 플랫폼으로서의 위상을 해외에서도 직접 시험하게 됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "b61ac032-4429-4984-9d3a-d9e644a7b255",
+        "title_ko": "무신사스탠다드 명동 2호점 출점",
+        "summary_ko": "무신사스탠다드가 명동에 두 번째 매장을 열며 외국인 관광객 집중 상권 내 입지를 강화했다. 'K-패션 성지' 명동에서의 복수 출점은 온라인 기반 플랫폼이 오프라인 앵커 전략으로 전환하고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f06f177c-9c00-4466-8d20-3b921e2331c7",
+        "title_ko": "성신여대, 중국 패션위크서 K-패션 교육 역량 입증",
+        "summary_ko": "성신여대가 '2026 중국국제대학생 패션위크'에 참가해 K-패션 교육 경쟁력을 알렸다. 산업 수출을 넘어 교육·커리큘럼 차원의 K-패션 소프트파워 확장이 구체화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "fa356fa9-2aff-4da8-a0f1-cf19ff595579",
+        "title_ko": "에어비앤비, 여행 슈퍼앱 전환 선언",
+        "summary_ko": "에어비앤비가 호텔 예약, 짐 보관, 렌터카 서비스를 추가하며 '여행계의 아마존'을 목표로 제시했다. 숙박 단일 플랫폼에서 여행 전 여정을 아우르는 슈퍼앱으로의 전환은 OTA 시장 경쟁 구도 전반을 뒤흔들 변수다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0e124cbd-6ebe-488b-8dcf-a742466e2096",
+        "title_ko": "서울 캡슐호텔 스프링클러 의무화 추진",
+        "summary_ko": "서울시가 캡슐형 호텔에 스프링클러 설치 의무화를 추진한다. 저가 숙박 수요 증가와 함께 확산된 캡슐호텔 업태에 안전 규제가 본격 적용되면, 소규모 운영자 중심의 시장 재편이 불가피하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0a363427-a601-4693-830f-66d9f61a5e83",
+        "title_ko": "거제삼성호텔 호국보훈 특별 프로모션",
+        "summary_ko": "거제삼성호텔이 6월 호국보훈의 달을 맞아 특별 감사 프로모션을 진행한다. 국경일·기념월 연계 호텔 마케팅이 지역 거점 호텔을 중심으로 정례화되는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "6a76ce7a-78e8-4b1d-acb2-16931a58ec67",
+        "title_ko": "중국 Z세대, 한복 통해 문화 소비 재정의",
+        "summary_ko": "중국 Z세대가 한복(汉服) 착용을 국조(国潮) 문화 소비의 일환으로 즐기며 전통 복식을 정체성 표현 수단으로 재해석하고 있다. 천 년의 문화를 현대적 소비재로 재구성하는 이 흐름은 K-패션·K-뷰티가 경쟁해야 할 중국 내 자국 문화 소비 확산을 보여주는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3a076cde-878a-42e6-9e0a-9493ee5363ef",
+        "title_ko": "중국 Z세대, 낙관 기반 충동소비 성향",
+        "summary_ko": "맥킨지 분석에 따르면 중국 Z세대는 미래에 대한 자신감이 높아 예산을 초과하는 충동소비를 더 쉽게 감행하는 경향이 있다. 이들이 주력 소비층으로 성장하는 시점에 프리미엄·감성 마케팅의 유효성이 높아진다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '플랫폼의 공간적 확장'이다. 올리브영은 온라인 역직구에서 미국 오프라인 매장으로, 무신사스탠다드는 디지털 커머스에서 명동 복수 출점으로, 에어비앤비는 숙박 단일 서비스에서 여행 전 여정 슈퍼앱으로 각각 물리적·서비스적 경계를 넓히고 있다. 동시에 한국콜마의 제약 기술 융합 소재와 중국 Z세대의 문화 충동소비 성향은 '경험과 신뢰를 사는 소비자'가 주류화되고 있음을 시사한다. 플랫폼이 공간을 확장하는 속도와 소비자가 가치 소비로 이동하는 속도가 맞물릴 때, 브랜드의 오프라인 경험 설계 역량이 결정적 차별점이 된다.",
+  "cards_meta": {
+    "6f1ba5d3-4332-4ecd-904d-5aa88d3bf7cc": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mamZPZzUzTG1od1ZnbG5mOG9wS1ZUSFZkT3FPZW1XR1RuU3IwM0FYLTBGQUt2ejJCMzZ4U2Y0OXNrbXN2eGs1ejdXaWdnWXQzZVFPamoyRWw5SDloVEhBaUdaUzZtdWc2?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "건강기능식품 섭취 시, 주의할 점! - 대한민국 정책브리핑",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "020d9332-ef92-411a-844a-e7ac8409f383": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98831",
+      "original_headline": "한국콜마, 제약기술 융합…‘표적 항노화 화장품’ 시대 연다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "261f737e-52ab-4c69-9f85-df90a54fbb1c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98812",
+      "original_headline": "IBITA·KOTRA, ‘뷰티월드 재팬 도쿄 2026’서 K-뷰티 일본 시장 공략 본격화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ceff8579-10fc-4c50-88b9-ff5ea54f906b": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUmM1dFpwVEU1a2RWQzVGU1dqaGhYVUZ4dS1aOW90UFlrdllZWGdoMTJSODFJaXRoclVpV2h5OHNPSEF4aFNST2V1N3hQdE5oQ1Y1MTYtUzdFMGlIOEpEdVFQNndzbXNjNVlmOWp0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영, 美 1호 오프라인 매장… K뷰티 글로벌 전진기지로 - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b61ac032-4429-4984-9d3a-d9e644a7b255": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUkQ4amdGSzVkRE9CWS1lZGxWdDFWN0tHLUdyWmREc0VKVUFWSk5mXzF2SE5CbjA0YnIwRHdnbFNfVGt2Tmw0c0pyd0ZiNmJTajg3dmlSU2tYck0tb1Y0V28xVjhJQThvQ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'K패션 성지' 무신사 스탠다드, 명동에 두 번째 매장 오픈 - 월요신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f06f177c-9c00-4466-8d20-3b921e2331c7": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhNlBEcHlCS1IwdkZkOHBiZ0paQ0tJdFBkRU9vQ3VvYlVmTkhPckx3UWdqNXNCTllYeGY3MEVMQy1EX0JuanhpVFlYRWpTbHBCVFpSUGVNQnlzSWtVUUVNQWItakFzWjhQbWJyNmxkME1RU3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성신여대, ‘중국국제대학생 패션위크’서 K-패션 교육 역량 뽐내 - 뉴스프리존",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fa356fa9-2aff-4da8-a0f1-cf19ff595579": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqdGN5ckc0SHNaSlFCNlhWRGhiS2s5MGdhMjZfZC1wOFdvZ2F3MzhkSTBCUjRqbDFoT1ZUVTNpRzZFZmVKa0dWV0cwVlZkSUYyTlZaZm94c2QxSW81NGhoYWtwc1JXQTZwcG9lNU1GYVRpblU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "에어비앤비, 호텔·짐 보관·렌터카 진출…\"여행계의 아마존 될 것\" - 마켓인",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e124cbd-6ebe-488b-8dcf-a742466e2096": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVqWmtzcVZ0UXkyMUhlTlZVa0lFdjJQNEhCUzA0ME9QbW1HdzJEQ3hKZzd4OWx2UHJFdmFmZFlZYU1oaFRFVGNsTXlVZ2tScEY0ano3S1ljVHFLdDNiR0w1a0NKeFhMS3BpUW81Z2w0M2J5VDhkdnFzWm9wYk45YWo0RVlkUjMyaXZLTlBBdHZMbVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서울 ‘캡슐호텔’ 스프링클러 의무화 추진 - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0a363427-a601-4693-830f-66d9f61a5e83": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VYmxVVk9zVVVDNHZUU2FQMVJBRzU1MmNTdUJzSmh4X0VRVHdaTVBLZjJQbFRhWGZQMlkzYk9Ya3pNZDJURGhvTkExT3pjcXIzRGNPM0t1WDlRQmJFcmNjZzVTTHVIQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "거제삼성호텔, 호국보훈의 달 맞아 특별 감사 프로모션 - 거제타임라인",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6a76ce7a-78e8-4b1d-acb2-16931a58ec67": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "3a076cde-878a-42e6-9e0a-9493ee5363ef": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
