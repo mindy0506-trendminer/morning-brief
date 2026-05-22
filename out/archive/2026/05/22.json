@@ -1,0 +1,123 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 화장품 수출 세계 2위 등극 — 프랑스만 앞선 구도로 재편",
+    "올리브영 미국 오프라인 진출로 K-뷰티 현지화 전략 본격화",
+    "중국, 서유럽 포함 신흥 시장으로 섬유·의류 수출 저변 확대"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "b89fd384-e0fd-48db-ad40-c6ea52cc0616",
+        "title_ko": "중국 섬유·의류, 서유럽까지 확산",
+        "summary_ko": "2026년 1~4월 중국의 섬유·의류·신발 수출이 인도, 러시아, 브라질에 이어 스페인 등 선진국 시장에서도 뚜렷하게 늘었다. 서방 관세 압박 속에서도 수출 다변화로 대응하는 중국의 전략은 글로벌 패션 소싱 지형에 직접적인 영향을 미친다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "b6bc0af6-4fa0-4764-8a98-2c6cd722011b",
+        "title_ko": "양파 산지직거래 첫 모델 검증",
+        "summary_ko": "한국식자재유통협회가 국내산 양파 1000톤 파일럿 사업을 완료하며 산지직거래 모델의 실효성을 입증했다. 생산 과잉으로 인한 수급 불균형 완화와 국산 농산물 소비 확대를 동시에 겨냥한 이 모델이 향후 다른 품목으로 확산될 경우 식자재 유통 구조 전반에 변화를 줄 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "53d43adb-0982-4944-8349-790afb9cce21",
+        "title_ko": "K-뷰티, 미국 제치고 수출 2위",
+        "summary_ko": "2025년 한국 화장품 수출액이 114억 달러를 기록하며 미국을 제치고 프랑스에 이어 세계 2위로 올라섰다. 전년 대비 11.8% 성장으로 역대 최대치를 경신했으며, 시장 다변화 전략이 순위 도약의 핵심 동력으로 작용했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3ff83a09-f3f8-453e-82d7-498b002568da",
+        "title_ko": "더우인 통한 중국 재진입",
+        "summary_ko": "코트라가 K-뷰티 기업과 중국 더우인(TikTok 중국판) 플랫폼 간 수출 상담회를 추진했다. 규제 환경이 복잡한 중국 시장에서 숏폼 커머스를 우회로로 활용하는 전략으로, 수출 2위 달성 이후 중국 채널 회복까지 노리는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "531a350a-fc53-44bc-ac33-6c777b119745",
+        "title_ko": "올리브영, 미국 첫 오프라인 매장",
+        "summary_ko": "올리브영이 미국 1호 오프라인 매장 출점을 공식화했다. 온라인 중심이던 해외 사업을 현지 체험형 거점으로 확장하는 시도로, K-뷰티 수출 호조를 브랜드 직접 유통으로 전환하려는 전략적 전환점이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "91144280-5a70-4368-a2bf-2d2ceb5f2bd5",
+        "title_ko": "K-패션 정체성 논의 시작",
+        "summary_ko": "대구섬유박물관에서 'K-패션의 시작과 미래'를 주제로 학술 세미나가 열렸다. K-뷰티·K-푸드가 글로벌 입지를 확장하는 상황에서 패션 분야도 산업적 정체성과 성장 전략을 본격 논의하는 단계에 들어섰다는 의미가 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘의 핵심 흐름은 'K-브랜드의 물리적 현지화'와 '글로벌 공급망 재편'이 동시에 진행되고 있다는 점이다. K-뷰티는 수출 순위 2위 달성에 그치지 않고 올리브영의 미국 오프라인 출점, 더우인을 통한 중국 재진입으로 유통 채널 자체를 내재화하는 단계로 나아가고 있다. 반면 중국은 섬유·의류 수출을 스페인 등 서유럽으로 확장하며 글로벌 소싱 경쟁을 심화시키고 있어, 국내 패션·소비재 기업 입장에서는 원가 구조와 현지 유통 전략을 동시에 재검토해야 하는 국면이다.",
+  "cards_meta": {
+    "b89fd384-e0fd-48db-ad40-c6ea52cc0616": {
+      "category": "MacroTrends",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/entorno/rusia-india-brasil-y-espana-los-nuevos-amigos-de-china-para-la-venta-de-moda",
+      "original_headline": "Rusia, India, Brasil… y España: los nuevos amigos de China",
+      "languages": [
+        "es",
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "b6bc0af6-4fa0-4764-8a98-2c6cd722011b": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=67991",
+      "original_headline": "한국식자재유통협회, 국내산 양파 판매 1000톤 파일롯 사업 완료",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53d43adb-0982-4944-8349-790afb9cce21": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309698",
+      "original_headline": "K-뷰티 수출 세계 2위…미국 제쳤다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3ff83a09-f3f8-453e-82d7-498b002568da": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yZHEtYXpzLXdFT1J3Z0JEX0FGa1gyTndLLXdHVkY1OE1TbEdzckdyTU5Za3pBcFhJbm5kNGcwVEV6SnBYRGI4elBLWTk4TEp2T0JoMXVLdEdGU2JYTXBQRNIBYEFVX3lxTE8yZHEtYXpzLXdFT1J3Z0JEX0FGa1gyTndLLXdHVkY1OE1TbEdzckdyTU5Za3pBcFhJbm5kNGcwVEV6SnBYRGI4elBLWTk4TEp2T0JoMXVLdEdGU2JYTXBQRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-뷰티, 중국 더우인 손잡고 수출 확대…코트라 상담회 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "531a350a-fc53-44bc-ac33-6c777b119745": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUmM1dFpwVEU1a2RWQzVGU1dqaGhYVUZ4dS1aOW90UFlrdllZWGdoMTJSODFJaXRoclVpV2h5OHNPSEF4aFNST2V1N3hQdE5oQ1Y1MTYtUzdFMGlIOEpEdVFQNndzbXNjNVlmOWp0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영, 美 1호 오프라인 매장… K뷰티 글로벌 전진기지로 - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "91144280-5a70-4368-a2bf-2d2ceb5f2bd5": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaeWt6OW1hNXh0OXVQeVBHQ0U3UHhNcER0U3Z5bVBHRzJBVF90bkRmcjhha09vQ3ZXUjBHTFBRUy12dWJrdGNDR0VFT3NNMEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'K-패션 시작과 미래'…대구섬유박물관서 21일 학술세미나 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
