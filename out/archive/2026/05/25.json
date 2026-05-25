@@ -1,0 +1,155 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영 미국 1호 매장 개점, K뷰티 오프라인 글로벌화 본격화",
+    "파자마 셔츠·중고명품 리세일, 패션 소비의 '일상화·가치 재정의' 흐름 뚜렷",
+    "중국 MZ 세대, 과시 대신 피부 기초에 집중하는 이성적 뷰티 소비로 전환"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "cf50f272-0ad2-4f49-ae1e-11c03f20fff7",
+        "title_ko": "중국 MZ, 기초 케어 중심 소비로",
+        "summary_ko": "월 500위안 내외를 화장품에 쓰는 중국 Z세대가 화려한 메이크업보다 피부 본질 케어를 우선한다. 샤오홍슈와 라이브 방송으로 정보를 걸러내는 이성적 구매 태도가 확산되면서, 한국 브랜드에는 트렌드 대응력보다 기초 제품 실효성이 더 중요한 경쟁 요소로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "40518803-4f30-4212-87e8-f5cc82ec6c41",
+        "title_ko": "브라질 축제에서 K뷰티 팝업 흥행",
+        "summary_ko": "브라질 최대 도심 축제에서 열린 K뷰티 팝업스토어에 3천 명이 몰렸다. 남미 시장에서 K뷰티에 대한 현장 체험 수요가 검증된 사례로, 오프라인 접점 확대가 현지 충성 소비자 형성의 핵심 수단임을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "afd6b4a2-ae8a-48d6-b51e-1a76b29543cb",
+        "title_ko": "올리브영, 미국 오프라인 첫 거점 확보",
+        "summary_ko": "올리브영이 미국 1호 오프라인 매장을 열며 K뷰티 글로벌 전진기지 구축에 나섰다. 브라질 팝업 흥행과 맞물려 K뷰티가 온라인 수출을 넘어 현지 오프라인 채널을 직접 장악하는 단계로 진입하고 있다는 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "0e5448ad-e487-4d4f-afdc-636802103806",
+        "title_ko": "파자마 셔츠, 일상복 경계 허물다",
+        "summary_ko": "잠옷에서 출발한 파자마 셔츠가 럭셔리부터 스트리트까지 전 가격대로 확산되고 있다. '홈웨어의 외출화'라는 흐름이 팬데믹 이후에도 지속되며, 편안함을 고급스럽게 재해석하는 수요가 패션 구매 동기의 중심축이 되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cf4d206d-4eb8-4721-a46d-58752dbeba23",
+        "title_ko": "명품값 오를수록 중고 시세도 강세",
+        "summary_ko": "신품 명품 가격 인상이 이어지면서 장롱 속 중고 명품 백의 리세일 가치가 함께 오르고 있다. 소비자가 명품을 소모품이 아닌 재테크 자산으로 인식하는 구조가 굳어지는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b463fd5e-cf58-46ca-99e7-f03c28fdd871",
+        "title_ko": "이새, 공식 리세일 프로그램 도입",
+        "summary_ko": "국내 디자이너 브랜드 이새가 마들렌메모리와 손잡고 공식 리세일 프로그램 '이새 리스펙트'를 진행한다. 중고 명품 수요 증가를 배경으로 국내 패션 브랜드도 순환 소비 생태계를 직접 구축하는 흐름이 가속화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "597be539-bde6-4f59-a9e7-21567f94a407",
+        "title_ko": "호텔 예식 생화 장식에 부가세 과세 확정",
+        "summary_ko": "대법원이 조선호텔 예식장의 생화 장식을 부가세 과세 대상으로 최종 판결했다. 호텔 웨딩 상품 구성과 가격 체계 전반에 영향을 미칠 수 있어, 호텔업계의 예식 서비스 재설계가 불가피해졌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "2dbf98bd-0bcb-468e-a2ec-1caba25e5eb9",
+        "title_ko": "보험도 구독 모델로 전환 예고",
+        "summary_ko": "국내 보험 시장에서 구독형 상품 시대가 열릴 것이라는 전망이 제기됐다. 정기 구독에 익숙한 MZ 세대를 겨냥해 보험료와 보장 범위를 유연하게 조정하는 상품 구조가 확산될 경우, 소비재 기업의 멤버십 설계에도 시사점이 크다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 키워드는 '경계 해체'다. 올리브영의 미국 오프라인 진출과 K뷰티 팝업 흥행은 온라인 수출 브랜드가 현지 오프라인 유통을 직접 장악하는 구조로 전환 중임을 보여준다. 패션에서는 잠옷과 외출복, 신품과 중고, 소비와 재테크의 경계가 동시에 무너지고 있다. 중국 MZ의 기초 케어 집중, 구독형 보험 부상, 호텔 예식 과세 판결까지 더하면 '과시·화려함보다 실질·순환'을 선호하는 소비 가치관이 복수의 카테고리에서 동시에 구조화되는 국면으로 읽힌다.",
+  "cards_meta": {
+    "cf50f272-0ad2-4f49-ae1e-11c03f20fff7": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309268",
+      "original_headline": "중국 MZ 뷰티 소비관 “기초가 탄탄한 뷰티”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40518803-4f30-4212-87e8-f5cc82ec6c41": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82azZaOTgyXzdkbk5DZEJMZXZCamVlcjZiOV9NNVhZMVh6c0UtVzM2VEpGeVpnN3NqNGROTUkxM1Fkc2lNeXNNYnlGZFE4VGNja0Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "브라질 최대 도심 축제서 열린 K뷰티 팝업스토어, 3천명 몰리며 성황 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "afd6b4a2-ae8a-48d6-b51e-1a76b29543cb": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUmM1dFpwVEU1a2RWQzVGU1dqaGhYVUZ4dS1aOW90UFlrdllZWGdoMTJSODFJaXRoclVpV2h5OHNPSEF4aFNST2V1N3hQdE5oQ1Y1MTYtUzdFMGlIOEpEdVFQNndzbXNjNVlmOWp0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영, 美 1호 오프라인 매장… K뷰티 글로벌 전진기지로 - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e5448ad-e487-4d4f-afdc-636802103806": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMGU0bk1XY0FpX19zOFhRR0FyNmxibHBzRHJ4TlNmSXYxaFJiMENsdVNSNDBGVTAwVGlwUGkxTGw4X0lfQXFlZURBc0JlNUNveDlxVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "잠옷인듯 아닌듯···럭셔리부터 스트리트 패션까지 요즘 뜨는 ‘파자마 셔츠’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cf4d206d-4eb8-4721-a46d-58752dbeba23": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b463fd5e-cf58-46ca-99e7-f03c28fdd871": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "597be539-bde6-4f59-a9e7-21567f94a407": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HNlkxR01ZeUNPdTI1WUJKT2I1QUp6V0FURG5XRmFyWGpGdFRURkpxVnZLZGhoUGtMRlR0TW5saklVWHRMTEFhY0tRNi1vMDU1R1RCckZ2TktoYkwtWVHSAWNBVV95cUxNS21JaDQ4QVJhTFVjQ0R5VENYTE1TbUszX1NWQzV3cm5BdzgzQ3QzcFp3UWxFWEpMNHZnN0FmSHVpSlE2dXpUNEVzS0ZaeTFFdS1GalhFa1NZczNPeEQ0Q184S1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대법 “예식장 생화 장식, 부가세 과세 대상”…조선호텔 패소 확정 - 채널A",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2dbf98bd-0bcb-468e-a2ec-1caba25e5eb9": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
