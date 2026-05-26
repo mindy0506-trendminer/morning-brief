@@ -1,0 +1,176 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 수출 사상 첫 무역흑자 100억 달러 돌파, 세계 2위 수출국 등극",
+    "비건 베이커리, 전체 비건 시장 침체 속 나홀로 두 배 성장세 유지",
+    "뉴욕 호텔 노조 파업발 임금 인플레, 글로벌 숙박 비용 구조 압박 본격화"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "8a883832-52cf-43f3-9e51-03467dd26f96",
+        "title_ko": "뉴욕 호텔 파업, 글로벌 숙박 인플레 뇌관",
+        "summary_ko": "뉴욕 호텔 강성 노조의 파업으로 청소 직원 연봉이 10만 달러를 요구하는 수준까지 치솟았다. 인건비 급등은 객실 요금 인상으로 이어지며 글로벌 호텔 운영 비용 구조 전반에 압박을 가하고 있다. 한국 호텔·외식 업계도 인력 비용 상승 시나리오를 선제적으로 검토할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "32dcb609-889a-454d-aaff-77b307f72506",
+        "title_ko": "비건 베이커리만 나홀로 두 배 성장",
+        "summary_ko": "경기침체 여파로 전반적인 비건 식품 시장이 주춤한 가운데, 비건 베이커리 부문만 두 배 성장을 기록했다. 베이커리는 비건 입문 소비자의 첫 접점으로 기능하며 가격 저항이 상대적으로 낮다는 점이 차별화 요인으로 작용한 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "29d68ced-8792-470c-9584-57b2e0128243",
+        "title_ko": "화장품 흑자 100억 달러 첫 돌파",
+        "summary_ko": "2025년 한국 화장품 무역수지 흑자가 101억 달러를 기록하며 처음으로 100억 달러 벽을 넘었다. 수출액은 114억 달러로 전년 대비 11.8% 증가했고, 미국을 제치며 세계 2위 수출국으로 올라섰다. 단순 인기 브랜드 수준을 넘어 산업 구조 자체가 수출 주도형으로 굳어지고 있다는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5f6e63ce-657d-431f-aaa0-1f48649f0eb8",
+        "title_ko": "K-뷰티, 유럽·중남미 동시 공략",
+        "summary_ko": "KOTRA 등 무역 유관기관들이 체코 프라하, 유럽, 중남미에서 K뷰티 판촉전을 동시다발로 진행 중이다. 한류박람회와 B2B 전시를 연계한 수출 모델이 확산되며 아시아 편중 구조에서 벗어나 서구권 판로 다변화가 가속되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "67b213b2-9dc4-499e-b978-d8074144ed43",
+        "title_ko": "스페인 디자이너 브랜드, 글로벌 약점 진단",
+        "summary_ko": "스페인 디자이너 브랜드들이 해외 시장에서 좀처럼 존재감을 키우지 못하는 구조적 원인이 분석됐다. Zara 같은 SPA 강자와의 혼동, 브랜드 스토리텔링 부재가 핵심 약점으로 꼽히며, 이는 중소 패션 브랜드의 글로벌화 공통 과제로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6184558c-4dea-4433-bcfa-91dcfb4fa792",
+        "title_ko": "강남 K-팝업, 스트릿 문화 접목",
+        "summary_ko": "케미스트릿이 서초·강남역 일대에서 K-맛·멋·미를 아우르는 여름 팝업 이벤트를 열었다. 패션·식음료·뷰티를 결합한 복합 팝업 형식이 스트릿 패션 브랜드의 오프라인 집객 전략으로 자리잡고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "e6aa2257-2fff-4d0f-915e-6c5d09ab386d",
+        "title_ko": "호텔·웨딩홀 위생 기준 강화",
+        "summary_ko": "광진구가 웨딩홀·호텔 뷔페를 대상으로 위생관리를 강화하고 '안심 외식' 환경 조성에 나섰다. 외식 소비 심리 회복 국면에서 위생 신뢰가 선택 기준으로 부상하고 있음을 보여주는 행정적 반응이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "bc9af5ba-4b1d-4a08-bc4a-6a6f13b33820",
+        "title_ko": "중국 Z세대, 전통 문화 소비로 자신감 표출",
+        "summary_ko": "중국 Z세대가 한복(漢服) 등 전통 의복을 일상 패션으로 소비하는 '궈차오(국조)' 흐름이 확산 중이다. 단순 복고가 아닌 문화적 자부심과 연결된 소비 정체성 형성으로, 로컬 브랜드에 구조적 유리함을 만들고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ecf545e9-75b4-4ddf-acf5-d592465db09f",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에서도 구독 경제 모델 도입 논의가 본격화되고 있다. 월정액 기반 보험이 현실화될 경우, 소비자의 금융 상품 선택 방식이 장기 약정에서 단기 유연 구독으로 전환되는 흐름이 가속화될 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '신뢰 기반 프리미엄화'다. K-뷰티의 100억 달러 흑자는 품질 신뢰가 가격 경쟁력을 넘어섰다는 증거이며, 비건 베이커리의 나홀로 성장도 소비자가 불황 속에서도 '믿을 수 있는 착한 먹거리'에 지갑을 연다는 맥락과 맞닿는다. 반면 뉴욕발 호텔 인건비 인플레는 서비스 업종 전반의 비용 구조를 흔드는 외부 변수로, 프리미엄 전략을 구사하는 브랜드일수록 마진 방어 전략을 병행해야 할 시점이다. 중국 Z세대의 궈차오 소비와 한국 K-뷰티의 서구권 동시 공략은 '자국 문화 자신감 → 글로벌 소구력'이라는 공통 방정식을 서로 다른 방향에서 실증하고 있다.",
+  "cards_meta": {
+    "8a883832-52cf-43f3-9e51-03467dd26f96": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUkxJdzdPUG5wT2JFOU10ckFmZzZHbVFBSHVYNXV1N0Z2MHFqMS0tekc5UnBCalNYZTdPcGozWnNSUmJ6M3hfRS1fS2hPMDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“호텔 청소원도 연봉 10만불”…뉴욕 강성노조 파업에 인플레 ‘초비상’ - 애틀랜타 중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "32dcb609-889a-454d-aaff-77b307f72506": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RMFNQYnd0T01fNnM1Q0hKY3k0U1NDRTJZWHNOdi1QTmFwMXo2M0dSb0paZTdSSzNNSk1LTVFvTGNZLVFWdDhvTEVEaDAxUVhMMnhaTHFuVjk1M0o0bTVBSnQxZTNEam9jcGVzdU1CYW5jNnVLT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경기침체에 주춤한 비건 식품 시장... 비건 베이커리만 '두 배 성장' - 호텔앤레스토랑",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "29d68ced-8792-470c-9584-57b2e0128243": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98844",
+      "original_headline": "화장품 무역수지 흑자 100억 달러 돌파",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5f6e63ce-657d-431f-aaa0-1f48649f0eb8": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98859",
+      "original_headline": "K-뷰티, 한류박람회 연계 글로벌 시장 공략",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "67b213b2-9dc4-499e-b978-d8074144ed43": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzNQeUFDbHFocG1tdUtoSWJBclNvMnFZNy1aT0V0QjZkNTQzVk9WR2dVUWtTVndHT2w4TW1DdnpiQndiV01DX2VLbmZjTGJiNmxvZHFoVHFTdFBWODRwRVF0Q19iTkVobktoaUgzQ1BESDdoOEVGZ3d3dE5SOEVvVTAtZV8teFhwRS1wTnJkTUloRXBlNDI2TmhyYTVQblVLaXZyUFA3NWYxVy1UN1hfWWRGUHdwMnhmTHk3dGlFR0V0eUo1VHVGaV9UNzF4d9IB4gFBVV95cUxOdFFmWGxnRTBQYWpnbjhPTVkwVTVrVlhHYVd3d2Z2RHh5LXNfQV9rcnlkLXh3MjJ4QzdmOU1zQ2xkUjFQWFFGaGJjN3JqR0dBdWlPTjBlSDFwbVVnSVhlbld6ZjBzck9CLXBZaUhtZ0tSMTNwOHJ6VWlzbWViV3FZd1paajd6aHQ3VjliVk9UbmdyQ0tURTdnYjNlRTcxa3lraWY5WXMzeDY2a3VISnRTcHZNcmdpXzctU2tzYzV3MHZ6R0FuRGRLbm5xLVdjTE1KR0wtdzlkbkgwbEZNN0k2aVVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué les falta (y qué les sobra) a las marcas de autor españolas para ser relevantes fuera? - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "6184558c-4dea-4433-bcfa-91dcfb4fa792": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e6aa2257-2fff-4d0f-915e-6c5d09ab386d": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQVnl3a0Y5YW56S0VqdndnVGxyZktWVl9TcHJQaGk2UlZlMzZNemJKbzVuWGtudHZxcEpXaUtVOUpJV3FMTEFjdGN1ZXBsU2JvNVpFUXlDWVpuZ2Zj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "광진구, 웨딩홀·호텔 뷔페 위생관리 강화…'안심 외식' 환경 조성 - 뉴스1",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bc9af5ba-4b1d-4a08-bc4a-6a6f13b33820": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "ecf545e9-75b4-4ddf-acf5-d592465db09f": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
