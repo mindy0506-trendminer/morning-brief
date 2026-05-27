@@ -1,0 +1,143 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미국 시장 1위 등극으로 중국 의존 탈피 구조 완성",
+    "중소·인디 브랜드가 K-뷰티에 이어 K-패션 성장까지 견인",
+    "구독형 보험 등장으로 국내 보험 소비 패러다임 전환 본격화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3742cf67-6b62-4ec5-ab49-942c5fa396d1",
+        "title_ko": "대체육 불만족, 한·미 원인 정반대",
+        "summary_ko": "대체육 소비 불만족 요인이 한국과 미국에서 정반대로 나타났다. 한국 소비자는 맛과 식감을, 미국 소비자는 가격과 접근성을 주요 불만 원인으로 꼽아, 시장별 제품 전략 차별화가 필수 과제로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5632d0bc-9e44-4c00-95b0-3b1a393b4842",
+        "title_ko": "K-뷰티, 미국이 최대 수출국으로",
+        "summary_ko": "2025년 한국 화장품 수출액이 114억 달러로 역대 최고치를 기록하며 프랑스에 이어 세계 2위 수출국에 올랐다. 미국이 22억 달러로 중국을 제치고 최대 시장이 된 점이 핵심으로, 중국 의존도 탈피와 함께 수출 구조 자체가 재편되고 있다는 평가다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "070f629b-97bf-47b3-abe5-04c1f085f948",
+        "title_ko": "인디 브랜드, K-뷰티·패션 동시 견인",
+        "summary_ko": "K-뷰티의 글로벌 확산이 대기업이 아닌 중소·인디 브랜드 주도로 이뤄지고 있으며, 이 흐름이 K-패션으로도 번지고 있다. 소규모 브랜드의 민첩한 제품 기획과 숏폼 기반 마케팅이 대형사가 채우지 못한 틈새를 파고들고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f60f4169-fe34-4b6d-b663-34fccb93cd89",
+        "title_ko": "K-뷰티 국제전시회, 56개국 바이어 집결",
+        "summary_ko": "국내 최대 K-뷰티 국제전시회가 개막해 56개국 해외 바이어가 참가했다. 수출 구조가 미국 중심으로 재편된 시점에 열린 만큼, 신규 시장 개척과 바이어 다변화를 위한 실질적 교두보 역할을 할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "1d4f8ec7-878c-4c4c-b3e1-a534e48332b5",
+        "title_ko": "강남역 K-컬처 팝업, 여름 이벤트 개시",
+        "summary_ko": "서초·강남역 일대에 맛·멋·미를 결합한 K-컬처 팝업 이벤트 '케미스트릿'이 열렸다. 거리 단위 체험형 행사가 패션·식음료·뷰티를 한데 묶는 복합 소비 공간으로 기획되며, 국내 팝업 포맷의 진화를 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d1e59514-ea32-4a3f-a723-c99ee337b04d",
+        "title_ko": "경원재 바이 워커힐, 5성급 재인증",
+        "summary_ko": "인천 송도의 한옥호텔 '경원재 바이 워커힐'이 5성급 호텔 재인증을 획득했다. 전통 건축 양식과 고급 숙박을 결합한 한옥호텔이 프리미엄 포지셔닝을 공고히 하며, 외국인 관광객 유치 거점으로서의 위상을 이어가고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "050c1fab-0ae2-48c3-a063-a87b7ef6c272",
+        "title_ko": "구독형 보험, 보험 소비 패러다임 전환",
+        "summary_ko": "국내 보험 시장에 구독 경제 모델이 적용된 '구독형 보험' 시대가 열릴 것으로 전망된다. 필요한 기간·항목만 선택해 가입하는 방식은 특히 MZ세대의 탈(脫)전통 소비 패턴과 맞닿아 있어, 기존 장기 상품 중심 구조를 흔들 변수로 주목된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '플랫폼 다변화와 소규모 주체의 부상'이다. K-뷰티가 중국 단일 의존에서 미국 중심 다변화로 전환된 것처럼, 성장 동력 자체도 대형 브랜드에서 인디·중소 브랜드로 이동하고 있다. 보험 시장의 구독형 전환은 소비자가 표준화된 대량 상품보다 맞춤형 선택권을 우선하는 흐름의 연장선이며, 이는 식음료의 대체육 불만족 구조와도 맥을 같이한다. 공급자 중심의 일괄 설계보다 소비자 맥락에 맞춘 유연한 설계가 전 카테고리에서 경쟁의 기준이 되고 있다.",
+  "cards_meta": {
+    "3742cf67-6b62-4ec5-ab49-942c5fa396d1": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZXljMDZ3TmhkQ2R1T0QySnNxWDFjX0l6aVlBUXQ0aGRScndwWHhJR2dacV9aZjlyUkNpVTFDb1dGQzI1aVFPN05rWFlwUi1Cdkp0UUF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'건강 만점' 대체육, 왠지 불만족...그 이유, 한·미 180도 달랐다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5632d0bc-9e44-4c00-95b0-3b1a393b4842": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309774",
+      "original_headline": "미국서 귀빈 대접받는 K-뷰티, 중국 때와 다르다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "070f629b-97bf-47b3-abe5-04c1f085f948": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZYS1icmxCel83bmVxUVdPM3hJeGd2NTVWM1VKaHlhZFJXZ1M5Y1gwOEdwRlBGTTRPcDY3a3lCeTB3a2lFVTMtUjNFeU9ac1hqcS1pVTRYaHpxZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K뷰티 이어 K패션도…‘중소·인디 브랜드’가 이끈다 - 에너지경제신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f60f4169-fe34-4b6d-b663-34fccb93cd89": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CMnBadFREZ2w1M2ROYWt1QWdmWENmaHR4VGFkS2hKWHAyeEtiQnA3WlFnMmF0OEJKVmtSUGEzV0hPUnFlRFBmWk5uMGVtTGZjMEVDQW5Ca1YzV3ZSU3NuWTk4cmVZT0pWdzhr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "국내 최대 K-뷰티 국제 전시회 개막 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1d4f8ec7-878c-4c4c-b3e1-a534e48332b5": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1e59514-ea32-4a3f-a723-c99ee337b04d": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VbHNla21VdFV3S0hFaFlsNmZIM1FJeGw3bjd6UUJPYXlFYW9qZW5KNmxMMnFpLVJaLVJ4aGFKd2Q1ODJGaVdvSXY5dHNpN042eHd4MDJSdUdfNmRpSGlHcTlqZjN0MkJLRFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "송도 '경원재 바이 워커힐', 5성급 호텔 재인증 - 서울파이낸스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "050c1fab-0ae2-48c3-a063-a87b7ef6c272": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
