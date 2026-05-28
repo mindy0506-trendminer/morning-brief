@@ -1,0 +1,207 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 올리브영 신규 입점·카자흐스탄 진출로 국내외 동시 확장 가속",
+    "크림 중고 명품 서비스 개편, 리세일 시장 본격화 신호탄",
+    "중국 유명 호텔 위생 영상 파문, 여행 소비자 신뢰 재점검 국면 진입"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "6b0ef58c-c6bf-4b54-95e2-f15edcea2683",
+        "title_ko": "대체육 불만족, 한·미 원인 달랐다",
+        "summary_ko": "한국과 미국 소비자 모두 대체육에 불만족을 느끼지만 그 이유가 정반대로 나타났다. 한국은 맛과 식감, 미국은 건강 효능 의구심이 주된 원인으로, 시장별 제품 전략의 차별화가 필요하다는 시사점을 준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "b09de32a-3f9b-43e0-9fa2-d0ca5535de0f",
+        "title_ko": "디오프러스, 올리브영 온라인 상륙",
+        "summary_ko": "데이터 기반 스킨케어 브랜드 디오프러스가 올리브영 온라인몰에 공식 입점하며 국내 선케어 시장에 본격 진입했다. 42개국 해외 유통 이력을 앞세워 기능성 성분 중심의 데일리 선크림으로 차별화를 꾀하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "09486494-ccab-4b12-8b8c-8397a8b81886",
+        "title_ko": "K-뷰티 페스타, 기술력 재확인",
+        "summary_ko": "초대형 K-뷰티 페스타 행사에서 국내 뷰티 기술력이 재조명됐다. 인디 브랜드부터 대형사까지 한자리에 모이며 K-뷰티 생태계의 저변을 과시했다는 평가다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cfe3835c-0a48-4c34-a72c-f4a8adc7b510",
+        "title_ko": "K-뷰티, 중앙아시아 거점 확보",
+        "summary_ko": "카자흐스탄이 중앙아시아 뷰티 허브로 부상하는 가운데 K-뷰티 브랜드들이 현지 시장을 빠르게 잠식하고 있다. 동남아·유럽에 이어 신흥 거점 다각화가 본격 진행 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "ff3af746-3d43-4ce3-b62a-69b07b17ea93",
+        "title_ko": "크림 '빈티지'로 명품 리세일 확대",
+        "summary_ko": "크림이 기존 '부티크' 서비스를 '빈티지'로 재편하며 중고 명품 거래 시장 공략을 강화했다. 플랫폼 간 리세일 경쟁이 심화되는 가운데 서비스 재정비를 통해 수익 구조 다변화를 노리는 행보다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ce660fb1-4ca9-49e7-bc32-7aaa6706c2a4",
+        "title_ko": "케미스트릿, 강남역 팝업 출격",
+        "summary_ko": "서초강남역 일대에서 K-문화 복합 팝업 '케미스트릿' 여름 이벤트가 열렸다. 맛·멋·미를 결합한 체험형 팝업 포맷이 스트리트 패션 마케팅의 주류 방식으로 굳어지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aa86b30a-f295-484e-a1e4-b00265fe582c",
+        "title_ko": "스트리트 팀 '범접' 탈락 논란",
+        "summary_ko": "한국 스트리트패션 팀 '범접'의 경연 탈락이 미디어 비평의 도마에 올랐다. 심사 기준과 국내 스트리트 씬의 국제 경쟁력에 대한 논의가 재점화됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "9b1bf45b-6d7c-4daa-8fb0-6449dcb90949",
+        "title_ko": "중국 호텔 위생 파문 재발",
+        "summary_ko": "중국 유명 호텔에서 객실 수건으로 변기와 양치 컵을 닦는 영상이 공개돼 다수 국내 매체가 일제히 보도했다. 반복되는 위생 논란이 중국 호텔 브랜드 신뢰도에 누적 타격을 주고 있으며, 여행 소비자의 숙소 선택 기준 강화로 이어질 가능성이 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "d94cfc1e-0cdb-4039-b01b-8b7a24cab516",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험업계에서 구독 경제 모델을 적용한 구독형 보험 출시가 예고됐다. 정기 결제·해지 자유 방식이 MZ세대 소비 패턴에 부합해 기존 장기 계약 중심 구조를 흔들 변수로 주목받는다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6eddc4b7-0431-424b-94c7-f211f55b5e92",
+        "title_ko": "중국 Z세대 소비 행태 분석",
+        "summary_ko": "중국 Z세대의 소비 행동을 분석한 보고서가 새로운 소비 주체로서의 특성을 조명했다. 경험 소비·가치 중심 지출 경향이 두드러지며, 한국 소비재 브랜드의 중국 진출 전략 수립에 참고 자료로 활용 가능하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7a0cb722-d9e4-497c-a582-42e79f45993c",
+        "title_ko": "중국 Z세대 영양 소비 트렌드",
+        "summary_ko": "95년 이후 출생 중국 소비자의 영양 소비 관념을 분석한 보고서가 공개됐다. 건강기능식품·보충제 시장에서 젊은 세대의 구매 기준이 빠르게 고도화되고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '신뢰의 재편'이다. K-뷰티는 올리브영 채널 확장과 카자흐스탄 진출로 글로벌 신뢰 자산을 쌓는 반면, 중국 호텔 위생 파문은 브랜드 신뢰가 반복 사고 하나로 얼마나 빠르게 침식되는지를 보여준다. 크림의 리세일 서비스 개편과 구독형 보험 예고는 소비자가 소유보다 유연한 접근·경험을 선호하는 흐름이 금융·패션 양쪽에서 동시에 제도화되고 있다는 신호다. 브랜드 자산을 지키는 것과 소비 구조 자체의 변화에 올라타는 것, 두 과제가 동시에 임원 의제로 올라오는 국면이다.",
+  "cards_meta": {
+    "6b0ef58c-c6bf-4b54-95e2-f15edcea2683": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZXljMDZ3TmhkQ2R1T0QySnNxWDFjX0l6aVlBUXQ0aGRScndwWHhJR2dacV9aZjlyUkNpVTFDb1dGQzI1aVFPN05rWFlwUi1Cdkp0UUF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'건강 만점' 대체육, 왠지 불만족...그 이유, 한·미 180도 달랐다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b09de32a-3f9b-43e0-9fa2-d0ca5535de0f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98885",
+      "original_headline": "‘디오프러스’, 올리브영 온라인몰 입점…데일리 기능성 선케어 강화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "09486494-ccab-4b12-8b8c-8397a8b81886": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMWWk0MDFRU2MtcXNZaDVQMUE4eHk2Q1l5MFBzR29ZcjR4bVkxN205U3ctNVJsZnlmbU5kTF9sOGhFbFdOQVR1UXVvN2JXcU5wVXV0cDVKeDIzT25KVVpEVmdrSkQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "초대형 'K-뷰티 페스타' 찾은 한성숙…\"韓기술력 정말 놀라워\" [르포] - 뉴스1",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cfe3835c-0a48-4c34-a72c-f4a8adc7b510": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96a3VhUUxYbkd3SlJpYlhZSTZiRnF6YjFYZG81WXR4OWhSNlZZOEJBSTVBbS16R3h2Qy1yU0hMdTRJYlZ5alh1N2NUNThobG1ONDd1cUJ3bElhV3VvbmdBVGMxd2tic3FtY2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘중앙아시아 뷰티 허브’ 카자흐스탄 점령한 K뷰티 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ff3af746-3d43-4ce3-b62a-69b07b17ea93": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVGVWZkFoRmlnbkN5M0dXeFRtTDBsejZ4M1RjVW1SbEJDWFMtU1lsRmV2TEtpLUhWT0R6VFdWcmYyOXl6LUpQMUJueFVUQ3NWRUR4S09nZWNGLThESVBFZ18zMXFzSkZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "크림, ‘부티크’ 서비스 ‘빈티지’로 리뉴얼… 중고 명품 거래 시장 본격 확대 - 테크월드",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ce660fb1-4ca9-49e7-bc32-7aaa6706c2a4": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa86b30a-f295-484e-a1e4-b00265fe582c": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5INkhMQ3gzdlhlMHNpNUc1cU5DQzM2VTlnRkVVRmEtVF9XQTRGcHVxb0RCcU5Pbkl4THRxR1l1c0RPZGVUNVJDR21qRWlLT2JrRWljS2ViTThrM0hzQ1hTbERZMmJSNGd5dGxRT2hCVDUwcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[미디어 평] 한국 팀 ‘범접’이 탈락했다 - 울산저널i",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9b1bf45b-6d7c-4daa-8fb0-6449dcb90949": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ERWp2eDFzMmNpYWRUMGQ1eEtpY3dRQVJJdVdhWmlVMFI5MjFLSWx4SEFpVUpqR1ROQmE5YmptbC1xNkxxQlBKWU1sQktJNjMyRmI2c2RfaUZYeTNlR1U2MEZfb1lYRWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"고객 수건으로 변기 닦고 컵까지\"…중국 유명 호텔 또 위생 논란 - 연합뉴스TV",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d94cfc1e-0cdb-4039-b01b-8b7a24cab516": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "6eddc4b7-0431-424b-94c7-f211f55b5e92": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "7a0cb722-d9e4-497c-a582-42e79f45993c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2ZRVUFtS0c4anIyZnZxbE5CTmFGQmlWaFN2NmNCenE4UzB0c0pSSElnQUtvRkxVcWtuTnBGVXRYTWhScHJMN3R3VFFwb3l4cTNtY2JuZXBHb3RhakVpdElmX3ZHYXRPbVJVc2lNemNraXp4OV9mRzJObTBWTE1USTkxSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代营养消费趋势报告出炉 透过报告看95后的营养消费观念 - 新华网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
