@@ -1,0 +1,126 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 수출 114억 달러 돌파, 탈중국 다변화 전략이 본격 성과로 전환",
+    "삼양식품, 불닭 성공 공식을 건기식 신사업 '스핀들'로 확장 시도",
+    "중국 호텔 위생 논란 반복, 여행 소비자 신뢰 리스크 수면 위로"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "d888c5f2-9307-4258-aea3-063cb43aea27",
+        "title_ko": "삼양식품, 건기식 '스핀들' 출시",
+        "summary_ko": "삼양식품이 불닭 브랜드 이후 새로운 성장 축으로 건강기능식품 '스핀들'을 공개했다. 라면 성공 공식을 헬스케어 카테고리로 이식하려는 시도로, 식품 대기업의 건기식 시장 진입이 가속화하는 흐름을 보여 준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "fe3bb760-1b26-4cf4-8ec4-a1c7d00c1754",
+        "title_ko": "K-뷰티 수출 114억 달러 돌파",
+        "summary_ko": "한국 화장품 수출이 114억 달러를 넘어서며 수출 주도 산업으로 완전히 전환됐다. 내수 시장의 한계를 벗어나 글로벌 헤리티지 브랜드와의 경쟁 국면에 진입했다는 평가가 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d1528561-6544-4162-9a50-8d0ee0972078",
+        "title_ko": "마스크팩, 유럽·북미가 새 주력 시장",
+        "summary_ko": "2026년 4월 마스크팩 수출액이 전년 동기 대비 48.8% 증가한 8,132만 달러를 기록했다. 중국 의존도가 낮아지는 대신 네덜란드·영국·미국·캐나다가 핵심 시장으로 부상하며, K-뷰티 수출 지형이 뚜렷하게 재편되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8f07358a-45cf-450b-9b28-fff37d9ffd30",
+        "title_ko": "국내 색조 브랜드, 美 올리브영 오프라인 입점 러시",
+        "summary_ko": "투에이엔, 애경산업 메이크업 라인, 동아제약 아일로 등 다수 브랜드가 잇달아 미국 올리브영 오프라인 매장에 입점했다. CJ올리브영이 미국 내 K-뷰티 오프라인 거점으로 자리잡으면서, 중소·중견 브랜드의 현지 채널 확보 속도가 빨라지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "7857a173-680a-43fd-a081-c2e952f6dce1",
+        "title_ko": "중국 호텔 위생 불신, 반복되는 논란",
+        "summary_ko": "중국 유명 호텔에서 객실 수건으로 변기와 양치 컵을 닦는 장면이 공개돼 국내외 소비자의 공분을 샀다. 유사 사례가 반복되면서 중국 여행·숙박 소비의 신뢰 리스크가 구조적 문제로 굳어지는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "8ccc3950-e7d9-4ed9-b09f-984150d97309",
+        "title_ko": "구독형 보험 시대 임박",
+        "summary_ko": "국내 보험 시장에서 구독 방식의 상품 모델이 본격화할 것으로 전망된다. 구독 경제가 콘텐츠·커머스를 넘어 금융 상품까지 침투하면서, 소비자의 보험 가입 행태 자체가 달라질 가능성이 부각되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑의 핵심 축은 'K-브랜드의 지리적 재편'이다. 뷰티 수출 114억 달러 돌파, 마스크팩의 유럽·북미 급성장, 복수 색조 브랜드의 미국 오프라인 입점이 동시에 보고되며 탈중국 다변화 전략이 실적으로 검증되고 있다. 삼양식품의 건기식 진출은 식품 카테고리에서 같은 논리—글로벌 성공 공식을 인접 시장으로 확장—가 작동 중임을 시사한다. 반면 중국 호텔 위생 논란은 소비자 신뢰 자산이 얼마나 빠르게 훼손될 수 있는지를 보여 주는 대조 사례로, 국내 여행·숙박 업계에는 프리미엄 위생 소구의 기회 신호로 읽힌다.",
+  "cards_meta": {
+    "d888c5f2-9307-4258-aea3-063cb43aea27": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVkNVWktQNm1jOTg1QkVlbEx2TGljVkU0OXBFSkplOW8yam9QU1I0VWlOdURNRllNOFJLb2pWa1BTR2Zid3o1bVNRb3VtWGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "불닭 넘어 건기식으로…삼양식품의 새 야심작 ‘스핀들’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fe3bb760-1b26-4cf4-8ec4-a1c7d00c1754": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309553",
+      "original_headline": "K-Beauty Exports Surpass $11.4 Billion, Marking Shift to a Global-First Industry",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1528561-6544-4162-9a50-8d0ee0972078": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309730",
+      "original_headline": "K-뷰티 마스크팩, 중국 이어 유럽·북미서 제2의 전성기⑥",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8f07358a-45cf-450b-9b28-fff37d9ffd30": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00cGtMcGJSaWJIeTNnaXhnQll1c2p1Q3Z4MUVaS1JGZEpfSmhiNmhfM01CeDI3bFpJdDhaN1h6dFlzTHB5QkVQMGlwS0dzQXdnZldNaEFUeFhra0hwX0VZNFRHN2cwanNhbDdhX9IBcEFVX3lxTE1RVjkyczVlZ0xlVTd4ZEJsZXFxb1gwMGJYazcwTWpfUXZwd2pWOGFkSUk1dy14aVdnUWxDM2xWV3hFUUg5Q25jZHYzV2YtSXNrcVpMSGNvUG5IU2RnamdMRmI2a0RmUkVrVzUwNTBDTHI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[유통단신] 애경산업 메이크업 브랜드, 美 올리브영 오프라인 매장 입점 外 무신사·어댑트·제너시스BBQ - 글로벌경제신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7857a173-680a-43fd-a081-c2e952f6dce1": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SVXhsUHliMVpkUVlsdVNaV1hPTE9nQzg1a1ZrOERNOEZLSTRPc1ROZHpIeDFPbUhSMkY1d1ctWldxTnpqRHRsdGVCSXFoSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[월드 플러스] “수건으로 변기를”…중국 호텔 위생 논란 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ccc3950-e7d9-4ed9-b09f-984150d97309": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
