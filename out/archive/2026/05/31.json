@@ -1,0 +1,157 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 미국 오프라인 거점 확장과 정부 AI 육성 정책으로 공세 본격화",
+    "중고 명품 거래 플랫폼 재편, 리세일 시장이 소비 주류 채널로 진입",
+    "대체육 불만족 요인, 한·미 소비자 간 근본적 인식 차이로 확인"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "96501726-1e4b-412b-8ad6-34c4380628c3",
+        "title_ko": "정부, K뷰티 AI 산업화 직접 챙긴다",
+        "summary_ko": "구윤철 경제부총리와 오유경 식약처장이 한국콜마 종합기술원을 직접 방문해 뷰티테크 현장을 점검하고 AI 산업 육성 방향을 논의했다. 재정경제부·복지부·중기부 등 복수 부처가 동시에 움직인 점은 K뷰티를 국가 전략 산업으로 격상하려는 의지를 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "e39d9e9b-b327-4b74-9031-76e5ee930eb5",
+        "title_ko": "대체육 불만족, 한·미 이유가 다르다",
+        "summary_ko": "대체육에 대한 소비자 불만족 원인이 한국과 미국에서 정반대로 나타났다. 건강 이미지는 공유하지만 맛·식감·활용 방식에 대한 기대치가 시장별로 다르게 형성돼 있어, 글로벌 브랜드의 현지화 전략이 한층 세밀해져야 함을 시사한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c805b000-5394-45d4-8a31-34a1e31e6c56",
+        "title_ko": "K뷰티 브랜드, 미국 오프라인 공략 가속",
+        "summary_ko": "투에이엔(2aN), 동아제약 아일로, 애경산업 등 복수의 국내 브랜드가 잇달아 미국 올리브영 오프라인 매장에 입점했다. 단일 브랜드의 진출이 아닌 동시다발적 입점은 K뷰티의 미국 현지 거점 전략이 체계화 단계에 접어들었음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e6072d2b-87eb-4cb8-a8cc-1fe0aa6d8952",
+        "title_ko": "K뷰티 페스타, 700개사 집결",
+        "summary_ko": "중기부 주관 'K뷰티 페스타'에 국내외 700여 개 기업·바이어가 참가했다. 정부 주도의 수출 접점 행사가 대형화되면서 중소 브랜드의 해외 바이어 접근 경로가 넓어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "b738a039-a98f-484a-94a1-1501ae9c70b6",
+        "title_ko": "스페인 디자이너 브랜드의 글로벌 한계",
+        "summary_ko": "Zara·Mango 등 대형 브랜드와 달리 스페인 독립 디자이너 브랜드는 해외 인지도 확보에 구조적 어려움을 겪고 있다. 자국 소비 기반의 취약성과 유통망 부재가 핵심 장벽으로 지목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f5d9ced2-9e5d-4e30-a03f-2ebaa7cc3424",
+        "title_ko": "크림 '빈티지', 중고 명품 재편 선언",
+        "summary_ko": "크림이 기존 '부티크' 서비스를 '빈티지'로 리뉴얼하며 중고 명품 거래 시장 공략을 본격화했다. 플랫폼 간 포지셔닝 경쟁이 심화되는 가운데, 리세일이 별도 채널이 아닌 주류 소비 흐름으로 편입되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a2c5d67b-3c7d-4706-8703-1c10987d6060",
+        "title_ko": "명품 가격 인상, 중고 시장으로 수요 이동",
+        "summary_ko": "명품 브랜드의 잇단 가격 인상이 소비자의 눈을 중고 시장으로 돌리고 있다. 장롱 속 유휴 명품을 되파는 '셀링' 행동이 늘면서 개인 간 거래 플랫폼의 공급·수요가 동반 성장하는 구도다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "cdbc8fdc-007a-443a-bfdf-a1e894b2611f",
+        "title_ko": "보험도 구독 시대, 시장 재편 예고",
+        "summary_ko": "국내 보험 시장에 구독형 모델 도입이 예고되고 있다. 월정액 기반의 유연한 보장 설계가 MZ 소비자의 '필요할 때만 가입' 심리와 맞물려 기존 장기 상품 중심 구조를 흔들 변수로 떠오르고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K뷰티의 전방위 제도화'다. 미국 오프라인 입점 러시, 대규모 바이어 행사, 부총리급 현장 방문이 같은 주에 겹친 것은 우연이 아니다. 민간의 해외 채널 확보와 정부의 기술·정책 지원이 맞물리며 K뷰티가 브랜드 현상에서 산업 인프라 경쟁으로 전환되고 있다. 패션 섹션의 중고 명품 확산도 같은 맥락에서 읽힌다. 소비자가 '정가 구매'의 대안을 적극적으로 탐색하면서 리세일·구독형 보험 등 기존 가격 구조를 우회하는 채널들이 동시에 성장하고 있다.",
+  "cards_meta": {
+    "96501726-1e4b-412b-8ad6-34c4380628c3": {
+      "category": "MacroTrends",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRFdLOFBrV2V2azlYS1hlZDhoQ2I5WHhqdWlENWtTWXFJRzlMc2dMRDJpUWg4WmJTNXVFZGRHLWluU0xwRnhfWWFtQlUwbmQtRHpEUUNpTWdadUNTQVlHR1hnWXl1cGQyT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구윤철 부총리-오유경 식약처장, ‘K뷰티 R&D 성지’ 한국콜마 종합기술원 방문 - 비즈월드",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e39d9e9b-b327-4b74-9031-76e5ee930eb5": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZXljMDZ3TmhkQ2R1T0QySnNxWDFjX0l6aVlBUXQ0aGRScndwWHhJR2dacV9aZjlyUkNpVTFDb1dGQzI1aVFPN05rWFlwUi1Cdkp0UUF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'건강 만점' 대체육, 왠지 불만족...그 이유, 한·미 180도 달랐다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c805b000-5394-45d4-8a31-34a1e31e6c56": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00cGtMcGJSaWJIeTNnaXhnQll1c2p1Q3Z4MUVaS1JGZEpfSmhiNmhfM01CeDI3bFpJdDhaN1h6dFlzTHB5QkVQMGlwS0dzQXdnZldNaEFUeFhra0hwX0VZNFRHN2cwanNhbDdhX9IBcEFVX3lxTE1RVjkyczVlZ0xlVTd4ZEJsZXFxb1gwMGJYazcwTWpfUXZwd2pWOGFkSUk1dy14aVdnUWxDM2xWV3hFUUg5Q25jZHYzV2YtSXNrcVpMSGNvUG5IU2RnamdMRmI2a0RmUkVrVzUwNTBDTHI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[유통단신] 애경산업 메이크업 브랜드, 美 올리브영 오프라인 매장 입점 外 무신사·어댑트·제너시스BBQ - 글로벌경제신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e6072d2b-87eb-4cb8-a8cc-1fe0aa6d8952": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13V3d6ek1LUWhxZEhTNGduR0gzVWl0aE42d0NFTjRhQWtpWEJ2UVJmcUxOSm5kc09LTENUcmk1OE5PM253Vmh5REFiZi1qVGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중기부, 'K뷰티 페스타'…국내외 700여개 기업·바이어 참가 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b738a039-a98f-484a-94a1-1501ae9c70b6": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzNQeUFDbHFocG1tdUtoSWJBclNvMnFZNy1aT0V0QjZkNTQzVk9WR2dVUWtTVndHT2w4TW1DdnpiQndiV01DX2VLbmZjTGJiNmxvZHFoVHFTdFBWODRwRVF0Q19iTkVobktoaUgzQ1BESDdoOEVGZ3d3dE5SOEVvVTAtZV8teFhwRS1wTnJkTUloRXBlNDI2TmhyYTVQblVLaXZyUFA3NWYxVy1UN1hfWWRGUHdwMnhmTHk3dGlFR0V0eUo1VHVGaV9UNzF4d9IB4gFBVV95cUxOdFFmWGxnRTBQYWpnbjhPTVkwVTVrVlhHYVd3d2Z2RHh5LXNfQV9rcnlkLXh3MjJ4QzdmOU1zQ2xkUjFQWFFGaGJjN3JqR0dBdWlPTjBlSDFwbVVnSVhlbld6ZjBzck9CLXBZaUhtZ0tSMTNwOHJ6VWlzbWViV3FZd1paajd6aHQ3VjliVk9UbmdyQ0tURTdnYjNlRTcxa3lraWY5WXMzeDY2a3VISnRTcHZNcmdpXzctU2tzYzV3MHZ6R0FuRGRLbm5xLVdjTE1KR0wtdzlkbkgwbEZNN0k2aVVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué les falta (y qué les sobra) a las marcas de autor españolas para ser relevantes fuera? - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "f5d9ced2-9e5d-4e30-a03f-2ebaa7cc3424": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVGVWZkFoRmlnbkN5M0dXeFRtTDBsejZ4M1RjVW1SbEJDWFMtU1lsRmV2TEtpLUhWT0R6VFdWcmYyOXl6LUpQMUJueFVUQ3NWRUR4S09nZWNGLThESVBFZ18zMXFzSkZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "크림, ‘부티크’ 서비스 ‘빈티지’로 리뉴얼… 중고 명품 거래 시장 본격 확대 - 테크월드",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a2c5d67b-3c7d-4706-8703-1c10987d6060": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cdbc8fdc-007a-443a-bfdf-a1e894b2611f": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
