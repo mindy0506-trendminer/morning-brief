@@ -1,0 +1,159 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영 미국 오프라인 상륙으로 K-뷰티 직판 채널 확장 본격화",
+    "패션: 크림·마들렌메모리 중심으로 중고명품 리세일 플랫폼 구도 재편",
+    "식음료: 외식업 특화 AI HR 솔루션 등장, 프랜차이즈 인건비 관리 자동화 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "e989f731-9185-43e6-b385-0905ce28be18",
+        "title_ko": "외식업 HR 자동화, AI가 맡는다",
+        "summary_ko": "푸드테크 기업 컨트롤엠이 외식 사업자 전용 AI 솔루션 '레스토지니'에 인사 관리 기능 '피플지니'를 추가했다. 시급·야근수당·연차 정산 등 소규모 점주의 행정 부담을 자동화하며, 노무 리스크 경감 수요가 높은 프랜차이즈 시장을 직접 겨냥한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "179f3a7f-8bc0-4b15-9160-7c2a6576e21f",
+        "title_ko": "올리브영, 미국 오프라인 교두보 확보",
+        "summary_ko": "CJ올리브영이 미국 캘리포니아 패서디나에 첫 오프라인 매장을 열었고, 이달 웨스트필드 센추리시티점을 추가 출점할 계획이다. 개점 전날부터 오픈런 줄이 이어지며 현지 화제가 됐고, K-뷰티 브랜드의 자체 유통망 구축이라는 점에서 플랫폼 의존도를 낮추는 전략적 전환으로 평가된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aa6af494-cb5b-4b89-bcc8-c2d4a11a2314",
+        "title_ko": "서울시, K-뷰티 스타트업 글로벌화 지원",
+        "summary_ko": "서울시가 8월 DDP에서 뷰티·뷰티테크·웰니스 분야 스타트업 피칭대회를 열고 글로벌 투자 연계와 해외 시장 진출을 지원한다. 민간 기업의 해외 직진출과 공공 주도 스타트업 육성이 맞물리며 K-뷰티 생태계 확장의 두 축이 동시에 움직이고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "632b0397-d245-4c07-8ac9-cdead94741d6",
+        "title_ko": "이너뷰티 간식, 일본 플랫폼 장악",
+        "summary_ko": "비비드몽타주의 콜라겐 캔디 '글로우팝'과 건강기능식품 '스파이시팝'이 일본 Qoo10 메가와리 행사에서 이너뷰티 카테고리 1위를 연달아 달성했다. 과자처럼 즐기는 형태의 이너뷰티 제품이 일본 내 K-뷰티 소비 집중 구간을 공략하는 유효한 포맷임을 입증했다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "e1daf889-6d3c-4275-b37c-87c12e97e9ba",
+        "title_ko": "크림, 중고명품 서비스 전면 재편",
+        "summary_ko": "크림이 기존 '부티크' 서비스를 '빈티지'로 리뉴얼하며 중고 명품 거래 시장에 본격 진입했다. 검수 인프라를 보유한 스니커즈 리세일 플랫폼이 명품 카테고리로 영역을 넓히면서 국내 리세일 시장의 수직 통합이 빨라지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2623d8ca-62dd-4623-9570-52d672fee685",
+        "title_ko": "마들렌메모리, 추가 투자로 36억 확보",
+        "summary_ko": "리세일 솔루션 스타트업 마들렌메모리가 15억 원 추가 투자를 유치해 누적 36억 원 규모를 달성했다. 플랫폼이 아닌 솔루션 레이어에서 리세일 시장을 공략하는 접근이 투자자 관심을 끌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a654cd60-69cb-4208-b723-12514cc4037f",
+        "title_ko": "명품 가격 인상이 중고 시장 띄운다",
+        "summary_ko": "신품 명품 가격이 잇따라 오르면서 장롱 속 중고 명품의 처분 및 구매 수요가 동시에 커지고 있다. 공급과 수요가 함께 늘어나는 구조가 리세일 플랫폼 성장의 구조적 배경으로 작용하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "40ee5f12-4c82-4448-a6ca-6d235d005af9",
+        "title_ko": "구독형 보험, 국내 도입 가시화",
+        "summary_ko": "필요한 기간만 가입하는 구독형 보험 모델이 국내 보험업계에서 현실화될 것으로 전망된다. 소비자의 유연한 지출 패턴과 구독 경제 확산이 금융 상품 구조 자체를 바꾸는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '한국 소비재의 자체 채널 확보'다. 올리브영은 미국에 직영점을 내고, 비비드몽타주는 일본 플랫폼에서 카테고리 정상을 차지했으며, 서울시는 공공 차원의 글로벌 진출 인프라를 추가하고 있다. 동시에 국내에서는 리세일·AI HR·구독형 금융 등 기존 카테고리 경계를 허무는 솔루션들이 투자와 서비스 출시를 잇달아 기록했다. 해외에서는 K-브랜드의 직접 접점이 넓어지고, 국내에서는 운영 효율화와 새 소비 모델이 동시에 전진하는 이중 구조가 뚜렷해지고 있다.",
+  "cards_meta": {
+    "e989f731-9185-43e6-b385-0905ce28be18": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68032",
+      "original_headline": "컨트롤엠, 외식업 인사 관리 AI ‘피플지니’ 출시",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "179f3a7f-8bc0-4b15-9160-7c2a6576e21f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98906",
+      "original_headline": "美 패서디나 뒤흔든 CJ올리브영…이달 LA '센추리시티점' 추가 출격",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa6af494-cb5b-4b89-bcc8-c2d4a11a2314": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98893",
+      "original_headline": "서울시, K-뷰티 유망 스타트업 발굴…글로벌 투자･시장진출 지원",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "632b0397-d245-4c07-8ac9-cdead94741d6": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98898",
+      "original_headline": "비비드몽타주 글로우팝·스파이시팝, 일본 Qoo10 1위 달성",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e1daf889-6d3c-4275-b37c-87c12e97e9ba": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVGVWZkFoRmlnbkN5M0dXeFRtTDBsejZ4M1RjVW1SbEJDWFMtU1lsRmV2TEtpLUhWT0R6VFdWcmYyOXl6LUpQMUJueFVUQ3NWRUR4S09nZWNGLThESVBFZ18zMXFzSkZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "크림, ‘부티크’ 서비스 ‘빈티지’로 리뉴얼… 중고 명품 거래 시장 본격 확대 - 테크월드",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2623d8ca-62dd-4623-9570-52d672fee685": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zeFcyU0lBZzJzQkpyeFpWSzd1dEpjeFNvVlBaQ0NlcGNodUtpU2JVWmlxVjlaeUkxbDlPbWlyZGFzb21oNUJyOE9ra1A4N1Zl?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'리세일 솔루션' 마들렌메모리, 15억 추가 투자 유치… 총 36억 규모 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a654cd60-69cb-4208-b723-12514cc4037f": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40ee5f12-4c82-4448-a6ca-6d235d005af9": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
