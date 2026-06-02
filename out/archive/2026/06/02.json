@@ -1,0 +1,161 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국·미국 이커머스 이벤트 연동으로 여름 비수기 개념 소멸",
+    "올리브영 미국 첫 매장 오픈런 성황, 이달 LA 센추리시티점 추가 출격",
+    "경기도 뷰티 기업, 체코·오스트리아 수출 상담서 339만 달러 계약 추진"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "19981f4f-7194-4cd8-bbfd-72e1da905eb1",
+        "title_ko": "외식 급여 정산, AI가 맡는다",
+        "summary_ko": "푸드테크 기업 컨트롤엠이 외식 사업자 전용 인사 관리 AI 서비스 '피플지니'를 출시했다. 아르바이트·정규직이 혼재하는 외식업의 복잡한 수당 계산과 월말 급여 정산을 자동화해, 점주와 프랜차이즈 본사의 행정 부담을 줄이겠다는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "7f7a7675-8f4e-4bac-8800-8808bbb7f71c",
+        "title_ko": "K-뷰티, 여름 비수기 사라졌다",
+        "summary_ko": "5월 화장품 수출액이 11억 8,200만 달러로 전년 동월 대비 24.2% 늘었다. 중국 618 행사와 미국 아마존 프라임 데이가 7~8월 매출을 견인하면서, 내수 중심 시절의 여름 비수기 공식이 완전히 무너지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "92472191-dbf9-4ba7-895b-1fc006daee64",
+        "title_ko": "올리브영, 미국 시장 본격 공략",
+        "summary_ko": "CJ올리브영이 미국 캘리포니아 패서디나에 첫 오프라인 매장을 열고 오픈런 행렬을 만들었다. 이달 내 웨스트필드 센추리시티 쇼핑몰에 두 번째 매장을 추가 개점하며 LA 상권 거점 확보에 속도를 내고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "90d1ca00-b411-4cfc-b7bd-e1a895bf5af7",
+        "title_ko": "K-뷰티, 동유럽 신흥시장 진입",
+        "summary_ko": "경기도가 체코·오스트리아에서 개최한 수출 상담회에서 339만 달러 규모의 계약을 추진했다. 유럽 화장품 등록 포털 인증을 갖춘 뷰티 기업 10곳이 참여해 비관세장벽이 높은 유럽 시장 진입의 실질적 교두보를 마련했다는 점에서 의미가 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "fa395115-eb4e-4c45-b03d-54ffe684f707",
+        "title_ko": "에이블리 스트릿 브랜드 매출 급성장",
+        "summary_ko": "패션 플랫폼 에이블리에서 스트릿 패션 브랜드 매출이 빠르게 늘고 있다. 젊은 소비층의 개성 표현 수요가 플랫폼 내 카테고리 지형을 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2a2a4c8d-ccfc-43ba-89ce-289381a42730",
+        "title_ko": "BC카드, 스트릿 패션 마케팅 시동",
+        "summary_ko": "BC카드가 스트릿 패션을 전면에 내세운 카드 마케팅을 선보였다. 금융사가 스트릿 문화 코드를 적극 차용하는 흐름은 젊은 소비층 유입을 겨냥한 브랜드 이미지 전환 시도로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "cae4f20c-6715-446b-acd2-2f70611a958d",
+        "title_ko": "니가타 단독 기획, 비주류 여행지 부상",
+        "summary_ko": "호텔스컴바인이 일본 니가타현과 손잡고 단독 여행 기획전을 전개한다. 도쿄·오사카 중심에서 벗어나 지방 소도시를 조명하는 일본 여행 수요가 커지면서 플랫폼 업체들이 차별화 상품 개발에 나서고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "3e71c810-c32b-4c6b-9968-e7eec4a2ca60",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에서 구독 방식 상품이 부상할 것이라는 전망이 나왔다. 구독 경제에 익숙한 젊은 세대가 주요 보험 가입 연령층으로 진입하면서, 기존 장기 계약 중심 구조에 변화 압력이 커지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '국내 시장의 기준점이 글로벌 이벤트 캘린더로 이동하고 있다'는 점이다. K-뷰티는 중국과 미국의 이커머스 행사로 계절 수요를 재편했고, 올리브영과 경기도 뷰티 기업은 각각 미국 오프라인과 동유럽 수출로 현지 거점을 구체화하고 있다. 여기에 외식업 인사 관리의 AI 전환, 구독형 보험의 등장까지 더하면, 내수 중심 소비재 산업이 동시다발적으로 운영 구조와 판매 채널을 바꾸는 전환기임을 확인할 수 있다.",
+  "cards_meta": {
+    "19981f4f-7194-4cd8-bbfd-72e1da905eb1": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68032",
+      "original_headline": "컨트롤엠, 외식업 인사 관리 AI ‘피플지니’ 출시",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7f7a7675-8f4e-4bac-8800-8808bbb7f71c": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309808",
+      "original_headline": "\"여름 비수기는 옛말\"…K-뷰티, 中 ‘618’·美 ‘아마존 데이’로 7~8월 지웠다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "92472191-dbf9-4ba7-895b-1fc006daee64": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98906",
+      "original_headline": "美 패서디나 뒤흔든 CJ올리브영…이달 LA '센추리시티점' 추가 출격",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "90d1ca00-b411-4cfc-b7bd-e1a895bf5af7": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5eHhVbG5zakpEU2dDSV96RU9VWFdQMXVuVGdFZ1JON3hIQkxiZndBdDJXd0FBclA3ajJwd3phUzl3dFlSRk41cWZFZ0lmdzQxVEQ5T3NFZzljc1NBWUdzYnhNTHdpc25lNW9mUTl2Qlc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경기도 K-뷰티 영토 확장, 체코·오스트리아서 339만 달러 계약 추진 > 뉴스 - 더코리아",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fa395115-eb4e-4c45-b03d-54ffe684f707": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhN21nXzVQZTNTQURWT0Y3WXRVSWxxRHRQUzNMQ3VadFNqeF9UdEZEZnh4LURTNHhmaEZxenpFVGFsUWNjcGJFVnFwRHJrQWR3ZkN3V1k2VGV5Z0NBdUJTMmVwR190VkdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "에이블리, 스트릿 패션 브랜드 매출 급증 - 테크월드",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2a2a4c8d-ccfc-43ba-89ce-289381a42730": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03a0dNRFIxc1RCWENlampKR3piMTE2cXk4TTRpMTdBUUVicURsQzIxMFdFcmFfTlFHcER6UEtQdVdCSjR3VzJ6M1luRHlvanJZdk1DYWZjRmE3UWQzRUFhREF6U2pPU2YwNHdz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[카드오늘] 스트릿 패션에 빠진 BC카드…“힙한데?” - sisaon.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cae4f20c-6715-446b-acd2-2f70611a958d": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FYzJnQm5vdTM1V1lDR1hMVDR2TGdxWGJQdVZqZXFsNjRZdmpiNVFKdFdYd3ZyU2g1RHNLUWN6Zk5CQ1g4U25FbzAwZHNIdjJieElxalNra1RQYUt2T2fSAWNBVV95cUxQVEFfMHZDQWRlX2szZ2NGNDN5OUg5Y1ZYWjNOTnNNNkE0X3dIYnhNSGVqb2w1NTRheXltaW9aYk9sSTlPYUw0SGt6ODFYbnc5SWRXRmFJaV9LdkpwcEZzeGJvWkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔스컴바인, 日 니가타현과 단독 여행 기획전 - 스포츠경향",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e71c810-c32b-4c6b-9968-e7eec4a2ca60": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
