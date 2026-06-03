@@ -1,0 +1,199 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영 미국 오프라인 상륙·K-뷰티 유럽 신흥시장 공략으로 해외 확장 본격화",
+    "패션: 명품 컬래버 소품과 중고 명품 리세일 양극 채널이 동시 성장세",
+    "소비트렌드: Z세대의 음주 회피와 구독형 서비스 수요 확대가 맞물려 소비 구조 재편"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c6c41d23-d9f4-4244-a755-07377e58460f",
+        "title_ko": "글로벌 식품사, 대체육 투자 확대",
+        "summary_ko": "세계 주요 식품기업들이 대체육 부문에 대한 관심과 투자를 높이고 있다. 비건 수요 증가와 지속가능성 규제 강화가 맞물리며, 대체육이 틈새 제품에서 주류 포트폴리오 항목으로 이동하는 흐름이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c1bfdeb3-6381-46d0-a908-d80f8bde9421",
+        "title_ko": "K-뷰티, 중·동유럽 신흥시장 진입",
+        "summary_ko": "경기도가 체코 프라하·오스트리아 빈에서 개최한 수출상담회에서 339만 달러 규모의 계약을 추진했다. 유럽 화장품 등록 포털(CPNP) 인증을 갖춘 10개 뷰티 기업이 참여해 비관세장벽을 우회한 방식으로 서유럽 외 신흥시장 공략이 본격화되고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "68e6bc26-fc3e-425e-91cd-816be055164f",
+        "title_ko": "올리브영, 미국 오프라인 교두보 확보",
+        "summary_ko": "CJ올리브영이 캘리포니아 패서디나에 미국 첫 오프라인 매장을 개점하며 오픈런 대기줄까지 형성됐다. 이달 내 LA 센추리시티점을 추가 출점할 계획으로, K-뷰티 편집숍이 온라인을 넘어 미국 오프라인 유통망으로 영역을 넓히는 전환점이 됐다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "84a53929-db9e-4486-9452-2ea02a47f59b",
+        "title_ko": "명품 컬래버 소품, 가격 장벽 낮추다",
+        "summary_ko": "명품 브랜드와의 컬래버 패션·소품이 정가의 10분의 1 수준 가격대로 소비자 접점을 넓히고 있다. 브랜드 경험을 원하지만 풀 가격 구매를 꺼리는 소비층을 겨냥한 전략으로, 명품 시장의 진입 경로가 다층화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0129cb6a-f82d-41ac-8a74-614953502bf9",
+        "title_ko": "한복·드레스 융합, K-패션 외연 확대",
+        "summary_ko": "'2026 K-패션갈라쇼콘테스트'가 성황리에 마무리됐다. 한복과 현대 드레스를 접목한 작품들이 주목받으며, K-패션이 전통 유산을 글로벌 감각으로 재해석하는 방향을 강화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aaa217a6-f4c6-438f-a788-e34d46c5705c",
+        "title_ko": "크림, 중고명품 서비스 전면 개편",
+        "summary_ko": "크림이 기존 '부티크' 서비스를 '빈티지'로 리뉴얼하며 중고 명품 거래 시장 확대에 나섰다. 리세일 플랫폼 간 경쟁이 심화되는 가운데, 빈티지 감성과 인증 거래를 결합해 신뢰 기반의 프리미엄 중고 시장을 선점하려는 시도로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c4937522-c7d6-4b2d-99b9-e9742d8ef69b",
+        "title_ko": "뉴델리 호텔 화재, 안전 규정 재점화",
+        "summary_ko": "인도 뉴델리 호텔에서 발생한 화재로 최소 21명이 사망하고 40여 명이 부상했다. 소비재·여행 관점에서는 인도 호텔업의 안전 기준 문제가 재부각되며 현지 투자 및 여행 수요에 영향을 줄 수 있는 사안으로 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b7da2ebf-d825-4ab9-ac3c-8f036f9f32e5",
+        "title_ko": "구독형 보험, 새 시장 열린다",
+        "summary_ko": "국내 보험업계에서 구독 방식의 보험 상품 시대가 열릴 것으로 전망된다. 정기 구독 경제에 익숙해진 소비자층이 보험 가입 방식에도 유연성을 요구하면서, 전통 보험사의 상품 설계 방식 전환이 불가피해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4de58fbe-cbc0-4388-b41f-d97c94dd5064",
+        "title_ko": "Z세대, 음주 문화에서 이탈",
+        "summary_ko": "Z세대가 음주 중심의 사교 문화를 의도적으로 회피하는 경향이 글로벌 차원에서 확산되고 있다. 무알코올·저알코올 음료 시장의 성장과 맞물려 식음료 기업들의 제품 포트폴리오 재편 압력이 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4f1ccb47-60e8-4228-8bfb-c02e227e3eab",
+        "title_ko": "Z세대 소비 패턴, 다층적 재분석",
+        "summary_ko": "중국을 비롯한 글로벌 Z세대의 소비 행동이 가격 민감성과 경험 중심 지출이 혼재하는 복합 구조를 보인다는 분석이 이어지고 있다. 단일 세대론으로 묶기 어려운 소비 태도 분화가 브랜드 타깃 전략의 세분화를 요구하고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 흐름은 '채널·가격·세대'라는 세 축이 동시에 재편되고 있다는 점이다. K-뷰티는 유럽 신흥시장과 미국 오프라인으로 물리적 접점을 확장하고, 패션은 컬래버 소품과 중고 명품 리세일이라는 양 끝 가격대에서 동시에 성장하고 있다. Z세대의 음주 회피와 구독 소비 선호는 식음료·보험·서비스 전반의 상품 설계를 압박하는 구조적 신호다. 브랜드가 단일 채널·단일 가격대·단일 세대 전략에 머무를 수 없는 환경이 가속화되고 있다.",
+  "cards_meta": {
+    "c6c41d23-d9f4-4244-a755-07377e58460f": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41Vm1kcUpPWmZWMC1nR01EaVZHdnYxY0psQnR3QzZwRWhGVV9fUGF6anB5dDczZlFSSFp4SmpibWkxRDVMVW52aloyX3pNLUU0azdwOFBWTUFTNTdHcElpeFFERy11NDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "세계 주요 식품기업들 대체육에 관심 매우 높다 - 한국식품의약신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c1bfdeb3-6381-46d0-a908-d80f8bde9421": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98915",
+      "original_headline": "경기도, K-뷰티 영토 확장…체코·오스트리아 수출상담 339만 달러 성과",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "68e6bc26-fc3e-425e-91cd-816be055164f": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kekxfWWRwY25HVmhtZk5tREhnaGhMblBqWm5mTnZWdGhYM1VyNGY4VFR2X3A3SFJsSUQwRDZJblZHQ1JETVlIaUxMYWhrZVNMQ3ZDTXpTamRkbXgzQWNEV2w1ckM0Q1dRWEY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "앳홈 ‘톰’, 미국 올리브영 패서디나점 입점 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "84a53929-db9e-4486-9452-2ea02a47f59b": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Qc1FlUHpudHNnaVdWWDdiOG4tekhGQnJ2WVZBakJyWW9DNVp3d0N1TzdFZmRuMWIyNFhCbzYzV3RuVDkxRkViQlRHNGh2Sk9ySnlRb1gxRjcwMXNucmgtVEhRVy1CQnVqaml1RldjVUJ1bXlQNHfSAWZBVV95cUxOUVpQZzAxelB4VXZ0a0xKNjBoYkxMRk9rbjZxS1V0M3NqdGxaSi1sM1YwbzB0M3hyRVl1TTZVSzFkTnpoV3hDSFAtNHBibFRzSE9CNmZfZTRrT2FQbmxfaWhqNUFKR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“명품 브랜드를 10분의1 가격으로”… 컬래버 패션-소품 뜬다 - 동아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0129cb6a-f82d-41ac-8a74-614953502bf9": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMWs1MVp0dXNFbDRaZ2xlV1pzZ0VnSGpSQVFFWFdvbmx2ZHVuaWJKVExpNEg4ZURxb3dmUmhaM01aRmZSb1JvcVdhMktQRXNyUE9QZmdDckM4YXNjY3k1QTZFbW9taGtTSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한복과 드레스의 향연… ‘2026 K-패션갈라쇼콘테스트’ 성황리 개최 - 대한투데이",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aaa217a6-f4c6-438f-a788-e34d46c5705c": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVGVWZkFoRmlnbkN5M0dXeFRtTDBsejZ4M1RjVW1SbEJDWFMtU1lsRmV2TEtpLUhWT0R6VFdWcmYyOXl6LUpQMUJueFVUQ3NWRUR4S09nZWNGLThESVBFZ18zMXFzSkZv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "크림, ‘부티크’ 서비스 ‘빈티지’로 리뉴얼… 중고 명품 거래 시장 본격 확대 - 테크월드",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c4937522-c7d6-4b2d-99b9-e9742d8ef69b": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11RzdKMW1XYmNHakNnRnc2RTZiaU01djdpS2p3d1h6ZV9nLWIwTkw1QjJBRUZVT0NMaDRLNEttQUFxcHFfQmhJUjZKeVJ6NE9TRnFvUzM1aVNzSlJFZzJCSDhaMkJGbTQxaVphNHJKTHJmdlY0ZGFuYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "인도 뉴델리 호텔 화재…최소 21명 사망·40여명 부상 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b7da2ebf-d825-4ab9-ac3c-8f036f9f32e5": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "4de58fbe-cbc0-4388-b41f-d97c94dd5064": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "4f1ccb47-60e8-4228-8bfb-c02e227e3eab": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
