@@ -1,0 +1,210 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 유럽·미국·중앙아시아 3개 시장 동시 확장으로 글로벌 영토 재편 본격화",
+    "패션: 명품 가격 부담 속 컬래버 제품·중고 리세일 시장이 대안 소비 채널로 급부상",
+    "중국 Z세대, 국풍 한복 등 문화 소비 주도…충동 구매 성향도 뚜렷"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "e72a607b-b829-4cab-aabb-16be5d753202",
+        "title_ko": "K-뷰티, 동유럽 신시장 뚫다",
+        "summary_ko": "경기도가 체코·오스트리아에서 개최한 수출 상담회에서 339만 달러 규모의 계약을 추진했다. 유럽 화장품 등록(CPNP) 인증을 완료한 기업 위주로 참여해 비관세장벽을 선제적으로 넘은 점이 주목된다. 서유럽 포화 속에 동유럽이 K-뷰티의 차세대 거점으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b5a39693-cef0-416c-b0db-844b8e67cd2c",
+        "title_ko": "올리브영, 미국 LA 연속 출점",
+        "summary_ko": "CJ올리브영이 패서디나 첫 미국 매장에 오픈런 행렬이 이어진 데 이어, 이달 중 웨스트필드 센추리시티점까지 추가 개점할 계획이다. 단독 진출을 넘어 상권 복수 거점 확보 전략으로 전환하며 미국 오프라인 K-뷰티 유통의 새 기준을 세우고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c67e10b9-07a4-4515-add8-96708242924b",
+        "title_ko": "스킨1004, 중앙아시아 거점 구축",
+        "summary_ko": "스킨1004가 카자흐스탄 알마티의 중앙아시아 뷰티 엑스포에 참가하며 현지 바이어 발굴과 소비자 접점 확대에 나섰다. K-뷰티 확장이 서구권을 넘어 중앙아시아로 다변화되는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "6a033b7c-7260-4d70-be4f-a66a6a6b67a3",
+        "title_ko": "명품 대신 컬래버, 가격 격차 10분의 1",
+        "summary_ko": "명품 브랜드와 협업한 컬래버 패션·소품이 정가의 10분의 1 수준 가격으로 소비자를 끌어들이고 있다. 명품 접근성 욕구는 유지하되 지출을 줄이려는 '가치 절충형' 소비가 주류 트렌드로 자리잡는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a885bef1-49e3-4f7a-9c16-135746ece7c2",
+        "title_ko": "중고명품 몸값 상승세 지속",
+        "summary_ko": "신품 명품 가격이 잇따라 오르면서 중고명품 시장의 가격도 동반 상승하고 있다. 장롱 속 명품을 매물로 내놓는 수요까지 늘며 리세일 시장이 단순 대안이 아닌 독립 자산 시장으로 성격을 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "af326895-223f-4365-9137-21f6217c4823",
+        "title_ko": "이새, 브랜드 리세일 프로그램 도입",
+        "summary_ko": "국내 패션 브랜드 이새가 마들렌메모리와 손잡고 자사 제품 리세일 프로그램 '이새 리스펙트'를 운영한다. 브랜드가 직접 순환 유통을 설계하는 방식으로, 지속가능 패션과 자산 가치 유지 두 가지 수요를 동시에 공략한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "e2a03deb-388f-4dde-8506-370534e5aecd",
+        "title_ko": "뉴델리 호텔 화재, 21명 사망",
+        "summary_ko": "인도 뉴델리 한 호텔에서 대형 화재가 발생해 최소 21명이 사망하고 40여 명이 부상했다. 투숙객이 창문에 매달리는 영상이 확산되며 호텔 안전 기준에 대한 우려가 다시 제기되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a34c4094-644e-43be-96ac-7d6ec21a04e3",
+        "title_ko": "독일 호텔 유대인 입실 거부 논란",
+        "summary_ko": "독일의 한 호텔이 유대인 투숙을 거부해 이스라엘 측이 강하게 반발했다. 숙박업계의 차별 정책이 외교 문제로 비화한 사례로, 글로벌 호텔 브랜드의 반차별 정책 준수 여부가 다시 주목받고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "278e9cbe-02aa-4527-ba3d-1e61527bde87",
+        "title_ko": "중국 Z세대, 국풍 한복으로 문화 소비",
+        "summary_ko": "중국 Z세대가 한복(漢服) 착용을 중심으로 한 국풍(國潮) 문화 소비를 주도하고 있다. 전통을 현대적 자기표현과 결합하는 방식으로, 단순 유행을 넘어 정체성 소비로 자리잡는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7280f19b-5e42-408e-81e6-e783991dccbe",
+        "title_ko": "중국 Z세대, 초과 예산 충동구매 빈번",
+        "summary_ko": "맥킨지 조사에 따르면 중국 Z세대는 미래에 대한 낙관적 전망을 바탕으로 예산을 초과한 충동 소비를 다른 세대보다 자주 한다. 문화적 자긍심 소비와 즉각적 만족 추구가 이 세대의 소비 양면을 구성한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9273db99-1c9a-4474-8b50-a926f6c96105",
+        "title_ko": "항공사, Z세대 맞춤 마케팅 실험",
+        "summary_ko": "중국 후난항공이 Z세대 소비 특성을 겨냥한 체험형 마케팅을 전개하고 있다. 여행·이동 서비스 분야에서도 Z세대 취향에 맞춘 콘텐츠와 경험 설계가 경쟁 요소로 부상하고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 키워드는 '접근성의 재정의'다. K-뷰티는 유럽·미국·중앙아시아로 동시 확장하며 물리적 접근성을 넓히고, 패션 시장에서는 컬래버와 리세일이 가격 장벽을 낮추며 명품의 심리적 접근성을 재설계한다. 중국 Z세대가 국풍 한복 소비로 문화 정체성에 접근하는 방식도 같은 맥락이다. 소비자들이 '원하는 가치'에 닿는 경로를 다양화하고 있으며, 브랜드와 유통사 모두 그 다양한 경로를 직접 설계하는 쪽으로 전략 무게중심을 옮기고 있다.",
+  "cards_meta": {
+    "e72a607b-b829-4cab-aabb-16be5d753202": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98915",
+      "original_headline": "경기도, K-뷰티 영토 확장…체코·오스트리아 수출상담 339만 달러 성과",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b5a39693-cef0-416c-b0db-844b8e67cd2c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98906",
+      "original_headline": "美 패서디나 뒤흔든 CJ올리브영…이달 LA '센추리시티점' 추가 출격",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c67e10b9-07a4-4515-add8-96708242924b": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQXVGcGFXNmZwTy1Ldk9PNGhrR2t2T19ibWhJa1JkbFJFdVJXODBfeWxGTm13NmJnQ1lobW5NNG9CODE5UFBhVHR2cGJzZmVLWEY1SGRnRVNTeWFmbU53dXlrbFZId0puQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스킨1004, 중앙아시아 시장 공략 본격화 - 의학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6a033b7c-7260-4d70-be4f-a66a6a6b67a3": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Qc1FlUHpudHNnaVdWWDdiOG4tekhGQnJ2WVZBakJyWW9DNVp3d0N1TzdFZmRuMWIyNFhCbzYzV3RuVDkxRkViQlRHNGh2Sk9ySnlRb1gxRjcwMXNucmgtVEhRVy1CQnVqaml1RldjVUJ1bXlQNHfSAWZBVV95cUxOUVpQZzAxelB4VXZ0a0xKNjBoYkxMRk9rbjZxS1V0M3NqdGxaSi1sM1YwbzB0M3hyRVl1TTZVSzFkTnpoV3hDSFAtNHBibFRzSE9CNmZfZTRrT2FQbmxfaWhqNUFKR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“명품 브랜드를 10분의1 가격으로”… 컬래버 패션-소품 뜬다 - 동아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a885bef1-49e3-4f7a-9c16-135746ece7c2": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "af326895-223f-4365-9137-21f6217c4823": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e2a03deb-388f-4dde-8506-370534e5aecd": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tQmxfd1liVjRiUk40Ni1FS2F6VllzUkh0U0QwY20wSTdicm5GQkJhM0dmZ3BTWDJxcVdtaExaRHQ5MGJ0WjdGYWg4TFhvSzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[영상] 겁에 질려 창문 매달린 투숙객들…인도 호텔 화재 '20여명 사망' - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a34c4094-644e-43be-96ac-7d6ec21a04e3": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9abDBLOFJjMHp5eEE4NER2TmgtQnZkVDJrOHV0eERMeG85bWZTeEpjclFOLXdZS3pIZW5KLUd1TkhoX2gzYlJudV9YT1VxSmx3TVdvVEY4XzhqcXVOdmVfWjM5WTN3Ymc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "독일 호텔 ′유대인 숙박 금지′…이스라엘 ″나치 시대냐″ - 연합뉴스TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "278e9cbe-02aa-4527-ba3d-1e61527bde87": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "7280f19b-5e42-408e-81e6-e783991dccbe": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡中国",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "9273db99-1c9a-4474-8b50-a926f6c96105": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMUJWV0UwclFjenpRTE1NNWNOeFdkNU1COWc2T19wUG85SEc5TnMwa3NyVk01LWpZcTVxMHJkblZTRzdad1dxdkktM1l2bkNQRzRoaU96aWM1Mi1wVU94WC1fakI1QnJpTjBSdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "玩出新花样 湖南航空聚焦Z世代消费需求 - 中国民航网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
