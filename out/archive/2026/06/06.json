@@ -1,0 +1,196 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미국·유럽 수출 급등하며 대중국 의존 구도 본격 탈피",
+    "화장품 안전성 데이터 의무화 착수, K-뷰티 공급망 재편 예고",
+    "건강기능식품 영양정보 의무 공개로 소비자 선택 기준 재정비"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "8065d1a4-6c91-4ffb-9a13-4faa4a13adca",
+        "title_ko": "독일 호텔 반유대 차별, 글로벌 논란",
+        "summary_ko": "독일 한 호텔이 유대인 숙박을 거부해 반유대주의 범죄 혐의 수사로 이어졌다. 글로벌 호텔·여행 업계에서 차별 금지 정책과 ESG 준수가 브랜드 리스크의 핵심 변수로 떠오르고 있음을 재확인시킨 사건이다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "391af66e-2793-4977-8409-3551d0242929",
+        "title_ko": "건기식, 영양정보 의무 공개 시대",
+        "summary_ko": "건강기능식품에도 일반 식품과 마찬가지로 열량·당류 등 영양정보 표시가 의무화된다. 성분·기능성 중심으로만 마케팅해 온 업계는 소비자 비교 기준이 구체화되는 만큼 제품 포지셔닝 전략 수정이 불가피하다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ce5b17b5-e05b-4c29-ab2a-9b7f57376b9e",
+        "title_ko": "K-뷰티, 미국·유럽이 새 핵심 시장",
+        "summary_ko": "2026년 4월 스킨케어 수출액이 전년 동월 대비 30.7% 증가하며 미국이 1위 시장으로 부상했고 유럽도 급성장세를 보였다. 중국 집중 구조에서 벗어나 서구권 중심의 다변화가 현실화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3fd07272-4043-45e3-88a6-3513dd123e8b",
+        "title_ko": "화장품 안전성 데이터 의무화 착수",
+        "summary_ko": "식약처가 2028년 도입 예정인 화장품 안전성 평가 제도 준비를 위해 민관협의체를 발족했다. 인체 안전성을 데이터로 입증해야 하는 구조로 전환되면 원료·제조 공급망 전반의 재편이 불가피하며, 대형사에 비해 소규모 인디 브랜드의 부담이 특히 클 것으로 보인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "22060668-8f58-4f1d-b6ca-7559fe2889d2",
+        "title_ko": "스킨1004, 중앙아시아 공략 가속",
+        "summary_ko": "스킨1004가 카자흐스탄 알마티 뷰티 엑스포에 참가하며 중앙아시아 시장 진출에 속도를 냈다. K-뷰티의 서구권 확대와 별개로, 중앙아시아라는 신흥 거점을 선점하려는 중소 브랜드의 움직임이 가시화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "ecd3fb85-3654-4b77-a85f-55e801cbde06",
+        "title_ko": "중고명품 몸값 상승, 리세일 시장 팽창",
+        "summary_ko": "명품 가격 인상이 이어지면서 중고명품 거래 시장이 새로운 소비 대안으로 주목받고 있다. 장롱 속 보유 품목의 현금화 수요와 합리적 명품 소비 심리가 맞물려 리세일 플랫폼 경쟁도 치열해지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f2acdc9f-4bb2-42b5-a2de-b524cdba1288",
+        "title_ko": "K-문화 팝업, 강남역 거점 확장",
+        "summary_ko": "케미스트릿이 서초·강남역 일대에서 K-음식·패션·뷰티를 아우르는 복합 팝업을 선보였다. 국내 소비자 접점을 팝업 형식으로 넓히는 동시에 외국인 관광객을 타깃으로 한 K-문화 체험 공간 전략이 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "578c5c67-015a-421a-b839-652adc60af32",
+        "title_ko": "연신내 썸머스트릿, 로컬 패션 축제",
+        "summary_ko": "은평구 연신내에서 여름 스트릿 패션 파티가 개최된다. 홍대·성수 중심의 스트릿 패션 행사 지형이 비강남권 지역 상권으로 확산되는 흐름을 보여주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0a83cd4a-2e06-43b1-bf28-52f16d989091",
+        "title_ko": "뉴델리 호텔 화재, 안전 경보",
+        "summary_ko": "인도 뉴델리에서 발생한 대형 호텔 화재로 21명이 사망하고 40여 명이 부상했다. 해외 여행 성수기를 앞두고 숙박 시설 안전 기준에 대한 소비자 인식이 높아질 가능성이 있으며, 호텔 선택 기준에 안전 인증 여부가 부각될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "88ed9e42-fb0a-4984-864d-6778d798b1c1",
+        "title_ko": "중국 Z세대, 한복으로 전통 소비 재발견",
+        "summary_ko": "중국 Z세대 사이에서 한복(汉服) 착용이 문화 소비의 새로운 형태로 자리잡고 있다. 전통 복식을 정체성 표현 수단으로 재해석하는 흐름은 국조(国潮) 소비 확산과 맞물려 패션·라이프스타일 브랜드 모두에 시사점을 던진다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '기준의 엄격화'다. K-뷰티는 안전성 데이터 의무화로 진입 장벽이 높아지는 동시에 미국·유럽이라는 까다로운 시장에서 성과를 내고 있고, 건강기능식품은 영양정보 공개로 소비자 비교 기준이 구체화된다. 소비 주체 측면에서는 중국 Z세대의 전통 문화 소비와 국내 중고명품 시장 팽창이 공통적으로 '가격 대비 가치'와 '정체성 표현'을 핵심 구매 동기로 삼는다는 점에서 겹친다. 규제 강화와 소비자 자기 기준 상승이 동시에 진행되는 구간으로, 브랜드 신뢰도 구축이 어느 때보다 중요한 시점이다.",
+  "cards_meta": {
+    "8065d1a4-6c91-4ffb-9a13-4faa4a13adca": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RFdSaXJwMHRSUVltMmtvWmdfTWc2Q3VCZkZwT1hOazFQNlVkeFZRRXRRRnFwUHczamlMVVI4eW8tX1d3ODNCYkFlcXRQNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "독일 호텔 \"유대인 숙박 금지\"…경찰, 반유대주의 범죄 혐의로 수사 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "391af66e-2793-4977-8409-3551d0242929": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSWdPeVQ3cUJ0SGFpVGo4SXFkSmxJbVlrSVZVREppV0sxYzNSWkxFX2ZkdUxZN3c4WWpwVFdQNHIxS2h3cGJvenRoaGM5aFRia0t3aVFIeGtYRlpHTl9jTdIBYEFVX3lxTE5QSWdPeVQ3cUJ0SGFpVGo4SXFkSmxJbVlrSVZVREppV0sxYzNSWkxFX2ZkdUxZN3c4WWpwVFdQNHIxS2h3cGJvenRoaGM5aFRia0t3aVFIeGtYRlpHTl9jTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "건강기능식품도 영양정보 공개…열량·당류 한눈에 본다 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ce5b17b5-e05b-4c29-ab2a-9b7f57376b9e": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309893",
+      "original_headline": "2026년 4월 K-뷰티 수출 지형 대전환…미국 1위 부상·유럽 급부상",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3fd07272-4043-45e3-88a6-3513dd123e8b": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309941",
+      "original_headline": "화장품 안전성 ‘데이터 의무화’ 시동…K-뷰티 공급망 재편 본격화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "22060668-8f58-4f1d-b6ca-7559fe2889d2": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQXVGcGFXNmZwTy1Ldk9PNGhrR2t2T19ibWhJa1JkbFJFdVJXODBfeWxGTm13NmJnQ1lobW5NNG9CODE5UFBhVHR2cGJzZmVLWEY1SGRnRVNTeWFmbU53dXlrbFZId0puQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스킨1004, 중앙아시아 시장 공략 본격화 - 의학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ecd3fb85-3654-4b77-a85f-55e801cbde06": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f2acdc9f-4bb2-42b5-a2de-b524cdba1288": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "578c5c67-015a-421a-b839-652adc60af32": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iUWZScXIxVjJ4enROVWc0ck9fbWxQemJSM3h4YkVwZVdMYlhwajlzT1phOElIb1hoWXNfbW5zdXlnQmNjYmljekV6NzBPWEJoZjdHX2xqWGV4NUXSAWBBVV95cUxNb25wQU92b29UVEpTM1lxR2lLWjQ4QlROek5CMmM1eEJMNllhRDRwSXk5akxTdUhJcjVucHFRUnlkeUpyOTR0NUgtLVNtVERxVjhIM2xCWjFhWXBDek1mVlM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "은평구 '연신내 썸머스트릿 파티' 29일 개최 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0a83cd4a-2e06-43b1-bf28-52f16d989091": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWeTZGWGh6OU0xMS1hX0J6QzlESUs4SzlhOGtCanRVd0RMaG9TUHRpTElWLXMyWFBWVngyNU1ZTXhicndrNTQ3RU1fX3VKNVRBaEswNlR5WHY4NG1kVHpQNNIBYEFVX3lxTFBWeTZGWGh6OU0xMS1hX0J6QzlESUs4SzlhOGtCanRVd0RMaG9TUHRpTElWLXMyWFBWVngyNU1ZTXhicndrNTQ3RU1fX3VKNVRBaEswNlR5WHY4NG1kVHpQNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "인도 뉴델리 호텔 화재…21명 사망·40여명 부상 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "88ed9e42-fb0a-4984-864d-6778d798b1c1": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
