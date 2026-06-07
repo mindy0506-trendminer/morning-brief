@@ -1,0 +1,221 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 안전 규제 강화와 티몰 크림 판매 급감으로 공급망 재편 본격화",
+    "중고명품 시장 5조원 규모로 확대, 대기업 진출과 리세일 브랜드화 동시 진행",
+    "비건 트렌드 구글 검색량 60% 급락, 저당 음료 부상으로 식음료 판도 전환"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "9b546d87-2805-4d78-a192-6d8ffc39dc52",
+        "title_ko": "Z세대, 저당 음료로 이동",
+        "summary_ko": "상하이 소비자보호위원회 조사에서 Z세대 응답자 80%가 저당 음료를 선택했다. 건강 의식이 구매 기준의 최우선으로 자리잡으며, 고당분 탄산음료 시장의 구조적 수요 감소가 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1290c5c8-06ea-4178-8319-fcd5049d47f2",
+        "title_ko": "비건 열풍 끝, 검색량 60% 급락",
+        "summary_ko": "구글 기준 비건 관련 검색량이 60% 이상 줄며 트렌드 소멸 신호가 뚜렷해졌다. 대체육 중심 제품군이 판매 감소 압박을 받는 가운데, 소비자 관심은 동물성 단백질 복귀나 저당·자연식 쪽으로 분산되는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "2555b759-58e3-4102-a493-a8ac56451d36",
+        "title_ko": "K뷰티 안전 규제, 공급망 뒤흔든다",
+        "summary_ko": "식품의약품안전처가 화장품 안전성 평가 의무화를 추진하면서 K뷰티 기업들의 공급망 재구성이 불가피해졌다. 미국·유럽의 규제 기준에 맞추는 방향이어서, 글로벌 진출 준비 기업에는 기준 통일의 기회이기도 하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "45680d1f-72ad-4810-98cd-a95ae9f71001",
+        "title_ko": "티몰 크림 판매 71% 감소, 안티에이징으로 전환",
+        "summary_ko": "티몰 한국관 내 K뷰티 크림 판매량이 2025년 대비 71.2% 줄었다. 단순 보습 크림 수요가 빠지는 자리를 안티에이징 기능성 제품이 채우는 구도로, 중국 소비자의 스킨케어 고도화가 카테고리 재편을 이끌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "06529b94-cc4b-41dd-a22b-c095ae508a3b",
+        "title_ko": "코스메카코리아, 640억 공장 인수",
+        "summary_ko": "코스메카코리아가 오창 공장을 640억 원에 인수해 생산 능력 확대에 나섰다. K뷰티 글로벌 수요 증가에 선제 대응하는 행보로, ODM 업계의 설비 투자 경쟁이 가속화될 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "bd8a0504-ca7f-4b1f-b5e8-74f5be84ee6f",
+        "title_ko": "명품 가격 급등, 중고 시장 반사이익",
+        "summary_ko": "신품 명품 가격이 지속 상승하면서 중고명품 재판매 수요가 빠르게 늘고 있다. 장롱 속 보관품을 매각하려는 소비자가 증가하며 공급과 수요가 동시에 활성화되는 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "52feebb8-cede-4445-a2e5-1aa51a56811d",
+        "title_ko": "중고명품 5조 시장, 대기업 격전지로",
+        "summary_ko": "국내 중고명품 시장이 5조원 규모로 성장하며 대기업들이 본격 진출했다. 진품 검증 경쟁이 치열해지는 한편, 플랫폼 간 신뢰도 확보가 시장 지배력을 결정짓는 핵심 변수로 부상했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f44d84f7-6752-4d48-a6d6-111102720d68",
+        "title_ko": "이새, 리세일 프로그램으로 브랜드화",
+        "summary_ko": "마들렌메모리와 이새가 협업한 리세일 프로그램 '이새 리스펙트'는 중고 거래를 브랜드 경험으로 전환하려는 시도다. 재판매를 공식 채널로 끌어들여 브랜드 충성도와 순환 소비를 동시에 확보하는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "3f859add-3b1a-4a60-b7c1-fae68c60e4f4",
+        "title_ko": "독일 호텔 유대인 숙박 거부 논란",
+        "summary_ko": "독일의 한 호텔이 유대인 투숙을 거부해 이스라엘 외교부가 강하게 반발하며 국제적 파장이 일었다. 여행·숙박업계의 차별 금지 기준 재점검 요구가 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "eecb9a51-c48d-4621-9aec-f31d11fba80a",
+        "title_ko": "가을 인테리어 트렌드 총집합",
+        "summary_ko": "2025 대구경향하우징페어가 엑스코에서 개막해 가을 인테리어 트렌드를 한자리에 모았다. 소재·컬러·공간 활용 측면에서 소비자 관심이 높아진 생활 인테리어 시장의 현황을 가늠할 수 있는 행사다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "00027531-de41-4956-a483-4d25a919e99f",
+        "title_ko": "중국 신일선 도시 Z세대 소비 지형",
+        "summary_ko": "청두·항저우·충칭이 'Z세대 친화 도시' 상위권에 오르며 신일선 도시가 Z세대 소비의 새 거점으로 부상했다. 쿠폰·할인을 적극 활용하는 '신권취청년' 집단이 등장해 가성비 중심 소비 문화를 견인하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b1003242-295a-4c17-842a-7d0239eaed41",
+        "title_ko": "Z세대 소비행동의 새 문법",
+        "summary_ko": "Z세대는 가치 소비·개성 표현·디지털 네이티브 구매 경로가 결합된 독자적 소비 문법을 형성하고 있다. 기성 마케팅 방식이 통하지 않는 세대로, 브랜드의 대응 전략 전환이 요구된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 가로지르는 핵심 흐름은 '기존 카테고리의 해체와 재정의'다. 비건 트렌드 소멸과 저당 음료 부상은 건강 소비의 무게 중심 이동을 보여주고, 티몰 크림 판매 급감은 K뷰티가 기능성 고도화 없이는 중국 시장을 지키기 어렵다는 신호다. 패션 리세일이 브랜드 공식 채널로 편입되는 현상은 '새 제품 구매'라는 소비 기본 전제를 흔들고 있다. 규제·시장·소비자 행동 세 축에서 동시에 재편이 진행 중이며, 빠른 카테고리 재정의가 경쟁 우위를 좌우할 시점이다.",
+  "cards_meta": {
+    "9b546d87-2805-4d78-a192-6d8ffc39dc52": {
+      "category": "식음료",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55UFpOS0NOcC1ILU94UFlOam05LUlIOV8wNXFBVVJEVDE4eFFEMXp6S0VDSmJIc21xRklIRkFLMWQ0MjdSdEVqUGNPbUxIVlZONGRYRDVKTUtzaGhEQnNzR3JBVWpKaXQ4Yzh0SlJLbjROQTdJcWJSRmNKQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "上海消保委发布《上海Z世代消费者饮料偏好报告》：八成年轻人选择低糖饮料 - 中国日报网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "1290c5c8-06ea-4178-8319-fcd5049d47f2": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWs1MkdSbjNFM0o5NnB0S2k3ZVU1bUNKMW5idkJpckUzdnRtVkhhcDdpZTAxVlZrOHNESkRGbE1NSVdKeXZjMWM3UzkxYTV2ZFhuNDR0bHN5c0xRXzkxdkxfU3Rlc240UlpMcExzX1Bxb3lLSi1PTWZJMjhTSXlJa0RodDRiUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한물 간 ‘비건’의 시대...구글에서 관련 검색량 60%↓ - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2555b759-58e3-4102-a493-a8ac56451d36": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309942",
+      "original_headline": "K-Beauty Supply Chains Shift as Korea Prepares Mandatory Safety Data Regulations",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "45680d1f-72ad-4810-98cd-a95ae9f71001": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309848",
+      "original_headline": "K-Beauty Cream Sales on Tmall Drop 71.2% as Market Shifts Toward Anti-Aging Demand",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "06529b94-cc4b-41dd-a22b-c095ae508a3b": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oWmc5UjdjUWNNcVh4MUY0eUtQYTlxMnVNTmM0bWpTWGpsdkhCNmxYQmRaYU5jNi13VFBDZ202V3RoelhROEpsclN5dEgxMGRZY2R2QktfT3JXeG1nZGQyS2Z3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코스메카코리아, 오창 공장 인수…\"K-뷰티 수요 대응 생산력 확대\" - 디지털데일리",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bd8a0504-ca7f-4b1f-b5e8-74f5be84ee6f": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "52feebb8-cede-4445-a2e5-1aa51a56811d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLM1VEdmFzWkpRbGpMaTY1RTV4dGxFMmVta1FCMUVXeGF4MFBxNjdUTkphVlhYR1Q4N1RNTVdKSFU4eGYwZmpkNFhWMnZRalk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대기업도 뛰어든 ‘5조원 격전지’…몸집 커진 중고명품시장 [가품전쟁③] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f44d84f7-6752-4d48-a6d6-111102720d68": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NWEl4ell3VDg5WmVYd0FYQjBaU1JicnlZc0FEcFZ6VzdHbHg3RnpwcU5BYXlmaVR4UFREOHZVTGpocm5XekZadjJ5SnFYME5I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마들렌메모리 x 이새, 리세일 프로그램 '이새 리스펙트' 진행 - 패션비즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3f859add-3b1a-4a60-b7c1-fae68c60e4f4": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZ2M1RnVlLWhoSWNSZzhILWRLa0VMSTFIa3oyRWY0MmxOLURaRW81bWpwVmRXa2sxMWl6Y3JpN3lHYTF0eng0LWxFdlktNGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "독일 호텔 '유대인 숙박 금지'…이스라엘 \"나치 시대냐\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "eecb9a51-c48d-4621-9aec-f31d11fba80a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5S0g1YVVtMVVsNzBWekFQRk9RSkF6S1FaNFhXb0h5akV3QXhPOWFvRnhocEYwYnVqd3dKMEZmNERjMUJac1lZUHVPRGp6MUkzNjVTZUYzOHVneUlOdERoeG4wNGtxZ2JG?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘2025 대구경향하우징페어’, 가을 인테리어 트렌드 총집합…18일 엑스코서 개막 - 대구일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "00027531-de41-4956-a483-4d25a919e99f": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFBkSWZYSkVYdjZSS1BJX0VhRy1fNE1ZYlJiMl9xeDIzUUV0TUhzaVljUWs1N2NYRncyNDAzczNSV1luLU9vZDE2MUU5YXFyMm1PY2ttLUVieGlsY2gtMjU4TFN0d3NBNEF1YlI3U0tSOElOWElrNnA4WkJITms2Q1FnV3hoYlczSlR5UA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "新一线城市Z世代消费趋势报告：成都、杭州、重庆获得“Z世代友好城市榜”前三名，“新领券青年”群体兴起 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "b1003242-295a-4c17-842a-7d0239eaed41": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
