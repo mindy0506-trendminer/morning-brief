@@ -1,0 +1,213 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 할랄·일본·아프리카 삼각 확장으로 수출 구조 다변화 본격화",
+    "K-패션, 백화점 B2C 전환과 유럽 규제 대응으로 해외 진출 방식 재편",
+    "서울푸드 2026 역대 최대 규모 개막, AI 접목이 식품산업 핵심 의제로 부상"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c316a38d-3646-4e41-8c92-b2d450fd6abb",
+        "title_ko": "서울푸드 2026, AI 시대 개막",
+        "summary_ko": "49개국 1800개사가 참가한 역대 최대 규모의 서울푸드 2026이 킨텍스에서 개막했다. 푸드테크관을 별도 구성하며 AI 기반 식품산업 혁신을 전면에 내세웠고, K-푸드 수출 확대의 거점 행사로서 위상이 한층 높아졌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "542a3738-6501-480b-ae72-f1cccbae75f8",
+        "title_ko": "경기도, 외식업 1% 융자 지원",
+        "summary_ko": "경기도가 외식업·식품업소를 대상으로 시설 개선 및 운영자금에 연 1% 저금리 융자를 지원한다. 고금리 장기화 국면에서 중소 외식사업자의 비용 부담을 낮추는 실질적 정책으로 평가된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "bce89d79-0692-43f9-832b-8b61be1bbf52",
+        "title_ko": "K-뷰티, 할랄 시장 공략 가속",
+        "summary_ko": "식약처가 화장품 제조업체 대상 할랄 인증 전문가 세미나를 추진하며 K-뷰티의 이슬람권 진출을 제도적으로 뒷받침한다. 할랄 화장품 시장은 2028년까지 연평균 6%대 성장이 전망되며, 무역수지 흑자 100억 달러를 넘어선 한국 화장품 수출의 다음 성장축으로 주목받고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "089ffe54-4fcc-4c81-8231-4503ff7f117d",
+        "title_ko": "일본서 K-뷰티, 트렌드 넘어 정착",
+        "summary_ko": "일본 최대 뷰티 유통망 야마노뷰티의 현장 평가에 따르면, K-뷰티는 일시적 유행을 벗어나 신뢰 브랜드 카테고리로 자리잡고 있다. 단기 붐이 아닌 구조적 소비 정착이라는 점에서 국내 기업의 현지 중장기 전략 재설계가 필요한 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6d3ffa01-6d92-473e-b52f-31c669a30623",
+        "title_ko": "K-뷰티, 아프리카 교육 수출 시동",
+        "summary_ko": "국내 뷰티 교육 기관이 아프리카 신흥 시장에 K-뷰티 교육 과정을 수출하기 시작했다. 제품 판매를 넘어 인재 양성과 기술 이전으로 진출 방식을 전환한 것으로, K-뷰티 생태계 확장의 새로운 모델이 형성되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "998d6ffb-55d9-4bb9-8a1f-40daf2bca6ed",
+        "title_ko": "백화점 3사, K패션 해외 B2C 전환",
+        "summary_ko": "현대·롯데·신세계 백화점 3사가 K패션 해외 진출 방식을 기존 도매·위탁 구조에서 B2C 직접 판매로 전환하고 있다. 소비자 데이터 확보와 마진 개선이 동시에 가능한 구조로, 해외 패션 유통 주도권을 브랜드 측으로 이동시키는 신호탄이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0d4f5255-c746-4436-8d8b-74e231ca903d",
+        "title_ko": "섬산련, EU 규제 대응·협력 확대 나서",
+        "summary_ko": "한국섬유산업연합회장이 유럽 3개국을 순방하며 EU 환경 규제 대응 방안과 K-패션 협력망 확대를 협의했다. EU의 공급망 실사 및 탄소 규제가 강화되는 시점에서 선제적 대응 채널을 구축한 것으로, 수출 지속 가능성 확보가 핵심 과제로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0edcc22e-809e-4e67-b13e-1ae67a99b251",
+        "title_ko": "공공기관 골프·호텔 감사 체계화",
+        "summary_ko": "강원랜드가 공공기관 골프·호텔 감사협의체 합동워크숍을 개최했다. 공공 레저·숙박 시설의 운영 투명성 강화 흐름이 제도화 단계로 진입하고 있음을 보여주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "e031eaa6-41ff-48b0-b6ea-ca1184764dbf",
+        "title_ko": "중국 Z세대, 한푸로 문화소비 표출",
+        "summary_ko": "중국 Z세대가 한푸(漢服) 착용을 전통문화 소비의 자기표현 수단으로 적극 활용하고 있다. 국조(國潮) 열풍과 맞물려 패션·라이프스타일 전반에서 자국 문화 기반 소비가 확산되는 구조적 흐름으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ad31c3bc-b7d0-4f73-851a-c475b69825a5",
+        "title_ko": "Z세대, 음주 문화에서 이탈 가속",
+        "summary_ko": "스페인·중남미 Z세대를 중심으로 음주 문화를 의도적으로 거부하는 흐름이 확산되고 있다. 무알코올 음료·소버큐리어스 라이프스타일 시장 확대와 직결되는 소비 구조 변화로, 주류 업계의 제품 포트폴리오 재편 압력이 높아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7c62bac9-ace0-4065-9a70-fcba80f89158",
+        "title_ko": "중국 Z세대 소비 행태 총정리",
+        "summary_ko": "중국 Z세대는 자기결정권과 개성 표현을 소비의 핵심 기준으로 삼으며, 가성비보다 가치 일치를 우선한다. 이들의 소비 논리는 한푸·국조 열풍 등 문화 소비 부상과 맥을 같이하며, 중국 내수 시장 공략의 기본 프레임으로 재확인되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '확장 방식의 전환'이다. K-뷰티는 제품 수출에서 교육·인증 인프라 수출로, K-패션은 도매 납품에서 B2C 직접 판매로, 식품업계는 전시·네트워킹에서 AI 기술 접목으로 각각 성장 문법을 바꾸고 있다. 동시에 중국과 유럽·중남미 Z세대가 문화 소비와 음주 탈피라는 상반된 방향에서 기존 소비 공식을 흔들고 있어, K-콘텐츠 기반 소비재 기업에는 시장별 맞춤 전략 재설계가 시급한 과제로 떠오른다.",
+  "cards_meta": {
+    "c316a38d-3646-4e41-8c92-b2d450fd6abb": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68070",
+      "original_headline": "서울푸드 2026, 역대 최대 규모 개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "542a3738-6501-480b-ae72-f1cccbae75f8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 외식업 OR 프랜차이즈",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9la012dUYwRXp5WThFVEctajZSSmRDaHlweHJ3MUU4N0VLZjJIbTVXaXFlbWxoQmw2N3N1Uk5DV3FXalQzUUk1eERxak5abUNKaE1EVi13UkRyRU85LUlsNzRLMGIyV2ZnYV9tWG1oQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경기도, 외식업·식품업소 시설 개선 지원...1% 저금리 융자 - 이코노뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bce89d79-0692-43f9-832b-8b61be1bbf52": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98980",
+      "original_headline": "식약처, K-뷰티 할랄 화장품 수출 경쟁력 강화 지원",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "089ffe54-4fcc-4c81-8231-4503ff7f117d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310004",
+      "original_headline": "K-Beauty Evolves Beyond Trend Status in Japan",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6d3ffa01-6d92-473e-b52f-31c669a30623": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310006",
+      "original_headline": "K-beauty expands beyond products into education, entering emerging markets",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "998d6ffb-55d9-4bb9-8a1f-40daf2bca6ed": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zYVdsNGcyRTRtM3JUWXJ6RE1OeUh0X1RqVUVQYnByb3N0R2dDZXRhYllCY3JZWXVnNWxJWmE5UEN0MElLYlYwZGZvZUE0blBPcngtUllsUFJLRmtwVHhxZEN4MC0zR0dVQ0lJellYRUk3d0hjYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "백화점 3사, K패션 해외 진출 사업 B2C로 전환 - 어패럴뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0d4f5255-c746-4436-8d8b-74e231ca903d": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiQ19CYi1aYkdNdW5YVUpydWNnbF9lNHhSM25SQ2J3OTdGbnRmTVl2ZDVkbjlQS0RWem0yaFJqM1FDSTRtZVFkZWNaZTNLa3lScjV1U2tiU29lRWpCYVJ6QlhWaXNqZ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "최병오 섬산련 회장, 유럽 3개국 순방…EU 규제 대응·K-패션 협력 확대 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0edcc22e-809e-4e67-b13e-1ae67a99b251": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vNzEtN0M5Tkg4TEw4S1hvT0Ric1RHM1RXTWJnWXUtS3VJS3VKS2tSaGhFUV9ZYUEyak1lZ0J2NHZNREw0WkxQemtxNDdFcmFacTNLcG1HMG5OU2pKTFFicEM4ckk0SzI1dl9z?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "강원랜드, 공공기관 골프‧호텔 감사협의체 합동워크숍 - 프레시안",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e031eaa6-41ff-48b0-b6ea-ca1184764dbf": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbEp4dGkybHo0MzBjRWxUYlZpZnBYd09vRkI1NHZvZDNZdWRRUWxJVkFGQURWcGlMdUVyR1Y1UVNXUHlobjJrUmFBcmpNVWxjd2tLZjktR3M3MW9jdUpYdWxBMW5Kdzhuc0N6UkN0T1lxd0dQNWZGdnhTcjhPMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信丨汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "ad31c3bc-b7d0-4f73-851a-c475b69825a5": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "7c62bac9-ace0-4065-9a70-fcba80f89158": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9valZYRWhEc1dRWVpfaFZxNXE1R09EQkgtUnc4WjhZWEx0N21acEktbnExYlp6WEE5NzlHWDNDWU9zQ2VTaFhMUUEtNE5FS25mY29EWlFUVUV1OUdkekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "我的青春我做主——Z世代人群整体画像 - 北京商报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
