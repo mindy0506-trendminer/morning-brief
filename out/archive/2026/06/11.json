@@ -1,0 +1,229 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "식약처, '저속노화' 마케팅 편승 건기식 21곳 적발…성분 검증 압박 본격화",
+    "K뷰티 디바이스 톰 '더 글로우', 미국 올리브영 9일 연속 1위로 북미 안착",
+    "백화점 3사, K패션 해외 유통 구조를 B2B에서 B2C로 전환하며 직판 체제 구축"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "e7e4b01a-84b3-4444-980c-7332e3ca8732",
+        "title_ko": "저속노화 마케팅, 규제 칼날 맞다",
+        "summary_ko": "식약처가 '항산화·저속노화'를 내세운 하스카프베리·알부민 식품 광고 21곳을 부당광고로 적발했다. 웰에이징 키워드가 소비자 구매를 이끌어 온 만큼, 이번 단속은 건기식 마케팅 문구 전반에 대한 검증 수위를 높이는 신호탄이 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5997bb37-222b-4acf-8eaf-a73227a817bf",
+        "title_ko": "무형유산 인증, 외식 시장 판 흔드나",
+        "summary_ko": "중국에서 비유산(非遗) 인증 하나가 수조 원 규모 외식 시장을 좌우한다는 분석이 나왔다. 전통 제조법의 공식 인증이 프리미엄 포지셔닝과 직결되는 현상은 K-전통식품 브랜딩에도 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "806d3305-c30e-422f-9b8e-189fbf7cb2f7",
+        "title_ko": "비건 열풍, 빠르게 식다",
+        "summary_ko": "비건 관련 구글 검색량이 60% 이상 급감한 것으로 나타났다. 대체육·비건 라벨에 집중해온 식품 브랜드들로서는 다음 건강 키워드로 포지셔닝을 재편해야 할 시점이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5f2ae087-4739-4049-8c80-1c1f018e7cd5",
+        "title_ko": "K뷰티 디바이스, 미국서 초도 완판",
+        "summary_ko": "앳홈의 프라이빗 에스테틱 브랜드 톰(THOME)의 '더 글로우 시그니처'가 올리브영 미국 패서디나 매장 입점 첫날부터 온라인 실시간 랭킹 1위에 올라 9일 연속 1위를 유지했으며 초도 물량이 완전 소진됐다. 스킨케어 디바이스 카테고리에서 K브랜드가 올리브영 미국 채널을 통해 북미 소비자 신뢰를 빠르게 확보하고 있다는 점에서 주목할 만하다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "d72dd744-0f37-40c8-b7ec-8a0ab2d12efc",
+        "title_ko": "K패션 해외, B2C 직판으로 전환",
+        "summary_ko": "현대·롯데·신세계 등 백화점 3사가 K패션 해외 진출 방식을 도매·입점 중심 B2B에서 소비자 직판 B2C 체제로 전환하고 있다. 마진 구조 개선과 브랜드 직접 관리가 동시에 가능해지지만, 현지 재고·물류 리스크도 함께 흡수해야 하는 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c3b7ed12-f4a8-47ef-94ff-f7dc8c17e129",
+        "title_ko": "명품 가격 상승, 중고 시장 호재",
+        "summary_ko": "명품 브랜드의 잇따른 가격 인상으로 중고 명품 거래 가격이 함께 오르며 '장롱 속 백'을 처분하려는 소비자가 늘고 있다. 신품 진입 장벽이 높아질수록 리세일 시장의 유동성도 커지는 구조가 굳어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aa7c2717-ab28-41c3-abc8-b89534507580",
+        "title_ko": "브랜드들, 리세일 직접 운영 가속",
+        "summary_ko": "패션 브랜드들이 제3자 리세일 플랫폼에 맡기던 중고 유통을 자체 채널로 흡수하려는 움직임이 빨라지고 있다. 고객 데이터와 잔존 가치 관리를 동시에 확보하려는 의도로, 플랫폼과 브랜드 간 주도권 경쟁이 격화 국면에 접어들었다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5c360e6b-42a8-4607-84ac-a876c94de130",
+        "title_ko": "日호텔, 안중근 기념비 나흘 만에 철거",
+        "summary_ko": "일본 한 호텔이 안중근 의사 기념비를 설치했다가 우익 단체의 항의를 받고 나흘 만에 철거를 결정했다. 한국 소비자의 대일 여행·소비 감정에 미칠 파급 여부를 주시할 필요가 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cb6e66b6-0783-44d1-b80a-a627294f1ba0",
+        "title_ko": "호텔신라, 인천공항에 1000억 소송",
+        "summary_ko": "호텔신라가 인천공항 면세점 철수 과정에서 부과된 위약금이 과중하다며 인천공항공사를 상대로 1000억 원대 소송을 제기했다. 면세 채널 재편 여파가 법적 분쟁으로 번지면서 국내 면세 사업의 수익성 논란이 재점화될 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "75a82708-c2a0-4431-8a92-97c4c1cb086d",
+        "title_ko": "Z세대 소비 행동, 재해석 필요",
+        "summary_ko": "중국 Z세대 소비 행태 분석 보고서는 이들이 단순한 가성비 추구를 넘어 가치·경험 중심의 소비 패턴을 보임을 지적한다. 국내 브랜드가 중국 젊은 소비자를 공략할 때 기존 가격·기능 중심 메시지만으로는 한계가 있다는 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4540b5bd-b4cf-46bd-b914-89e0bb3b33ca",
+        "title_ko": "Z세대 영양 소비, 자기관리 중심으로",
+        "summary_ko": "중국 95년 이후 출생 세대의 영양 소비 트렌드 보고서에 따르면 이들은 건강기능식품을 질병 예방보다 일상적 자기관리 수단으로 인식한다. 건기식 시장에서 '나를 위한 루틴' 서사가 마케팅의 핵심 축으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3bc3ce03-c406-47d1-acf0-f94d4d550703",
+        "title_ko": "Z세대 소비, 이성+자기만족 공존",
+        "summary_ko": "중국 Z세대 소비 트렌드 인사이트 보고서는 합리적 지출과 자기만족 소비가 동시에 나타나는 '이성적 悦己(위에지)' 성향을 조명했다. 가격 민감도와 프리미엄 수용성이 공존하는 이 이중 구조는 한국 소비재 브랜드의 가격·라인업 전략 수립에 직접적 함의를 가진다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 가로지르는 흐름은 '진정성 검증 강화'다. 식약처의 건기식 광고 단속, 백화점의 K패션 B2C 전환, 브랜드의 리세일 직접 운영 모두 소비자와의 직접 접점을 늘리는 동시에 메시지의 신뢰성을 스스로 책임지는 방향으로 수렴한다. K뷰티 디바이스의 미국 완판과 Z세대의 '이성적 자기만족' 소비 성향이 겹쳐 읽히는 지점도 같다. 기능·성분·가치에 대한 검증 요구가 전 카테고리에서 동시에 높아지고 있으며, 이를 선제적으로 충족한 브랜드가 채널·국경을 가리지 않고 빠르게 점유율을 가져가는 구도가 뚜렷해지고 있다.",
+  "cards_meta": {
+    "e7e4b01a-84b3-4444-980c-7332e3ca8732": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYzctLXJudnpUUWstdU9RTW5RZUJIS21QckZObDJsQlp3WkgwRnFoSEx1T3hEUVh4bHpKWUZBQWkzYUxDdFpfRlhZM0F3TEZmYUhPcmxkOHZWU20tcHFSejl4bmxjWkFRVGY0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, ‘항산화‧저속노화’ 내세운 하스카프베리 식품 등 부당광고 21개소 적발 - knongnews.com",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5997bb37-222b-4acf-8eaf-a73227a817bf": {
+      "category": "식음료",
+      "source_name": "GN-ZH [식음료] 食品 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPamVRQ1NsWkhOQW1IblB3LXRpSnBzMGg5cGFZeDRzOFhmcGhDUENDdmtiR05PcFdmeGFGcHBlNWRUc0xKeFE2MTRjWUlCTFc2b1BtWHRFa1RlOFhlM1VyVnNrT3lXTHFCZDY4WFZxYmZ6Ri0wOGhhUVNyWVJoRWZOWXhjbm90bEE5NlBjcWhwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "被低估的非遗，一张证书撬动万亿餐饮市场？ - 21财经",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "806d3305-c30e-422f-9b8e-189fbf7cb2f7": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWs1MkdSbjNFM0o5NnB0S2k3ZVU1bUNKMW5idkJpckUzdnRtVkhhcDdpZTAxVlZrOHNESkRGbE1NSVdKeXZjMWM3UzkxYTV2ZFhuNDR0bHN5c0xRXzkxdkxfU3Rlc240UlpMcExzX1Bxb3lLSi1PTWZJMjhTSXlJa0RodDRiUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한물 간 ‘비건’의 시대...구글에서 관련 검색량 60%↓ - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5f2ae087-4739-4049-8c80-1c1f018e7cd5": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=98987",
+      "original_headline": "톰 ‘더 글로우’, 올리브영 미국서 실시간 랭킹 1위…북미 시장 순항",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d72dd744-0f37-40c8-b7ec-8a0ab2d12efc": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zYVdsNGcyRTRtM3JUWXJ6RE1OeUh0X1RqVUVQYnByb3N0R2dDZXRhYllCY3JZWXVnNWxJWmE5UEN0MElLYlYwZGZvZUE0blBPcngtUllsUFJLRmtwVHhxZEN4MC0zR0dVQ0lJellYRUk3d0hjYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "백화점 3사, K패션 해외 진출 사업 B2C로 전환 - 어패럴뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c3b7ed12-f4a8-47ef-94ff-f7dc8c17e129": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa7c2717-ab28-41c3-abc8-b89534507580": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZUM5SVM1dExpV1I2VFJzU0JGajJ6bmlXV29JR0RPR0ZUUmtWMk1EdzdienNjS0h0aDR3bWdYQi12ajU0UnRkZ2pybk8tcTZpNkMwYWx4X1I5VlhDdllKMjdiUTBDYXFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션 브랜드도 ‘리세일 시장’ 군침…주도권 경쟁 격화 - ebn.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5c360e6b-42a8-4607-84ac-a876c94de130": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzX0RoQnl5d29RUGRDV2t6bFlSb2I2RUI5d3U5LTcyU1BZVS1UMFhqRExDQ2ZmeDhHN0I5c1hNV3NEZmpyc05lcTlmU3drZVFoTVVFYXpfUXJSc3hpVGxRSdIBYEFVX3lxTFAzX0RoQnl5d29RUGRDV2t6bFlSb2I2RUI5d3U5LTcyU1BZVS1UMFhqRExDQ2ZmeDhHN0I5c1hNV3NEZmpyc05lcTlmU3drZVFoTVVFYXpfUXJSc3hpVGxRSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "안중근 의사 기념비 세워진 日호텔 철거결정…\"항의 영향인 듯\"(종합) - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cb6e66b6-0783-44d1-b80a-a627294f1ba0": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2Q2tCQ25nYWRmdml4UFI5UnBIdGhOaVg3ODNrNUJqWlhtaEFjQmh6SVlBM1oyU0F0Yl84MDJIVW0yX1VJcUU1UjdLMGtpcEVPOUx3bG5abmJBczZGRlZWRUVuVDB6TUVpQ1ZPM3FfZ3Mwd2NkVFFlMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔신라, 인천공항에 1000억원대 소송 제기...\"면세점 철수 위약금 과중\" - 조선일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "75a82708-c2a0-4431-8a92-97c4c1cb086d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "4540b5bd-b4cf-46bd-b914-89e0bb3b33ca": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2ZRVUFtS0c4anIyZnZxbE5CTmFGQmlWaFN2NmNCenE4UzB0c0pSSElnQUtvRkxVcWtuTnBGVXRYTWhScHJMN3R3VFFwb3l4cTNtY2JuZXBHb3RhakVpdElmX3ZHYXRPbVJVc2lNemNraXp4OV9mRzJObTBWTE1USTkxSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代营养消费趋势报告出炉 透过报告看95后的营养消费观念 - 新华网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "3bc3ce03-c406-47d1-acf0-f94d4d550703": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TW8zeXB2RDhoT2MzNkZkUy1PbVY5MVFKcG5PV19DTUREZEhsX054aHR5ZGVFMDhjU1VnRUZucVpxSkNYQ19KZ1k3S2dGSHZKSExwTUJZNEM4MGk2Vi14QUVTWmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费更理性更悦己！Z世代消费趋势洞察报告正式发布 - 奥一网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
