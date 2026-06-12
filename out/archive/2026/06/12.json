@@ -1,0 +1,175 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-푸드, 월드컵 열기 타고 미국 히스패닉 시장 공략 본격화",
+    "미샤, 美 올리브영 온·오프라인 동시 입점으로 K-뷰티 유통망 확장",
+    "국내 패션 브랜드들, 중고명품 리세일 시장 주도권 경쟁 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "21b8c6d5-2cc8-4237-b582-2b091bd459bf",
+        "title_ko": "엔지켐, 대사건강 건기식 진출",
+        "summary_ko": "엔지켐생명과학이 면역·염증 조절 기술을 기반으로 대사건강 특화 건강기능식품 개발에 나섰다. 의약 바이오 기업이 건기식 시장으로 영역을 확장하는 흐름이 이어지고 있으며, 소비자 건강 관심의 중심이 단순 영양 보충에서 대사·염증 관리로 이동하고 있음을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "89208f75-c80a-4bc7-81ad-7e0fea3c8ab7",
+        "title_ko": "K-푸드, 히스패닉 시장 직접 겨냥",
+        "summary_ko": "농식품부와 aT가 북중미 월드컵 개막에 맞춰 LA 히스패닉 대형 슈퍼마켓에서 K-푸드 축제를 개최했다. 캘리포니아 히스패닉 인구 비중이 41%에 달하는 만큼, 이번 행사는 한국 농식품의 미국 내 주류 소비층 다변화를 위한 전략적 포석으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ac558cd1-4175-4bd4-8f09-0915bb87f2d9",
+        "title_ko": "K-뷰티, 몽골로 협력 범위 확대",
+        "summary_ko": "울란바토르에서 한·몽 K-뷰티 국제행사가 추진된다. 동남아·북미 중심이던 K-뷰티 해외 진출이 중앙아시아 신흥 시장으로 저변을 넓히는 신호로, 현지 파트너십 구축을 통한 단계적 시장 침투 전략이 특징이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "329d3076-5d22-4ebb-9785-850b8ab866ad",
+        "title_ko": "미샤, 美 올리브영 온·오프 입점",
+        "summary_ko": "미샤가 미국 올리브영 온라인과 오프라인 채널에 동시 입점했다. 올리브영의 미국 유통망이 K-뷰티 중견 브랜드의 해외 진출 핵심 루트로 자리잡고 있음을 재확인하는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2584b609-d03d-4e02-b7a3-757a1d4e8a75",
+        "title_ko": "명품 가격 오를수록 중고 수요 급등",
+        "summary_ko": "정품 명품 가격이 가파르게 오르면서 중고명품 시장의 몸값도 동반 상승 중이다. 보유 명품을 되파는 소비자가 늘며 리세일이 선택이 아닌 자산 운용 수단으로 인식되고 있다.",
+        "is_paywalled": true
+      },
+      {
+        "cluster_id": "2f7e6af6-e5c4-4658-a489-3f78f7d3f4d3",
+        "title_ko": "LF, 자체 리세일 플랫폼 출시",
+        "summary_ko": "LF가 리세일 마켓 서비스 '엘리마켓'을 선보이며 패션 대기업의 중고 시장 직접 진입을 알렸다. 브랜드가 유통 중개자를 거치지 않고 리세일 생태계를 내재화하려는 시도다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bc28d09b-d342-4a4b-af52-c1d1d9c50ac0",
+        "title_ko": "패션 브랜드, 리세일 주도권 각축",
+        "summary_ko": "복수의 패션 브랜드가 리세일 시장에 잇따라 진입하면서 플랫폼 사업자와의 주도권 다툼이 격화되고 있다. 소비자 재구매 데이터와 브랜드 잔존가치 관리가 핵심 경쟁 요인으로 부상 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "be2191ca-ccf9-4214-84d4-0159acda0ca9",
+        "title_ko": "호텔관광 인재, 글로벌 수요 증가",
+        "summary_ko": "서정대학교 호텔관광과가 글로벌 인재 양성 성과로 주목받고 있다. 호텔·관광 산업의 인력 국제화 수요가 높아지면서 관련 교육 기관의 역할과 취업 경로가 다변화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "6f0788b7-246c-42d6-833a-e965e5b410ae",
+        "title_ko": "Z세대, 합리성·자기만족 소비 병행",
+        "summary_ko": "중국 Z세대 소비 트렌드 보고서에 따르면, 이들은 가성비를 따지는 이성적 소비와 자신을 위한 감성적 지출을 동시에 추구하는 이중 구조를 보인다. 가격 민감도와 프리미엄 소비가 공존하는 이 세대의 행동 패턴은 국내 소비재 기업의 타깃 전략 재설정에도 참고가 된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K-브랜드의 시장 다각화'와 '소비자 주도의 가치 재정의'다. K-푸드는 히스패닉, K-뷰티는 몽골과 미국으로 동시에 접점을 넓히고 있고, 국내 패션 시장에서는 리세일이 단순 중고 거래를 넘어 브랜드 전략의 한 축으로 편입되고 있다. 중국 Z세대의 '합리적 소비+자기만족' 이중 구조는 국내 MZ 소비 패턴과도 겹치는 지점이 많아, 가격 탄력성과 감성 소구를 동시에 설계해야 하는 브랜드 과제를 다시 환기시킨다.",
+  "cards_meta": {
+    "21b8c6d5-2cc8-4237-b582-2b091bd459bf": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42enhHX20tSDFBTGoyc0dES0N1RGN0cUdSdTYyME0zUUZXM2ZYQmhjUDV5SkNCd09UVFBQaHROZ19tbFJBcmZLcS0wdUFiTXFnQzFLLXNFNkEwRDJKMXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "엔지켐생명과학, 대사건강 특화 건강기능식품 개발 추진 - 유교신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "89208f75-c80a-4bc7-81ad-7e0fea3c8ab7": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68093",
+      "original_headline": "K-푸드, 월드컵 열기 ‘히스패닉 시장’ 정조준",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ac558cd1-4175-4bd4-8f09-0915bb87f2d9": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qV1I0bk5pNWV1WEpIbnVVajlvVGh0anhhTHB5V2s0dy15dzd1TldEWDh4SWlkQ3JrWDhUbnRXZzVaUGdKODlVdDZWSzl2UzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "몽골 울란바토르서 한·몽 K-뷰티 국제행사 추진… 뷰티마켓 김리정 대표, 글로벌 협력 확대 - toptvkorea.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "329d3076-5d22-4ebb-9785-850b8ab866ad": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eDdybGg0RFhLcEJTSTFyS3dRTUtwSHFpQktRcnBpa2tEWlJrQk5iTDd3aFEzUkVUWWtxaWZyTEphVW05MF9Oc19INk5yMkNhTUJ5TkFOdEtmLW10ZDZRZXJhSkxMM1UtQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "미샤, 美 올리브영 온·오프라인 동시 입점 - 의학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2584b609-d03d-4e02-b7a3-757a1d4e8a75": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f7e6af6-e5c4-4658-a489-3f78f7d3f4d3": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9weGZkQ2QzTEd1OHJDamxFVHRsRHFGN3gyT3dFWlVFNEN0cGg1X2YtaTk0amRVX05xc3hiS0hIQmoydHZNYml6bnJWbWktbk9U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LF, 리세일 마켓 서비스 ‘엘리마켓’ 론칭 外 - 톱데일리",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bc28d09b-d342-4a4b-af52-c1d1d9c50ac0": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZUM5SVM1dExpV1I2VFJzU0JGajJ6bmlXV29JR0RPR0ZUUmtWMk1EdzdienNjS0h0aDR3bWdYQi12ajU0UnRkZ2pybk8tcTZpNkMwYWx4X1I5VlhDdllKMjdiUTBDYXFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션 브랜드도 ‘리세일 시장’ 군침…주도권 경쟁 격화 - ebn.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "be2191ca-ccf9-4214-84d4-0159acda0ca9": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3dElYVHp2ejlLRVd3ek8xdFB1SWU1UWQ1YTZGV1ZIUG9TZi1ZOE82cUxXbWR4ZVNoZHQ5ZmtqZjEzTlZiRDJ6X0RKbjBxWjZIaTJTb0FwZEg3Q3htQzRwaVBGWXJaUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서정대 호텔관광과, 글로벌 인재 양성 성과 눈길 - 한국대학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6f0788b7-246c-42d6-833a-e965e5b410ae": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TW8zeXB2RDhoT2MzNkZkUy1PbVY5MVFKcG5PV19DTUREZEhsX054aHR5ZGVFMDhjU1VnRUZucVpxSkNYQ19KZ1k3S2dGSHZKSExwTUJZNEM4MGk2Vi14QUVTWmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费更理性更悦己！Z世代消费趋势洞察报告正式发布 - 奥一网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
