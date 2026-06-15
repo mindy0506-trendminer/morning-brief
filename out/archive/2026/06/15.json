@@ -1,0 +1,187 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 세계 2위 도약과 함께 중유럽·미 서부 시장 동시 공략 본격화",
+    "중고명품 리세일 시장 몸값 상승, 소비자 자산화 심리가 구매 패턴 재편",
+    "식약처, 온라인 건기식 부당광고 225건 적발로 규제 압력 강화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "ffbd7cde-03d9-4734-8142-ab830c034777",
+        "title_ko": "건기식 온라인 광고 225건 철퇴",
+        "summary_ko": "식약처와 지방정부가 합동 점검을 벌여 식품·건강기능식품 온라인 부당광고 225건을 적발했다. 건기식 시장이 팽창하면서 허위·과장 광고도 동반 증가한 결과로, 브랜드별 광고 표현 재검토가 시급해졌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "11045b2e-ede3-44a5-9ccd-b2f8ddc6678d",
+        "title_ko": "K-뷰티 세계 2위 등극",
+        "summary_ko": "K-뷰티가 글로벌 뷰티 시장에서 세계 2위로 도약했다는 평가가 나왔다. 기초화장품 중심의 수출 성장과 함께 판도가 뒤집혔다는 표현이 나올 만큼 구도 재편이 가파르다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "06c41c7e-3023-436d-93a3-278171662b31",
+        "title_ko": "고기능성 크림, 중유럽 돌파",
+        "summary_ko": "헝가리 부다페스트에서 열린 코리아 데이 행사에서 K-뷰티 고기능성 크림이 현지 바이어의 높은 관심을 받았다. 기초화장품 수출 및 무역흑자가 큰 폭으로 늘며 중유럽이 신흥 전략 시장으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3ad5aa32-bc04-4548-8569-638e19159ac1",
+        "title_ko": "샌프란시스코 K-뷰티 팝업 개최",
+        "summary_ko": "샌프란시스코 총영사관이 K-뷰티 팝업 행사를 열며 미 서부 시장 접점을 넓혔다. 관 주도 행사가 브랜드 인지도 확산의 교두보로 기능하는 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "efb0ccb6-cd13-4e88-8e9a-4aadef6947ff",
+        "title_ko": "중고명품 리세일 가치 급등",
+        "summary_ko": "명품 가격 인상이 지속되면서 중고명품 시장 몸값이 동반 상승하고 있다. 소비자들이 장롱 속 가방을 자산으로 재인식하기 시작했고, 리세일 플랫폼으로의 물량 유입이 늘고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1a33373c-26db-4b70-85c6-6b1aba7c7bed",
+        "title_ko": "K-맛·멋·미 팝업, 강남 상륙",
+        "summary_ko": "케미스트릿이 서초강남역 일대에서 K-푸드, 패션, 뷰티를 아우르는 복합 팝업을 열었다. 스트릿 패션이 문화 체험형 마케팅과 결합하는 방식이 여름 시즌 전략으로 자리잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2c902ffa-3055-4bf7-a0cc-3de0307c9b73",
+        "title_ko": "연신내, 로컬 스트릿 파티 확산",
+        "summary_ko": "은평구가 '연신내 썸머스트릿 파티'를 개최하며 로컬 상권 활성화와 스트릿 문화를 연결했다. 서울 비핵심 상권에서도 팝업·파티 형식의 집객 전략이 퍼지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "5b2bf44d-a427-49d3-ae10-b0d4a1b4afc5",
+        "title_ko": "중국 Z세대, 한복 문화소비 열풍",
+        "summary_ko": "중국 Z세대가 한복·국풍(國潮) 등 전통 문화를 소비의 정체성 표현 수단으로 삼는 흐름이 확산되고 있다. 천 년 역사를 현대적 라이프스타일로 재해석하는 이 소비 패턴은 K-컬처 수출 전략에도 참조할 만한 시사점을 던진다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ad0d864a-0836-4b92-b4e0-6c0bf49a35d6",
+        "title_ko": "중국 Z세대 예산 초과 충동구매",
+        "summary_ko": "맥킨지 분석에 따르면 중국 Z세대는 미래에 낙관적인 만큼 예산을 초과하는 충동소비 성향이 다른 세대보다 강하다. 프리미엄·한정판 소비재 브랜드에 유리한 구조적 여건이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bd3016f0-921f-4dc9-9cf4-225226bb3705",
+        "title_ko": "중국 Z세대 소비자 전체 초상",
+        "summary_ko": "베이징상보가 분석한 중국 Z세대 소비 특성은 자기 주도적 선택, 경험 우선, 디지털 네이티브 구매 경로로 요약된다. 이들의 소비 지형이 중국 내수뿐 아니라 한국 소비재 수출 전략에도 직접 영향을 미친다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '정체성 소비의 지리적 확장'이다. K-뷰티는 세계 2위로 올라서며 중유럽·미 서부까지 전선을 넓혔고, 중국 Z세대는 국풍·한복을 문화 자존감의 소비 언어로 삼고 있다. 두 흐름 모두 제품 성능이 아니라 '어느 문화권에 속하느냐'는 정체성이 구매 결정을 이끄는 구조다. 동시에 식약처의 건기식 광고 단속과 중고명품 리세일 급등은 소비자 신뢰와 가격 합리성에 대한 반작용이 커지고 있음을 보여준다. 브랜드 입장에서는 문화적 서사와 가격 투명성을 동시에 관리해야 하는 국면이다.",
+  "cards_meta": {
+    "ffbd7cde-03d9-4734-8142-ab830c034777": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNVdfWVNVaS01NEppQWROczNOSTNnRFRndmdkX1BleHgtYlRDLVdFYU5yY1ZJTkhXaHg0TDVmcmNkYS1jVUNtN2lQdkpiVXpYUUtMeVk3aXprQW5xT1k0UU14OGluZUYwbUUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처-지방정부, 식품 등 온라인 부당광고 합동점검 225건 적발 - knongnews.com",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "11045b2e-ede3-44a5-9ccd-b2f8ddc6678d": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fSU9iLVU0dHU0UmFEV210Z0VKeGVWZTlIWGYyZEh4Ml9PRThpcl9oMUZuQzRUaklHUEwtSTBNSUdGZWtkanM4QVNEWG1KY3p6TXFvUW9IMGdDTWNDdXhHbU10cFhaM0JLLVJvWmJfSHJXUUVO?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[K뷰티 전성시대-①] 세계 2위 도약, 판이 뒤집혔다 | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "06c41c7e-3023-436d-93a3-278171662b31": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310076",
+      "original_headline": "K-뷰티 고기능성 크림, 헝가리 등 중유럽 시장 공략 '청신호'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3ad5aa32-bc04-4548-8569-638e19159ac1": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYekFFN3U0eDNSMy00cndVYkxULVN1NU1PdHpCbmMtbzBmajJzMi00eU5wZW8zd0RtaEZjYVpWN04ySWlWWGpld2E2U1VzWVBMeEQ3MjV0WkFxMm9CY1hQUtIBYEFVX3lxTFBYekFFN3U0eDNSMy00cndVYkxULVN1NU1PdHpCbmMtbzBmajJzMi00eU5wZW8zd0RtaEZjYVpWN04ySWlWWGpld2E2U1VzWVBMeEQ3MjV0WkFxMm9CY1hQUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[게시판] 샌프란총영사관, 'K-뷰티' 팝업 행사 개최 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "efb0ccb6-cd13-4e88-8e9a-4aadef6947ff": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1a33373c-26db-4b70-85c6-6b1aba7c7bed": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lYmNFU1dQZEUyODltQUdPQzA0YjJBMTlONDVGX0V6MkVaellBQ1ZKOW1CeTVwM2Z0MU0tUW1pRzBpeW4xYjV1X01HR2ZNQXZXdHNCZ3o2NWc4bHPSAWBBVV95cUxNci0yanhTdU1QUlRIeWtzNWxrRDdiN19hMG9PSlpRMEVRZDZEazJ4VDFjZ1VCYXhKRW9HLUZNbW40Z210M3RJREtVQnE1SU1XeFljbVZVNFNHMU5zUWRRaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서초강남역에 'K-맛·멋·미' 팝업…케미스트릿 여름 이벤트 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2c902ffa-3055-4bf7-a0cc-3de0307c9b73": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iUWZScXIxVjJ4enROVWc0ck9fbWxQemJSM3h4YkVwZVdMYlhwajlzT1phOElIb1hoWXNfbW5zdXlnQmNjYmljekV6NzBPWEJoZjdHX2xqWGV4NUXSAWBBVV95cUxNb25wQU92b29UVEpTM1lxR2lLWjQ4QlROek5CMmM1eEJMNllhRDRwSXk5akxTdUhJcjVucHFRUnlkeUpyOTR0NUgtLVNtVERxVjhIM2xCWjFhWXBDek1mVlM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "은평구 '연신내 썸머스트릿 파티' 29일 개최 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5b2bf44d-a427-49d3-ae10-b0d4a1b4afc5": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "ad0d864a-0836-4b92-b4e0-6c0bf49a35d6": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "bd3016f0-921f-4dc9-9cf4-225226bb3705": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9valZYRWhEc1dRWVpfaFZxNXE1R09EQkgtUnc4WjhZWEx0N21acEktbnExYlp6WEE5NzlHWDNDWU9zQ2VTaFhMUUEtNE5FS25mY29EWlFUVUV1OUdkekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "我的青春我做主——Z世代人群整体画像 - 北京商报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
