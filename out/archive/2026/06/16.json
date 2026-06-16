@@ -1,0 +1,243 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 미국 수출 비중 중국 제치며 올리브영 현지 매장 오픈런 행렬",
+    "K패션, 위안화 강세·소비 회복 맞물려 중국 특수 본격화",
+    "호텔 시장, 삼성 아트TV B2B 확장·청담 랜드마크 개발로 프리미엄 재편"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "94fe50d7-e27d-4f20-b7ae-5a838b1c55a0",
+        "title_ko": "비건 열풍 사실상 종료",
+        "summary_ko": "구글 비건 관련 검색량이 정점 대비 60% 감소하며 트렌드 수명이 사실상 다했다는 진단이 나온다. 대체육·비건 식품 라인업을 확장했던 식품 기업들은 포트폴리오 재조정이 불가피한 시점이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "4676d38a-a8e0-4d23-a522-b04d416ee83d",
+        "title_ko": "올리브영 LA 두 번째 매장 흥행",
+        "summary_ko": "올리브영이 패서디나에 이어 LA 베벌리힐스 인근 웨스트필드 센추리시티에 두 번째 미국 매장을 열었다. 개점 당일 쇼핑몰 내 100m 대기줄이 형성되며 현지 소비자 수요를 재확인했다. K뷰티 직판 채널로서의 입지가 빠르게 굳어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3977d63a-31a6-4220-9e3e-d15f51d893ff",
+        "title_ko": "애경산업, 원씽 흡수합병 완료",
+        "summary_ko": "애경산업이 2022년 인수한 스킨케어 브랜드 원씽을 이사회 승인만으로 흡수합병하며 스킨케어 사업을 본사 직할 체제로 전환했다. 글로벌 확장을 앞두고 브랜드 운영 효율을 높이려는 전략적 재편으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ef72173f-2014-4c34-9bfd-19142b0f8699",
+        "title_ko": "K뷰티, 미국이 최대 수출처로 부상",
+        "summary_ko": "미국이 중국을 제치고 K뷰티 수출 비중 1위 국가로 올라섰다. 올리브영 현지 매장 흥행, 온라인 플랫폼 침투 확대가 맞물리며 수출 구조 자체가 달라지고 있다는 분석이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "952b3820-0188-4b65-9aaf-5d358c440c69",
+        "title_ko": "K패션, 중국 소비 회복 수혜",
+        "summary_ko": "중국 내수 소비 회복과 위안화 강세가 겹치며 K패션 브랜드의 중국 매출이 반등하는 조짐이다. 한류 콘텐츠와의 연계 효과가 구매력 회복 시점과 맞아떨어진 구도다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9cacfcc6-f1d0-42e3-9e10-745e467222f9",
+        "title_ko": "중고명품 몸값 상승세 지속",
+        "summary_ko": "신품 명품 가격 인상이 반복되며 중고명품 시장의 재판매 가격도 동반 상승하고 있다. 소비자들이 장롱 속 명품을 유동화하려는 수요가 커지면서 리세일 시장이 새로운 소비 채널로 자리잡는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bb4011ec-1f64-4c0a-b7d5-4bb9544e7424",
+        "title_ko": "LF, 리세일 마켓 '엘리마켓' 출시",
+        "summary_ko": "LF가 자체 리세일 마켓 서비스 엘리마켓을 선보이며 패션 대기업이 직접 중고 거래 시장에 뛰어드는 흐름을 만들었다. 브랜드 통제력을 유지하면서 순환 소비 수요를 흡수하려는 전략으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0c44bb65-6cc3-4711-a16d-733790af157e",
+        "title_ko": "호텔 예약, 임박이 유리",
+        "summary_ko": "데이터 분석 결과 호텔 예약은 1주일 전이 사전 예약 대비 평균 44% 저렴한 것으로 나타났다. 다이나믹 프라이싱이 보편화되며 소비자의 예약 전략 자체가 달라지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a4cbdda1-a5bc-4208-8fce-7d519446679a",
+        "title_ko": "청담 프리마호텔 부지 개발 가속",
+        "summary_ko": "청담동 프리마호텔 부지의 랜드마크 개발 사업이 브릿지론 만기를 9월로 연장하며 속도를 높이고 있다. 강남 핵심 상권의 고급 복합 개발 수요가 지속되고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ef2acb0f-e4b9-44f1-a55f-d4cc4178c1df",
+        "title_ko": "삼성 더 프레임, 호텔 B2B 진출",
+        "summary_ko": "삼성전자가 가정용 아트TV '더 프레임'을 호텔 전용 라인업으로 확장해 하반기 전 세계 시장에 출시한다. 객실 경험 차별화를 원하는 호텔 업계 수요를 겨냥한 B2B 전략으로, 프리미엄 숙박 시장과 가전 산업의 교차점이 넓어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "2206e3d7-0047-44b1-9ff7-85117fea1cb8",
+        "title_ko": "Z세대 소비 행동의 구조적 특성",
+        "summary_ko": "중국 Z세대의 소비 행동 분석 보고서는 가격 민감도와 자기만족 소비가 공존하는 이중 구조를 확인한다. 한국 시장에서도 동세대 소비자를 타깃으로 한 전략 수립 시 참고할 만한 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "600193d7-d02f-459b-988b-90597879e4fd",
+        "title_ko": "Z세대 영양제 소비 급부상",
+        "summary_ko": "중국 95년생 이후 Z세대 사이에서 건강기능식품·영양제 소비가 빠르게 늘고 있다. 웰니스와 자기관리를 동시에 추구하는 소비 성향이 영양 카테고리로 확장되는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "74a7e8e4-445d-42b9-8a8e-6bddb11d47ca",
+        "title_ko": "Z세대, 합리·자기만족 소비 병행",
+        "summary_ko": "중국 Z세대 소비 트렌드 보고서는 '더 이성적으로, 더 나를 위해'라는 이중 기준이 동시에 강화되고 있음을 보여준다. 저가·가성비 채널과 프리미엄 경험 소비가 같은 세대 안에서 공존하는 구도다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 두 가지다. 첫째, K콘텐츠·K뷰티·K패션이 각각 미국과 중국에서 동시에 수요 상승 신호를 보내고 있다. 올리브영 LA 오픈런, K뷰티 미국 수출 1위, K패션 중국 특수가 독립 이벤트가 아니라 한국 소비재 전반의 해외 침투 가속을 보여주는 복합 신호다. 둘째, 국내 소비 시장은 '가치 선별' 단계로 진입 중이다. 비건 트렌드 급락, 중고명품 리세일 확산, 호텔 임박 예약 할인 활용 증가는 모두 소비자가 지불 의향을 더 정교하게 조율하고 있다는 공통된 맥락을 공유한다. 브랜드 입장에서는 '트렌드 편승'보다 '지속 가능한 가격·가치 설계'가 더 시급한 과제로 올라오고 있다.",
+  "cards_meta": {
+    "94fe50d7-e27d-4f20-b7ae-5a838b1c55a0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWs1MkdSbjNFM0o5NnB0S2k3ZVU1bUNKMW5idkJpckUzdnRtVkhhcDdpZTAxVlZrOHNESkRGbE1NSVdKeXZjMWM3UzkxYTV2ZFhuNDR0bHN5c0xRXzkxdkxfU3Rlc240UlpMcExzX1Bxb3lLSi1PTWZJMjhTSXlJa0RodDRiUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한물 간 ‘비건’의 시대...구글에서 관련 검색량 60%↓ - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4676d38a-a8e0-4d23-a522-b04d416ee83d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99046",
+      "original_headline": "CJ올리브영, 美 ‘패서디나점’ 이어 LA '센추리시티점’서도 K뷰티 돌풍",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3977d63a-31a6-4220-9e3e-d15f51d893ff": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310115",
+      "original_headline": "애경산업, 자회사 ‘원씽’ 흡수합병 종결… 스킨케어 사업 재편",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ef72173f-2014-4c34-9bfd-19142b0f8699": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52Q1ZjdFJNZnRfWmdMbHlkOFJYcXZkZ1FRMHoxM2RZdnAwMGI1azJOMkxCZ1hPbngyUnNZUURiVVM4aG02M2JlLXQ4bkFwQTBYZ3IwLUpSRmJ6RFl5VXJzWTRtOElOS282YllZZGdTX0gyOThX?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[K뷰티 전성시대-②] 항로가 바뀌었다…美, 中 제치고 수출비중 1위 | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "952b3820-0188-4b65-9aaf-5d358c440c69": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ubmxQNUlkOTlVZG5Nb1V4Yllma1pCdU9WXzN4OFdmTGJVOVpnRE1TamF4RmhoZXI0Yzk2TFRSNlZKNUdNUEFFdmtobWhQelhQNEZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "소비 회복·위안화 강세…K패션 '차이나 특수' - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9cacfcc6-f1d0-42e3-9e10-745e467222f9": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bb4011ec-1f64-4c0a-b7d5-4bb9544e7424": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9weGZkQ2QzTEd1OHJDamxFVHRsRHFGN3gyT3dFWlVFNEN0cGg1X2YtaTk0amRVX05xc3hiS0hIQmoydHZNYml6bnJWbWktbk9U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LF, 리세일 마켓 서비스 ‘엘리마켓’ 론칭 外 - 톱데일리",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c44bb65-6cc3-4711-a16d-733790af157e": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GQThweDNOZ3lHekJPTzNzRFJ5bWFkcnY4cTlqUkJyRjJUWTNQYnV5bjNmbUh0MUVuTURQZXBSSEE0cHpUeE8tSkU0aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"호텔 예약, 미리 하면 손해?\"…일주일 전이 44% 더 싸다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a4cbdda1-a5bc-4208-8fce-7d519446679a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTBPN3JIZmJ3eFNoUnFMSVo1d1Jaamt5RTMteGFzMjZWdmt6LXJwMTg2TWtXSFQzdnBJZHd0ZUM1cmE2TUJsZTJBTUxPQmF0V0ZhQ3NBT2NiRGlhLURabGE3dk9TNkVtUFd6TzN0OXhXWEY2aEs5SnpkS3BqTEJESg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "청담동 프리마호텔 부지, 랜드마크 개발 '속도'…브릿지론 9월로 연장 - 이데일리",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ef2acb0f-e4b9-44f1-a55f-d4cc4178c1df": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcE5JSHlBOVNTX3JQa0ROMG1vcllKV0E3SWRiSXlqRnV6aXBlVzhQRGtVU1Nxa0RHWmRjRzlobWZCcVZSRWkyUlJkTjVoZ0NqTHpRREhRSEhFZXZuRDhmV1NkQUN6UzNLalRsRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "삼성전자, 더 프레임 TV 호텔용 라인업 출시 - 중소기업신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2206e3d7-0047-44b1-9ff7-85117fea1cb8": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "600193d7-d02f-459b-988b-90597879e4fd": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2ZRVUFtS0c4anIyZnZxbE5CTmFGQmlWaFN2NmNCenE4UzB0c0pSSElnQUtvRkxVcWtuTnBGVXRYTWhScHJMN3R3VFFwb3l4cTNtY2JuZXBHb3RhakVpdElmX3ZHYXRPbVJVc2lNemNraXp4OV9mRzJObTBWTE1USTkxSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代营养消费趋势报告出炉 透过报告看95后的营养消费观念 - 新华网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "74a7e8e4-445d-42b9-8a8e-6bddb11d47ca": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TW8zeXB2RDhoT2MzNkZkUy1PbVY5MVFKcG5PV19DTUREZEhsX054aHR5ZGVFMDhjU1VnRUZucVpxSkNYQ19KZ1k3S2dGSHZKSExwTUJZNEM4MGk2Vi14QUVTWmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费更理性更悦己！Z世代消费趋势洞察报告正式发布 - 奥一网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
