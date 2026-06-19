@@ -1,0 +1,210 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영 LA 2호점 오픈런 행렬, K뷰티 미국 직진출 본격화",
+    "중고명품 시장, 가방에서 주얼리·시계로 수요 무게중심 이동",
+    "조립식 스킨케어 등장으로 맞춤형 화장품 시장 구조 재편 조짐"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "d1c3562f-4d02-4547-bc13-d3d543cde0ca",
+        "title_ko": "비건 열풍, 수요 급속 냉각",
+        "summary_ko": "구글 검색량이 전성기 대비 60% 줄어들며 비건 트렌드가 뚜렷한 하강 국면에 접어들었다. 대체육 시장의 성장 둔화와 맞물려, 식물성 식품 카테고리 전반의 전략 수정이 불가피해진 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "0e11dcae-bc47-4644-bcb5-3379cf54ccd8",
+        "title_ko": "조립식 스킨케어, 초개인화 새 모델 제시",
+        "summary_ko": "스타트업 어셈블릭이 베이스와 유효성분을 분리 조합하는 '조립식 스킨케어' 방식을 제안했다. 기존 맞춤형 화장품이 소비자 만족도를 충분히 끌어올리지 못했다는 시장의 피로감을 정면 겨냥한 모델로, 초개인화 흐름이 새로운 유통·제형 형태로 진화하고 있음을 보여 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7dfd5bf6-d73f-4530-8610-8775dfaddff4",
+        "title_ko": "코스피 9,000 돌파에도 화장품 소외",
+        "summary_ko": "코스피가 사상 첫 9,000선을 넘어선 강세장 속에서도 화장품 섹터 주요 종목은 일제히 하락했다. 지수 상승의 과실이 화장품 업종으로 흘러들지 않고 있어, 투자 매력도 회복을 위한 실적 개선 신호가 절실한 상황이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2c33df70-1178-4405-a4d4-ed525e349cdb",
+        "title_ko": "올리브영, LA 2호점도 오픈런",
+        "summary_ko": "CJ올리브영이 LA 웨스트필드 센추리시티에 두 번째 미국 매장을 열었다. 개점 당일 쇼핑몰 내 100m 대기줄이 형성됐으며, 베벌리힐스 인근 부촌 상권 입점으로 K뷰티의 미국 직진출이 프리미엄 소비층까지 확장되고 있음을 확인했다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "84342429-fb1a-415b-aa0f-c1e63a538299",
+        "title_ko": "체인지 스트릿, 한일 아티스트 버스킹 공개",
+        "summary_ko": "스트리트패션 행사 '체인지 스트릿'이 한국·일본 아티스트 라인업과 버스킹 장소를 전격 공개했다. 거리 문화와 패션을 결합한 체험형 이벤트가 브랜드 접점으로 주목받고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "baf2d5b5-cf5d-47d4-8e86-af3cfc540c2a",
+        "title_ko": "중고명품, 주얼리·시계로 수요 이동",
+        "summary_ko": "중고명품 플랫폼 구구스의 2025년 트렌드 분석에 따르면 까르띠에 거래액이 전년 대비 23% 증가하며 주얼리·시계 카테고리가 가방을 밀어내고 성장을 주도했다. 가격 대비 희소성을 따지는 소비자 심리가 리세일 시장의 품목 구성을 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "7bf9ce10-7232-4026-ac74-91013ab200d1",
+        "title_ko": "침실에서 스크린 걷어내는 인테리어",
+        "summary_ko": "디지털 기기 없이 순수한 휴식에 집중하는 '쉼 중심' 인테리어가 부상하고 있다. 넷플릭스 시청 특화 침실 대신 조명·소재·동선을 수면과 회복에 최적화하는 방식으로, 과연결 피로가 주거 공간 소비에까지 영향을 미치고 있음을 보여 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c6f4d7ca-88cd-48af-8709-73208c9b4da6",
+        "title_ko": "하이원 팰리스호텔, 환경표지 인증 획득",
+        "summary_ko": "강원랜드 하이원 팰리스호텔이 환경부 환경표지 인증을 받고 공식 현판 수여식을 개최했다. 호텔 업계의 친환경 인증 취득이 브랜드 신뢰와 직결되는 흐름이 가속되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ef02bb6c-a974-4197-bade-0ea82cd9f716",
+        "title_ko": "합천호텔 비리 의혹, 전직 공무원 무죄",
+        "summary_ko": "합천호텔 사업과 관련해 금품·향응 수수 의혹을 받던 전직 공무원 3명이 법원에서 무죄 판결을 받았다. 지역 공공 호텔 개발 사업을 둘러싼 투명성 논란이 일단락됐으나, 공공 주도 관광 개발의 거버넌스 신뢰 문제는 여전히 과제로 남는다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "9617044d-cad7-440b-ac08-f45bad921102",
+        "title_ko": "중국 Z세대 소비 정체성 분석",
+        "summary_ko": "중국 Z세대가 소비를 통해 자기 정체성을 구성하는 방식에 대한 심층 분석이 제기됐다. '내 청춘은 내가 결정한다'는 가치관 아래 기성 브랜드 충성도보다 자기표현 중심의 소비 선택이 두드러진다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cf8726d0-d2fa-4a44-97c7-b585c7eecfed",
+        "title_ko": "중국 신1선 도시 Z세대 쿠폰 소비 부상",
+        "summary_ko": "청두·항저우·충칭이 'Z세대 친화 도시' 상위권을 차지한 가운데, 할인 쿠폰을 적극 활용하는 '신쿠폰 청년' 군이 신흥 소비층으로 떠올랐다. 가성비 추구와 자기표현이 공존하는 이중 소비 행태가 신1선 도시를 중심으로 확산되는 구도다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '기존 카테고리의 재정의'다. 비건 식품은 성장 서사를 잃었고, 맞춤형 화장품은 조립식이라는 새 형태로 재구성되고 있으며, 중고명품은 가방 중심에서 주얼리·시계로 품목 축이 이동했다. 소비자가 더 이상 카테고리 자체에 충성하지 않고 자신의 필요와 가치에 따라 선택지를 재조합하는 행태가 전 섹터에서 동시에 나타나고 있다. 올리브영의 LA 오픈런과 중국 Z세대의 쿠폰 소비 부상은, 브랜드 신뢰보다 경험과 가성비를 앞세우는 글로벌 소비 정서가 이미 임계점을 넘었음을 보여 주는 신호다.",
+  "cards_meta": {
+    "d1c3562f-4d02-4547-bc13-d3d543cde0ca": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWs1MkdSbjNFM0o5NnB0S2k3ZVU1bUNKMW5idkJpckUzdnRtVkhhcDdpZTAxVlZrOHNESkRGbE1NSVdKeXZjMWM3UzkxYTV2ZFhuNDR0bHN5c0xRXzkxdkxfU3Rlc240UlpMcExzX1Bxb3lLSi1PTWZJMjhTSXlJa0RodDRiUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한물 간 ‘비건’의 시대...구글에서 관련 검색량 60%↓ - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e11dcae-bc47-4644-bcb5-3379cf54ccd8": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310165",
+      "original_headline": "맞춤형 화장품의 진화…‘조립식 스킨케어’ 시대 열리나",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7dfd5bf6-d73f-4530-8610-8775dfaddff4": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310171",
+      "original_headline": "‘코스피 9,000 시대’ 열렸지만… 화장품 업종 ‘외면’",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2c33df70-1178-4405-a4d4-ed525e349cdb": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99046",
+      "original_headline": "CJ올리브영, 美 ‘패서디나점’ 이어 LA '센추리시티점’서도 K뷰티 돌풍",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "84342429-fb1a-415b-aa0f-c1e63a538299": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanVlN1BrSFhBbEd6Y0RPaVNPNUdYU2t3VG9oSnlia2lQN3FJNnNKbVJLZXNxVTd5dEU5c1JVZXZtZm5Nd0ktdG1FUVpGSFdwR2piRHBYWXppMUlTQ3dGQ2UwODhtU0VoZVBoMkxKaFJwSmJsajhXamJLOU85SlZsbmlUeVdsOHBtTmtIV0tPVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"초호화 韓日 아티스트 라인업\"…'체인지 스트릿', 버스킹 장소 깜짝 공개 - 조선일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "baf2d5b5-cf5d-47d4-8e86-af3cfc540c2a": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRDM5cjFPNzFlMjhkalZCeU9UT0tUV2YtNUdIV0RhcW1pTUd0MXNNZy05OVFQOUtxWDZKQUoxeXlwMmxuNGNjSFFuYTJiZVRPWWI3MDZSRG80WEI1WVJrN2NvQk1EZUUtSHVRdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구구스, ‘2025 중고명품 트렌드’ 공개 - ER 이코노믹리뷰",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7bf9ce10-7232-4026-ac74-91013ab200d1": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sdXVFV1QtV1ZCS19nSlRCSF95OTAxa1BMY1dsd0hpNGRfOE9sUTk4cUtSX2c3cWYtdlZDbEktRmY0b2RQaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "넷플릭스 보는 침실 대신…요즘 뜨는 ‘쉼 중심’ 인테리어 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c6f4d7ca-88cd-48af-8709-73208c9b4da6": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1INXRXUUhIYk80Rm9GVmxfVFprSW4xSHhTTGctajljcnJISi1NbENidS0tbHRwOFhSRFR4cG4ydkVyY2JNTTBJOTZBRU9PN3dYQkd6UjZfbUxjb3UwQTFqUWQ0dVRpN3MtTVRr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "강원랜드, 하이원 팰리스호텔 환경표지 인증 현판 수여식 - 프레시안",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ef02bb6c-a974-4197-bade-0ea82cd9f716": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LS2xFd2pTc1FCTEtXTkNpQUIwcUJPTW8zMG9XYWpHQ1VyS3VCRnZkdEQ3aVl5VXNDQkxqaXgtX3pGQnk5dUpvby05RnNLbzJMa3NUVnpVZlpuWFI4b041Z9IBeEFVX3lxTE9nU0pTZXdpYVFrUVZBWVQ4SXBJaEt3b3ZGYlR0T042dklESTNkYUdseGFKQ3J2dkNGOEVuVEFSRV9aYW5QREJZVzVDVU1IVkFHd01sOUFldXdXNDN2MV9meDJ5UXR5ZmFxdW16ZmVaal9qUnA4OE9sMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "합천호텔 금품·향응 수수 의혹 전직 공무원 3명 무죄 받아 - 뉴시스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9617044d-cad7-440b-ac08-f45bad921102": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9valZYRWhEc1dRWVpfaFZxNXE1R09EQkgtUnc4WjhZWEx0N21acEktbnExYlp6WEE5NzlHWDNDWU9zQ2VTaFhMUUEtNE5FS25mY29EWlFUVUV1OUdkekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "我的青春我做主——Z世代人群整体画像 - 北京商报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "cf8726d0-d2fa-4a44-97c7-b585c7eecfed": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFBkSWZYSkVYdjZSS1BJX0VhRy1fNE1ZYlJiMl9xeDIzUUV0TUhzaVljUWs1N2NYRncyNDAzczNSV1luLU9vZDE2MUU5YXFyMm1PY2ttLUVieGlsY2gtMjU4TFN0d3NBNEF1YlI3U0tSOElOWElrNnA4WkJITms2Q1FnV3hoYlczSlR5UA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "新一线城市Z世代消费趋势报告：成都、杭州、重庆获得“Z世代友好城市榜”前三名，“新领券青年”群体兴起 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
