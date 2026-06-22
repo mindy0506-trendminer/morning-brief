@@ -1,0 +1,226 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올영세일 겨냥한 외국인 재방한으로 K뷰티·K패션 소비 목적지화 가속",
+    "5성급 호텔 웰니스 호캉스 수요 확산, 뷰티·미식·휴양 결합 패키지 경쟁 본격화",
+    "저가 뷰티 거리 핫플과 글로벌 수출 동시 성장, K뷰티 가격대 스펙트럼 양극 확대"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "dad82f75-4d5b-43c5-83a1-ce070ec76bbb",
+        "title_ko": "캡슐·정제 일반식품 표시 의무화",
+        "summary_ko": "캡슐·정제 형태의 일반식품에 '의약품 또는 건강기능식품이 아니다'라는 문구 표시가 의무화됐다. 건기식과 일반식품의 경계가 흐려지면서 소비자 혼동이 잦아지자 당국이 규제를 강화한 것으로, 관련 카테고리 브랜드의 패키징 전면 재검토가 불가피하다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c6ea44a8-272a-4fc5-8748-60691e5c49dc",
+        "title_ko": "누그레이, 워터 세럼 틴트 선출시",
+        "summary_ko": "인디 뷰티 브랜드 누그레이가 신제품 '듀이티 스테인 틴트'를 지그재그에서 먼저 공개했다. 오일막 없이 이슬광을 구현한 워터 세럼 포뮬러로, 플랫폼 선출시 전략을 활용해 초기 충성 고객층을 선점하려는 의도가 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "793e6050-3d00-40f7-abe2-57464b9204bb",
+        "title_ko": "K-뷰티, 스페인서 56억 수출 성과",
+        "summary_ko": "인천 소재 뷰티 기업들이 스페인 현지 상담에서 56억 원 규모의 수출 계약을 이끌어냈다. 유럽 남부 시장에서 K-뷰티 인디 브랜드의 수출 거점이 다변화되고 있음을 보여주는 사례다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "387183bd-26f4-4970-a64f-c44d91759aef",
+        "title_ko": "5천원 화장품, 골목 뷰티 핫플 부상",
+        "summary_ko": "5천 원대 저가 화장품을 파는 근린 뷰티 매장이 소비자들의 즉흥 구매 목적지로 주목받고 있다. 고물가 속 가성비 수요와 오프라인 체험 선호가 맞물리며, 대형 로드숍과 다른 골목 밀착형 채널이 틈새를 파고드는 형국이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "5dfa82ce-48ea-4527-919f-2e5ad87de0ba",
+        "title_ko": "국방섬유 국산화, K패션 소재 전환점",
+        "summary_ko": "국방용 특수 섬유의 100% 국산화를 목표로 한 정책 추진이 가시화되고 있다. 방산 소재 기술이 K패션 산업 전반의 고기능성 원단 개발로 이어질 수 있다는 기대감 속에, 국내 섬유 제조업 부활 가능성이 거론된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "addc5576-188a-41bc-9c11-de1d415859b7",
+        "title_ko": "명품 가격 급등에 중고 시장 몸값 상승",
+        "summary_ko": "신품 명품 가격 인상이 이어지면서 중고 명품의 재판매 가격도 동반 상승세다. 장롱 속 보유 물량을 매각하려는 소비자가 늘며 리세일 플랫폼 거래량이 확대되고, 명품 소비의 자산화 인식이 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0fd8d44c-bd3c-46b4-ac3a-eb0236e4e74b",
+        "title_ko": "서울 5성급, 웰니스 호캉스 경쟁",
+        "summary_ko": "그랜드 머큐어 임피리얼 팰리스, 파크 하얏트, 호텔 나루 서울 등 서울 5성급 호텔들이 휴식·뷰티·재충전을 한데 묶은 웰니스 패키지를 잇달아 선보이고 있다. 단순 숙박을 넘어 '건강 회복'을 명분으로 객단가를 높이는 전략이 동시다발로 확산 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e6bcb8ad-eb4b-476a-9a07-77d08ec14213",
+        "title_ko": "워커힐, 보양 미식 웰니스 패키지 출시",
+        "summary_ko": "워커힐 호텔앤리조트가 여름 보양 식재료를 활용한 웰니스 미식 프로모션을 내놓았다. 식음 경험과 웰니스를 결합한 상품이 호텔 여름 성수기 전략의 핵심으로 자리잡는 흐름이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "746592dd-90b4-4660-8b97-af2ab95d2b24",
+        "title_ko": "중국 완다, 여름 생활방식 호텔 공세",
+        "summary_ko": "중국 완다 생활방식 호텔이 장쑤·산시·후베이 등 내륙 거점 도시를 대상으로 여름 체류형 여행 상품을 확대하고 있다. 도심 외 지역으로 라이프스타일 호텔 개념이 퍼지는 중국 내 흐름은 국내 호텔 업계에도 참고 지점이 될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "01915bc5-68db-4970-ac66-5f945e029089",
+        "title_ko": "외국인, 올영세일 겨냥 재방한 급증",
+        "summary_ko": "올리브영 세일 일정에 맞춰 한국을 재방문하는 외국인 소비자가 눈에 띄게 늘었다. K뷰티·K패션 쇼핑이 관광 목적 자체가 된 것으로, 할인 이벤트가 인바운드 소비 수요를 견인하는 새로운 마케팅 방정식이 확인되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "54b1c1f2-8d4c-499f-913a-5d1826caaab4",
+        "title_ko": "Z세대, 음주 문화 이탈 가속",
+        "summary_ko": "스페인을 비롯한 해외 Z세대 사이에서 음주를 의도적으로 멀리하는 흐름이 본격화되고 있다. 건강·자기관리 가치관의 확산이 주류 소비 전반의 구조적 수요 감소로 이어질 가능성을 시사하며, 무알코올·저도주 카테고리 성장과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3bd67ef5-9d13-4e47-a4b9-2114d1e93768",
+        "title_ko": "Z세대 소비 데이터, 구매 동인 재조명",
+        "summary_ko": "중국 Z세대 소비 분석 데이터에 따르면 이들은 가격보다 가치 공감과 경험에 더 높은 지불 의사를 보인다. 글로벌 Z세대 음주 이탈 트렌드와 교차해 보면, 이 세대의 소비 우선순위가 전통적 쾌락 소비에서 자기정체성 표현 소비로 이동하고 있다는 해석이 힘을 얻는다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '소비의 목적지화'다. 올영세일을 위해 재방한하는 외국인, 웰니스 패키지를 목적으로 호텔을 찾는 내국인, 5천 원짜리 화장품을 위해 골목을 찾는 가성비 쇼퍼 모두 단순 구매를 넘어 특정 경험을 목표로 움직인다. 이 구도에서 브랜드와 채널의 경쟁 축은 '무엇을 파느냐'보다 '어떤 이유로 찾아오게 하느냐'로 이동하고 있다. Z세대의 음주 이탈과 가치 중심 소비 데이터는 이 흐름이 일시적 유행이 아니라 세대 교체에 따른 구조적 전환임을 뒷받침한다.",
+  "cards_meta": {
+    "dad82f75-4d5b-43c5-83a1-ce070ec76bbb": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JYk5uM2ZYcFdvR0hLMlVoaEJWRmpVbkFFOWFwVjVNMGdzUVEySkVROElyUDV4aGtyb1lQNGFtdmMwRWJIY1EzN0VjSDhZYWpUNjZNRkRWdjFab3hKb1pyUm05c05LLV9aZm5LMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "캡슐ㆍ정제 형태 일반식품, ‘의약품 또는 건강기능식품 아니다’ 표시해야 - 식품저널 foodnews",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c6ea44a8-272a-4fc5-8748-60691e5c49dc": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99075",
+      "original_headline": "누그레이, 신제품 듀이티 스테인 틴트… 지그재그서 선공개",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "793e6050-3d00-40f7-abe2-57464b9204bb": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wX2xaR3I1TGZPN2RCMG1PcVNrT01yTFFMUzEzWWw3RUFGX3J4ZWgzYnByNklJMEduaWhzeElMdnpjVkJGZDNUZ1dYcHFKd2d2NFNhVkdta2J5bjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-뷰티 앞세운 인천, 스페인서 56억원 규모 수출상담 성과 - 경기일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "387183bd-26f4-4970-a64f-c44d91759aef": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MYTRjYXRWQmV0RnBLdnJZSnl6MTdRakJiTFN3Z3YxMnduamlDYm94NFlfemZia19JckFjbGZRSWh4THpxWkE5ZTJXbnhrWkx2OHNxS1B3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "화장품 똑 떨어졌다고? 5천원에 해결…우리동네 ‘뷰티 핫플’ - 중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5dfa82ce-48ea-4527-919f-2e5ad87de0ba": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1bHI3VldPRThXOTFiV3VhWnd0OWhNb2o2em1uNUNYaENuN3lYTjhQRktvWXJ2WXhILUJmS2dMQm15OXNIUWZWRGxNWnZqaFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"국방섬유 100% 국산화…K패션 르네상스 열겠다\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "addc5576-188a-41bc-9c11-de1d415859b7": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fd8d44c-bd3c-46b4-ac3a-eb0236e4e74b": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 웰니스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HMGhfM1BzcE1tVmg4NEJCQ0M4NnQtdTF0d3JvdmNhRHZ0dlhGenhvWUpicExGVEZNYm5qRjM3dXAxUENfVXBONGpNazRGT2x3WlZiUnJyMFpJdlhDV1RjMtIBeEFVX3lxTE1NTzRqeU9aWF9YN2FkbjA5bmJKMjVQZHBscFpUQWhwemlkZ0gzUDA0T1hFYTVSN1ZnU3l4NmZ0amszQWN5bFZZRGROWk12ZUcycjhiSGM1UkNTbEI1bGlKZTVvcG9RMjVHVmczdjhSem9tU0hJMkNWdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "휴식·재충전·뷰티 한 번에…서울 5성급 웰니스 호캉스 ③호텔 나루 서울 - 뉴시스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e6bcb8ad-eb4b-476a-9a07-77d08ec14213": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81MHA3cUFLQlozbVQ2SEh3d0FfRENPZUlfNmducGpTZlVjMWxEQ0NPVWotd3hQVGVOdmg1dmhkM1RNMHhyRG5GZE94VDliNkx3dHpaWFlMb01xWkpYQ19rTVowbVJybXY5NXkxZjVick5kN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "워커힐 호텔앤리조트, ‘웰니스 미식 프로모션’ - 스포츠동아",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "746592dd-90b4-4660-8b97-af2ab95d2b24": {
+      "category": "라이프스타일",
+      "source_name": "GN-ZH [라이프스타일] 酒店 旅游",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tWno4cGpOU1dNRHdzaHU4d0IzV0lpQWY1UmlYdW5fTlN1bVZrNHZnQmlxekphbHU4bC1HbHplb2x3dGRrX0lVWkFSTE9EVGpvSDJHQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "暑期畅行：万达生活方式酒店开启江苏、陕豫、湖北夏日旅居新玩法 - news.cnair.com",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "01915bc5-68db-4970-ac66-5f945e029089": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMW5GOV9GU19MMENJREhFWTZ3Z0ZrV1h1enI2bTRfQkFyNTZ6S0FFZ0FqMFJXVUVqblBLcGt1U2VaX2QtSTV1bExvYnFiaXNMMHRYbFNjTkJ6ZDFfb3NEQi1QU1lhQUlXTHNkcHRySUdLV2NzMlAyZjNiR3dXblRFeNIBgAFBVV95cUxPMW5GOV9GU19MMENJREhFWTZ3Z0ZrV1h1enI2bTRfQkFyNTZ6S0FFZ0FqMFJXVUVqblBLcGt1U2VaX2QtSTV1bExvYnFiaXNMMHRYbFNjTkJ6ZDFfb3NEQi1QU1lhQUlXTHNkcHRySUdLV2NzMlAyZjNiR3dXblRFeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"올영세일 맞춰 재방한\" … K뷰티·K패션에 지갑 여는 외국인 - 뉴데일리",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "54b1c1f2-8d4c-499f-913a-5d1826caaab4": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "3bd67ef5-9d13-4e47-a4b9-2114d1e93768": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
