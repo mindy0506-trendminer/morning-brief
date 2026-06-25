@@ -1,0 +1,180 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영 세일을 겨냥한 외국인 재방문이 3년 새 11배 급증, K-뷰티 구매 목적 방한이 구조화되고 있다",
+    "K-뷰티 기초화장품 수출이 월 5억 달러를 돌파하며 단가까지 동반 상승, 양적·질적 성장이 동시 진행",
+    "편의점 PB 베이커리 팝업 투어 확산, 고물가 속 가성비 한 끼 수요가 오프라인 체험 마케팅을 견인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "4c1829a0-3cdb-4859-9fc1-04ac41bfc551",
+        "title_ko": "편의점 PB 식빵, 팝업으로 브랜드화",
+        "summary_ko": "세븐일레븐이 자체 브랜드 '세븐셀렉트 숨결통식빵'의 전국 팝업 투어를 시작했다. 베이커리 카테고리 매출이 전년 대비 16% 늘어난 배경엔 고물가 장기화로 편의점 간편식을 가성비 한 끼로 선택하는 소비자가 늘고 있다는 점이 작용한다. PB 상품이 단순 저가 대안을 넘어 체험 마케팅 대상으로 격상되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ce7cebed-397e-48d0-8293-9cf55c792707",
+        "title_ko": "건기식 부당광고 11곳 일제 적발",
+        "summary_ko": "식약처가 이석증·이명증에 효과가 있다고 허위 표방한 식품 광고 11개소를 적발했다. 건강기능식품 시장 급성장과 함께 효능 과장 광고도 늘고 있어, 소비자 신뢰를 건드리는 규제 리스크가 업계 전반으로 확산될 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "425630af-48b3-44c8-8ce2-4d329ad6a985",
+        "title_ko": "홍삼 건기식, 수출 드라이브 본격화",
+        "summary_ko": "식약처가 충남 부여에서 홍삼 건강기능식품 수출 활성화를 위한 현장 간담회를 개최했다. 정부 차원의 수출 지원이 K-건기식의 글로벌 확장 전략과 맞물리면서, 홍삼이 K-뷰티에 이은 차세대 수출 소비재로 자리매김할 가능성이 높아지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "04c768d6-b27a-4c48-88b5-22341142ea23",
+        "title_ko": "올영세일, 외국인 반복 방한 유인으로",
+        "summary_ko": "올리브영 세일 기간에 맞춰 한국을 두 번 이상 찾는 외국인이 3년 새 11배 늘었다. 연평균 2배 증가세가 유지되고 있어, 올영세일이 K-뷰티 관광의 핵심 일정으로 정착했음을 보여준다. 단순 방문 쇼핑을 넘어 재방문 충성 고객을 확보한 것은 플랫폼 경쟁력의 질적 전환을 의미한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "13163fb0-b4bd-4398-aced-0f02785fdb74",
+        "title_ko": "기초화장품 수출 5억 달러·단가도 상승",
+        "summary_ko": "2026년 5월 기준 K-뷰티 기초화장품 수출이 월 5억 달러를 돌파했으며, 주요 수출국에서 톤당 단가도 동반 상승했다. 물량 증가에 그치지 않고 가격 경쟁력이 아닌 품질 프리미엄으로 수요를 끌어내고 있다는 신호로, 브랜드 포지셔닝의 구조적 개선이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "db140a52-046a-429e-ab52-a5992ff57221",
+        "title_ko": "코스메카, AI 자율제조 플랫폼 추진",
+        "summary_ko": "코스메카코리아가 중기부 지원사업에 선정돼 2년간 35억 원 규모의 AI 기반 자율제조 플랫폼 구축에 나선다. ETRI·성균관대 등 산학연 컨소시엄이 공정 전체를 하나의 통합 시스템으로 연결하는 방향으로, 화장품 ODM 제조 원가와 품질 관리 방식이 근본적으로 바뀔 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "45ac27ea-35d0-4c49-8bf1-3eb6d8168a31",
+        "title_ko": "H&M, 2분기 매출 기대치 하회",
+        "summary_ko": "H&M이 상반기 수익성은 개선했지만 2분기 매출은 시장 전망을 밑돌았다. 재고 운영 조정 과정에서 수요 대응이 늦어진 결과로, 패스트패션 빅플레이어들이 공급망 최적화와 판매 탄력성 사이에서 여전히 균형을 찾지 못하고 있음을 드러낸다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "6fe09202-97fa-445c-9f15-1990cf5fab86",
+        "title_ko": "레고랜드 호텔, 여름 가족 패키지 출시",
+        "summary_ko": "레고랜드 호텔이 가족 단위 여행객을 겨냥한 여름 패키지 3종을 선보였다. 테마파크 연계 호텔 패키지 경쟁이 본격화되는 가운데, 어린 자녀를 둔 가구를 타깃으로 한 체험형 숙박 상품이 하계 성수기 핵심 상품군으로 자리잡고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "ec8d5c36-2ae9-4d81-a624-bcdfd5873294",
+        "title_ko": "중국 Z세대, 한복 문화 소비로 정체성 표현",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 전통 문화 소비의 새로운 표현 방식으로 확산되고 있다. 국조(國潮) 트렌드와 맞물려 문화 정체성 소비가 패션과 결합하는 양상으로, 한국 시장에는 전통 문화 콘텐츠 연계 소비재의 기회 요인이 될 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 축은 두 가지다. 첫째, K-소비재의 수출 경쟁력이 '가격'에서 '단가 상승을 감수할 만한 품질'로 이동하고 있다는 점이다. 기초화장품 수출 단가 상승과 홍삼 건기식 수출 지원 확대가 이를 뒷받침한다. 둘째, 국내 소비 시장에서는 고물가 대응과 체험 마케팅이 결합하는 양상이 뚜렷하다. 편의점 PB 식빵의 팝업 투어, 올리브영 세일을 겨냥한 외국인 재방문 급증은 모두 '가격 이상의 경험'을 소비자가 찾고 있다는 신호다. 제조(코스메카 AI 플랫폼)와 유통(올리브영 충성 외국인) 양쪽에서 동시에 고도화가 진행 중인 K-뷰티·소비재 생태계의 구조적 체력을 확인할 수 있는 날이다.",
+  "cards_meta": {
+    "4c1829a0-3cdb-4859-9fc1-04ac41bfc551": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68153",
+      "original_headline": "세븐일레븐, ‘세븐셀렉트 숨결통식빵’ 팝업 투어 진행",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ce7cebed-397e-48d0-8293-9cf55c792707": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44b3lpQm40THVNTm5GcnQ5RGdnOG9uRzlUZndiaEpYWEpLelFGU2oyTFViS2FNM2VHdFhjUXV5SnpkZnRoakcza1kteVU1aFdxaF8tQlZqdUNfSm9aOEVaWENtSzNTVkdkNEZV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, 이석증·이명증 관련 식품 부당광고 11개소 적발 - knongnews.com",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "425630af-48b3-44c8-8ce2-4d329ad6a985": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSVRfc3ZmS2dUVk1BYUZ5U2VyMEgtYkV3aEgwWmFtYXFhbHBkT1BfYlI1Q0tuUWVDLV8yT3FrZmlJNUZSZTl2T2RhcURjTmFQV2lqemJtRHpHTWViZ0xab1ZlV1hIWU12bmF4UtIBcEFVX3lxTE5nM3RfSS1MRk90Z0E4SEJnTE1QSlBwT3VNa2luaFdodUtLWEtweVEzVFk3a2VVS3l3OHIxcXlkYVNQMHk0V1VETUlsa1FuYWZObGs3SEdtOFZRSmlZLVRzN09ENDUxY3E3MTlJR3FnY1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, 충남 부여서 홍삼 건강기능식품 수출 활성화 위한 현장 간담회 개최 - 내외뉴스통신",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "04c768d6-b27a-4c48-88b5-22341142ea23": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99078",
+      "original_headline": "CJ올리브영, 올영세일 외국인 재방문 3년 새 11배 증가",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "13163fb0-b4bd-4398-aced-0f02785fdb74": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310263",
+      "original_headline": "[K-뷰티 수출 지도] ① 기초화장품 수출 5억 달러 돌파...수출 단가도 상승",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "db140a52-046a-429e-ab52-a5992ff57221": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310285",
+      "original_headline": "코스메카코리아, AI 기반 자율제조 플랫폼 구축 추진",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "45ac27ea-35d0-4c49-8bf1-3eb6d8168a31": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/hm-mejora-rentabilidad-en-el-primer-semestre-tras-un-segundo-trimestre-debil",
+      "original_headline": "H&M mejora rentabilidad en el primer semestre tras un segundo trimestre débil",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "6fe09202-97fa-445c-9f15-1990cf5fab86": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXYV9XeS1YNVhlcUptRWVTSnVQYldmWTZPN29Lcl9wQTJMNXpQSVYzbHNCTmFpUGhQLTk3QTE1T2I0ZlVCMFpwem5SNVhnckloYkVHVU5zeTF2ckxBSGVxd0ZGRm5aWlVNYm5iT3NNZ3E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "레고랜드 호텔, 가족 바캉스 저격한 여름 패키지 3종 출시 > 뉴스 - 더코리아",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ec8d5c36-2ae9-4d81-a624-bcdfd5873294": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
