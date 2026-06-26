@@ -1,0 +1,155 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국 시장서 기능성 경쟁력 역전…'익숙함' 브랜드로 구도 재편",
+    "리세일 시장, 틈새 벗어나 패션 핵심 유통채널로 본격 부상",
+    "홍삼 건기식 수출 드라이브…식약처, 규제 현장 지원으로 글로벌화 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "fbc7b7ba-a194-4eee-9269-a4322c729242",
+        "title_ko": "홍삼 건기식, 수출 총력 체제",
+        "summary_ko": "식약처가 충남 부여 생산 현장을 찾아 홍삼 건강기능식품 수출 지원 간담회를 열었다. 규제 기관이 현장으로 나온 것 자체가 이례적이며, 국내 건기식 수출 다각화 전략의 속도가 붙고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "f8e25397-ce82-4929-bdae-ef58d59407e3",
+        "title_ko": "누그레이, 워터 세럼 틴트 공개",
+        "summary_ko": "인디 뷰티 브랜드 누그레이가 신제품 '듀이티 스테인 틴트'를 지그재그 선공개로 출시했다. 오일막 없는 워터 타입 광감과 선명한 착색력을 앞세운 케어-인 메이크업으로, 플랫폼 선공개 전략을 활용해 MZ 소비층 선점을 노린다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "871dfaf8-3e35-4124-afc3-f9dc491cf986",
+        "title_ko": "K-뷰티, 중국서 '익숙함' 브랜드로 후퇴",
+        "summary_ko": "과거 K-뷰티가 독점하던 중국 기능성 화장품 시장을 로컬 브랜드가 빠르게 잠식하고 있다. 현지 소비자는 기술력은 중국산, 감성과 익숙함은 한국산으로 구분하는 이중 소비 구조를 굳혀가고 있어, 한류 기반 성장 공식의 재검토가 불가피하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4d9ad636-7fa4-41f8-8e21-fa8a5817ffed",
+        "title_ko": "코스메카, AI 자율제조 플랫폼 착수",
+        "summary_ko": "코스메카코리아가 중기부 지원사업에 선정돼 ETRI·성균관대 등과 산학연 컨소시엄을 구성, 2년간 35억 원 규모의 AI 기반 화장품 자율제조 플랫폼 구축에 나선다. 생산 공정의 AI 전환이 OEM·ODM 경쟁력 재편의 새 축이 될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "d8c55756-b882-47e0-8d62-6843ec26696d",
+        "title_ko": "명품 가격 급등, 중고 수요 견인",
+        "summary_ko": "정가 인상이 가속되면서 중고 명품 시장의 몸값도 함께 오르고 있다. 장롱 속 보관품을 매도 자산으로 바라보는 시각이 퍼지며, 소비자의 명품 접근 경로가 신품에서 리세일로 이동 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b7be1f59-3298-40ee-baaa-dab6562f04f6",
+        "title_ko": "브랜드 직영 리세일, 주도권 다툼",
+        "summary_ko": "패션 브랜드들이 직접 리세일 채널 운영에 뛰어들며 플랫폼 중개업체와의 주도권 경쟁이 격화되고 있다. 유통 마진과 고객 데이터를 브랜드가 직접 통제하려는 전략적 움직임으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "955688f4-b221-4451-8d7e-4b30e5ef22d0",
+        "title_ko": "리세일, 패션 핵심 채널 공식화",
+        "summary_ko": "중고 재판매 시장이 틈새를 벗어나 패션 산업의 정규 유통 채널로 자리매김하는 흐름이 본격화됐다. 소비자 가치 기준이 소유에서 순환으로 이동하면서, 브랜드와 플랫폼 모두 리세일 전략을 중장기 핵심 과제로 격상시키고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "cf389121-e4ce-4e91-85d9-024ebfba91d7",
+        "title_ko": "구독 서비스 통합 관리 플랫폼 등장",
+        "summary_ko": "여러 구독 서비스를 한눈에 파악하고 관리하는 통합 플랫폼이 주목받고 있다. 구독 경제 확산으로 관리 피로가 높아진 소비자 수요를 겨냥한 메타 서비스로, 구독 시장의 성숙 단계를 알리는 신호다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '기존 우위가 흔들리는 시장에서 채널과 기술이 재편의 축이 된다'는 것이다. K-뷰티는 중국에서 기능성 주도권을 내주고 있고, 패션 리세일은 정품 유통의 보완재에서 경쟁 채널로 격상됐다. 코스메카의 AI 자율제조는 OEM 경쟁력의 기준점을 원가에서 공정 지능으로 옮기려는 시도다. 세 사례 모두 '잘 작동하던 구조'가 외부 충격 없이 내부에서 스스로 허물어지는 구조적 전환이라는 점에서 함께 읽어야 한다.",
+  "cards_meta": {
+    "fbc7b7ba-a194-4eee-9269-a4322c729242": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSVRfc3ZmS2dUVk1BYUZ5U2VyMEgtYkV3aEgwWmFtYXFhbHBkT1BfYlI1Q0tuUWVDLV8yT3FrZmlJNUZSZTl2T2RhcURjTmFQV2lqemJtRHpHTWViZ0xab1ZlV1hIWU12bmF4UtIBcEFVX3lxTE5nM3RfSS1MRk90Z0E4SEJnTE1QSlBwT3VNa2luaFdodUtLWEtweVEzVFk3a2VVS3l3OHIxcXlkYVNQMHk0V1VETUlsa1FuYWZObGs3SEdtOFZRSmlZLVRzN09ENDUxY3E3MTlJR3FnY1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, 충남 부여서 홍삼 건강기능식품 수출 활성화 위한 현장 간담회 개최 - 내외뉴스통신",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f8e25397-ce82-4929-bdae-ef58d59407e3": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99075",
+      "original_headline": "누그레이, 신제품 듀이티 스테인 틴트… 지그재그서 선공개",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "871dfaf8-3e35-4124-afc3-f9dc491cf986": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=309907",
+      "original_headline": "[K-뷰티 중국 리포트②] \"기능성은 중국산, 한국산은 익숙함\"",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4d9ad636-7fa4-41f8-8e21-fa8a5817ffed": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310285",
+      "original_headline": "코스메카코리아, AI 기반 자율제조 플랫폼 구축 추진",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d8c55756-b882-47e0-8d62-6843ec26696d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b7be1f59-3298-40ee-baaa-dab6562f04f6": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZUM5SVM1dExpV1I2VFJzU0JGajJ6bmlXV29JR0RPR0ZUUmtWMk1EdzdienNjS0h0aDR3bWdYQi12ajU0UnRkZ2pybk8tcTZpNkMwYWx4X1I5VlhDdllKMjdiUTBDYXFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션 브랜드도 ‘리세일 시장’ 군침…주도권 경쟁 격화 - ebn.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "955688f4-b221-4451-8d7e-4b30e5ef22d0": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ySjBybGZVUzdwMnhXeXl2TEhWU3l1M2Z4enNkWkpReFdpalpmMEdkaXVCTDBEWXNPeXU3ZDRBM1dJS29yT1JzM21PUFFaWld3UXRqSW5aTmN2NVNVbGhlMjNiRnkxbmRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "리세일, 더는 틈새시장 아니다…패션산업 핵심채널로 부상 - 한국섬유신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cf389121-e4ce-4e91-85d9-024ebfba91d7": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzY2t3U29JQ25DTzF1czVGSXNpMy1JSHdEVTF0d0I3bHFXVFk3OXVCRHNrUzc2UnFZUDE3SklYOE5FUmpyT05tWlRLcjJ2MFlzZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "A service that allows you to understand and manage the details of subscription services at a glance - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
