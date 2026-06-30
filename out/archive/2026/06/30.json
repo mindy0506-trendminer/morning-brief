@@ -1,0 +1,226 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미국 고관세 기조 지속으로 선제적 통상 대응 시급",
+    "코스메카코리아, OEM 역량 기반 인디 뷰티 육성 생태계 구축 본격화",
+    "도쿄 숙박세 정률제 전환으로 한국발 일본 여행 비용 부담 가중"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "42c720e1-0dfa-4fce-baf2-110102b0596f",
+        "title_ko": "미 관세 압박, K-뷰티 통상 리스크 확대",
+        "summary_ko": "미국 연방법원의 일부 상호관세 위법 판결에도 불구하고 미국 정부는 무역법 122·301조를 활용해 고관세 기조를 유지하고 있다. 중동 긴장·러우 전쟁 장기화 등 복합 변수까지 겹치면서 미국을 핵심 시장으로 삼는 K-뷰티 기업들의 선제적 통상 전략 수립이 시급해졌다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "d710f730-bded-474a-950f-2c4800528817",
+        "title_ko": "비건 치킨 대체육 특허 등록",
+        "summary_ko": "엠디에스코리아가 비건 치킨용 식물성 대체육 제조 기술 특허를 등록했다. 국내 대체육 시장에서 기술 독점력 확보 경쟁이 본격화하는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6b246e52-f72f-4a86-86f8-ee7b6aabf342",
+        "title_ko": "약국 건기식, 상담 차별화로 돌파구",
+        "summary_ko": "약국의 건강기능식품 시장 점유율은 4.5% 수준에 머물고 있다. 온라인·편의점 채널과의 경쟁 심화 속에서 약사 상담이라는 전문성을 전면에 내세운 차별화 전략이 요구되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "df9bda1e-f9e5-4cd9-b7c5-fce5a213977c",
+        "title_ko": "화장품주 급등 후 숨 고르기",
+        "summary_ko": "전날 급등한 화장품주가 차익실현 매물 출회로 하루 만에 하락 전환했다. 졸스는 21.39% 급등하며 이례적인 변동성을 보였으며, 외국인 순매도세가 지속되는 가운데 수급 불안이 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fb38940e-bc6c-4928-b916-0773bfeb9fb9",
+        "title_ko": "코스메카코리아, 인디 브랜드 육성 협약",
+        "summary_ko": "코스메카코리아가 비건 웰니스 브랜드 아노에틱코스메틱과 MOU를 체결하며 인디 뷰티 육성 프로그램의 첫 파트너를 확정했다. 대형 OEM사가 직접 인디 브랜드 발굴·지원에 나서는 구조는 K-뷰티 생태계의 새로운 성장 모델로 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "1e9b24aa-e2f7-4162-a737-ef9b94d1273f",
+        "title_ko": "중고 명품 리세일 시장 급부상",
+        "summary_ko": "명품 가격 인상이 이어지면서 중고 명품 거래 시장이 빠르게 몸집을 키우고 있다. 소비자들이 장롱 속 가방을 유동 자산으로 인식하기 시작하면서 리세일 플랫폼 수요도 함께 확대되는 추세다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "1bab7967-bd71-4d77-bbb4-20b0eceefd12",
+        "title_ko": "전면 리모델링 대신 부분 인테리어",
+        "summary_ko": "숨고가 발표한 트렌드 리포트에 따르면, 고비용 전면 리모델링보다 주거 공간 일부를 선택적으로 개선하는 '실속형 부분 인테리어' 수요가 증가하고 있다. 경기 불확실성 속 합리적 주거 투자 심리가 반영된 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6707116d-c646-42a6-9fb4-abe83cbf9ebd",
+        "title_ko": "도쿄 숙박세, 정률제로 전환",
+        "summary_ko": "도쿄도가 숙박세를 기존 정액제에서 숙박료의 3% 정률제로 확정했다. 고급 호텔 이용 시 세금 부담이 두 배 이상 늘어날 수 있어, 일본 여행을 즐기는 한국 소비자의 여행 비용 구조에 직접적인 영향이 예상된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a9da4378-c86c-4d7c-b828-50da24ef3fd0",
+        "title_ko": "현대L&C, 올해 인테리어 키워드 '굿 무드'",
+        "summary_ko": "현대L&C가 올해 인테리어 트렌드 키워드로 '굿 무드'를 제시했다. 기능성과 심미성을 넘어 공간이 주는 정서적 안정감을 중시하는 소비 지향이 인테리어 시장에도 반영되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0fb6c898-e0a9-4c46-af5f-4adc63c570f4",
+        "title_ko": "Z세대, 한푸로 문화 소비 재정의",
+        "summary_ko": "중국 Z세대 사이에서 한푸(漢服) 착용이 국조(國潮) 문화 소비의 핵심 코드로 자리잡고 있다. 전통 문화를 정체성 표현 수단으로 소비하는 흐름은 패션·콘텐츠·여행 등 연관 시장 전반으로 확산되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c77567a1-d41f-4eb5-b90a-3501a970f93b",
+        "title_ko": "중국 Z세대 소비 행동 분석",
+        "summary_ko": "중국 Z세대는 가성비와 개성 표현을 동시에 추구하는 소비 패턴을 보이며 기성세대와 뚜렷이 구별된다. 이들의 구매 결정 구조를 이해하는 것이 중국 소비재 시장 진입 전략의 핵심 과제로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f30f42c-8e74-4ab5-848d-f002f1cb6087",
+        "title_ko": "Z세대 영양제 소비, 새 기준 제시",
+        "summary_ko": "중국 Z세대(95년 이후 출생)의 영양제 소비 트렌드 리포트가 발표됐다. 이들은 기능 중심 선택보다 성분 투명성과 라이프스타일 부합 여부를 우선시하며, 건기식 시장의 마케팅 문법을 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '가치 기반 소비의 다층화'다. 중국 Z세대는 한푸와 영양제 소비에서 문화·성분 투명성을 내세우고, 국내 소비자는 전면 리모델링 대신 부분 인테리어로 합리성을 택하며, 명품 시장에서는 리세일이 새로운 소비 회로로 작동한다. 동시에 K-뷰티는 인디 브랜드 육성 생태계를 안으로 다지면서 미국 관세라는 외부 압박에 맞서야 하는 이중 과제를 안고 있다. 소비 심리가 '덜 쓰되 의미 있게' 방향으로 수렴하는 가운데, 브랜드가 제공하는 서사와 투명성이 가격 경쟁력보다 더 결정적인 변수로 부상하는 국면이다.",
+  "cards_meta": {
+    "42c720e1-0dfa-4fce-baf2-110102b0596f": {
+      "category": "MacroTrends",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310361",
+      "original_headline": "美 관세 압박 커진다…K-뷰티, 선제적 통상 대응 나서야",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d710f730-bded-474a-950f-2c4800528817": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9naHZaWHNhaUh5STZsTkFhY2h2YVlMdFlUZThkX1VCVG1hQUFxZ3lud19FWm1EdU5PR0E2SDM0NC1rZktoZUFobDdnLUNlUFh0c2JyMmZzdkZpOUZ3SmVkeWxnR0VQemJXWUI2V1AzVmtLUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "엠디에스코리아, 비건 치킨용 식물성 대체육 제조 기술 특허 등록 - 마켓인",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6b246e52-f72f-4a86-86f8-ee7b6aabf342": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "df9bda1e-f9e5-4cd9-b7c5-fce5a213977c": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310376",
+      "original_headline": "화장품주, 하루 만에 숨 고르기…졸스, 21.39% 급등",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fb38940e-bc6c-4928-b916-0773bfeb9fb9": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99155",
+      "original_headline": "코스메카코리아, 아노에틱코스메틱과 전략적 MOU 체결",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e9b24aa-e2f7-4162-a737-ef9b94d1273f": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81eFc3UDM5VkkxcHhuOGxGZDFIdVZvMkphVFVTV09Wd0s4LVExYS1od056eTFQSHBBeFhTMklHbVNQbTNxVWp0SUQ0bjh1NFhYSlQ5ZVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘명품 너무 뛰어’ 몸값 뛰는 중고명품…장롱 속 백 팔아볼까 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1bab7967-bd71-4d77-bbb4-20b0eceefd12": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNGYwVVJYOXQzXzRjcmptLXFoeDZyQ0xfVFdxd2F1bFBPVVVwajNWY2hpODFyMUc1OTVfdEE0eGJaQVNmcHVySjBPMWxzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "숨고, ‘실속형 부분 인테리어 트렌드’ 발표 - 바이라인네트워크",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6707116d-c646-42a6-9fb4-abe83cbf9ebd": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veW9vRVlsbVIybjd0X0Zyd1duQUdpamRpVUpPZXZUSVZNMW9kenM3NG5McWJIblhPYmJ6VEViQl9sallxTWVWRzhDcklRcmpOcjRz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "도쿄 숙박세 '3% 정률제' 확정…호텔 따라 세금 두 배 넘게 오른다 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a9da4378-c86c-4d7c-b828-50da24ef3fd0": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbzhtWmtfR2NWNFhxNmN5Vm1FZ1Q5c2ZtX2RMMkxnVGZUaHRrMlN4VmlVa1NQUkJrUmpFMGhfOTlaOHZ6SUpyd2pmZUFKSEhNNHZrZlhGQ21QRm02X1BJTm1ZTlZSejhNY1Uwb3JSTjdSN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C, 올해 인테리어 트렌드 '굿 무드' 제시 - 오늘경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fb6c898-e0a9-4c46-af5f-4adc63c570f4": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "c77567a1-d41f-4eb5-b90a-3501a970f93b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f30f42c-8e74-4ab5-848d-f002f1cb6087": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2ZRVUFtS0c4anIyZnZxbE5CTmFGQmlWaFN2NmNCenE4UzB0c0pSSElnQUtvRkxVcWtuTnBGVXRYTWhScHJMN3R3VFFwb3l4cTNtY2JuZXBHb3RhakVpdElmX3ZHYXRPbVJVc2lNemNraXp4OV9mRzJObTBWTE1USTkxSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代营养消费趋势报告出炉 透过报告看95后的营养消费观念 - 新华网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
