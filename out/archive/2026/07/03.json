@@ -1,0 +1,210 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티 하우스, LA 거점 출범으로 중소 뷰티 기업의 미국 수출 통로 본격화",
+    "중고명품 플랫폼 패피스 투자 유치, 리세일 시장 제도권 편입 가속",
+    "Z세대, 전통문화·무알코올 음료로 소비 정체성 재정의"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "069b4da1-4040-4e7e-b785-412674ef5e84",
+        "title_ko": "학생식당, 비건 수요 외면 지속",
+        "summary_ko": "고려대 학생식당에서 비건 학생이 먹을 수 있는 메뉴가 사실상 전무하다는 문제가 제기됐다. 다양성 존중이 캠퍼스 밖 소비재 시장에서는 확산되는 반면, 단체급식 현장의 변화는 더딘 현실이 드러났다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4f99e0a3-124f-4fcd-b08c-82a75573a429",
+        "title_ko": "한국 비건 문화, 다양성 척도로 부상",
+        "summary_ko": "대학신문이 한국 비건 문화를 다양성 존중의 리트머스 지표로 조명했다. 식단 선택을 개인 신념의 표현으로 인식하는 흐름이 MZ 세대를 중심으로 강화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b58662a4-9a03-4b04-b792-6a445cb55f36",
+        "title_ko": "대체육, 미래 식탁의 주류 선택지로",
+        "summary_ko": "충청타임즈 기고를 통해 대체육이 환경·건강·윤리 세 축에서 동시에 주목받고 있다는 분석이 나왔다. 단순 유행을 넘어 식품 산업 구조를 바꿀 장기 변수로 평가된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c894336b-9ab1-4ed0-b4ab-7e4349da4aa5",
+        "title_ko": "K뷰티 하우스, LA 공식 거점 출범",
+        "summary_ko": "한국보건산업진흥원 주관의 'K뷰티 하우스'가 9월 LA 캘리포니아 마켓 센터에 문을 연다. 국내 중소 뷰티 기업이 현지 바이어와 직접 접촉할 수 있는 상설 오프라인 플랫폼이 생긴다는 점에서, 인디 브랜드의 미국 시장 진입 비용이 낮아질 전환점으로 평가된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "4797fec8-13bd-4adb-b9ca-8e1a5fcbf368",
+        "title_ko": "중고명품 플랫폼 패피스, 투자 유치",
+        "summary_ko": "글로벌 중고명품 거래 플랫폼 패피스가 A라운드 브릿지 투자를 확보했다. 리세일 시장이 틈새에서 주류 투자 영역으로 이동하고 있음을 보여 주는 신호로, 명품 소비의 중고 순환 구조가 빠르게 제도화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "2d6a9b36-4f01-4a94-ab35-75f41fec9657",
+        "title_ko": "올리브영, 뷰티·웰니스 경계 허물기",
+        "summary_ko": "CJ올리브영이 올리브영과 올리브베러를 처음으로 연계한 '모두의 잘 먹기 프로젝트'를 선보였다. 구매 데이터와 웰니스 큐레이션을 결합해 건강기능식품 카테고리를 뷰티와 동일한 선반 위에 올려놓는 전략으로, 올리브영의 카테고리 확장이 본격 가속되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4f468461-4a23-4da7-9066-0269aacb56c0",
+        "title_ko": "부분 인테리어, 절약형 집꾸미기 대세",
+        "summary_ko": "숨고가 공간 전체를 바꾸지 않고 조명·바닥재·도배 등 일부만 교체하는 '실속형 부분 인테리어' 수요가 늘고 있다고 발표했다. 고물가 환경에서 주거 만족도를 최소 비용으로 높이려는 소비 심리가 반영된 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0f774e94-93d4-44c2-8f20-38f3fe56743e",
+        "title_ko": "괌 호텔 5곳, 이례적 공동 할인 전선",
+        "summary_ko": "괌 주요 호텔 다섯 곳이 여름 성수기에 최대 79% 할인을 내걸며 이례적 공동 프로모션을 진행한다. 경쟁사끼리 연대해 수요를 끌어모으는 방식은, 해외 단거리 여행 수요가 회복세임에도 객실 채우기 경쟁이 그만큼 치열해졌음을 방증한다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "d923088a-765d-4fcf-a400-6ce7bddfb53b",
+        "title_ko": "Z세대, 전통 한복으로 문화 자부심 표현",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 국조(國潮) 문화 소비의 핵심 표현 수단으로 자리잡고 있다고 신화망이 보도했다. 전통 복식이 민족적 자부심과 소비 정체성을 동시에 담는 패션 코드로 진화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "590d922b-e784-434b-aaa5-8c53ab9a4f09",
+        "title_ko": "구독 서비스 통합 관리 수요 증가",
+        "summary_ko": "구독 서비스가 늘면서 이를 한눈에 파악하고 관리하는 전용 서비스에 대한 관심이 커지고 있다. 구독 피로가 새로운 소비 관리 카테고리를 만들어 내고 있다는 점이 주목할 만하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "06a24aa0-b896-41cb-88f9-031dd07eb7c5",
+        "title_ko": "Z세대, 알코올 대신 제로 음료 선택",
+        "summary_ko": "스페인 등 유럽에서 Z세대의 알코올 소비가 줄고 무알코올·저도수 음료가 그 자리를 채우고 있다는 분석이 나왔다. 음주를 사교 도구가 아닌 선택지로 보는 인식 전환이 글로벌 음료 시장 구도를 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 공통 축은 '소비자가 자신의 정체성을 소비 방식으로 표현한다'는 흐름이다. Z세대의 무알코올 전환과 한복 문화 소비, 비건 식단 고수는 모두 취향이 아니라 가치관의 선언에 가깝다. 기업들도 이에 맞춰 올리브영의 뷰티·웰니스 경계 해체, K뷰티 하우스의 해외 거점 구축, 중고명품 플랫폼의 투자 유치처럼 카테고리와 지역을 동시에 확장하며 대응하고 있다. 정체성 소비가 시장 구조 재편의 동력이 되고 있다는 점을 임원 전략 판단의 전제로 삼아야 할 시점이다.",
+  "cards_meta": {
+    "069b4da1-4040-4e7e-b785-412674ef5e84": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4f99e0a3-124f-4fcd-b08c-82a75573a429": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b58662a4-9a03-4b04-b792-6a445cb55f36": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c894336b-9ab1-4ed0-b4ab-7e4349da4aa5": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99176",
+      "original_headline": "“K뷰티-美 바이어 잇는 교두보” ‘K뷰티 하우스’ 9월 LA 공식 오픈",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4797fec8-13bd-4adb-b9ca-8e1a5fcbf368": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xRlF2YXZCSGZZdDFZdF9tMjh6SVVnNzR3NUZJN19UZkUwRDJiMktoRFhhdjQ2bWxZYVdlV0R4X2VsbUstZ3VTV09Yckc1YzgzS0I0cA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "글로벌 중고명품 플랫폼 패피스, A라운드 브릿지 투자 유치 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2d6a9b36-4f01-4a94-ab35-75f41fec9657": {
+      "category": "라이프스타일",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99159",
+      "original_headline": "CJ올리브영, 올리브영∙올리브베러 첫 연합 프로모션 실시",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4f468461-4a23-4da7-9066-0269aacb56c0": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNGYwVVJYOXQzXzRjcmptLXFoeDZyQ0xfVFdxd2F1bFBPVVVwajNWY2hpODFyMUc1OTVfdEE0eGJaQVNmcHVySjBPMWxzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "숨고, ‘실속형 부분 인테리어 트렌드’ 발표 - 바이라인네트워크",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0f774e94-93d4-44c2-8f20-38f3fe56743e": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5waDhzSGtqakZ1aldqb2FreEVPRjVJZXRzNlZsSnduMlJEa05QVVpBak84c1o4WF9fdFRIYVphbUFybUs1TE5KN3lRTHprZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "괌 대표 호텔 5곳, 여름 성수기 맞아 최대 79% 할인… 이례적 공동 프로모션 - 전자신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d923088a-765d-4fcf-a400-6ce7bddfb53b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "590d922b-e784-434b-aaa5-8c53ab9a4f09": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzY2t3U29JQ25DTzF1czVGSXNpMy1JSHdEVTF0d0I3bHFXVFk3OXVCRHNrUzc2UnFZUDE3SklYOE5FUmpyT05tWlRLcjJ2MFlzZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "A service that allows you to understand and manage the details of subscription services at a glance - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "06a24aa0-b896-41cb-88f9-031dd07eb7c5": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
