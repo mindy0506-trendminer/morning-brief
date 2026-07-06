@@ -1,0 +1,225 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, LA 오프라인 거점·무신사 해외 급성장·아마존 순위 상승으로 미국 공략 본격화",
+    "Z세대 무알콜·맞춤형 건기식·식물성 대체육, 건강 지향 식소비 트렌드 동시 확산",
+    "구독 관리 플랫폼 부상·한복 문화소비 확장, 소비 구조 재편 신호 포착"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "a115d9c1-114f-46a3-89e4-9970f2ac487c",
+        "title_ko": "Z세대, 파티에서 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 글로벌 Z세대에서 알코올 소비가 뚜렷이 줄고 무알콜·제로 음료가 그 자리를 채우고 있다. 절제 지향 라이프스타일이 음주 문화 자체를 재정의하는 흐름으로 번지는 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7b107415-bfe4-4726-b241-2838f1f57cb0",
+        "title_ko": "리얼콩햄, 대체육 브랜드 대상 1위",
+        "summary_ko": "리얼콩햄이 '2025 올해의 우수브랜드 대상' 식물성 대체육 부문 정상에 올랐다. 비건 식품 시장에서 인지도와 시장 점유를 동시에 굳히는 국내 브랜드가 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f9ebc46b-8790-43df-b1e4-c462a0f27975",
+        "title_ko": "맞춤형 건기식, 약국 밖으로",
+        "summary_ko": "맞춤형 건강기능식품 수요가 약국 채널에서 의원·클리닉 채널로 옮겨붙고 있다. 소비자의 건강 관리가 예방·개인화 중심으로 이동하면서 유통 채널 지형도 함께 달라지는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "66c6b07d-735c-4c19-84ad-c626c595375d",
+        "title_ko": "K뷰티 하우스, LA 9월 공식 출범",
+        "summary_ko": "한국보건산업진흥원 주관으로 LA 캘리포니아 마켓 센터 내 K뷰티 공동 플래그십 허브가 오는 9월 문을 연다. 중소 뷰티 기업의 미국 바이어 접점을 제도적으로 확보하는 첫 오프라인 거점이라는 점에서 의미가 크다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "75dec8ae-c044-4970-a16c-5ea8d7f573f4",
+        "title_ko": "무신사 해외 K뷰티, 거래액 4.6배",
+        "summary_ko": "무신사 해외 플랫폼에서 K뷰티 거래액이 전년 대비 4.6배 급증했다. 패션 목적으로 유입된 해외 소비자가 화장품 구매까지 이어지며, 패션·뷰티 교차 구매가 새로운 성장 동력으로 확인됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1b8d74d0-d4d6-49b3-b598-5621eaf32eab",
+        "title_ko": "K뷰티, 아마존 순위 동반 상승",
+        "summary_ko": "아마존 내 K뷰티 제품 순위가 가시적으로 오르며 관련 종목 투자 관심도 함께 높아지고 있다. LA 오프라인 거점 개설·무신사 해외 급성장과 맞물려 미국 시장 공략이 다층적으로 전개되는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "47be5a56-58db-4f64-ad53-b1e2ca6f2008",
+        "title_ko": "LF, 자체 리세일 플랫폼 출시",
+        "summary_ko": "LF가 리세일 마켓 서비스 '엘리마켓'을 출시했다. 대형 패션 기업이 직접 중고·재판매 채널을 구축한다는 것은 순환 소비가 틈새 시장을 넘어 주류 유통 전략으로 편입됐다는 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "35679ce5-7458-4b98-8e20-e620410a1f36",
+        "title_ko": "전면 리모델링 대신 부분 인테리어",
+        "summary_ko": "숨고 데이터 기준 주거 공간 일부만 개선하는 '실속형 부분 인테리어' 수요가 뚜렷이 증가하고 있다. 고물가 환경에서 소비자가 공간 투자를 최적화하는 방향으로 수요를 재조정하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "97e28db3-36d5-4d15-b3c8-c6501c3bbeac",
+        "title_ko": "괌 호텔 5곳, 이례적 공동 할인",
+        "summary_ko": "괌 대표 호텔 5곳이 여름 성수기에 최대 79% 할인을 내건 공동 프로모션을 진행하고 있다. 경쟁사 간 연대 프로모션이라는 이례성 자체가 해외 단거리 여행 수요 확보 경쟁의 강도를 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "228f7be8-a490-405a-9ac9-c8d261f6fb3f",
+        "title_ko": "호텔 숙박에 두피 웰니스 결합",
+        "summary_ko": "현대약품 마이녹셀이 고창 웰파크 호텔과 손잡고 두피 건강 중심 웰니스 캠페인을 시작했다. 의약품·건기식 브랜드가 호텔 체류 경험을 접점으로 활용하는 웰니스 마케팅 공식이 정착되는 모습이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "3a433226-e52c-4b59-a70b-043a8b569e22",
+        "title_ko": "중국 Z세대, 한복에서 자국 문화 재발견",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 국조(國潮) 소비의 핵심으로 부상하고 있다. 전통 문화가 패션·정체성 소비로 재해석되는 흐름은 한국 K-문화 소비와 구조적으로 유사해 주목할 만하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c81bf7b7-286d-45cf-a045-6c6a3346c240",
+        "title_ko": "구독 관리 플랫폼, 필수 도구로",
+        "summary_ko": "흩어진 구독 서비스를 한눈에 파악하고 관리하는 전용 플랫폼이 등장했다. 구독 경제의 외연이 넓어질수록 '관리 피로'가 새로운 소비 문제로 부각되며, 이를 해결하는 서비스 자체가 시장이 되는 구조다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 가로지르는 핵심 축은 '건강·가치·절제' 세 키워드다. Z세대의 무알콜 전환, 맞춤형 건기식 채널 확장, 두피 웰니스 호텔 캠페인은 모두 소비자가 쾌락보다 관리를 선택하는 구조적 이동을 반영한다. K뷰티의 미국 공략이 오프라인 거점·플랫폼 교차 구매·아마존 순위 상승으로 동시에 진전되는 것은 단일 이벤트가 아니라 채널 다층화 전략의 결실이며, LF 리세일 출시와 자동차 업계 비건 소재 확산은 '윤리 소비'가 틈새에서 주류 전략으로 격상됐음을 함께 시사한다.",
+  "cards_meta": {
+    "a115d9c1-114f-46a3-89e4-9970f2ac487c": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "7b107415-bfe4-4726-b241-2838f1f57cb0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9acXhvNGZvZjlzZTlHYlFPS29Jc2pPTUFCMnY1T3VaLTM1UHhqa0RnWEpzYkt2UUQ3dW9vNU5YaFJtNUdrU3gzN3FnOHBtcUZHSXBhZWdILUZ4eTF6WlE2eHNoQm81QkFnX2tONU5oQ1B3RFdReEHSAWZBVV95cUxOdG5KUHc4cEEwX3lwajhoVFVoUmNnRGxTNURYczRzM0NEdGx2dmFkVnRGU2VQaHAxcEZVM0VjY082eGhIandVUmVqLVNwbzU0NEVCSWRHZi1sTGlZblN2Zk1id0R5MXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "리얼콩햄, ‘2025 올해의 우수브랜드 대상’ 식물성 대체육 부문 1위 수상 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f9ebc46b-8790-43df-b1e4-c462a0f27975": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSDhCS3JIMDV0em90bDk2WUdmTU1JVUJlVEtpWjU4MVhPVnV1dW1kRmhVaUFnY2VtQjMyc3VBcUcyNEVoRzlnemNfQlEycDVrTzg2VFFrM09COEFkUzZKMVhxNE1LYnExS2MxTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "맞춤형 건강기능식품, 약국 주춤한 사이 의원 관심 '↑' - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "66c6b07d-735c-4c19-84ad-c626c595375d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99176",
+      "original_headline": "“K뷰티-美 바이어 잇는 교두보” ‘K뷰티 하우스’ 9월 LA 공식 오픈",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "75dec8ae-c044-4970-a16c-5ea8d7f573f4": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QMUdPb25jNXFCOVI4OVJGVHhQYUxBWHRfWUpKQnczdkFCYjA5TzYxTDRBRXIzWHk1aE8zUlRQcEJXZDdNZEM0RVMxT3JDVmdJQm1MRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "옷 사러 왔다 화장품까지…무신사 해외 K뷰티 거래액 4.6배 급증 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1b8d74d0-d4d6-49b3-b598-5621eaf32eab": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeC0xenBIUlFzWk9aOXNPV3ZWUFFEQVpyT3VVY1RQUTZLeVRwdWV3NUdjTVRQcXRVSVBHTGEycm80ZXltblVrU1lleS1tck83YUN4YnlUdkJJc0hlbEJNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[주末머니]K-뷰티, 아마존 제품 순위 UP…\"이 종목 주목\" - 아시아경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "47be5a56-58db-4f64-ad53-b1e2ca6f2008": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9weGZkQ2QzTEd1OHJDamxFVHRsRHFGN3gyT3dFWlVFNEN0cGg1X2YtaTk0amRVX05xc3hiS0hIQmoydHZNYml6bnJWbWktbk9U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LF, 리세일 마켓 서비스 ‘엘리마켓’ 론칭 外 - 톱데일리",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "35679ce5-7458-4b98-8e20-e620410a1f36": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNGYwVVJYOXQzXzRjcmptLXFoeDZyQ0xfVFdxd2F1bFBPVVVwajNWY2hpODFyMUc1OTVfdEE0eGJaQVNmcHVySjBPMWxzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "숨고, ‘실속형 부분 인테리어 트렌드’ 발표 - 바이라인네트워크",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "97e28db3-36d5-4d15-b3c8-c6501c3bbeac": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uUzZiWlBhQ1JVRTRiMVJOend2ZG1tRFMzZ2N5TmZ6RmJ6M3JsSkMzMHlsdWw1ZW41dDBTVkNIOXJ0VTVqalNHbE9TYk4tTmkzZDMyem5NZWg1eHFKV1JabEZiSzRQakxiTjlsX0JXMlc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "괌 대표 호텔 공동 프로모션 진행 - 트래블데일리",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "228f7be8-a490-405a-9ac9-c8d261f6fb3f": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12U2hJaV80YUNnR0NJUjUxYlNmYmtZajU2VER3RVZUamxkSWZWekVfeS16RjMtSWd3Uy1xWmJZY0stS05xTWFOV0diNjNkbVJ1Y3RTRExiREdYOTZHOUJpS1lILWM0c1RwYm1LNXE1MEdFaHB4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대약품 마이녹셀, 고창 웰파크 호텔과 웰니스 캠페인 - 헬스케어N",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3a433226-e52c-4b59-a70b-043a8b569e22": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "c81bf7b7-286d-45cf-a045-6c6a3346c240": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzY2t3U29JQ25DTzF1czVGSXNpMy1JSHdEVTF0d0I3bHFXVFk3OXVCRHNrUzc2UnFZUDE3SklYOE5FUmpyT05tWlRLcjJ2MFlzZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "A service that allows you to understand and manage the details of subscription services at a glance - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
