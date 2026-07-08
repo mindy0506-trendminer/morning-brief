@@ -1,0 +1,161 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티·K패션, 미주·아시아·중남미로 동시 다발 해외 거점 확장 가속화",
+    "올리브영 AI 키오스크 도입, 외국인 관광 수요를 오프라인 매출로 전환하는 전략 본격화",
+    "Z세대의 무알콜 음료 선호와 전통 문화 소비가 글로벌 소비 패턴 재편 신호로 부상"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c5db9f63-0584-4849-9685-188a43298dec",
+        "title_ko": "Z세대, 술 대신 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 주요 시장에서 Z세대의 음주율이 뚜렷이 낮아지고 무알콜·제로 음료 카테고리가 빠르게 성장하고 있다. 국내 식음료 업체도 이 흐름에 맞춰 무알콜 라인업을 강화할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "6c38d321-cfdd-4e91-9d7d-338b495341f5",
+        "title_ko": "K뷰티 하우스, LA 교두보 구축",
+        "summary_ko": "한국보건산업진흥원 주관으로 9월 LA 캘리포니아 마켓 센터 내 K뷰티 공동 플래그십 허브가 공식 출범한다. 중소 뷰티 브랜드가 독자 진출 비용 없이 현지 바이어와 연결될 수 있는 구조로, 인디 브랜드의 미국 시장 접근 장벽이 낮아질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "727f748a-c334-4db3-8d32-799cc42e8695",
+        "title_ko": "올리브영 AI 키오스크, 8개 국어 안내",
+        "summary_ko": "CJ올리브영이 외국인 비중이 높은 복층 매장에 AI 아바타 키오스크를 도입했다. 상품 설명·재고 조회·피부 맞춤 추천까지 8개 국어로 제공해 직원 없이 셀프 쇼핑이 가능하며, 증가하는 외국인 관광 수요를 매장 내 전환율 상승으로 이어가려는 전략으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e10b23cb-bb9c-4f0f-978d-6584f63f34d6",
+        "title_ko": "K뷰티, 중남미로 성장축 이동",
+        "summary_ko": "한국 화장품 수출이 2025년 114억 달러로 역대 최고를 기록한 가운데, 브라질·멕시코 등 중남미가 차세대 핵심 시장으로 부상하고 있다. 미국 의존도를 낮추면서 고성장 신흥 시장으로 포트폴리오를 다변화하는 흐름이 본격화됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "27a18709-b188-48a2-bb0b-a06a8d272f4f",
+        "title_ko": "코트라, K패션 중국 진출 길라잡이 발간",
+        "summary_ko": "코트라가 4200억 달러 규모의 중국 패션 시장 공략을 위한 K패션 진출 가이드를 발간했다. 중소 패션 브랜드의 중국 진입 전략 수립에 실질적인 근거 자료로 활용될 것으로 보인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b0d4b5ac-d64a-4418-b77c-bfad55f4b5cf",
+        "title_ko": "무신사, 대만 지사 설립·5년 15개 매장 목표",
+        "summary_ko": "무신사가 대만 지사를 설립하고 5년 내 15개 매장 오픈 계획을 공개했다. 일본에 이어 대만으로 아시아 거점을 넓히는 것으로, K패션 플랫폼의 직영 해외 확장 모델이 자리를 잡아가고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "3961d254-f694-4508-a665-78c1ee758853",
+        "title_ko": "중국 Z세대, 한복으로 국조 소비 열풍",
+        "summary_ko": "중국 Z세대 사이에서 한푸(漢服) 착용이 자국 문화 정체성 표현의 수단으로 자리잡으며 전통 의복이 일상 소비재로 재편되고 있다. 국조(國潮) 트렌드가 의류를 넘어 다양한 문화 소비 카테고리로 확산되는 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fa84a38c-e5be-48da-9ad6-3b9b7844f719",
+        "title_ko": "자동차 업계, 비건 소재로 내장재 전환",
+        "summary_ko": "완성차 업계가 시트·핸들 등 내장재에 동물성 소재를 배제한 비건 대체 소재를 속속 도입하고 있다. 소비재 전반의 비건 가치관이 고가 내구재 시장까지 침투하고 있다는 신호다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '확장'과 '현지화'의 동시 진행이다. K뷰티는 LA 공동 거점·AI 키오스크·중남미 신시장으로 동시에 뻗고 있고, K패션은 중국 가이드 발간과 무신사의 대만 직접 진출로 아시아 전선을 넓히고 있다. 주목할 점은 이 확장이 단순 수출 증대가 아니라 오프라인 거점·디지털 접점·현지 파트너십을 결합한 복합 구조라는 것이다. Z세대의 무알콜 선호·한복 소비·자동차 비건화는 개별 현상처럼 보이지만 모두 '가치 기반 소비'라는 상위 흐름으로 수렴한다. 브랜드 전략은 시장 확대와 소비자 가치 정렬 두 축을 동시에 관리해야 하는 국면에 접어들었다.",
+  "cards_meta": {
+    "c5db9f63-0584-4849-9685-188a43298dec": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "6c38d321-cfdd-4e91-9d7d-338b495341f5": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99176",
+      "original_headline": "“K뷰티-美 바이어 잇는 교두보” ‘K뷰티 하우스’ 9월 LA 공식 오픈",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "727f748a-c334-4db3-8d32-799cc42e8695": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UN3N4cWdFWmx3bTlxdW9FLUFtaDBDNHZKZ2hwajdESm1YaHVnaVB4VTJnVFlCeWU5Q3N6VTRZUmI4dDJEVWZmNGRWNlNVUkdOQnlIS2Q0TTc5WVVRczNxUVJNOEdXMXQyWUNBTG51Qkc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, AI로 외국인 셀프 쇼핑 지원…’쇼핑 어시스턴트 키오스크' 도입 - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e10b23cb-bb9c-4f0f-978d-6584f63f34d6": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310035",
+      "original_headline": "K-Beauty Expands Beyond the U.S. as Growth Shifts to Latin America",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "27a18709-b188-48a2-bb0b-a06a8d272f4f": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mV3FVVmRNSUk1ZHR6SXBpYy1NWXZ1UFRZUkRQbGlMRXVEME1hSTItOFlMb3JEX3pydUtURHFDbnh1YUpvWkhURHI3Nkh2d2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"4200억 달러 시장 겨냥\"…코트라, 'K-패션 중국 진출 가이드' 발간 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b0d4b5ac-d64a-4418-b77c-bfad55f4b5cf": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GcjUyWkY1bW1mR3ZKZUxiSTRnLXpCVDBDNWlRdmZLNGtQbDFGM0RfcXJPQnoyRzRRUHk1ajAzdTVCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "무신사, 대만 지사 설립 “K-패션 글로벌 확장 가속화” - 남다른디테일",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3961d254-f694-4508-a665-78c1ee758853": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "fa84a38c-e5be-48da-9ad6-3b9b7844f719": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - 디자인플러스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
