@@ -1,0 +1,212 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티·K-패션, 수출 계약·진출 가이드로 글로벌 공세 본격화",
+    "Z세대 주류 기피·구독 관리 수요로 소비 패턴 구조적 변화 진행 중",
+    "식약처 안전성 평가 의무화·AI 도입 가속으로 산업 인프라 재편 예고"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "ac264a10-5972-4190-9577-ddcd52668787",
+        "title_ko": "화장품 안전성 평가 2028년 의무화",
+        "summary_ko": "식약처가 화장품 안전성 평가 세부기준을 입법예고하고 8월 18일까지 의견을 수렴한다. 2028년부터 단계적으로 도입될 이 제도는 영업자의 안전성 평가 자료 작성·보관을 의무화하며, K-뷰티 브랜드의 품질 관리 체계 정비를 앞당기는 계기가 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cc74b551-9e17-4c86-8d00-ae41f60015ee",
+        "title_ko": "식품·외식·유통, AI가 경영 인프라로",
+        "summary_ko": "식품·외식·유통 산업에서 AI 활용이 조리 자동화를 넘어 발주·재고·마케팅·고객 응대·물류 전반으로 확장되고 있다. 인력난과 원가 부담이 겹친 상황에서 기업들은 AI를 보조 기술이 아닌 핵심 경영 인프라로 받아들이는 단계에 접어들었다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5a6216ca-dba7-4b6e-91f4-cca0343417e7",
+        "title_ko": "경북 K-뷰티, 212만 달러 계약",
+        "summary_ko": "경상북도가 '2026 인터참 코리아'에서 240만 달러 규모의 상담을 거쳐 212만 달러 수출 계약을 체결했다. 국내 최대 화장품·뷰티테크 전시에서 지방 브랜드가 거둔 성과로, K-뷰티 수출 거점이 수도권 밖으로 확산되는 흐름을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "24eef359-fc8b-4632-830f-3b08d40c14f4",
+        "title_ko": "베트남 소비자, 리뷰가 구매 결정",
+        "summary_ko": "베트남에서 K-뷰티 구매를 움직이는 핵심 트리거가 한류 프리미엄에서 디지털 리뷰 평판으로 이동하고 있다. 중국 수출 부진 속에 동남아 시장의 중요성이 커지는 만큼, 현지 플랫폼 리뷰 관리 역량이 브랜드 경쟁력을 좌우할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a7e49498-59e3-4612-8118-e0b2ec222443",
+        "title_ko": "코트라, K-패션 중국 진출 길잡이",
+        "summary_ko": "코트라가 4,200억 달러 규모의 중국 패션 시장을 겨냥한 'K-패션 중국 진출 가이드'를 발간했다. 현지 유통 구조와 소비자 특성을 담은 실무 지침으로, 브랜드의 초기 진입 장벽을 낮추는 데 초점을 맞췄다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c8db34e3-967e-483a-a9f9-7e6141ae5a10",
+        "title_ko": "\"5년이 골든타임\" 패션 세계화 경고",
+        "summary_ko": "패션그룹형지 최병오 회장이 향후 5년을 K-패션 세계화의 결정적 시기로 규정했다. 코트라의 중국 진출 가이드 발간과 맞물려, 업계 전반에 글로벌 전략 수립을 서둘러야 한다는 분위기가 형성되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "177c2f92-60a3-4afe-b268-bc9ed239ffba",
+        "title_ko": "의류 리세일, 최대 70% 절감 채널로",
+        "summary_ko": "의류 리세일 시장에서 소비자가 새 제품 대비 30~70%의 비용을 절감할 수 있다는 분석이 나왔다. 고물가 기조가 이어지는 가운데 리세일이 대안 소비 채널로 자리를 굳히며, 브랜드의 중고 유통 전략 수립 필요성도 높아지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b25c2bf6-b5aa-461e-9f04-f3989533f081",
+        "title_ko": "5성급 호텔, 평생 연회비 면제 승부수",
+        "summary_ko": "5성급 호텔앤리조트가 평생 연회비 면제를 내세운 파격 멤버십을 출시했다. 프리미엄 숙박 수요가 견고한 상황에서, 초기 락인(lock-in)으로 장기 고객을 확보하려는 전략이 호텔업계 멤버십 경쟁을 자극할 가능성이 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5689cbf8-07c9-4631-932f-757d652a3b1f",
+        "title_ko": "2026 실내 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어 최신 트렌드를 정리한 콘텐츠가 주목받고 있다. 팬데믹 이후 공간 투자 관심이 지속되는 가운데, 거주 공간의 심미성과 기능성을 동시에 추구하는 소비 성향이 반영된 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "44078d9d-6a50-4759-9111-b8624e7de8e1",
+        "title_ko": "구독 서비스 한눈에 관리 플랫폼 등장",
+        "summary_ko": "복수의 구독 서비스를 한 화면에서 파악하고 관리할 수 있는 서비스가 부상하고 있다. 구독 피로감이 확산되는 가운데, 지출 가시화와 해지 편의성을 제공하는 플랫폼이 새로운 소비 관리 도구로 자리잡을 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "12865926-dc53-40f5-9626-86b8b67d1348",
+        "title_ko": "Z세대, 술 대신 무알코올 선택",
+        "summary_ko": "스페인을 비롯한 유럽에서 Z세대의 주류 소비가 뚜렷하게 줄고, 무알코올 음료가 그 자리를 채우고 있다. 건강·가치 소비를 중시하는 Z세대의 태도가 글로벌 음료 시장의 제품 구성과 마케팅 방식을 바꾸는 압력으로 작용하고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 클러스터를 관통하는 핵심 흐름은 두 가지다. 첫째, K-소비재의 해외 공세가 정부·민간 양쪽에서 동시에 가속되고 있다. 경북 K-뷰티의 수출 계약, 코트라의 K-패션 중국 진출 가이드, 최병오 회장의 '골든타임' 발언이 모두 같은 방향을 가리킨다. 둘째, 소비자 쪽에서는 지출 합리화 압력이 뚜렷해지고 있다. 의류 리세일의 비용 절감 효과, 구독 관리 플랫폼 수요, Z세대의 무알코올 전환은 모두 '덜 쓰되 더 현명하게'라는 태도의 표현이다. K-소비재 기업이 글로벌 확장을 노리는 동시에, 목표 소비자 자체가 지갑을 더 조심스럽게 열고 있다는 점은 가격·가치 커뮤니케이션 전략의 재점검을 요구한다.",
+  "cards_meta": {
+    "ac264a10-5972-4190-9577-ddcd52668787": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUVpRbXlWMzhwNEt0QzRLbEwtdlB0UlI3THdGT2tUREVWY1RPdW5pZGxEa2ptM2RmY043M19oMFFzQXBCcEVzUk5rMUVNZDhaWVFOTmd1UlBGc3AxM1dxRk9MbWtuNkFUS240?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, 화장품 안전성 평가 세부기준 마련 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cc74b551-9e17-4c86-8d00-ae41f60015ee": {
+      "category": "MacroTrends",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68234",
+      "original_headline": "[창간 특집] AI, 식품·외식·유통산업의 혁신을 이끌다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5a6216ca-dba7-4b6e-91f4-cca0343417e7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99203",
+      "original_headline": "경북도, ‘2026 인터참 코리아’서 212만 달러 수출계약 성과",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "24eef359-fc8b-4632-830f-3b08d40c14f4": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310068",
+      "original_headline": "[K-뷰티 베트남 리포트 ②] 리뷰가 지갑 열고, 디지털 평판과 일상으로 확장",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a7e49498-59e3-4612-8118-e0b2ec222443": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mV3FVVmRNSUk1ZHR6SXBpYy1NWXZ1UFRZUkRQbGlMRXVEME1hSTItOFlMb3JEX3pydUtURHFDbnh1YUpvWkhURHI3Nkh2d2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"4200억 달러 시장 겨냥\"…코트라, 'K-패션 중국 진출 가이드' 발간 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c8db34e3-967e-483a-a9f9-7e6141ae5a10": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTkphc1FNTnZTR3BCeUFNdmRGcnAwNTlnN2NPSXlER0hpVDVNalNORU9VZEZRMDVQdGJZOFJ6anQ1enZPbTVvaTN0bUZVd21rc2l3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "최병오 \"앞으로 5년 패션 세계화의 골든타임\" - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "177c2f92-60a3-4afe-b268-bc9ed239ffba": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRUtJQTh6clJ5NlMzdEx0LTUwRHpBWlNiQ2ViVWF4anZqbnBZRDU1QWs1RWdvSzJWc3JkSVlnblFrelJCZlNLem85MFd1N2xsZjFaQzY0MjZhdDY1c2ZaM1BEMWNqcmhFaXRIMmN5czdoQ1VlWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "의류 리세일, 새 제품 구매 때보다 30~70% 비용 절감 - 어패럴뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b25c2bf6-b5aa-461e-9f04-f3989533f081": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRkhXakRnQVFISDhqZnJuYmtCR0RGc1V2MmhFOVJTcHNuaEZ4OXV1MV9ldkZoTzUyYlJvUk5KQi1iVzAxSEdiQzM5TTJNVlozQnk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[분양 포커스] 평생 연회비 면제…5성급 호텔앤리조트 파격 멤버십 선봬 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5689cbf8-07c9-4631-932f-757d652a3b1f": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "44078d9d-6a50-4759-9111-b8624e7de8e1": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzY2t3U29JQ25DTzF1czVGSXNpMy1JSHdEVTF0d0I3bHFXVFk3OXVCRHNrUzc2UnFZUDE3SklYOE5FUmpyT05tWlRLcjJ2MFlzZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "A service that allows you to understand and manage the details of subscription services at a glance - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "12865926-dc53-40f5-9626-86b8b67d1348": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
