@@ -1,0 +1,222 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 외국인 수요 급증, 올리브영 AI 어시스턴트·약국템까지 채널 확장 본격화",
+    "MZ세대 할랄 소비, 웰빙·윤리 가치와 결합하며 국내 소비 지형 재편 신호",
+    "K패션, 섬유 특별법 재추진으로 글로벌 도약의 마지막 기회 문 두드려"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "ba684f88-a06d-4a9c-933a-f5dcfa93dae3",
+        "title_ko": "약국 건기식, 상담 차별화가 열쇠",
+        "summary_ko": "약국 건강기능식품 채널 점유율은 4.5% 수준에 머물지만, 약사 상담이라는 고유 강점이 재조명되고 있다. 온라인·편의점 채널과 차별화하려면 전문성 기반 상담 경험을 강화하는 방향이 유효하다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "873ab7b9-4980-4109-9b7d-7d11aa921776",
+        "title_ko": "올리브영, 수익 구조의 실체",
+        "summary_ko": "미국에서 K-뷰티 열풍의 대표 창구로 올리브영이 주목받고 있지만, 실제 수익 원천은 해외 인지도와 별개의 구조에 있다는 분석이 나온다. 글로벌 브랜드 효과와 국내 수익 모델 간 괴리를 짚어볼 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8708be9a-5536-4342-b031-2c665fdfcc33",
+        "title_ko": "K-뷰티 열풍, 약국템까지 번져",
+        "summary_ko": "K-뷰티 소비 열기가 드럭스토어를 넘어 약국 판매 화장품까지 확산됐다. 외국인 관광객의 약국 방문과 구매가 급증하면서, 전문 채널이 K-뷰티 수혜의 새 축으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "604db453-696b-49fe-a164-ab0ec1948ec7",
+        "title_ko": "올리브영, AI로 외국인 쇼핑 장벽 제거",
+        "summary_ko": "올리브영이 8개 국어를 지원하는 AI 쇼핑 어시스턴트 키오스크를 외국인 비중이 높은 복층 매장에 우선 도입했다. 상품 설명·재고 조회·개인화 추천을 한 기기로 처리해, 언어 장벽 없이 셀프 쇼핑이 가능해졌다. K-뷰티 수요 급증에 대응하는 인프라 투자가 가속화되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "3bfbee89-e8f6-4f5e-8d21-a160451a875a",
+        "title_ko": "K패션, 특별법으로 도약 노린다",
+        "summary_ko": "패션산업연합회 최병오 회장이 'K패션 글로벌 도약의 마지막 기회'를 강조하며 섬유 특별법 재추진을 촉구했다. 제도적 뒷받침 없이는 K-뷰티처럼 독자 공급망과 브랜드 파워를 갖추기 어렵다는 위기의식이 배경에 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "97b928d4-048d-442b-8ef9-04fee4a18bea",
+        "title_ko": "J스트리트 패션, 제2 전성기 조명",
+        "summary_ko": "히로시 후지와라부터 베르디까지 50년 J스트리트 패션의 계보가 재조명되고 있다. K-뷰티·K패션 열풍과 맞물려 일본 스트리트 문화의 귀환이 국내 소비자 취향 지형에도 영향을 줄지 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "34837abe-ca9d-47f5-abcd-9a7e444e4842",
+        "title_ko": "2026 인테리어 트렌드 총정리",
+        "summary_ko": "2026년 실내 인테리어는 소재·색감·공간 활용 방식 모두에서 변화가 감지된다. 소비자가 직접 시공 가능한 제품과 비용 효율 높은 리모델링 솔루션에 대한 관심이 높아지는 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a3c565c4-360d-4bda-982d-debab09fabfb",
+        "title_ko": "인테리어 필름, DIY 리모델링 주도",
+        "summary_ko": "대규모 공사 없이 공간을 바꿀 수 있는 인테리어 필름이 트렌드로 부상했다. 시공 간편성과 비용 절감이 장점으로 꼽히며, 인테리어 DIY 수요 증가를 견인하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5cb1fec1-a415-47aa-98a6-bdf181c5ef87",
+        "title_ko": "현대L&C '보닥', 필름 시장 공략",
+        "summary_ko": "현대L&C가 인테리어 필름 브랜드 '보닥'으로 공간 트렌드 시장에 본격 진입했다. 대기업이 DIY 인테리어 필름 시장에 브랜드를 앞세워 뛰어든 것은 해당 시장의 성장 가능성을 방증한다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "cf5585d4-0aa6-416a-b57b-3f2f57825bb3",
+        "title_ko": "MZ 할랄 소비, 가치 소비로 진화",
+        "summary_ko": "20·30대의 82%가 할랄 인증을 필수 요소로 꼽는 설문 결과가 나왔다. 단순 종교적 요건을 넘어 웰빙·윤리·가치 소비의 연장선으로 할랄을 선택하는 흐름이 뚜렷해지고 있어, 식품·뷰티 업계의 할랄 인증 전략이 재점검될 필요가 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e43493c5-5460-4810-ac8b-753f79c8f995",
+        "title_ko": "구독 관리 서비스, 소비자 통제권 확대",
+        "summary_ko": "여러 구독 서비스를 한눈에 파악하고 관리하는 통합 플랫폼이 등장하고 있다. 구독 경제가 성숙기에 접어들면서 소비자의 지출 가시성 요구가 새로운 서비스 수요를 만들어내고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ca097cf3-ac3f-48dd-a935-5991f457aef2",
+        "title_ko": "Z세대, 알코올 대신 무알콜 선택",
+        "summary_ko": "스페인 Z세대를 중심으로 음주 소비가 줄고 무알콜 음료 시장이 빠르게 성장하고 있다. 건강·가치 소비 확산이 글로벌 음료 시장의 구도 자체를 바꾸는 흐름이며, 국내 시장에도 유사한 신호가 감지된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '신뢰와 전문성의 채널화'다. 올리브영의 AI 어시스턴트·약국템 수혜, 할랄 인증 필수화, 구독 관리 플랫폼 부상은 모두 소비자가 정보 비대칭을 줄이고 검증된 채널에 의존하려는 욕구에서 비롯된다. 여기에 K-뷰티·K패션의 제도화 요구와 비건·무알콜 소비의 가치 소비화가 겹치며, 단순 가격·기능 경쟁보다 '어디서, 어떻게 믿고 살 수 있는가'가 브랜드 선택의 핵심 기준으로 올라서고 있다. 채널 전략과 인증 체계를 함께 점검해야 할 시점이다.",
+  "cards_meta": {
+    "ba684f88-a06d-4a9c-933a-f5dcfa93dae3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "873ab7b9-4980-4109-9b7d-7d11aa921776": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoOG81dENMbGVjRWlLQzdxVnlzVnEtQ05sTzNOejAxREJVSG5oVnkzQ2x4OEYxUkVQbmdCTzRqQ3YyRGdncmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"한국 화장품 최고\" 미국서 난리난 올리브영…돈 버는 곳은 따로 있다?[주末머니] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8708be9a-5536-4342-b031-2c665fdfcc33": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ETzN3a0w4OXJFZjFMcnlrQ0tZSENlMHE3cFVsZ29kSmNYYmwyMXZaVlpDMVBsdGxCWmJXMU9YRlJ0Q1l4UHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-뷰티 열풍에 ‘약국템’도 인기…외국인 소비 급증 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "604db453-696b-49fe-a164-ab0ec1948ec7": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZdFNEN3FHQU9wd2JnZGpMcmhmeHZqMDhQVndmZnZiOFd6YnpDMS05WDFBNDJWSjVsYjV3azU4V1FwOG91R0FVRGxfakIzdnVteVh4N0Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, ‘AI 쇼핑 어시스턴트’ 도입 - 헤럴드경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3bfbee89-e8f6-4f5e-8d21-a160451a875a": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSTBLNHl6UFoyTFBudnRIVEhDQ2VDajlZN25aX3J1MHg3OXFlb3ZQR1RsZVB3YnMtR3B1VHRmNlFfN2tPRWx6Y2FENEg5Y2JsMFHSAVNBVV95cUxNUFdfSkxMUFZiSV9NeHlrdzJ4STdlM3h0Umxza051NUtYbTFmM21Yazl3R0g3YzJfX1czYnJMN2VXNk0tNzhBVldqSDJfQVEycS13UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "최병오 “K패션, 글로벌 도약 마지막 기회…섬유 특별법 재추진” - 서울경제신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "97b928d4-048d-442b-8ef9-04fee4a18bea": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNXJuWmZucGpKM3hqVUJ1QlRRTE0yY2tmUWFvT3RfdmQ4N1Z3WmM5UlNZZE5WVHB0WE9ZdVI1aUp6V19OeFExUEdrdEprNWNhV1J5SkVyYWVja3lKanYxTmdhX0o4cEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "히로시부터 베르디까지…J스트리트 패션, 50년의 역사 돌아보니[J패션 부활, 제2의 전성기②] - 한경매거진&북",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "34837abe-ca9d-47f5-abcd-9a7e444e4842": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a3c565c4-360d-4bda-982d-debab09fabfb": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pdVVEdDJ1dnNMRVFGUVZ0QmVPRXEyRnZ3blp3X2FsTlV0LW5XeUlfVTM3UGp2aGdIRV8zeGl4M0lRdEdfUWR6LWp5NHQyQnduM0F0cWFtV1NlaXVyak9YUlViU2VIYmM5ejV3Qy1KbnJ5R1U4MkHSAWZBVV95cUxOTEY4bDh3SDNiNGV3aDNGZ2NUazY1cmdCZTAzR1U0cTdjalVqZi0wT1Jld0RBS0RjMnBKQ2tXQ0ZKVUtxVXNRdXZpWVRLRWZzbG1CTTZTYXVmUlVnX1JOUzNDREhfaEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "간편하게 새 공간으로 변신… 트렌드로 떠오른 ‘인테리어 필름’ - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5cb1fec1-a415-47aa-98a6-bdf181c5ef87": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SQWNyNTFvNXp6ZHpZMkhYVXhfR2xNQjNZZm9UeHJkWkk4S2xFU1NxTmFxem90Y2F0OE90TVZpZzZjMk1ON0R4Z3FhbXRQd3REM1hDQWtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C 인테리어필름 ‘보닥’ 공간에 트렌드 입힌다 - 헤럴드경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cf5585d4-0aa6-416a-b57b-3f2f57825bb3": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z3Y1M1RGTng0dkNXMHBtbzRROURWVDZJWjI3V09YTURzR1NMV25vMGJKRkNYUzZQZ3Yyd0JjQTBMTmxXNElSRnNhVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e43493c5-5460-4810-ac8b-753f79c8f995": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzY2t3U29JQ25DTzF1czVGSXNpMy1JSHdEVTF0d0I3bHFXVFk3OXVCRHNrUzc2UnFZUDE3SklYOE5FUmpyT05tWlRLcjJ2MFlzZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "A service that allows you to understand and manage the details of subscription services at a glance - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "ca097cf3-ac3f-48dd-a935-5991f457aef2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
