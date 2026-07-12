@@ -1,0 +1,227 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "하이트진로 K뷰티 진출·경북 212만 달러 수출계약으로 K-뷰티 확장 가속",
+    "K패션 섬유특별법 재추진·J패션 부활론 맞물리며 패션 지형 재편 신호",
+    "MZ세대, 할랄·무알코올로 가치소비 축 이동…글로벌 공통 흐름 확인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "bae93bce-4da9-42b0-a362-128bd156e468",
+        "title_ko": "대체육, 선택에서 필수로",
+        "summary_ko": "'클린 미트' 저자 폴 샤피로는 대체육이 머지않아 선택이 아닌 필수 식품군이 될 것이라고 주장한다. 기후·자원 문제와 맞물려 소비재 기업의 단백질 포트폴리오 전환 압력이 높아지는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "3154b96a-4e1a-4d5d-906e-45a0193946f7",
+        "title_ko": "경북 K-뷰티, 212만 달러 수출 체결",
+        "summary_ko": "경상북도가 '2026 인터참 코리아'에서 212만 달러 규모의 수출 계약을 성사시켰다. 원료부터 완제품까지 아우르는 통합 전시 구조가 해외 바이어 접점을 넓히며 지방 중소기업의 해외 진출 경로를 다변화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "37df77c9-0cc4-475f-971e-05b1f0e0e13f",
+        "title_ko": "하이트진로, K-뷰티로 사업 전환",
+        "summary_ko": "주류 시장 침체를 배경으로 하이트진로가 K-뷰티 사업에 본격 베팅했다. 주류 대기업의 뷰티 진입은 유통망 활용과 브랜드 신뢰도 이전이라는 두 카드를 동시에 쥔 행보로, 기존 뷰티 업계의 경쟁 구도에 변수가 될 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b05f460a-7473-4726-9903-3918f79f6677",
+        "title_ko": "올리브영, 미국 시장 공략 본격화",
+        "summary_ko": "미국 소비자 사이에서 한국 화장품 열풍이 이어지는 가운데 올리브영의 미국 확장이 주목받고 있다. 단, 실질 수익 구조는 국내 오프라인 거점에 여전히 집중돼 있어 해외 성장이 수익성으로 전환되는 시점이 관건이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a3010b1d-8885-4cbf-b6b3-19d2a1bf2401",
+        "title_ko": "K패션, 섬유특별법으로 정책 돌파구 모색",
+        "summary_ko": "패션그룹형지 최병오 회장이 K패션의 글로벌 도약을 '마지막 기회'로 규정하며 섬유산업 특별법 재추진을 촉구했다. 정책 지원 없이는 구조적 경쟁력 확보가 어렵다는 업계 위기감이 반영된 발언이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2d0469f1-391e-4b6f-af9a-211355577d16",
+        "title_ko": "J스트리트 패션, 50년 역사로 부활",
+        "summary_ko": "히로시마, 베르디 등 일본 스트리트 패션 아이콘들의 궤적을 재조명하는 기획 보도가 나오며 J패션 부활론이 확산되고 있다. K패션과의 경쟁 구도 속에서 아시아 스트리트 패션 시장의 헤게모니 경쟁이 다시 열리는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8a30c684-1c0a-4d75-9eda-1985111e2875",
+        "title_ko": "웰니스 호텔, 헬스케어와 접목 가속",
+        "summary_ko": "호안그룹이 세라젬과 업무협약을 맺고 웰니스 호텔 사업을 본격화한다. 의료·헬스케어 기기 브랜드가 호텔 공간에 결합하는 구조로, 숙박 경험을 건강 관리 플랫폼으로 확장하려는 시도가 구체화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5fca3ffc-a7df-43b7-a231-ddbf5e959b47",
+        "title_ko": "아코르, 한국 호텔 시장 추가 진입",
+        "summary_ko": "글로벌 호텔 체인 아코르가 한국에 새 호텔 개설을 선언했다. 외국계 체인의 연이은 국내 진출로 서울 고급 숙박 시장의 공급 경쟁이 더욱 심화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "eecb7403-de77-4e65-a73f-20d235fd0f01",
+        "title_ko": "에드워드 권, 초고급 호텔 식음료 화제",
+        "summary_ko": "7성급 호텔 주방 비하인드를 공개한 에드워드 권 셰프의 발언이 화제를 모으며 초고급 호텔 식음료 서비스에 대한 대중의 관심이 높아지고 있다. 콘텐츠가 호텔 브랜드 인지도를 끌어올리는 경로로 자리잡는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "c6309f54-630e-4b87-8f78-82c37e5da5ce",
+        "title_ko": "MZ 할랄 소비, 가치 지향으로 진화",
+        "summary_ko": "20~30대의 82%가 '할랄 인증이 필수'라고 응답하며 할랄 소비가 종교를 넘어 웰빙·윤리·가치 소비의 상징으로 자리잡고 있다. 식품·뷰티 업계 모두 할랄 인증 획득이 수출 경쟁력의 기본 조건으로 부상하는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "52ba562b-5a74-4f84-ba6e-36c208e76462",
+        "title_ko": "Z세대, 음주 문화 거리 두기",
+        "summary_ko": "스페인 미디어 보도에 따르면 Z세대 사이에서 음주 문화 자체를 탈피하는 흐름이 뚜렷하다. 무알코올·저알코올 음료 시장이 그 수혜를 직접 받고 있으며, 이는 하이트진로의 사업 다각화 배경과도 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "caf6b7c5-096b-45ca-9c2a-13847a1378dd",
+        "title_ko": "무알코올 음료, Z세대 파티 문화 대체",
+        "summary_ko": "젊은 층의 알코올 소비 감소와 '0.0도' 음료의 부상이 스페인 데이터로도 확인된다. 글로벌 Z세대의 탈주류 흐름은 단일 시장 현상이 아니라 구조적 전환 신호로 읽어야 한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터들을 관통하는 핵심은 '검증된 가치'가 소비 결정의 첫 번째 기준이 되고 있다는 점이다. MZ세대의 할랄·무알코올 선호, 비건 클린뷰티 부상, 웰니스 호텔 확장은 모두 성분·윤리·건강이라는 공통 코드로 연결된다. K-뷰티와 K-패션이 해외 확장을 서두르는 배경에도 이 가치 소비 흐름이 깔려 있으며, 주류 대기업 하이트진로의 뷰티 진출은 그 전환 압력이 산업 경계를 넘기 시작했음을 보여주는 가장 직접적인 신호다.",
+  "cards_meta": {
+    "bae93bce-4da9-42b0-a362-128bd156e468": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ScHFPZ2RZdmtGSE04MDgtSlFXNlIxNjh5UWtsbEZIM1RaZGwwOGw5X1dvZjIwZFVKZGM5V0hOY0VhWTI2VVlRbGcxVnJ1OUNNdjFnNmtySkJTdnI1SjVlNzJQSVVVTHFzY0HSAW5BVV95cUxPblJEMFlLaERmYmtkRmJYY3p1QndQN2E5TnhTbEhMRUZZVEJPR1UzRTUxczEyN3gyc1lMcWlqNUpYS0tpTmdEemdMcTlOaGF3UjZlcVhUQ2dVZVVhemRONnNVVW1MTW5feUowM09XZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'클린 미트' 저자 폴 샤피로 “대체육, 선택 아닌 필수 될 것” - 주간조선",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3154b96a-4e1a-4d5d-906e-45a0193946f7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99203",
+      "original_headline": "경북도, ‘2026 인터참 코리아’서 212만 달러 수출계약 성과",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "37df77c9-0cc4-475f-971e-05b1f0e0e13f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aMGpWMjNSU1kybUkxa1hXTXNKT1lzVUNPTXMzRmV3dmpTb2N5ZV9QMHhEYndOd2pMV0VibnIzYXVXNFJma3FVTkNjR1o2VHFqeF9sc9IBVEFVX3lxTE9aMGpWMjNSU1kybUkxa1hXTXNKT1lzVUNPTXMzRmV3dmpTb2N5ZV9QMHhEYndOd2pMV0VibnIzYXVXNFJma3FVTkNjR1o2VHFqeF9scw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "주류 침체에…하이트진로, K뷰티에 베팅 - 한국경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b05f460a-7473-4726-9903-3918f79f6677": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoOG81dENMbGVjRWlLQzdxVnlzVnEtQ05sTzNOejAxREJVSG5oVnkzQ2x4OEYxUkVQbmdCTzRqQ3YyRGdncmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"한국 화장품 최고\" 미국서 난리난 올리브영…돈 버는 곳은 따로 있다?[주末머니] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a3010b1d-8885-4cbf-b6b3-19d2a1bf2401": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSTBLNHl6UFoyTFBudnRIVEhDQ2VDajlZN25aX3J1MHg3OXFlb3ZQR1RsZVB3YnMtR3B1VHRmNlFfN2tPRWx6Y2FENEg5Y2JsMFHSAVNBVV95cUxNUFdfSkxMUFZiSV9NeHlrdzJ4STdlM3h0Umxza051NUtYbTFmM21Yazl3R0g3YzJfX1czYnJMN2VXNk0tNzhBVldqSDJfQVEycS13UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "최병오 “K패션, 글로벌 도약 마지막 기회…섬유 특별법 재추진” - 서울경제신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2d0469f1-391e-4b6f-af9a-211355577d16": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lNXJuWmZucGpKM3hqVUJ1QlRRTE0yY2tmUWFvT3RfdmQ4N1Z3WmM5UlNZZE5WVHB0WE9ZdVI1aUp6V19OeFExUEdrdEprNWNhV1J5SkVyYWVja3lKanYxTmdhX0o4cEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "히로시부터 베르디까지…J스트리트 패션, 50년의 역사 돌아보니[J패션 부활, 제2의 전성기②] - 한경매거진&북",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8a30c684-1c0a-4d75-9eda-1985111e2875": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HWUJiSzh3OGRHWjFHRHlUdlh4UEtEV1d5c3UxOHJOWWVRSm50X19VVHlSSE8tV1prR25qVk0xX1lQMjlLZHFhUGRMRnI2VjVodXRFQUdkX19OUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호안그룹, 세라젬과 전략적 업무협약 체결 \"웰니스 호텔 사업 본격화\" - 파이낸셜뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5fca3ffc-a7df-43b7-a231-ddbf5e959b47": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSWQ1NDd5MTFLcFZNa3M4U2NKeXROcjNEVzZBNUVjRVJzRUt4eXBqVkdtcVZLTjZweTFSc0RScndJcHVtZTZ3NDJKZTVfQUVwZ2tNcDFIR0o5Z9IBVEFVX3lxTE5yTVhDZFFneE9UVmZwTVZIZ2kwR09TdUZzQ2JxOFBRalJGV2pKaklFTVQ5WHRuZjFvT3ZnQ25sNTRPSk5BWXRUQkU1MklabmRwWk5Cdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'호텔 격전지' 韓…아코르, 새 호텔 연다 - 한국경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "eecb7403-de77-4e65-a73f-20d235fd0f01": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jLW4yUDBoSHd2ZXVjVUQtdm42ODVHaHZ2a0JXYkZrZ2FSX2FVSnVLX2dyaENrYU94RTZ6N0R6VkM0a0szUUxSRXNvOFQzUVc5SVlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "7성급 호텔 셰프 에드워드 권, 손님 주문 취소에 후회 \"파스타 하지 말았어야\"(스레파) - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c6309f54-630e-4b87-8f78-82c37e5da5ce": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z3Y1M1RGTng0dkNXMHBtbzRROURWVDZJWjI3V09YTURzR1NMV25vMGJKRkNYUzZQZ3Yyd0JjQTBMTmxXNElSRnNhVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "52ba562b-5a74-4f84-ba6e-36c208e76462": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "caf6b7c5-096b-45ca-9c2a-13847a1378dd": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
