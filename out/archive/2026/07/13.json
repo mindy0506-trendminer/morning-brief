@@ -1,0 +1,244 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영·코스맥스, AI 기반 서비스로 K뷰티 글로벌 확장 가속",
+    "소비트렌드: MZ세대, 할랄·무알콜·한푸 등 가치 기반 소비로 진화 중",
+    "유통: 3분기 체감경기지수 12p 반등, 백화점·편의점이 상승 주도"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "78dfa249-97d1-46cd-8c38-7abfa6ec09fd",
+        "title_ko": "유통 체감경기 12p 반등",
+        "summary_ko": "3분기 유통업계 체감경기지수가 전 분기 대비 12포인트 상승했다. 백화점과 편의점이 상승을 이끌며, 소비 심리 회복세가 채널별로 차별화되고 있음을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ef4358a2-cddf-46f4-9648-f0f1cb3e6afb",
+        "title_ko": "정크 비건, 다이어트 효과 입증",
+        "summary_ko": "가공식품 위주의 비건 식단도 지중해식보다 체중 감량 효과가 높다는 연구 결과가 나왔다. '건강함'의 기준이 식재료 품질에서 동물성 배제 여부로 이동하는 흐름이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "53eae585-f266-4b4c-8129-dbd61a173042",
+        "title_ko": "비건 학생, 학식 접근성 사각지대",
+        "summary_ko": "대학 구내식당에서 비건 학생이 선택할 수 있는 메뉴가 사실상 없다는 문제가 제기됐다. 비건 인구 증가에 비해 제도·인프라가 뒤처지고 있어, 관련 식품·급식 시장의 공백이 부각된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "455e88dd-8a49-4d3a-8c66-96b2e63ba906",
+        "title_ko": "올리브영, AI 키오스크로 외국인 공략",
+        "summary_ko": "올리브영이 8개 국어를 지원하는 AI 쇼핑 어시스턴트 키오스크를 외국인 비중이 높은 매장에 도입했다. 상품 설명·재고 조회·맞춤 추천까지 직원 없이 처리하며, K뷰티 성지 경험을 표준화하는 시도로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "371e4e16-cdff-48b0-ad76-8a841228917a",
+        "title_ko": "올리브영, 미국 수익 구조 조명",
+        "summary_ko": "미국에서 K뷰티 열풍이 이어지는 가운데, 올리브영의 실제 수익 원천이 어디에 있는지에 대한 분석이 주목받고 있다. 브랜드 인지도와 수익성 사이의 간극이 핵심 화두로 떠올랐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a18c0604-1e40-4c2f-a498-08e92553c351",
+        "title_ko": "코스맥스, AI 맞춤 화장품 일본 상륙",
+        "summary_ko": "코스맥스가 일본 유통사 후지신과 합작법인 트라이넥스를 설립하고 AI 기반 맞춤형 화장품 플랫폼의 첫 해외 적용에 나섰다. 약 2만 개 일본 미용실 네트워크를 유통 채널로 활용한다는 점에서 K뷰티 제조 ODM의 새 확장 모델이 된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "3e4e8455-e459-4bb6-8551-6d328b7e5322",
+        "title_ko": "글로벌 패션 대형사 성장률 1.5%로 둔화",
+        "summary_ko": "글로벌 주요 패션 기업들의 2025년 합산 매출 증가율이 1.5%에 그치며 전년(2%)보다 낮아졌다. 대형사 중심의 성장 동력이 약해지면서, 구조적 둔화 국면 진입 여부에 관심이 쏠린다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "422413c6-b419-41a2-acb5-fe46724b4abe",
+        "title_ko": "풀파티 수요에 호텔·워터파크 경쟁 가열",
+        "summary_ko": "폭염이 이어지면서 호텔과 워터파크가 풀파티 유치 경쟁에 본격 합류했다. 여름 시즌 숙박·레저 소비가 '더위 회피'에서 '물놀이 경험 구매'로 전환되는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7ef86b2d-f894-428b-b7f8-d1415dd0cb96",
+        "title_ko": "메리어트, 아시아 호텔 파트너십 확대",
+        "summary_ko": "메리어트 인터내셔널이 '더 익스체인지 2026' 행사를 마무리하며 200여 개 호텔의 참여를 이끌어냈다. 중화권 및 신규·리노베이션 호텔 참여가 늘어 아시아 지역 네트워크 확장 의지를 재확인했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b15229a2-66e6-45cd-a2cb-0d6f53e0cf93",
+        "title_ko": "호텔조리과, 중국 현장 실습 확대",
+        "summary_ko": "충남도립대 호텔조리제빵학과가 중국 현지 외식 산업 현장 실습을 통해 글로벌 역량 강화에 나섰다. 국내 조리·외식 인재 양성이 해외 현장 경험 중심으로 재편되는 흐름을 반영한다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "eb73adda-4fc6-4cf5-a0bd-dde65b686429",
+        "title_ko": "MZ세대 할랄 소비, 가치 소비로 진화",
+        "summary_ko": "국내 MZ세대 20~30대 중 82%가 할랄 인증을 필수로 여긴다는 조사 결과가 나왔다. 종교적 이유를 넘어 웰빙·윤리·가치 지향으로 소비 맥락이 확장되며, 할랄이 하나의 프리미엄 기준으로 자리잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "34443a7f-40b4-4dd6-aab3-695ec38b1dec",
+        "title_ko": "중국 Z세대, 한푸를 문화 소비로",
+        "summary_ko": "중국 Z세대가 전통 의상 한푸를 일상 문화 소비의 일환으로 받아들이며 국조(国潮) 트렌드를 견인하고 있다. 민족 문화 자긍심이 패션 소비로 이어지는 구조로, K콘텐츠와 경쟁하는 자국 문화 소비 흐름이 강화되는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d7902d86-d51d-46fc-a599-5c2085153676",
+        "title_ko": "Z세대, 술자리 대신 무알콜 음료 선택",
+        "summary_ko": "스페인을 비롯한 유럽 Z세대 사이에서 알콜 소비가 감소하고 무알콜 음료가 파티 문화의 주류로 부상하고 있다. 국내 무알콜 시장 성장세와 맞물려 글로벌 동시 트렌드임이 확인된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 가로질러 읽히는 공통 흐름은 '가치 기반 소비의 다층화'다. MZ세대의 할랄 소비, Z세대의 무알콜 선택, 비건 식단 확산은 모두 건강·윤리·정체성을 소비 결정의 기준으로 삼는다는 점에서 같은 맥락에 놓인다. 동시에 올리브영과 코스맥스의 AI 서비스화는 이 수요를 정밀 타겟팅하려는 공급 측의 응전으로 볼 수 있다. 체감경기 반등과 풀파티 열기가 겹치는 여름 시즌, 소비자는 단순 절약보다 '나다운 소비'에 지갑을 여는 구도가 선명해지고 있다.",
+  "cards_meta": {
+    "78dfa249-97d1-46cd-8c38-7abfa6ec09fd": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DcHNzRS03N0tXZWhzLVJsZVJEdjJMeVo0QmNoNTFtdDVTN3RrREkwNFMxb3B5TTBnLWpnSzVVMmNiUHJwRG5nVmhEem9vWGdNX3ZvYU1NQVl6UXlqZ20weVlwV1hDZHVKWmlJcjVaRFp4a0NV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "3분기 유통업계 체감경기지수 '12p' 상승…백화점·편의점 최고 | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ef4358a2-cddf-46f4-9648-f0f1cb3e6afb": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jWWRqb0UzbzdKMVc4d0tkUWhVUTZEOUJWYWZCUkpySGxGNk81aWtmOWhEVEsxUkRCcVE3OXotVDFNMU9BYmhoYzlabG9jM2FBUUZSazQ5S0IzcGpmRVcyRkxGZlFrSV9jWHlpTmI1b3RYejdOcUZGczZ2NWZtakE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'정크 비건'도 살 잘 빠진다… 지중해식보다 효과적 - 헬스조선",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53eae585-f266-4b4c-8129-dbd61a173042": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "455e88dd-8a49-4d3a-8c66-96b2e63ba906": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZdFNEN3FHQU9wd2JnZGpMcmhmeHZqMDhQVndmZnZiOFd6YnpDMS05WDFBNDJWSjVsYjV3azU4V1FwOG91R0FVRGxfakIzdnVteVh4N0Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, ‘AI 쇼핑 어시스턴트’ 도입 - 헤럴드경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "371e4e16-cdff-48b0-ad76-8a841228917a": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoOG81dENMbGVjRWlLQzdxVnlzVnEtQ05sTzNOejAxREJVSG5oVnkzQ2x4OEYxUkVQbmdCTzRqQ3YyRGdncmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"한국 화장품 최고\" 미국서 난리난 올리브영…돈 버는 곳은 따로 있다?[주末머니] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a18c0604-1e40-4c2f-a498-08e92553c351": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310526",
+      "original_headline": "코스맥스, 日 후지신과 합작법인 설립…AI 맞춤형 화장품 해외 진출 본격화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e4e8455-e459-4bb6-8551-6d328b7e5322": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/la-moda-se-atasca-los-gigantes-del-sector-crecen-solo-un-15-en-2025",
+      "original_headline": "La moda se atasca: los gigantes crecen sólo un 1,5% en 2025",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "422413c6-b419-41a2-acb5-fe46724b4abe": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RNXJNeTVNbXFBS2w0YzhKMWlpNEVDM19qZ19BWEc3U2h2Q1N4dlB1U01WZmV6Mk5yYWU0eUZyREdXNlBkWU44aXBlUHhOMlZaVWlTaExuVjVteWNCckVLYUg0T2FqZUVqZG1BYjRnbXQzNDdZLWdXal9UMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "폭염 잊은 ‘풀파티’… 호텔·워터파크도 유치전 합류 - 부산일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7ef86b2d-f894-428b-b7f8-d1415dd0cb96": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWFRpd2czWXRtTVpVS3pkY2xMZVJpMFVrZTF0MTV0eWtzek9tbjRodENKSk41X0FLYnNqd0JYRW1yRHF6OGF2WXZlVHpWTC12RG1MbEYybE80Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "메리어트 인터내셔널, '더 익스체인지 2026' 성료…200여개 호텔 참여 - 파이낸셜뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b15229a2-66e6-45cd-a2cb-0d6f53e0cf93": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3UmdsQXFBS3hqbmFRQndEeG94QktObnV1QktSN0hYQXBfSGc4THdQUEluQ0tSSmhXeTdLbVFiWmRBWEhOUEFaMlgteHYtbEJtZUNaeFJpX0xXRXZPbnBUOHZkMkliQ1hQOVNQWUh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "충남도립대 호텔조리제빵학과, 글로벌 외식산업 배웠다 - 금산중앙신문방송",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "eb73adda-4fc6-4cf5-a0bd-dde65b686429": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Z3Y1M1RGTng0dkNXMHBtbzRROURWVDZJWjI3V09YTURzR1NMV25vMGJKRkNYUzZQZ3Yyd0JjQTBMTmxXNElSRnNhVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "34443a7f-40b4-4dd6-aab3-695ec38b1dec": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "d7902d86-d51d-46fc-a599-5c2085153676": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
