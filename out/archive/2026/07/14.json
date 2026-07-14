@@ -1,0 +1,196 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "백화점 3사 외국인 매출 1조 돌파 목전, 명품·패션이 성장 견인",
+    "K-뷰티 수출, AI 무역 플랫폼으로 지원 체계 본격 전환",
+    "웰니스 가전·호텔 헤리티지 공간화, 라이프스타일 프리미엄 경쟁 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3ce12cc9-5e09-482c-93e0-510a3298b07b",
+        "title_ko": "정부, 여름철 먹거리 물가 총력",
+        "summary_ko": "농림축산식품부가 제3차 여름철 수급안정대책반 회의를 열고 장마 이후 병해충 확산 위험에 대비한 생육 관리를 점검했다. 고온다습한 여름철 날씨가 변수로, 농산물 가격 불안 가능성에 선제 대응 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f41aef21-57a7-48af-bcbf-533dbf517d45",
+        "title_ko": "건기식 정보, 포털이 절반 장악",
+        "summary_ko": "건강기능식품 소비자의 절반이 포털 사이트를 통해 제품 정보를 얻는 것으로 나타났다. 검색 기반 정보 탐색이 구매 경로의 출발점으로 굳어지면서, 브랜드의 콘텐츠 검색 최적화 전략이 핵심 과제로 부상한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d4fdc596-ed11-418d-82c9-81fcb464ba8c",
+        "title_ko": "힐로웨이브, 의료진 300명 심포지엄",
+        "summary_ko": "네오팜과 하이어코퍼레이션이 공동 개최한 힐로웨이브 심포지엄에 피부과·성형외과 의료진 300여 명이 참석했다. 브랜드 역사상 최대 규모로, 의료 미용 디바이스의 임상 신뢰도를 핵심 경쟁력으로 내세우는 전략이 뚜렷해졌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "33815aa7-457e-4644-b234-5743ee83bb87",
+        "title_ko": "대구, K-패션 제조 인재 육성",
+        "summary_ko": "한국섬유개발연구원이 'K-패션 대구 패션제조 마스터 20' 모집에 나섰다. 섬유 제조 기반 도시 대구가 글로벌 K-패션 수요를 제조 역량으로 뒷받침하려는 시도로, 생산 기반 인재 확보 경쟁이 본격화되는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ad3daacf-543e-4e73-b195-5e05272e527f",
+        "title_ko": "백화점 외국인 매출 1조 목전",
+        "summary_ko": "국내 백화점 3사의 외국인 연간 매출이 처음으로 1조 원을 넘볼 전망이다. 명품과 패션 카테고리가 성장을 주도하고 있어, 인바운드 소비가 고가 브랜드 매출 구조를 재편하는 요인으로 작용하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8596a081-1c38-4820-be8f-2be09dbe13a2",
+        "title_ko": "모션베드, 5성급 호텔 웰니스 입성",
+        "summary_ko": "N32 모션베드가 국내 최초로 반얀트리 서울 그랜드 프리미어 풀 스위트에 도입됐다. 수면·회복 중심의 웰니스 트렌드가 특급 호텔 객실 설계로 이어지면서, 기능성 가전이 럭셔리 호스피탈리티의 구성 요소로 진입하는 흐름이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5d8fad8f-23dd-46c6-a666-f34f897c0b24",
+        "title_ko": "워커힐, 63년 역사 공간으로 재현",
+        "summary_ko": "워커힐 호텔앤리조트가 63년 헤리티지를 주제로 한 '스토리 라운지'를 열었다. 브랜드 역사를 공간 경험으로 풀어내는 방식은 호텔이 숙박 시설을 넘어 문화 목적지로 포지셔닝하려는 전략의 일환이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0fe5884b-7b7d-4ada-b407-e1d8f69cee68",
+        "title_ko": "화장품 동전주, 상장폐지 압박 고조",
+        "summary_ko": "금융위원회가 7월 1일부터 상장폐지 제도를 강화하면서 주가 1000원 미만 화장품 동전주가 5곳으로 줄었다. 부실 기업 퇴출 절차가 빨라지면서 화장품 업종 내 옥석 가리기가 본격화되는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "facf7c4f-f29d-4d63-a1f4-c3b0869e28a3",
+        "title_ko": "AI 무역 플랫폼, K-뷰티 수출 전진기지",
+        "summary_ko": "한국무역협회가 창립 80주년을 맞아 AI 무역 플랫폼 구축을 핵심 비전으로 제시하고 K-뷰티 수출 지원 확대를 선언했다. 수출 지원 인프라의 디지털 전환이 K-뷰티 글로벌 확장의 구조적 기반으로 자리잡을 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b796f604-fbe3-43c3-b7b8-1fdff0d44ee5",
+        "title_ko": "중국 Z세대, 한복 문화소비 부상",
+        "summary_ko": "중국 Z세대 사이에서 한복을 비롯한 전통 의복 문화소비가 확산되고 있다. 국조(國潮) 트렌드와 맞물린 전통 문화 재해석이 소비 정체성 표현 방식으로 자리잡으면서, K-패션과 교차하는 문화 소비 기류로 주목할 만하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 신호들을 관통하는 흐름은 '경험과 신뢰를 매개로 한 프리미엄화'다. 백화점 명품·패션이 외국인 매출 1조를 견인하고, 모션베드가 5성급 호텔에 입성하며, 네오팜이 의료진 심포지엄으로 임상 신뢰를 쌓는 방식은 모두 같은 방향을 가리킨다. 동시에 AI 무역 플랫폼과 상장폐지 제도 강화는 K-뷰티 생태계의 구조 재편을 알리는 이중 신호로 읽힌다. 수출 인프라는 고도화되는 반면 부실 기업 퇴출이 가속화되면서, 경쟁력 있는 브랜드로의 자원 집중이 빨라질 것으로 보인다.",
+  "cards_meta": {
+    "3ce12cc9-5e09-482c-93e0-510a3298b07b": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68251",
+      "original_headline": "농식품부, 여름철 먹거리 물가안정 총력",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f41aef21-57a7-48af-bcbf-533dbf517d45": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRnNnV3E1b1k4VnBCQUNsVXJ4UDBxOWp2N1pUTTdvVXQtVWNpNGgxT1A0MUpxOVhpZmx2Z1FxZXNoWkRNaUJOZDI0T2tJMDQ0Z3M1d1F0UU1pNnF1X3hCSlFQeVpMQ1FxdVYwUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "건강기능식품 소비자 절반 정보습득 경로 '포털 사이트' - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d4fdc596-ed11-418d-82c9-81fcb464ba8c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99260",
+      "original_headline": "네오팜-하이어코퍼레이션, ‘힐로웨이브’ 심포지엄 성료",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "33815aa7-457e-4644-b234-5743ee83bb87": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yVmFfbVJmZEZybVdWbV9VSk8xcXpNZXMtaFA2eVQ0V3JVZTNUYTczQklOeW5WVmZ5aTNNZXhheUd2SVN5X1V4c19JSEJpa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국섬유개발연구원, K-패션 이끌 ‘대구 패션제조 마스터 20’ 모집 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ad3daacf-543e-4e73-b195-5e05272e527f": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wWW41V2F3aGxTM2tKWnl1eldyNkVhclhBbzhRcGZLRU8yVndpTndJZkM5anhtQllLbGhxUk03TUk0VnhXQnk2Qk42b0RmRnptMTYwei1vZjktSmlxLWRFTEdSbjN0ZFg1Tk5GemhPQzh5WVgt?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "백화점3사, 첫 연간 외국인 매출 1조 정조준…명품·패션 견인 | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8596a081-1c38-4820-be8f-2be09dbe13a2": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnWHpQOWhZN3c5VTFkbzZmc21NRUdtQm5EVjhhRy16UkdSdXBqU2ljRGRkbkNmU2g5MGpkNU1ZbXhaSTNNR0htSDNFczZab2IyNXJJT1ZGNkJ4aFhfNnJPa1VqWFAwSzRrZVIzanB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "N32 모션베드, 국내 최초 ‘5성급 호텔’ 진출… 반얀트리 서울 '그랜드 프리미어 풀 스위트'에 비치 - 월드투데이",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d8fad8f-23dd-46c6-a666-f34f897c0b24": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TNVBWbFowUjhrUDBFSHNpa0R3ZXJMMmpibF8teFlBMW9CcXZOcHMxVjVMMUFjVmstWTdKbE9kZ3N5SDBWanE4NFlpXzFrZm5TTXdZN0hOQklPSkJTSy10WXNfY3U5eUtodWwyZ2hDWlplTWFEMmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "워커힐 호텔앤리조트, 헤리티지 담은 ‘워커힐 스토리 라운지’ 오픈 - 호텔앤레스토랑",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fe5884b-7b7d-4ada-b407-e1d8f69cee68": {
+      "category": "소비트렌드",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310563",
+      "original_headline": "화장품 동전주 5곳 남았다…상장폐지 제도 개편에 투자자 '촉각'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "facf7c4f-f29d-4d63-a1f4-c3b0869e28a3": {
+      "category": "소비트렌드",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310562",
+      "original_headline": "무역협회, AI 무역 플랫폼 구축…K-뷰티 수출 지원 확대",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b796f604-fbe3-43c3-b7b8-1fdff0d44ee5": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
