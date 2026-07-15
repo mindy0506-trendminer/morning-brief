@@ -1,0 +1,246 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 이너뷰티·약국 유통 등 새 채널로 외연 확장 본격화",
+    "구제의류 창업 성공·신진 인재 육성 프로그램, K-패션 저변 재편 신호",
+    "호텔업계, 헤리티지·아날로그 감성 패키지로 체험형 차별화 경쟁 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "0535657b-c43e-4982-aa89-83b51ce4ef44",
+        "title_ko": "학생식당 비건 접근성 사각지대",
+        "summary_ko": "대학 학생식당 메뉴 대부분이 육류 기반으로 구성돼 비건 학생들이 급식 이용 자체를 포기하는 사례가 이어지고 있다. 캠퍼스 내 비건 수요가 가시화되고 있으나 급식 운영 체계가 이를 반영하지 못하는 구조적 간극이 드러난 사안이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "de086fd4-5e30-4ee6-a394-c347795e536b",
+        "title_ko": "로드숍 실적, 브랜드별 명암 뚜렷",
+        "summary_ko": "에이블씨엔씨는 체질 개선 효과로 주가와 외국인 보유율이 동반 상승한 반면, 토니모리와 한국화장품은 주가 급락에도 성장 모멘텀을 회복하지 못하고 있다. 같은 로드숍 카테고리 안에서도 구조 혁신 여부에 따라 투자자 신뢰가 갈리는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "82dfbe8f-6a8b-42ed-87c7-31caf7a15a57",
+        "title_ko": "K뷰티, 126조 이너뷰티 시장 진입",
+        "summary_ko": "K뷰티 업계가 먹는 피부 관리 제품군, 즉 이너뷰티 시장에 본격 진출하고 있다. 글로벌 시장 규모가 126조 원에 달하는 만큼, 스킨케어 중심이던 K뷰티의 제품 카테고리가 뷰티 푸드로 확장되는 구조 변화로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7a2f772b-76fe-4e57-8f9c-17950d2cc762",
+        "title_ko": "약국이 K뷰티 유통 거점으로",
+        "summary_ko": "바로팜이 '파마시뷰티존' 브랜드를 앞세워 약국 채널 기반 K뷰티 유통망 확대에 나섰다. 헬스앤뷰티(H&B) 스토어 중심이던 오프라인 유통 지형에 약국이 새 거점으로 부상하며 채널 다변화 흐름이 가속되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "45365669-1aee-4687-b8f4-b38d8b90b876",
+        "title_ko": "K-패션 신진 인재 발굴 체계화",
+        "summary_ko": "한국섬유개발연구원이 '대구 패션제조 마스터 20' 프로그램을 통해 K-패션을 이끌 신예 디자이너·제조 인재를 공개 모집하고 있다. 단발성 공모전을 넘어 제조 역량까지 아우르는 육성 체계가 마련된다는 점에서 산업 저변 확대의 신호로 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "846798c8-fac2-4b8b-b042-ce4cff19f635",
+        "title_ko": "차주영, LA 럭셔리 브랜드 앰배서더",
+        "summary_ko": "배우 차주영이 LA 기반 럭셔리 브랜드 브로슈 워커의 앰배서더로 활동하며 포토콜에 참석했다. 국내 연예인과 해외 신흥 럭셔리 브랜드 간 협업이 늘면서 K-셀럽의 글로벌 마케팅 활용 범위가 넓어지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e48b884b-f085-498c-a5a3-3103131ec960",
+        "title_ko": "구제의류 창업, 120억 브랜드로",
+        "summary_ko": "구제 의류를 즐겨 입던 고등학생이 연매출 120억 원 규모 브랜드 대표로 성장한 사례가 주목받고 있다. 중고·빈티지 의류에 대한 소비자 인식 전환이 실제 시장 성과로 이어지고 있음을 보여주는 사례로, 업사이클·구제 시장의 상업적 가능성을 재확인시킨다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "66dfc90a-462b-4301-81fd-8d42bd26b8ce",
+        "title_ko": "워커힐, 헤리티지 스토리 라운지 개관",
+        "summary_ko": "워커힐 호텔앤리조트가 호텔의 역사와 유산을 담은 '워커힐 스토리 라운지'를 새로 열었다. 숙박 기능을 넘어 브랜드 서사를 체험 공간으로 구현하는 방식으로, 호텔이 문화 헤리티지 거점으로 자리매김하려는 흐름의 일환이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "543b7958-8477-4154-8592-bb4aab98e7d0",
+        "title_ko": "신라호텔, LP 감상 호캉스 패키지 출시",
+        "summary_ko": "서울신라호텔이 객실에서 LP 음반을 감상할 수 있는 아날로그 감성 패키지를 내놓았다. 디지털 피로감을 역이용한 '디지털 디톡스형' 호캉스 상품이 프리미엄 호텔 시장에서 수요를 확인하고 있다는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "770beec1-36f1-451c-946b-c13005b8cc63",
+        "title_ko": "조선호텔, 초복 삼계탕 나눔 봉사",
+        "summary_ko": "조선호텔앤리조트가 초복을 맞아 취약계층에 삼계탕과 김치를 전달하는 나눔 봉사를 진행했다. 절기 마케팅과 사회공헌 활동을 결합해 브랜드 친밀감을 높이는 방식으로, 호텔업계의 지역사회 연계 행보가 꾸준히 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b8b8f8db-92d9-4933-a05e-6a8ca5c871b6",
+        "title_ko": "Z세대, 한복으로 문화 자긍심 소비",
+        "summary_ko": "중국 Z세대 사이에서 한복(漢服) 착용이 민족 문화 소비의 표현 방식으로 확산되고 있다. 전통 복식이 패션과 정체성 소비의 교차점이 되면서, 문화 국조(國潮) 트렌드가 의류 시장에서 구체적인 수요로 전환되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f61084a5-73db-4b58-8514-850653311ae4",
+        "title_ko": "Z세대, 술 대신 무알콜로 파티",
+        "summary_ko": "스페인을 비롯한 유럽 Z세대에서 음주량이 감소하고 무알콜(0.0%) 음료 소비가 빠르게 늘고 있다. 건강과 선명한 정체성 관리를 중시하는 세대 특성이 음주 문화 전반을 바꾸면서, 무알콜 음료 카테고리의 성장이 일시적 유행이 아닌 구조적 전환임을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7f2d8936-f2d2-496a-bf4f-3fabb90149f4",
+        "title_ko": "Z세대 소비 행동의 새 문법",
+        "summary_ko": "중국 Z세대의 소비 행동 분석 자료에 따르면, 이 세대는 가성비보다 의미·경험·개성 표현을 우선시하는 방향으로 소비 패턴이 뚜렷하게 이동하고 있다. 브랜드가 Z세대를 공략할 때 제품 기능 중심 메시지보다 문화적 서사가 더 유효한 이유를 뒷받침하는 근거다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 공통 흐름은 '경험과 정체성 소비의 심화'다. 호텔이 헤리티지 라운지와 LP 패키지로 체험 서사를 팔고, Z세대가 한복과 무알콜 음료로 문화적 자아를 표현하며, 구제의류 창업자가 빈티지 취향을 120억 브랜드로 전환한 것은 모두 같은 맥락이다. 소비자는 제품을 구매하는 것이 아니라 자신이 누구인지를 구매한다. K뷰티가 이너뷰티·약국 채널로 영역을 넓히는 것도 '피부 관리'라는 기능이 아니라 '나를 가꾸는 라이프스타일' 전체를 선점하려는 시도로 읽힌다. 브랜드가 기능적 가치만 내세우면 점점 좁아지는 공간에서 경쟁하게 된다는 경고이기도 하다.",
+  "cards_meta": {
+    "0535657b-c43e-4982-aa89-83b51ce4ef44": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "de086fd4-5e30-4ee6-a394-c347795e536b": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310575",
+      "original_headline": "에이블씨엔씨 체질개선 효과 가시화…토니모리·한국화장품은 성장 모멘텀 부재",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82dfbe8f-6a8b-42ed-87c7-31caf7a15a57": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QWW5QSy05VHpTMll0bVVQU3dhVzRyZjFpMUdmWHZVWENuLUlpY1locWNOalVEYUJ3LUNjREd3R3FqOHJ6LUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'먹어서 피부관리'…K뷰티 업계, 126조원 이너뷰티 시장 공략 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7a2f772b-76fe-4e57-8f9c-17950d2cc762": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xQzNnc3Q0bXZTNUdlcmpSU0llVnNSck0xc3Z4ZDdVUmRkZUFINUotSTNPcFUtUkFEdW45VjNfSU84R3E3TmJ3eFBiRWhrTFp1b1FSdDFPVFJDaGt4cjhLWHljaEJSVlozMmcxRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바로팜, ‘파마시뷰티존’ 출격 약국 기반 K-뷰티 유통망 확대 - 약사공론",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "45365669-1aee-4687-b8f4-b38d8b90b876": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SRGVGZjBGWTh4dEdzdFNyczVKTVhMckptNXZIZllveVFTbml0YzBPYnozbFdKOW1pUGVLQXB4NEpobkNEeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-패션 이끌 신예를 찾아서 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "846798c8-fac2-4b8b-b042-ce4cff19f635": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5Q1RWQW5odk1SV3BxbVEydXp6LW5yQUtvSjJYZ3RLaXZMbzVtYzB5VzFxTFlwblFVRjV6ekpqbUZJdXcwdGFqUi1kcjFUTnRlT1J4YUMyWXkya000QndrQVQ4TU53bHZfZHVZQTNXWnFBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[HD포토] 차주영, ‘화사한 여름 패션’ (브로슈 워커 포토콜) - 톱스타뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e48b884b-f085-498c-a5a3-3103131ec960": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNTZUTlpSdFkweC1GOHdUYjBBVGVEQmRWUV9LVFNfSEpvbHFvWVBXQkVhajVBM280UFRzdW01SUtxMDkzNjVISDNBcGRuM0JfczVzakZ1SC1zdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구제의류 찾아 입던 고등학생… 매출 120억 브랜드 대표로 [K스타일 웨이브] - 파이낸셜뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "66dfc90a-462b-4301-81fd-8d42bd26b8ce": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TNVBWbFowUjhrUDBFSHNpa0R3ZXJMMmpibF8teFlBMW9CcXZOcHMxVjVMMUFjVmstWTdKbE9kZ3N5SDBWanE4NFlpXzFrZm5TTXdZN0hOQklPSkJTSy10WXNfY3U5eUtodWwyZ2hDWlplTWFEMmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "워커힐 호텔앤리조트, 헤리티지 담은 ‘워커힐 스토리 라운지’ 오픈 - 호텔앤레스토랑",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "543b7958-8477-4154-8592-bb4aab98e7d0": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFWHJhblIwUFY5VXAyWGFUN3d5STlvV0xGeF9zcV9DYUxkOWltdzJ2Yk9yTXMxU3pxZlZ6U3duVktoN2N1QXc2elN0c2JpdkpKemt5VlhZNGNGcHpUN2JXZGZsQXc0Qlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"'아날로그 감성 호캉스'…서울신라호텔, LP 감상 패키지 출시 - 청년일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "770beec1-36f1-451c-946b-c13005b8cc63": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uOVJmbGlNUkRubUVrUkhqY19HQWplQkZjNl9wcTFhWVZiM1F5c2h5VE5EbzJYdU1XblNwdnVuQnpkOVFvS3hTQ1JXQWJmSXRIeHpLSTdjS1dnaGVqNnV1NGJiX0V0UTJEUGJPVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "조선호텔앤리조트, 초복 맞아 취약계층에 삼계탕·김치 전달 - 뉴스탭",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b8b8f8db-92d9-4933-a05e-6a8ca5c871b6": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "f61084a5-73db-4b58-8514-850653311ae4": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "7f2d8936-f2d2-496a-bf4f-3fabb90149f4": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
