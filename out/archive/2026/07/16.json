@@ -1,0 +1,213 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 코스모프로프 북미 무대서 글로벌 경쟁력 재확인·유통 다각화 본격화",
+    "K-패션, 인재 육성·글로벌 행사·창업 성공담으로 수출 드라이브 동시 점화",
+    "화장품주, 코스피 급락 속 상승 마감하며 경기 방어주 위상 입증"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "ba6247b9-3ebf-4fcc-83fb-52e39bb6e7f2",
+        "title_ko": "화장품주, 증시 급락 속 방어주 확인",
+        "summary_ko": "코스피가 4거래일 누적 8.35% 하락하는 동안 화장품업종 지수는 2.41% 상승했다. 시장 급락일에도 플러스를 기록하며 경기 방어 성격을 입증한 만큼, 글로벌 불확실성이 지속될수록 K-뷰티 대표주에 대한 기관 관심이 높아질 가능성이 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5ccbc2bd-15f7-487c-af30-c1774a6b02a8",
+        "title_ko": "코스모프로프서 K-뷰티 위상 확인",
+        "summary_ko": "IBITA 통합 한국관이 라스베이거스 코스모프로프 북미 2026에서 80여 개 국내 기업과 함께 스킨케어·더마코스메틱 등 전 카테고리를 선보였다. K-뷰티가 B2B 전문 전시 무대에서도 기술력으로 글로벌 바이어를 설득하고 있다는 점에서 단순 수출 확대를 넘어 브랜드 신뢰 축적 단계에 접어들었다는 평가가 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8dca1e9e-9505-4180-ab8e-824c314bae16",
+        "title_ko": "약국 채널로 K-뷰티 유통 확장",
+        "summary_ko": "바로팜이 '파마시뷰티존'을 앞세워 약국 기반 K-뷰티 유통망 확대에 나섰다. 더마코스메틱 수요가 늘면서 약국이 헬스앤뷰티 스토어를 보완하는 新유통 채널로 자리를 굳혀가는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "c88c0591-20cd-4f32-ac03-a5faca6d936c",
+        "title_ko": "대구, K-패션 제조 인재 모집",
+        "summary_ko": "한국섬유개발연구원이 '대구 패션제조 마스터 20' 프로그램 참가자를 모집한다. 제조 기반의 기술 인재 육성에 집중한다는 점에서 디자인 중심 지원 일변도였던 K-패션 정책의 균형이 잡히는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f71f9a4d-9d17-4c62-845e-4d246829ce15",
+        "title_ko": "한국패션협회, K-패션 커넥트 개최",
+        "summary_ko": "한국패션협회가 'K-패션 커넥트'를 열고 글로벌 확산 전략을 공식화했다. 정부·협회·브랜드가 한 무대에서 해외 바이어와 접점을 만드는 구조로, K-패션의 수출 경로가 개별 브랜드 중심에서 산업 단위 협력으로 진화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0c19bf49-70b7-44cf-8447-0fe0be3e59c0",
+        "title_ko": "구제 마니아, 120억 브랜드 창업",
+        "summary_ko": "구제 의류를 즐겨 찾던 고등학생이 연매출 120억 원 규모 브랜드 대표로 성장한 사례가 주목받고 있다. 빈티지·리세일 문화가 단순 취미를 넘어 창업 생태계의 진입 경로로 기능하고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "642c956a-a23b-4290-bb9b-890242f41357",
+        "title_ko": "신라호텔, LP 감상 호캉스 패키지 출시",
+        "summary_ko": "서울신라호텔이 LP 플레이어와 음반을 객실에 비치한 아날로그 감성 패키지를 내놨다. 디지털 스트리밍에 익숙한 소비자가 오히려 불편함이 주는 경험에 프리미엄을 지불하는 역설적 소비 패턴이 호텔 상품에도 녹아들고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f30216bf-57bb-4e62-98d1-a10fd29036b8",
+        "title_ko": "호텔 고가 디저트, 콘텐츠 소재로 부상",
+        "summary_ko": "15만 원대 호텔 망고빙수가 연예인 방송 콘텐츠의 소재로 등장하며 화제가 됐다. 호텔 F&B의 고가 메뉴가 경험 소비이자 미디어 콘텐츠로 소비되는 이중 구조가 자리잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b17d719f-c4d9-43b1-934a-75ce2137220b",
+        "title_ko": "글로벌 호텔 그룹, 중국 라이프스타일 확장",
+        "summary_ko": "국제 호텔 그룹들이 중국 시장에서 라이프스타일 브랜드 확장을 가속하고 있다. 숙박 기능을 넘어 식음·리테일·문화 콘텐츠를 통합한 복합 체류 공간으로의 전환이 중국 소비 회복기와 맞물려 탄력을 받는 형국이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "526da21f-ae12-487a-ae9f-98b8b9ae2634",
+        "title_ko": "Z세대, 전통 의복으로 문화 자긍심 표현",
+        "summary_ko": "중국 Z세대가 한푸(漢服) 착용을 일상화하며 국조(國潮) 소비의 새 축으로 떠오르고 있다. 전통문화를 아이덴티티 표현 수단으로 재해석하는 흐름은 K-전통 콘텐츠 소비에도 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5d5b510f-5f43-46ad-bd87-4c47d8968922",
+        "title_ko": "Z세대 파티, 무알코올 음료가 주류로",
+        "summary_ko": "스페인 Z세대 사이에서 음주 빈도가 줄고 무알코올(0.0%) 음료 소비가 급증하고 있다. 건강과 자기통제를 중시하는 가치관이 축제·파티 문화에도 침투하며 주류 카테고리 전략 전반에 재편 압력을 가하고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '정체성 소비의 다층화'다. K-뷰티와 K-패션이 B2B 전시·글로벌 행사·신유통을 동시에 밀어붙이는 한편, 중국 Z세대는 전통 의복으로, 유럽 Z세대는 무알코올 음료로 각자의 가치관을 소비재에 투영하고 있다. 호텔 시장에서도 LP 감상 패키지와 고가 디저트 콘텐츠화가 '경험이 곧 정체성'임을 보여준다. 이 흐름에서 주목할 점은 방어주로 재평가받는 화장품주다. 문화 정체성 소비가 강해질수록 K-뷰티 브랜드의 글로벌 수요 기반은 경기 사이클을 일부 비껴갈 수 있다는 논리가 주가 데이터로도 뒷받침되고 있다.",
+  "cards_meta": {
+    "ba6247b9-3ebf-4fcc-83fb-52e39bb6e7f2": {
+      "category": "MacroTrends",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310592",
+      "original_headline": "화장품주 방어력 입증…코스피 급락에도 상승세",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5ccbc2bd-15f7-487c-af30-c1774a6b02a8": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DU2hwdV82V3RmVmRmWjdsZ1c3cWVhWDk3MXpMVldjWFpOOElmam1KaUdncDJYcnk5UVlVZlpnTGdHZjVHb1dtSWxpNHN4eC1DeVlUeHlEdWF1U0o1WWlFdy1YWkRjckp3elp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "IBITA 한국관, 미국서 K뷰티 글로벌 경쟁력 입증 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8dca1e9e-9505-4180-ab8e-824c314bae16": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xQzNnc3Q0bXZTNUdlcmpSU0llVnNSck0xc3Z4ZDdVUmRkZUFINUotSTNPcFUtUkFEdW45VjNfSU84R3E3TmJ3eFBiRWhrTFp1b1FSdDFPVFJDaGt4cjhLWHljaEJSVlozMmcxRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바로팜, ‘파마시뷰티존’ 출격 약국 기반 K-뷰티 유통망 확대 - 약사공론",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c88c0591-20cd-4f32-ac03-a5faca6d936c": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SRGVGZjBGWTh4dEdzdFNyczVKTVhMckptNXZIZllveVFTbml0YzBPYnozbFdKOW1pUGVLQXB4NEpobkNEeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K-패션 이끌 신예를 찾아서 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f71f9a4d-9d17-4c62-845e-4d246829ce15": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wellDbTRJQ3dYYlhEdkFabzk4Wl9kUTAxUjlBek45eVc0Wjd3VnRISzBpRVJzU3ZuajJDTXZ1dW1VQ0dvY2NZejRDbktOTUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"세계에 한국을 입히다\"…한국패션협회, K-패션 커넥트 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c19bf49-70b7-44cf-8447-0fe0be3e59c0": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nVUM2MFAxdThQWmJMTXNrZmJhODdGWEF2NjdrTGVJbnBDR2xHRkFzdFI0YmNpMVdyZXc4RERUNWdoU1kzb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구제의류 찾아 입던 고등학생… 매출 120억 브랜드 대표로 [K스타일 웨이브] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "642c956a-a23b-4290-bb9b-890242f41357": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFWHJhblIwUFY5VXAyWGFUN3d5STlvV0xGeF9zcV9DYUxkOWltdzJ2Yk9yTXMxU3pxZlZ6U3duVktoN2N1QXc2elN0c2JpdkpKemt5VlhZNGNGcHpUN2JXZGZsQXc0Qlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"'아날로그 감성 호캉스'…서울신라호텔, LP 감상 패키지 출시 - 청년일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f30216bf-57bb-4e62-98d1-a10fd29036b8": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWNPaFhyS2JRNUJ4ZFo2cVFpTUVtTDJtTWJuLVdVc29PMWhidktpbXBlUGFsSHhuNHA2d0kxRTlNdURHTFBWeG1KcndKdGxhWG0xT3JOak93WWsxWFNrTm1RNWlXc0I3Ql9CZk5FZDV6LUszUFNnZXAxU2g0Mmg5Ug?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'옥장판 논란' 김호영, 박미선과 망고빙수 먹방 \"호텔 거는 먹어야지\" [미선임파서블] - starnewskorea.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b17d719f-c4d9-43b1-934a-75ce2137220b": {
+      "category": "라이프스타일",
+      "source_name": "GN-ZH [라이프스타일] 生活方式 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NV01fbXVGMTBVY1hvbzBnNEZUaGFfWHNadzh6TndDU1I0SlU4QUtkR25tcTdxZjFkUHp5aFRmZFFLZmhJUnZ0RFJzWHl1VE5TRHJURFRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国际酒店集团加码中国，生活方式品牌进入扩张期 - 搜狐网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "526da21f-ae12-487a-ae9f-98b8b9ae2634": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d5b510f-5f43-46ad-bd87-4c47d8968922": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
