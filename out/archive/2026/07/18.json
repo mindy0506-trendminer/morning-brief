@@ -1,0 +1,225 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 기초화장품이 미·중·일 3대 시장 수출 반등을 동시에 견인",
+    "Z세대, 전통문화 소비와 음주 거부로 가치 중심 소비 구도 재편",
+    "K-패션, 글로벌 연결망 구축과 전통문화 접목으로 해외 확장 본격화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b6b14023-80c3-4643-97e1-fb67effaaaf6",
+        "title_ko": "대학 학식, 비건 학생 배제 여전",
+        "summary_ko": "고려대 학생식당 사례처럼, 국내 대학 급식에서 비건 학생이 선택할 수 있는 메뉴는 여전히 거의 없다. 샐러드에 불고기가 올라오는 현실은 비건 식단 인프라 부재를 상징한다. 소비재 관점에서 대학 채널을 겨냥한 비건 제품 수요는 공급 대비 과소평가된 상태다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5a0273fb-2946-4900-8aab-d34cb1a42591",
+        "title_ko": "기초화장품이 K-뷰티 수출 반등 주도",
+        "summary_ko": "2026년 6월 기준 한국 화장품의 미국·중국·일본 수출이 전년 대비 일제히 늘었다. 특히 중국에서는 기초화장품과 마스크팩이 성장세를 이끌었으며, 립 메이크업과 샴푸는 부진했다. 스킨케어 중심의 수출 구조가 3대 시장 모두에서 고착되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "407e4220-3c88-4389-b172-5f5cf5976c85",
+        "title_ko": "약국이 K-뷰티 유통 새 거점으로",
+        "summary_ko": "바로팜이 '파마시뷰티존'을 내세워 약국 기반 K-뷰티 유통망 확대에 나섰다. 헬스·뷰티 경계가 흐려지는 가운데, 약국 채널이 신뢰도와 접근성을 무기로 새로운 유통 거점으로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "c0f1a3c3-6f4d-496e-9f2c-69fcb2bc731a",
+        "title_ko": "한국패션협회, K-패션 글로벌 연결 가동",
+        "summary_ko": "한국패션협회가 'K-패션 커넥트' 행사를 개최하며 국내 브랜드의 해외 진출 연결망 구축에 나섰다. 단순 전시를 넘어 글로벌 바이어와의 직접 접점을 만드는 방향으로 지원 구조가 진화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f1d2e79f-e70e-45cd-8871-e4a30d59dc01",
+        "title_ko": "구제의류 마니아에서 120억 브랜드 대표로",
+        "summary_ko": "구제 매장을 돌던 고등학생이 연 매출 120억 원 규모의 패션 브랜드 대표가 된 사례가 조명받았다. 취향 기반의 저비용 진입과 빠른 브랜드화가 국내 청년 창업의 새 경로로 자리잡고 있다는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c2e21b97-0849-44d7-94e6-c42a7fc87c33",
+        "title_ko": "전통문화와 K-패션의 공식 결합",
+        "summary_ko": "내셔널지오그래픽 어패럴이 국가유산청과 협약을 맺고 전통문화 요소를 패션에 접목하기로 했다. 민관이 공식 협력 구조를 갖춘 만큼, 헤리티지 기반 디자인이 마케팅 차별화 수단으로 정착될 가능성이 높아졌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "fe9de731-0d3b-4c5b-bf94-91611f64e01b",
+        "title_ko": "글로벌 호텔, 중국 라이프스타일 시장 공략 강화",
+        "summary_ko": "국제 호텔 그룹들이 중국 내 라이프스타일 브랜드 확장을 가속하고 있다. 숙박을 넘어 생활 방식 전반을 아우르는 브랜드로 포지셔닝을 전환하는 흐름이 중국 시장에서 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2cbfa5db-2f1d-4fb4-8c81-795bb5f5fa55",
+        "title_ko": "2026년 실내 디자인 트렌드 정리",
+        "summary_ko": "2026년 인테리어 트렌드로 자연 소재, 차분한 색감, 다기능 공간 구성이 부각되고 있다. 팬데믹 이후 주거 공간에 대한 관심이 높아진 흐름이 지속되며, 소재와 기능 중심의 소비 패턴이 강화되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "59930f29-854a-48a5-aa73-1d605f700567",
+        "title_ko": "현대L&C 인테리어필름으로 공간 트렌드 공략",
+        "summary_ko": "현대L&C가 인테리어필름 브랜드 '보닥'으로 공간 트렌드 시장을 겨냥하고 있다. 고가 자재 대비 낮은 비용으로 트렌디한 공간 연출이 가능하다는 점이 합리적 소비 성향과 맞닿아 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "ea6c0ba4-299c-449e-a348-23f938bab79b",
+        "title_ko": "중국 Z세대, 전통 복식 소비로 자국 문화 재발견",
+        "summary_ko": "중국 Z세대가 한푸(漢服) 등 전통 의복을 일상 소비재로 받아들이며 '궈차오(国潮)' 흐름을 주도하고 있다. 단순 복고가 아니라 문화적 자부심과 연결된 정체성 소비로, 국내 한복 소비 트렌드와 궤를 같이한다.국내 전통문화 접목 패션 흐름과 교차해 읽을 만하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b78fe991-1d30-451d-b2ad-bfe60d1a8a5d",
+        "title_ko": "Z세대, 음주 문화 거부 흐름 가시화",
+        "summary_ko": "스페인에서 Z세대의 음주 소비가 뚜렷하게 줄고 무알코올 음료 시장이 성장하고 있다. 글로벌 Z세대의 '탈음주' 경향이 한 지역에 국한되지 않는 구조적 변화임을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e2d8b6c2-6a06-41d1-b096-04dddc242088",
+        "title_ko": "파티 문화도 바꾸는 제로 음료 부상",
+        "summary_ko": "스페인 Z세대 사이에서 파티 자리에서도 알코올 대신 무알코올 음료를 선택하는 경향이 확산되고 있다. 무알코올 음료가 대안이 아닌 주류 선택지로 자리잡는 속도가 빨라지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 두 가지다. 첫째, K-콘텐츠 이후 K-뷰티와 K-패션이 수출 구조와 유통 채널을 동시에 고도화하고 있다. 기초화장품 중심의 수출 반등, 약국 채널 진입, 전통문화와의 공식 결합이 모두 같은 방향을 가리킨다. 둘째, Z세대의 소비 가치 재편이 가속되고 있다. 중국에서는 전통 복식 소비로 문화 정체성을 표현하고, 스페인에서는 음주 거부로 기성 문화와 거리를 둔다. 소비재 기업 입장에서 Z세대를 단일 집단으로 보는 시각은 더 이상 유효하지 않으며, 지역별 가치 지향의 차이를 제품·채널 전략에 반영해야 할 시점이다.",
+  "cards_meta": {
+    "b6b14023-80c3-4643-97e1-fb67effaaaf6": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5a0273fb-2946-4900-8aab-d34cb1a42591": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310595",
+      "original_headline": "K-뷰티 중국 수출 반등...'기초화장품' 견인",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "407e4220-3c88-4389-b172-5f5cf5976c85": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xQzNnc3Q0bXZTNUdlcmpSU0llVnNSck0xc3Z4ZDdVUmRkZUFINUotSTNPcFUtUkFEdW45VjNfSU84R3E3TmJ3eFBiRWhrTFp1b1FSdDFPVFJDaGt4cjhLWHljaEJSVlozMmcxRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바로팜, ‘파마시뷰티존’ 출격 약국 기반 K-뷰티 유통망 확대 - 약사공론",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c0f1a3c3-6f4d-496e-9f2c-69fcb2bc731a": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wellDbTRJQ3dYYlhEdkFabzk4Wl9kUTAxUjlBek45eVc0Wjd3VnRISzBpRVJzU3ZuajJDTXZ1dW1VQ0dvY2NZejRDbktOTUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"세계에 한국을 입히다\"…한국패션협회, K-패션 커넥트 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f1d2e79f-e70e-45cd-8871-e4a30d59dc01": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQ1pQMHZHdmt2dDBwelVtT0dIQm5ZOVprTW5OdENkZ0dKclktcFRHS0FCZjBqdHF2alNpYmZpa3V1VFVyTXdVVmlpZ0lqNzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구제의류 찾아 입던 고등학생… 매출 120억 브랜드 대표로 [K스타일 웨이브] - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c2e21b97-0849-44d7-94e6-c42a7fc87c33": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wcm1SaG12R0VWQnpxNU5uaG1yNDkxV1Z4R1FFS1BOUXBOdURhM1ZsMF9GUllwSFJCdW1JUkxpYlhZUm8zYUVDNWtQaE8xLVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[영상] K패션에 전통문화 심는다…내셔널지오그래픽 어패럴, 국가유산청 맞손 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fe9de731-0d3b-4c5b-bf94-91611f64e01b": {
+      "category": "라이프스타일",
+      "source_name": "GN-ZH [라이프스타일] 生活方式 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NV01fbXVGMTBVY1hvbzBnNEZUaGFfWHNadzh6TndDU1I0SlU4QUtkR25tcTdxZjFkUHp5aFRmZFFLZmhJUnZ0RFJzWHl1VE5TRHJURFRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国际酒店集团加码中国，生活方式品牌进入扩张期 - 搜狐网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "2cbfa5db-2f1d-4fb4-8c81-795bb5f5fa55": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "59930f29-854a-48a5-aa73-1d605f700567": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JZHlKcVZpU01JdFgzWmRWMlN2bi1lMEFJRmpqYkEyOTFRYWpYVmd1ZXdZLWV6RTFFREpxVEt0Q3c0QjhQTlFVMWVaWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C 인테리어필름 ‘보닥’ 공간에 트렌드 입힌다 - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ea6c0ba4-299c-449e-a348-23f938bab79b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "b78fe991-1d30-451d-b2ad-bfe60d1a8a5d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "e2d8b6c2-6a06-41d1-b096-04dddc242088": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
