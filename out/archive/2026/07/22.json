@@ -1,0 +1,229 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 글로벌 매출 2년간 131% 급증, 성분 혁신·소셜 커머스가 성장 구도 재편",
+    "올리브영, AI 네이티브 채용 전형 도입으로 유통업계 AI 역량 경쟁 본격화",
+    "비건·대체육 수요 확산에도 학교·외식 현장의 제도적 수용은 여전히 미흡"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "fb6d6424-6ab4-40c9-a0ad-6727028f498a",
+        "title_ko": "멜리아, 미국 제재로 쿠바 완전 철수",
+        "summary_ko": "스페인 호텔 체인 멜리아가 미국 제재 압박에 굴복해 쿠바 사업을 전면 철수했다. 지정학적 리스크가 글로벌 호스피탈리티 기업의 시장 포트폴리오 결정을 직접 강제하는 사례로, 한국 소비재·유통 기업의 해외 거점 전략에도 시사점이 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "63e06de0-7528-4282-a11f-7cbb3d1640ed",
+        "title_ko": "비건 학생, 학식 사각지대",
+        "summary_ko": "고려대 학생식당 샐러드에 불고기가 혼입되는 등 비건 식단 배려가 전무한 현실이 지적됐다. 비건 수요가 늘어도 대학 급식 현장의 제도적 대응은 뒤처져 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cc942bde-c32a-499d-8747-812e84eaf849",
+        "title_ko": "비건 문화, 다양성 지표로 부상",
+        "summary_ko": "대학신문이 한국 비건 문화를 사회적 다양성 존중 실태의 척도로 분석했다. 식품 선택권이 라이프스타일 정체성과 결부되면서 소비재 업계의 대응 압력이 높아지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4f37fb07-d476-478c-a8b9-00967a6155b1",
+        "title_ko": "대체육, 미래 식탁 선택지로",
+        "summary_ko": "대체육이 단순 틈새 제품을 넘어 미래 식탁의 주류 선택지로 자리매김하고 있다는 기고가 주목받고 있다. 기후·건강·윤리 소비 세 가지 동인이 동시에 작동 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "7c3c202d-6e31-4b40-b799-e0fee8761cb2",
+        "title_ko": "K-뷰티, 2년 만에 매출 2배 돌파",
+        "summary_ko": "NIQ 조사에 따르면 K-뷰티 글로벌 매출은 전년 대비 53%, 최근 2년 누적으로 131% 증가했다. 성분 혁신과 소셜 커머스의 결합이 기존 뷰티 강국 구도를 흔드는 핵심 동력으로 지목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "761cd6c0-10cd-4252-8aee-acb8b1c50cec",
+        "title_ko": "LG생활건강, 북미 K-뷰티 공세",
+        "summary_ko": "LG생활건강이 라스베이거스 코스모프로프에서 유시몰·더크렘샵을 전면에 내세우며 북미 시장 공략을 가속했다. R&D 기술력과 LA 감성을 동시에 내건 투트랙 전략이 바이어·미디어의 호응을 얻었다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "1361f949-e8ea-4dff-ad33-894c107c208b",
+        "title_ko": "K패션 커넥트, 코엑스서 개막",
+        "summary_ko": "K패션 커넥트 전시회가 코엑스에서 열렸다. K-뷰티의 글로벌 확산 흐름 속에서 패션 분야도 해외 바이어 접점을 집중적으로 넓히는 행보가 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "a8e6671c-e9c7-47c3-91fe-7a3caf7775ce",
+        "title_ko": "조용한 여행지, 웰니스 수요 흡수",
+        "summary_ko": "선마을이 '콰이어트케이션'(소음·자극 없는 조용한 휴가) 여행지로 주목받고 있다. 과잉 자극에 피로를 느끼는 소비자층이 체험형 웰니스 공간으로 이동하는 흐름이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "baf24d1c-881e-4aed-afa2-95f2a35a1f19",
+        "title_ko": "특급호텔 빙수 경쟁 심화",
+        "summary_ko": "여름 성수기를 맞아 특급호텔들의 프리미엄 빙수 경쟁이 과열 양상이다. 호텔 디저트가 단순 부대시설 수익을 넘어 브랜드 경험의 핵심 콘텐츠로 기능하는 구도가 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b70e9779-d712-48b4-b1da-e31420cee279",
+        "title_ko": "올리브영, AI 네이티브 채용 전형 신설",
+        "summary_ko": "CJ올리브영이 개발 직군 경력 채용에 'AI 과제' 전형을 처음 도입했다. AI 리터러시를 넘어 AI와 협업해 문제를 해결하는 역량을 채용 기준으로 삼으면서, 유통 대기업의 AI 내재화 경쟁이 인사 구조까지 바꾸는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "efe92d97-d51f-49d8-84dd-fe5e7f531795",
+        "title_ko": "Z세대, 전통 복식으로 문화 소비",
+        "summary_ko": "중국 Z세대 사이에서 한복 등 전통 복식이 문화 정체성 소비의 핵심 채널로 부상하고 있다. 국조(国潮) 흐름과 결합한 전통 패션 소비가 수천 년 문화유산을 현대 소비재로 재해석하는 시장을 키우고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "29595ba5-4595-4964-b765-76bca8832833",
+        "title_ko": "Z세대, 음주 문화 이탈 가속",
+        "summary_ko": "중남미 Z세대가 음주 문화에서 이탈하는 속도가 빨라지고 있다는 분석이 나왔다. 건강·가치 소비 중심의 세대 교체가 주류 카테고리 수요 구조를 근본부터 흔들고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '기존 구조에 대한 이탈과 재편'이다. K-뷰티는 성분과 디지털 채널을 무기로 글로벌 뷰티 판도를 바꾸고, 올리브영은 채용 기준에 AI를 내재화하며 유통 경쟁의 축을 기술 역량으로 옮기고 있다. Z세대는 음주 문화와 대량 소비 규범 모두에서 이탈하면서 식음료·주류·엔터테인먼트 카테고리 수요 구조를 동시에 흔든다. 멜리아의 쿠바 철수는 지정학 변수가 소비재 기업 전략에 직접 개입하는 현실을 다시 확인시켜주며, 글로벌 시장 다각화를 검토 중인 기업이라면 예외 없이 점검이 필요하다.",
+  "cards_meta": {
+    "fb6d6424-6ab4-40c9-a0ad-6727028f498a": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NYi1tczJ0Qjhrbzc2UWhhNDUxdFBWNjk5d1pCenJVSWl1UHJQdzZianh5bVhMdWtyQVJORlVFOGQ4cXV1WFlZZktybUVZeXhCQ0tSNDFTWXA2MXRxd3ZhNNIBYEFVX3lxTE9NYi1tczJ0Qjhrbzc2UWhhNDUxdFBWNjk5d1pCenJVSWl1UHJQdzZianh5bVhMdWtyQVJORlVFOGQ4cXV1WFlZZktybUVZeXhCQ0tSNDFTWXA2MXRxd3ZhNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스페인 호텔 체인 멜리아, 美제재에 쿠바서 완전 철수 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "63e06de0-7528-4282-a11f-7cbb3d1640ed": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cc942bde-c32a-499d-8747-812e84eaf849": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4f37fb07-d476-478c-a8b9-00967a6155b1": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7c3c202d-6e31-4b40-b799-e0fee8761cb2": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99283",
+      "original_headline": "K-뷰티 글로벌 진출, 매출 53% 급증",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "761cd6c0-10cd-4252-8aee-acb8b1c50cec": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99317",
+      "original_headline": "LG생활건강, “북미 공략 박차”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1361f949-e8ea-4dff-ad33-894c107c208b": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZmNZQV9zWFRnRjNjWTFHZU91YlBOd01WNlFrSERITXFJNUxVcm8xMG9KVDBheHgzNGZyelNYamtObWJEVHMxUUtIX3AtR21xOTJr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코엑스에서 열린 K패션 커넥트 - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a8e6671c-e9c7-47c3-91fe-7a3caf7775ce": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcTN3VmZjVi1fY3dzdHlpZkJRbDRJQnJ0V2xnc0hPZGk1UTF6TzhSZ3E5UjVzeWZrYnVlX2d3eUlhWW1iUVAyX3BiTXN4a3VERjFaT2pLSWVMc0k0N1pVOEJYVG1YTWhkZGFQdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "선마을, ‘콰이어트케이션’ 여행지로 주목 - 메드월드뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "baf24d1c-881e-4aed-afa2-95f2a35a1f19": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11N3RIU2E5bjFCVE5DME5qZk9YQkhvSzA5aDI4QkpqaXhkcTRyajBlMm1KU1J0NTVoQXU1ZElwU3Z5X00tTGp2ZWtQRnBHb3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[유재덕의 공유주방] [28] 특급호텔 빙수 전쟁 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b70e9779-d712-48b4-b1da-e31420cee279": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PSnVPTklrdmRTTlFnZ1RKVjUtbVdxaGRjbDNuVzJmSWNrczd1QjZXMzB3akMxWmphYzBnV1ZJZDFNaUFSSzFEZ1V4bFlSSG96VTczQ0dYQ2pLWkdHRmg0U0loRlpfRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 개발자 채용에 AI 협업 역량 평가하는 새 전형 적용 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "efe92d97-d51f-49d8-84dd-fe5e7f531795": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "29595ba5-4595-4964-b765-76bca8832833": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
