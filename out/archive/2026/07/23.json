@@ -1,0 +1,233 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 2026년 상반기 수출 70억 달러 돌파하며 미국 중심 구도로 재편",
+    "올리브영·LF 헤지스 등 국내 소비재 기업, AI 역량과 글로벌 수주를 동시 가속",
+    "Z세대, 전통문화 소비와 무알콜 음료 선호로 새로운 소비 축 형성 중"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "a6a0dd4e-a60a-4655-85a1-3d53da7ced10",
+        "title_ko": "국립호텔, 정치적 발언의 소재로",
+        "summary_ko": "명태균 측이 오세훈 서울시장에 대해 '국립호텔(교도소)에 유숙하길'이라고 언급하며 국립호텔이 정치 공방의 상징어로 소비되고 있다. 소비재 트렌드와 직접적 연관성은 낮으나 호텔 이미지 소비 방식의 변형 사례로 기록할 만하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6a4334dd-4280-4b47-9502-3c673098eb25",
+        "title_ko": "정자동 호텔 개발 의혹 불기소",
+        "summary_ko": "검찰이 이재명 대통령의 정자동 호텔 개발 특혜 의혹을 불기소 처분했다. 부동산 연계 호텔 개발 인허가를 둘러싼 법적 공방이 일단락됐으나, 도심 호텔 개발 정책 환경에 대한 불확실성은 당분간 지속될 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "fe2dc736-f3cd-4653-87c7-c32231456aac",
+        "title_ko": "학내 비건 메뉴 공백 현실",
+        "summary_ko": "대학 구내식당에서 비건 학생이 선택할 수 있는 메뉴가 사실상 없는 실정이다. 샐러드에도 육류가 혼합 제공되는 사례가 보고되며, 학내 식사 환경의 다양성 부재가 수면 위로 올랐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "adc22b1e-d3b8-4d88-bbe9-7cc4c3c3e0b1",
+        "title_ko": "한국 비건 문화, 다양성 지표로 부상",
+        "summary_ko": "한국의 비건 인구 증가가 식문화 다양성 수용 수준을 가늠하는 지표로 논의되기 시작했다. 단순한 식이 선택을 넘어 사회적 포용성과 연결 짓는 시각이 확산되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "b27cb79d-c273-4aad-b45e-af36411e148d",
+        "title_ko": "K-뷰티 공급망, AI 플랫폼이 재편",
+        "summary_ko": "K-뷰티가 중국 중심 모델에서 북미·유럽으로 무게 중심을 옮기면서, 경쟁력의 핵심이 제품력과 마케팅을 넘어 AI 기반 공급망 관리로 이동하고 있다. AI 플랫폼 도입 여부가 다음 성장 국면의 분기점이 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "82f59829-607d-4e11-9f9b-2b8986df501d",
+        "title_ko": "미국, K-뷰티 최대 수출국 등극",
+        "summary_ko": "2026년 상반기 한국 화장품 수출이 70억 달러 신기록을 달성한 가운데, 미국이 중국을 제치고 최대 수출 시장으로 올라섰다. 중국 시장 의존도가 낮아지는 구조적 전환이 수치로 확인됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "918f1f5f-9b77-42f8-a8a1-798bb93b3646",
+        "title_ko": "헤지스, 2027 SS 글로벌 수주 개시",
+        "summary_ko": "LF 헤지스가 내년 봄여름 컬렉션을 앞세워 글로벌 바이어 대상 수주회를 열었다. K패션의 선제적 해외 수주 행보가 본격화되고 있음을 보여주는 사례다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "006993d0-5702-47d0-9690-ec1f0d4fcd4c",
+        "title_ko": "마인드브릿지, 싱가포르서 K패션 확장",
+        "summary_ko": "TBH글로벌의 마인드브릿지가 싱가포르에서 판매 호조를 기록하며 동남아 K패션 공략에 속도를 내고 있다. 헤지스의 글로벌 수주 행보와 맞물려 K패션의 다각도 해외 진출이 동시에 가시화되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d72ff228-c8d8-4c95-8a48-fb22638650d7",
+        "title_ko": "신한카드, 트립닷컴과 프리미엄 여행 제휴",
+        "summary_ko": "신한카드가 글로벌 여행 플랫폼 트립닷컴과 업무협약을 체결하고 호텔·항공 할인 등 프리미엄 여행 혜택을 확대한다. 카드사와 OTA 간 제휴가 고객 여행 지출을 자사 채널로 묶으려는 경쟁의 일환으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "716d073e-9b29-4b32-ab33-9855d6372816",
+        "title_ko": "올리브영, AI 네이티브 채용 전형 신설",
+        "summary_ko": "CJ올리브영이 개발 직군 경력 채용에 'AI 과제' 전형을 새로 도입했다. 기존 라이브 코딩 대신 AI 협업 역량을 직접 검증하는 방식으로, 뷰티 유통 기업이 AI 내재화 단계로 진입했음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0e6335ad-3e26-4af8-8355-960649cdf116",
+        "title_ko": "중국 Z세대, 한복으로 문화 소비 재발견",
+        "summary_ko": "중국 Z세대 사이에서 한복 등 전통 의복이 국조(國潮) 트렌드와 맞물려 새로운 문화 소비 방식으로 부상하고 있다. 천 년의 역사를 현대적 자기표현으로 재해석하는 흐름이 소비 시장에서 가시화되는 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "dcc3a052-b55e-465a-9084-fd5080c45a8b",
+        "title_ko": "Z세대, 술자리 대신 무알콜로",
+        "summary_ko": "스페인을 비롯한 유럽에서 Z세대의 주류 소비가 뚜렷하게 줄고 무알콜 음료가 파티 문화의 주류로 자리잡고 있다. 이 흐름은 한국 시장의 무알콜 음료 확산과도 맞닿아 있어 글로벌 동조화 가능성에 주목할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '재편'이다. K-뷰티는 수출 구조를 중국에서 미국으로, 경쟁력의 기반을 제품력에서 AI 공급망으로 이동시키고 있다. 올리브영의 AI 네이티브 채용은 같은 흐름을 인재 전략으로 구현한 사례다. K패션 역시 헤지스와 마인드브릿지가 각각 수주와 판매 채널에서 해외 확장을 동시에 가시화하고 있다. Z세대는 무알콜 음료·전통문화 소비로 기존 세대와 다른 소비 축을 형성 중이며, 이는 단일 시장이 아닌 글로벌 동조 현상으로 읽힌다. 국내 소비재 기업이 AI 내재화와 해외 시장 다변화를 동시에 추진해야 하는 국면임이 여러 섹션에서 공통적으로 확인된다.",
+  "cards_meta": {
+    "a6a0dd4e-a60a-4655-85a1-3d53da7ced10": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYVVFKYkl3QVdpdWJ6bFJPWDNjQ2RIQzRtUUhZbEJwWVY2SkdRSnVQdDRlYjhOSnN6ZVBpMkR3eFhZM3RCYXQwa3QyRWhMZmZoR3dsMmEySGhmemJsZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "명태균측 “오세훈, ‘내란 저승사자’ 이진관 같은 판사 만나 국립호텔 유숙하길” - 주간경향",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6a4334dd-4280-4b47-9502-3c673098eb25": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUkx6cmZFcHdGQ0tlR0xlR0w4bzZQeDVPUTJsNEZPRzFyRHRDa2FRMjdfR1Vod3NWeFRXXzg2RzFjSzFIV25uLXJOQi1hRGEya0tBVmFfMXo5SF9DOFFLT0liaVJfaElCa081SVEzZTNkWHVmaEHSAWZBVV95cUxQOGExZW9penpuRnFjZ2dKLUhLQnJiVGNxdGFYbS00c3VvaXVUZjlTMzMxVTRfS3BaUUpxV0NxSGhXYk9qVmt0SzNFazM4N0J2OHdWaGNDcDJxTGt0elpaUGViSTdUakE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "檢, 李대통령 ‘정자동 호텔 특혜 의혹’ 불기소 처분 - 동아일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fe2dc736-f3cd-4653-87c7-c32231456aac": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "adc22b1e-d3b8-4d88-bbe9-7cc4c3c3e0b1": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b27cb79d-c273-4aad-b45e-af36411e148d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310514",
+      "original_headline": "K-Beauty Global Transformation Report ①: AI-Powered Platforms Set to Reshape Beauty Supply Chains",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82f59829-607d-4e11-9f9b-2b8986df501d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310480",
+      "original_headline": "K-Beauty Special Series ① How the U.S. Became K-Beauty's Largest Export Market",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "918f1f5f-9b77-42f8-a8a1-798bb93b3646": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QVTEyZUZrNjUxMTZfVmVzckxPMFNmSWp5bFI1aU5Wc3ZrRWhGemtMZEZuZkx1TVlNTFUyRHpnbXEzVTVyZkFHNnk0a2dvaXFBTndBYjJYTHR5cVU1Wk45ZNIBYEFVX3lxTE9QVTEyZUZrNjUxMTZfVmVzckxPMFNmSWp5bFI1aU5Wc3ZrRWhGemtMZEZuZkx1TVlNTFUyRHpnbXEzVTVyZkFHNnk0a2dvaXFBTndBYjJYTHR5cVU1Wk45ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'미리 보는 내년 봄여름 K패션'…LF 헤지스, 글로벌 수주회 개최 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "006993d0-5702-47d0-9690-ec1f0d4fcd4c": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43cnQyMUtHeFlDRkN6Q3Nhd3Q0VzM1Q0NtMmFBTWJfT1VzZ2I3YzRNX3lKVE8tRGhYUVJRWFVNa2M1cWc1aUR5MDYtb1JRd1pUWExrWU9tQzJGMTdHQkVJdE1waUJRNHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마인드브릿지, 싱가포르 판매 호조…K-패션 공략 속도 - 팍스경제TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d72ff228-c8d8-4c95-8a48-fb22638650d7": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zQllhdG5NV2ZuMkFnbS1XQ0taYjBYZHo1R01Ja08xcmNER3NwOUlBMEV4OFVCSzJfTE9oSE8tWUtnWl9NX2VCVDBNVEJMLUtEOTFRSW1ubHhQVTNiWm1heDdfYjFBdHVoai1leQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "신한카드, 트립닷컴과 맞손…프리미엄 여행 혜택 확대 - 뉴스락",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "716d073e-9b29-4b32-ab33-9855d6372816": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PSnVPTklrdmRTTlFnZ1RKVjUtbVdxaGRjbDNuVzJmSWNrczd1QjZXMzB3akMxWmphYzBnV1ZJZDFNaUFSSzFEZ1V4bFlSSG96VTczQ0dYQ2pLWkdHRmg0U0loRlpfRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 개발자 채용에 AI 협업 역량 평가하는 새 전형 적용 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e6335ad-3e26-4af8-8355-960649cdf116": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "dcc3a052-b55e-465a-9084-fd5080c45a8b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
