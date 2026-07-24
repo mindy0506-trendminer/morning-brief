@@ -1,0 +1,232 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 최대 수출국이 중국에서 미국으로 교체되며 시장 전략 전환 본격화",
+    "외국인 관광객 소비가 명품에서 K-패션·일상 식품으로 다각화, 인바운드 구조 재편",
+    "호텔업계, 객실 경쟁을 넘어 웰니스 서비스로 차별화 축 이동"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "83703c7a-f124-4ec2-8029-71314033abc5",
+        "title_ko": "올리브영, AI 네이티브 인재 채용 공식화",
+        "summary_ko": "CJ올리브영이 개발자 경력 채용에 'AI 과제' 전형을 신설하며 단순 AI 활용을 넘어 AI와 협업해 문제를 해결하는 'AI 네이티브' 역량을 핵심 기준으로 내세웠다. 뷰티 플랫폼 기업이 기술 인재 기준을 이처럼 명문화한 것은 업계 채용 관행 변화의 신호탄이 될 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7d8f48e7-fdca-4894-83e3-55596fa2c0c2",
+        "title_ko": "인구 감소, 소비 패턴 자체를 재정의",
+        "summary_ko": "인구 감소가 단순한 수요 축소를 넘어 소비 구조와 품목 선호 자체를 바꾸고 있다는 분석이 제기됐다. 1인 가구·고령 소비층 확대와 젊은 세대의 절제 소비가 결합되면서, 기존 대중 소비재 시장의 공식이 빠르게 무너지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "fa491f5f-a505-4314-b150-22313138a6dd",
+        "title_ko": "대학 식당, 비건 선택지 사각지대",
+        "summary_ko": "국내 주요 대학 학생식당에서 비건 메뉴가 사실상 부재한 실태가 조명됐다. 샐러드에도 불고기가 섞이는 등 비건 학생들이 식당 이용 자체를 포기하는 사례가 늘고 있어, 단체급식 시장의 식물성 식단 도입이 과제로 떠오른다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "f66cc821-1b99-49be-8fad-67f88fd322ba",
+        "title_ko": "K-뷰티, 미국이 최대 시장 등극",
+        "summary_ko": "올 상반기 한국 화장품 수출 통계에서 미국이 중국을 제치고 최대 시장으로 부상했다. 업계는 이를 단순한 중국 이탈이 아니라 포트폴리오 다변화로 해석하며, 미국 중심의 브랜드·채널 전략 재편이 가속화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e73d654f-2535-479b-858c-a2b39719cf39",
+        "title_ko": "센슬, 더현대서울 팝업으로 퀵뷰티 각인",
+        "summary_ko": "바쁜 일상에 최적화된 '퀵뷰티'를 내건 인디 브랜드 센슬(SENSEL)이 더현대 서울 클린뷰티 편집숍 '비클린'에서 팝업을 운영 중이다. 신제품 타임 블러쉬를 전면에 내세우며 오프라인 체험을 통한 브랜드 인지도 확대를 노리는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "4a89fa7e-1d0d-4e1a-9497-08b7b681d8f0",
+        "title_ko": "외국인 지갑, 명품에서 K-패션으로",
+        "summary_ko": "방한 외국인 관광객의 소비 중심이 명품 면세에서 K-패션과 일상 식품으로 이동하고 있다. 고가 단일 품목 중심 인바운드 소비 구조가 다품목·실생활 소비로 전환되면서 국내 패션·식품 채널의 수혜 가능성이 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2e7d3ace-8b60-4e79-b431-b8ca60cb568a",
+        "title_ko": "헤지스, 내년 SS 글로벌 수주회 개최",
+        "summary_ko": "LF 헤지스가 2027년 봄여름 컬렉션을 대상으로 글로벌 바이어 수주회를 열었다. K-패션의 해외 도매 수출 채널을 정례화하는 움직임으로, 브랜드 단위의 글로벌 영업 인프라 구축이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2dff7bd2-7a7c-4f44-9572-fa91d8ba9881",
+        "title_ko": "연매출 100억 K-패션 브랜드 감소세",
+        "summary_ko": "K-패션 열기와 달리 국내에서 연 매출 100억 원 이상을 달성하는 브랜드 수가 오히려 줄어들고 있다는 분석이 나왔다. 해외 노출이 늘어나는 반면 내수 안착에는 실패하는 브랜드가 많아, 글로벌 관심을 수익으로 전환하는 비즈니스 모델 정립이 과제다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b67241f6-31f5-4fe5-8615-3fa7e9c12cd9",
+        "title_ko": "동대문 2성급 호텔, 4성급으로 재탄생",
+        "summary_ko": "코람코가 기존 2성급 시설을 리포지셔닝해 머큐어 앰배서더 동대문을 4성급으로 개관했다. 도심 노후 숙박시설의 업그레이드 전환이 늘어나는 흐름 속에서, 외국인 관광객 유입이 집중되는 동대문 권역의 호텔 공급 질이 높아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f20b270c-7c50-440d-87f9-3464fe070b4c",
+        "title_ko": "호텔 웰니스, 객실 밖으로 전선 확대",
+        "summary_ko": "국내 호텔업계가 수면·명상·식이 프로그램 등 객실 외 웰니스 서비스를 앞다퉈 강화하고 있다. 숙박 자체가 아닌 '건강 경험'을 판매하는 방향으로 수익 구조를 다각화하려는 시도로, 호캉스 수요를 넘어 장기 체류 고객을 겨냥한다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "32de58ca-ed8c-4c8a-be4f-5e7bee8ab91e",
+        "title_ko": "中 Z세대, 한푸로 문화 소비 확장",
+        "summary_ko": "중국 Z세대 사이에서 한푸(漢服·전통 복식) 착용이 일상 문화소비로 자리잡으며 궈차오(国潮) 열풍을 주도하고 있다. 전통 의복이 정체성 표현 수단이자 콘텐츠 소재로 부상하면서 관련 산업의 성장도 가속화되는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "93c7fb08-d217-4a9a-bd3e-056a80bb1331",
+        "title_ko": "Z세대, 술 대신 무알콜 음료 선택",
+        "summary_ko": "스페인을 포함한 유럽 Z세대에서 알코올 소비가 뚜렷이 감소하고 무알콜(0.0%) 음료 시장이 급성장하고 있다. 건강 의식과 절제 문화가 결합된 이 흐름은 글로벌 음료 브랜드의 무알콜 라인업 강화와 맞물려 소비재 지형을 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 축은 'K-콘텐츠 이후, K-소비재의 실질 수익화'다. 외국인 관광객 소비가 명품에서 K-패션·식품으로 이동하고, K-뷰티 최대 시장이 미국으로 교체되는 흐름은 한국 소비재 브랜드에 분명한 기회 신호다. 그러나 국내에서 연 매출 100억을 넘는 패션 브랜드가 오히려 줄고 있다는 데이터는, 글로벌 관심을 내수 기반 없이 지속하기 어렵다는 반론을 동시에 제기한다. 올리브영의 AI 네이티브 채용 공식화는 플랫폼 경쟁력이 상품 큐레이션을 넘어 기술 내재화로 이동하고 있음을 보여주며, 이는 K-소비재 유통 생태계 전반의 변화를 예고한다.",
+  "cards_meta": {
+    "83703c7a-f124-4ec2-8029-71314033abc5": {
+      "category": "MacroTrends",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PSnVPTklrdmRTTlFnZ1RKVjUtbVdxaGRjbDNuVzJmSWNrczd1QjZXMzB3akMxWmphYzBnV1ZJZDFNaUFSSzFEZ1V4bFlSSG96VTczQ0dYQ2pLWkdHRmg0U0loRlpfRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 개발자 채용에 AI 협업 역량 평가하는 새 전형 적용 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7d8f48e7-fdca-4894-83e3-55596fa2c0c2": {
+      "category": "MacroTrends",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGwtMXVPcXBDT2FqOGp1WktmRGQ5VEFLMjZKQzJBVERkOGkxclNzR2Zxb2l0UlNsNHVZb0dnQ1IwbkdjOTFPaWxXTmR0bzNjSFlSRVlIeklUUU9ybmdQekVLRnhQc3M1ZXlfdXI3YzBYWlFTMkV0Q29wWG9YOHZrSE53UWhnTGUyMTVDaFVwVFZiSlR1Tnc5Zkc5VTE0a3RDV0xON1BlUGNMS3dxOW5QTHg0bVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo el declive demográfico está redefiniendo el consumo - www.revistaeyn.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "fa491f5f-a505-4314-b150-22313138a6dd": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f66cc821-1b99-49be-8fad-67f88fd322ba": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310478",
+      "original_headline": "[기획②] 중국은 끝났나…K-뷰티의 최대 시장이 달라지고 있다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e73d654f-2535-479b-858c-a2b39719cf39": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wRzZaamFvREpXY2JFeFJKdnpqYUZnaktPUHg0S1RtMjdKNEJETkNEaFBvQ3FwN1d1cVlmT2hndnpyRDJQYnM3bHo0bTJ4VjlteWg3cXBuY20zQUVSSm9HQ0lIeDI5cjlHZ1k0Ng?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[뷰티 트렌드] 퀵뷰티 브랜드 센슬(SENSEL), 더현대 서울 '비클린' 팝업 오픈 外 - 베이비뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4a89fa7e-1d0d-4e1a-9497-08b7b681d8f0": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RZEVTQS1zTklkSEhOR3pMc1hibktla19MV2x5YmlpVVE4aU5ySVhJTW1kRHJrSHU3QlBCVUZUMU9reVp2RUc2TUNDWlJ4aTFFZl9HTGZxV2xramvSAWBBVV95cUxPWWpGWHo3OG9Fd3NjMFlCbjRESjh4bXREQml2RG1pZW4xd1Npc0hkcHdTRGxqZ1ZlcVhmM24xdDZzZzIwVEVkQnBsdl82X25zdnF6STJ1QjdYVnBmNVJieEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "외국인 관광객 소비, 명품 넘어 K-패션·일상 식품으로 진화 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2e7d3ace-8b60-4e79-b431-b8ca60cb568a": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Z250Q3c2ODRzMGloclJnbS1tWm13ZW56SGxPcHozdXc0Q1c0YnJwR3FJa3RUeFYtSk5GSnFOZ3hkeFY2VzM4YmtfaHlXUEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'미리 보는 내년 봄여름 K패션'…LF 헤지스, 글로벌 수주회 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2dff7bd2-7a7c-4f44-9572-fa91d8ba9881": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSek9nN0dEaU1adXE0RWV2SFZEYWtmMldRZGhhRzd5YTZzUkp5RGdDazBONTlod1E1TW5TUm12cmZhMW9NczVJeUh6NGFRMk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"연매출 100억 K패션 브랜드 오히려 줄어\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b67241f6-31f5-4fe5-8615-3fa7e9c12cd9": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WTW5RU1Z6OUpzRHVIOXNGLTJJLUdQRlZkUGlNSnk0MUVTX3M1R0JTdk14U2U4ZXpfdVRCdGNCWl9qMXozT284dUdZUHRzXy1jelHSAVNBVV95cUxQOFJJMUNUZV9fYzFJWUx6dDFjUm91MTNnM3BDR3BWdGpNWFdTSmZvUFRWZTMycXN4RkV4VkhQT3I3WUFnWENyNk1HSlJSd2w2cEZfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2성급에서 4성급 호텔 됐다…코람코 ‘머큐어 앰배서더 동대문’ 개관 - 서울경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f20b270c-7c50-440d-87f9-3464fe070b4c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KeWdnNnpnNlZTcUJEQVNFT1BKTFE5bWp6QldMM1FqeFBJSEdadlFhaWJzOUxScHdMcEk5UVZFM3JxNkxnMFZpREQ2bUlGZFI3WnlzTXhlRnRIY2hCZkNPNtIBeEFVX3lxTE1ScGNRLXpJV3JHelc2VnAzYXdjclBmUUxDREg5blQ1bUR4UkluWlZCdUM4dWg4V3dKcFlJSXJHWHVIRC11VTE0Qjk4OUVTZFdCRjhUMDlJeFhEZUNNbVBZRUtoNFplcGVLcWNSMFBZWUVWUXJadTdkdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"쉬면서 건강도 챙긴다\" 호텔업계, 객실 밖 '웰니스 경쟁' - 뉴시스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "32de58ca-ed8c-4c8a-be4f-5e7bee8ab91e": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "93c7fb08-d217-4a9a-bd3e-056a80bb1331": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
