@@ -1,0 +1,182 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티·K패션, 인디 브랜드 직수출 인프라 구축으로 글로벌 공세 본격화",
+    "외국인 관광객 소비가 명품에서 K패션·일상 식품으로 구조적 전환",
+    "호텔업계, 객실 경쟁을 넘어 웰니스 프로그램으로 차별화 축 이동"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "f360512e-7041-4f88-959b-214ff8af3ceb",
+        "title_ko": "식품·외식업 임금, 타 업종의 80% 미만",
+        "summary_ko": "식품·외식업 종사자 임금이 타 업종 대비 60~80% 수준에 그치며, 고학력자일수록 격차가 더 크게 벌어지는 것으로 나타났다. 구조적 임금 열위는 인재 유입을 막고 업계 혁신 역량을 장기적으로 약화시키는 요인으로 작용할 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "87bb84d6-df3a-482f-a41c-70038031ffe1",
+        "title_ko": "K뷰티 트렌드 총결집",
+        "summary_ko": "인천 송도에서 '2026 뷰티&헬스케어쇼'가 개막해 국내외 K뷰티·헬스케어 최신 트렌드가 한자리에 모였다. 복수 매체가 일제히 주목한 만큼 K뷰티의 세계 시장 공략 의지를 공식화하는 장으로 자리매김했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "637ad9c9-d353-47e7-9dbc-132369425929",
+        "title_ko": "코스맥스, 직수출 문턱 낮춘다",
+        "summary_ko": "코스맥스가 K뷰티 인디 브랜드의 직수출을 지원하는 수출입 플랫폼을 가동했다. 제조 역량을 보유하면서도 해외 통관·물류 장벽에 막혔던 소규모 브랜드에게 실질적 수혜가 예상되며, 인디 브랜드 중심의 K뷰티 수출 생태계 재편을 가속할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "39f04101-f9e9-4d47-a438-2b851197f8cf",
+        "title_ko": "헤지스, 내년 봄여름 글로벌 수주",
+        "summary_ko": "LF 헤지스가 2027 봄여름 시즌을 겨냥한 글로벌 수주회를 열었다. K패션 브랜드가 직접 해외 바이어를 대상으로 수주에 나서는 방식은 OEM 의존에서 브랜드 주도 수출로의 전환을 상징한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "3e0d1347-4290-43f9-800b-46d4ed2fd756",
+        "title_ko": "동대문 호텔, 2성→4성 업그레이드",
+        "summary_ko": "코람코가 동대문에 머큐어 앰배서더를 개관하며 2성급 자산을 4성급으로 전환했다. 관광 수요가 집중된 동대문 일대에서 중급 이상 호텔 공급이 늘어나는 흐름의 일환으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "263ebc58-ec26-4cfb-a284-3e1092741138",
+        "title_ko": "호텔 웰니스, 객실 밖으로 확장",
+        "summary_ko": "국내 호텔들이 스파·명상·식이 프로그램 등 객실 외부 웰니스 서비스를 경쟁적으로 강화하고 있다. '쉬면서 건강도 챙기는' 수요가 호캉스 소비의 새 기준을 형성하며 부대시설 투자 경쟁이 심화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "c5478c87-1e56-4621-85e4-4ab8b827dc7c",
+        "title_ko": "중국 Z세대, 한복 소비로 문화 자신감",
+        "summary_ko": "중국 Z세대 사이에서 한복을 비롯한 전통 의복 소비가 확산되며 '국조(國潮)' 흐름이 문화 소비 전반으로 퍼지고 있다. 민족 정체성과 연결된 소비가 패션·라이프스타일 시장에서 새로운 수요층을 형성하는 점은 K뷰티·K패션 브랜드의 대중 접근 전략에도 시사점을 던진다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4e98bbf6-49ae-4896-9b7b-0e907f0b1afa",
+        "title_ko": "외국인 소비, 명품에서 K일상재로",
+        "summary_ko": "방한 외국인의 소비 패턴이 고가 명품 구매에서 K패션과 일상 식품으로 이동하고 있다. 단가는 낮지만 구매 빈도와 품목 다양성이 커지는 구조로, 백화점 중심에서 로컬 상권 전반으로 수혜 범위가 넓어질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "92df7c4a-eff0-40c0-b591-a5d8c6b77d14",
+        "title_ko": "Z세대, 술 대신 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 해외에서 Z세대의 음주량이 줄고 무알콜·저알콜 음료 시장이 성장세를 보이고 있다. 건강과 절제를 소비 가치로 내면화한 Z세대의 흐름은 국내 음료 및 외식 시장에서도 유사하게 나타날 가능성이 높다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 흐름은 'K콘텐츠 소프트파워가 소비 인프라로 전환되고 있다'는 점이다. 코스맥스의 직수출 플랫폼, 헤지스의 글로벌 수주회, 외국인 관광객의 K일상재 소비 확대는 각각 다른 카테고리에서 벌어지지만 모두 같은 방향을 가리킨다. 동시에 Z세대가 무알콜 음료를 선택하고 호텔이 웰니스 프로그램을 전면화하는 흐름은 '건강·절제·경험'이 소비 가치의 새 기준으로 자리 잡고 있음을 보여준다. 브랜드 입장에서는 수출 채널 다변화와 웰니스 연계 상품 기획, 두 과제를 동시에 검토할 시점이다.",
+  "cards_meta": {
+    "f360512e-7041-4f88-959b-214ff8af3ceb": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByUWl5YXRENXh5OEhjNnpDU3YwV2pGMG00QkM4TTl4RldYNDljUGVKbkZwNnJuZXU1MEFJb21GekY4VXd0SFJiUk9zOTA1Rlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“식품·외식업 임금, 타 업종의 60~80% 수준…고학력일수록 임금 격차↑” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "87bb84d6-df3a-482f-a41c-70038031ffe1": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mNWY1bUJpVmRSRW00T3hSaWh1STZUaHdnV3JfcU4wU1JyNnF4SlJJeV95STlnYVNycWJzZXVwWEVyWnZpTmJZWFRmOTNiUDcxNThXR1ppN1doUERMUzU1NVpDS0tLSlA2R0ppVjlhamV3bFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026 뷰티&헬스케어쇼 개막...대한민국 K-뷰티·헬스케어 최신 트렌드 한자리에 - 대한경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "637ad9c9-d353-47e7-9dbc-132369425929": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xTnowdTVheHJ0Tng4czJwNUxQcW4yX3JNd2xpUWYzZnROandDX2xFYlRtTDAzZlRtWmVvTlU5WmZPODVCeTdqZ0psM3JaX29rR0NDUGNmWEI2UkYxYml3Z2ZROA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코스맥스, K뷰티 직수출 돕는 고객사 수출입 지원 플랫폼 가동 - 코스인코리아닷컴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "39f04101-f9e9-4d47-a438-2b851197f8cf": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Z250Q3c2ODRzMGloclJnbS1tWm13ZW56SGxPcHozdXc0Q1c0YnJwR3FJa3RUeFYtSk5GSnFOZ3hkeFY2VzM4YmtfaHlXUEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'미리 보는 내년 봄여름 K패션'…LF 헤지스, 글로벌 수주회 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e0d1347-4290-43f9-800b-46d4ed2fd756": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WTW5RU1Z6OUpzRHVIOXNGLTJJLUdQRlZkUGlNSnk0MUVTX3M1R0JTdk14U2U4ZXpfdVRCdGNCWl9qMXozT284dUdZUHRzXy1jelHSAVNBVV95cUxQOFJJMUNUZV9fYzFJWUx6dDFjUm91MTNnM3BDR3BWdGpNWFdTSmZvUFRWZTMycXN4RkV4VkhQT3I3WUFnWENyNk1HSlJSd2w2cEZfVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2성급에서 4성급 호텔 됐다…코람코 ‘머큐어 앰배서더 동대문’ 개관 - 서울경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "263ebc58-ec26-4cfb-a284-3e1092741138": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KeWdnNnpnNlZTcUJEQVNFT1BKTFE5bWp6QldMM1FqeFBJSEdadlFhaWJzOUxScHdMcEk5UVZFM3JxNkxnMFZpREQ2bUlGZFI3WnlzTXhlRnRIY2hCZkNPNtIBeEFVX3lxTE1ScGNRLXpJV3JHelc2VnAzYXdjclBmUUxDREg5blQ1bUR4UkluWlZCdUM4dWg4V3dKcFlJSXJHWHVIRC11VTE0Qjk4OUVTZFdCRjhUMDlJeFhEZUNNbVBZRUtoNFplcGVLcWNSMFBZWUVWUXJadTdkdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"쉬면서 건강도 챙긴다\" 호텔업계, 객실 밖 '웰니스 경쟁' - 뉴시스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c5478c87-1e56-4621-85e4-4ab8b827dc7c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "4e98bbf6-49ae-4896-9b7b-0e907f0b1afa": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RZEVTQS1zTklkSEhOR3pMc1hibktla19MV2x5YmlpVVE4aU5ySVhJTW1kRHJrSHU3QlBCVUZUMU9reVp2RUc2TUNDWlJ4aTFFZl9HTGZxV2xramvSAWBBVV95cUxPWWpGWHo3OG9Fd3NjMFlCbjRESjh4bXREQml2RG1pZW4xd1Npc0hkcHdTRGxqZ1ZlcVhmM24xdDZzZzIwVEVkQnBsdl82X25zdnF6STJ1QjdYVnBmNVJieEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "외국인 관광객 소비, 명품 넘어 K-패션·일상 식품으로 진화 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "92df7c4a-eff0-40c0-b591-a5d8c6b77d14": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
