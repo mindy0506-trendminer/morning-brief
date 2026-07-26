@@ -1,0 +1,241 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 수출 생태계 정비 가속—인디 브랜드 직수출 지원과 일본 시장개척 동시 진행",
+    "호텔업계, 객실 경쟁 넘어 웰니스 서비스로 차별화 전선 이동",
+    "Z세대, 전통문화 소비·논알콜 음료 선택으로 글로벌 소비 패턴 재정의"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f2ce86b4-e113-4fef-a09e-286f079ce64f",
+        "title_ko": "식품·외식업 인력난 심화",
+        "summary_ko": "식품 제조업과 외식업이 낮은 임금 구조로 인해 구직자 기피 업종으로 굳어지고 있다. 인력 공백이 장기화될 경우 공급망 안정성과 서비스 품질 모두 타격을 받을 수 있어 구조적 임금 재설계가 시급하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fdeb4d4f-9e8a-419e-b8a7-96778e499a1c",
+        "title_ko": "학생식당 비건 선택지 부재",
+        "summary_ko": "대학 식당의 비건 메뉴 부족이 비건 학생들의 식사권을 실질적으로 제한하고 있다. 샐러드에 육류가 혼입되는 사례까지 보고되며, 메뉴 다양성 확보가 단순 트렌드가 아닌 필요 조건으로 부상 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "85faeef3-0a9e-4677-a1b9-5171ca78740d",
+        "title_ko": "비건 문화, 다양성 지표로 재해석",
+        "summary_ko": "한국의 비건 문화 확산이 식단 선택을 넘어 사회적 다양성 존중 수준을 가늠하는 척도로 논의되기 시작했다. 소비재 기업 입장에서는 포용적 제품 라인업이 브랜드 신뢰도로 직결될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "89ccb8bd-3e63-4460-a5e6-a127c77c6510",
+        "title_ko": "오송 K-뷰티 엑스포 D-90",
+        "summary_ko": "2026 오송화장품뷰티엑스포가 90일 앞으로 다가오며 K-뷰티 산업의 대형 집결 무대로 주목받고 있다. 국내외 바이어 유치와 신제품 공개 플랫폼으로 기능할 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "617abedf-92e2-4390-91a5-905f7c33e052",
+        "title_ko": "용인시, 일본서 K-뷰티 홍보",
+        "summary_ko": "용인특례시 시장개척단이 일본 현지에서 K-뷰티와 K-푸드를 동시에 알리며 지자체 주도 수출 외교를 펼쳤다. 지역 중소기업의 일본 진출 교두보 역할을 겨냥한 행보다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "03799e42-b9e4-4e32-a48d-bc6df8e8cb87",
+        "title_ko": "코스맥스, 인디 브랜드 직수출 지원",
+        "summary_ko": "코스맥스가 K-뷰티 인디 브랜드의 직수출을 밀착 지원하는 체계를 구축했다. 제조 역량을 해외 유통 연결로 확장해 중소 브랜드의 글로벌 진입 장벽을 낮추는 구조로, 국내 ODM 업계의 역할 변화를 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "ab39206f-901d-4ab1-a58a-020db30a2362",
+        "title_ko": "헤지스, 글로벌 수주회로 K-패션 선점",
+        "summary_ko": "LF 헤지스가 2027 봄여름 컬렉션을 미리 선보이는 글로벌 수주회를 개최했다. 해외 바이어를 국내로 끌어들여 수주 선점을 노리는 방식으로, K-패션의 기획력과 납기 경쟁력을 동시에 내세운 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "3acc0e1a-ef52-43f5-a9d7-44bdc034e91f",
+        "title_ko": "2026 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어 트렌드로 자연 소재, 절제된 색감, 다기능 공간 활용이 주목받고 있다. 재택 근무 정착 이후 '거주 공간의 질' 수요가 소비 선택의 상위 기준으로 올라선 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2636bec8-9cb8-42bd-b699-8a2786d983b3",
+        "title_ko": "대구 하우징페어, 가을 인테리어 집결",
+        "summary_ko": "2025 대구경향하우징페어가 가을 인테리어 트렌드를 한자리에 모아 소비자와 업계의 접점을 만들었다. 지역 대형 전시회가 트렌드 확산 채널로 기능하는 구도가 굳어지는 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "40943048-95cc-4d8f-a082-01351190cc32",
+        "title_ko": "호텔 웰니스 경쟁 본격화",
+        "summary_ko": "국내 호텔업계가 객실 품질을 넘어 스파, 명상, 건강 식단 등 웰니스 프로그램으로 차별화 경쟁을 확대하고 있다. 숙박을 '회복 경험'으로 재정의하는 소비자 수요가 호텔 서비스 설계 전반을 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "bfd7dba7-ab09-415a-b13d-e2e6b35cc97d",
+        "title_ko": "Z세대, 한푸로 전통 소비 재발견",
+        "summary_ko": "중국 Z세대가 한푸(漢服) 열풍을 통해 전통문화를 자신감의 표현으로 소비하고 있다. 국조(國潮) 트렌드가 의류를 넘어 문화 정체성 소비로 진화하는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d0d6c03f-97b7-4022-956d-48a6bcf841fe",
+        "title_ko": "Z세대, 술 대신 논알콜 선택",
+        "summary_ko": "스페인을 포함한 유럽 Z세대의 음주량이 감소하고 논알콜 음료 시장이 급성장하고 있다. 건강과 자기 관리를 우선하는 세대 특성이 파티 문화 자체를 바꾸는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "81eb0fad-a8a8-44de-af0f-bc781029e54b",
+        "title_ko": "Z세대 소비 행동의 구조적 특성",
+        "summary_ko": "Z세대는 가격보다 가치, 소유보다 경험, 대중보다 개인 취향을 앞세우는 소비 행동을 보인다. 중국 광명망의 분석에 따르면 이 세대의 소비는 자기 표현의 수단으로 기능하며 브랜드 충성도보다 가치 정합성을 우선한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 키워드는 '정체성 소비'다. Z세대는 한푸 착용과 논알콜 선택으로 자신이 무엇을 믿는지를 구매로 표현하고, 비건 소비자는 메뉴 선택권을 다양성 존중의 잣대로 삼는다. K-뷰티 인디 브랜드의 직수출 지원과 헤지스의 글로벌 수주회는 한국 소비재가 이 '가치 정렬 소비' 흐름에 올라타려는 시도로 읽힌다. 호텔 웰니스 경쟁까지 더하면, 제품·공간·문화 전 영역에서 '무엇을 파느냐'보다 '어떤 가치를 담느냐'가 차별화의 핵심 변수로 이동하고 있다.",
+  "cards_meta": {
+    "f2ce86b4-e113-4fef-a09e-286f079ce64f": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oRlFqTklVUWNMNDlkSW82ZUFGazJydHdpQ3Q4NncxZmZBUjJxUUNKdy1ybG9vd2c0MWVNSXltVmtBNUF0UVRxWHpPLUxISlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“식품 제조·외식업, 낮은 임금에 기피 업종 전락” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fdeb4d4f-9e8a-419e-b8a7-96778e499a1c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "85faeef3-0a9e-4677-a1b9-5171ca78740d": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "89ccb8bd-3e63-4460-a5e6-a127c77c6510": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYbjNKZ2E2T21adEJHNHp3ekNjczNqYXdqczZyVEY4anplOW5ZcGNha3FyZDEwWlEwZ0tWWEtkdnRxN3ZKdnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026 오송화장품뷰티엑스포 D-90…K-뷰티의 모든 것 담는다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "617abedf-92e2-4390-91a5-905f7c33e052": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 인디 뷰티",
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5UUmpaWmZsRGJOWjYyWWVEVVc5MDc4dlhnV2JZVUEtSkRkTmxWdVM1NkRqTmhZQ1QyeUhxVmxtZHlKVzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "용인특례시, 일본서 ‘K-뷰티·푸드’ 매력 알렸다 - 인디포커스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "03799e42-b9e4-4e32-a48d-bc6df8e8cb87": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 인디 뷰티",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oeDFhdUloR3gtNFd4SG04ZDlQdHBTQjkyUTc1M2N4dTlSWkNrWjJZRF9GbFliQUR3dnRydE9fbExVOVplZ1FPamZQUTFqVFFWV2ZVNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코스맥스, K뷰티 인디브랜드 직수출 지원 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ab39206f-901d-4ab1-a58a-020db30a2362": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Z250Q3c2ODRzMGloclJnbS1tWm13ZW56SGxPcHozdXc0Q1c0YnJwR3FJa3RUeFYtSk5GSnFOZ3hkeFY2VzM4YmtfaHlXUEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'미리 보는 내년 봄여름 K패션'…LF 헤지스, 글로벌 수주회 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3acc0e1a-ef52-43f5-a9d7-44bdc034e91f": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2636bec8-9cb8-42bd-b699-8a2786d983b3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5S0g1YVVtMVVsNzBWekFQRk9RSkF6S1FaNFhXb0h5akV3QXhPOWFvRnhocEYwYnVqd3dKMEZmNERjMUJac1lZUHVPRGp6MUkzNjVTZUYzOHVneUlOdERoeG4wNGtxZ2JG?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘2025 대구경향하우징페어’, 가을 인테리어 트렌드 총집합…18일 엑스코서 개막 - 대구일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40943048-95cc-4d8f-a082-01351190cc32": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KeWdnNnpnNlZTcUJEQVNFT1BKTFE5bWp6QldMM1FqeFBJSEdadlFhaWJzOUxScHdMcEk5UVZFM3JxNkxnMFZpREQ2bUlGZFI3WnlzTXhlRnRIY2hCZkNPNtIBeEFVX3lxTE1ScGNRLXpJV3JHelc2VnAzYXdjclBmUUxDREg5blQ1bUR4UkluWlZCdUM4dWg4V3dKcFlJSXJHWHVIRC11VTE0Qjk4OUVTZFdCRjhUMDlJeFhEZUNNbVBZRUtoNFplcGVLcWNSMFBZWUVWUXJadTdkdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"쉬면서 건강도 챙긴다\" 호텔업계, 객실 밖 '웰니스 경쟁' - 뉴시스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bfd7dba7-ab09-415a-b13d-e2e6b35cc97d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "d0d6c03f-97b7-4022-956d-48a6bcf841fe": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "81eb0fad-a8a8-44de-af0f-bc781029e54b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
