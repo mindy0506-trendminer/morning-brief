@@ -1,0 +1,223 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 온라인 중심에서 글로벌 오프라인 매장으로 확장 전환 본격화",
+    "호텔 숙박 패턴 변화: '호캉스'에서 스포츠 결합 '스포캉스'로 재편",
+    "Z세대, 전통문화 소비·무알콜 선호로 소비 가치관 다변화 뚜렷"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "5c4357a5-cd6f-4344-be0d-8279c9d8f2f7",
+        "title_ko": "패션 브랜드, 리세일 직접 뛰어든다",
+        "summary_ko": "패션 브랜드들이 중고 재판매 시장에 직접 진입하는 사례가 늘고 있다. 순환 경제 대응과 함께 2차 시장 수익화를 통한 브랜드 생애 주기 연장 전략으로 풀이된다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "3677af5f-ce14-4b58-ac58-51999f6feb6c",
+        "title_ko": "비비고 비건 김치, 호주 상륙",
+        "summary_ko": "CJ 비비고가 액젓 없이 풍미를 유지한 비건 김치를 호주에 출시했다. 전통 발효 식품의 비건화는 해외 채식 소비층 공략과 함께 K-푸드 수출 저변을 넓히는 전략적 선택으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d11dc192-f0a2-4bb6-81dd-cdffd0df7471",
+        "title_ko": "대학 식당, 비건 배려 미흡",
+        "summary_ko": "고려대 학생식당에서 비건 학생이 선택할 수 있는 메뉴가 사실상 부재한 실태가 조명됐다. 비건 인구 증가에도 단체급식 환경의 대응이 뒤처지고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2c1cf017-37b3-4e37-942c-bfe662e98a00",
+        "title_ko": "비건 문화, 다양성 지표로 부상",
+        "summary_ko": "한국 내 비건 문화 확산이 단순한 식습관 변화를 넘어 사회적 다양성 수용 수준을 가늠하는 척도로 논의되고 있다. 소비 선택권 보장이 사회 의제로 전환되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d881edf0-5bfa-485a-a359-f7f9e88bc918",
+        "title_ko": "K-뷰티, 온·오프 전방위 확장",
+        "summary_ko": "북미·유럽·동남아 주요 소매 채널에서 한국 뷰티 브랜드의 오프라인 입점이 가속화되고 있다. 온라인 직구 중심의 1차 성장기를 지나 글로벌 유통망을 통한 본격 주류화 단계에 진입했다는 평가다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "03709858-2d8f-423c-b713-fcdb6facaef2",
+        "title_ko": "올리브영, K-뷰티 11개 브랜드 북미 입성",
+        "summary_ko": "랜딩인터내셔널이 올리브영의 미국 진출을 지원하며 K-뷰티 11개 브랜드가 북미 유통망에 진입했다. 올리브영이 단순 국내 편집숍을 넘어 해외 유통 플랫폼 역할로 기능하기 시작한 분기점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ff87b909-90ef-4ded-8a0f-c2acf7b6b5b2",
+        "title_ko": "K-뷰티, 아프리카 시장 탐색",
+        "summary_ko": "인천 뷰티·헬스케어쇼 수출상담회에서 아프리카 시장 진출 가능성이 확인됐다. 미국·중국 편중 구조를 벗어나 글로벌사우스로 수출을 다변화하려는 시도로, 유통망 미비라는 선제 과제가 남아 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "cab34399-df79-4759-acd9-84feca831e9f",
+        "title_ko": "호캉스에서 스포캉스로",
+        "summary_ko": "호텔들이 테니스·요가·골프·줌바 등 스포츠 액티비티를 패키지화한 '스포캉스' 상품을 잇달아 선보이고 있다. 단순 휴식형 투숙에서 체험 중심 체류로 소비자 수요가 이동하면서 호텔 수익 모델도 함께 변화하는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "18a32eab-7ae4-40e6-b7b3-45a75be57553",
+        "title_ko": "호텔 에티켓 논란 확산",
+        "summary_ko": "손담비가 호텔 객실 내 신발 착용 등 비매너 행동에 불쾌감을 표출하며 호텔 이용 예절 논란이 확산됐다. 호텔 이용 저변 확대와 함께 공중 공간 에티켓에 대한 사회적 기준 재정립 요구가 표면화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "ac3bb5ed-2f8d-4820-987d-4dbc0af88580",
+        "title_ko": "Z세대, 전통 문화를 소비로 재해석",
+        "summary_ko": "중국 Z세대가 한푸(汉服) 등 전통 의복을 일상 패션으로 소비하는 '국조(國潮)' 흐름이 신화망을 통해 집중 조명됐다. 단순 복고가 아니라 문화 정체성을 소비 행위로 표현하는 세대적 자신감으로 해석된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "582e1af5-080b-491d-be5a-a7248ba16660",
+        "title_ko": "Z세대, 술 대신 무알콜 선택",
+        "summary_ko": "스페인 Z세대 사이에서 음주량이 눈에 띄게 줄고 무알콜 음료 소비가 급증하고 있다. 건강·자기통제 가치관이 파티 문화 자체를 바꾸는 신호로, 글로벌 무알콜 음료 시장 성장과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cfd05c7d-b412-4a41-9c76-8ac311968f6d",
+        "title_ko": "Z세대 소비 행동의 구조적 특성",
+        "summary_ko": "중국 Z세대의 소비 행동을 분석한 연구는 가성비와 개성 표현을 동시에 추구하는 이중 욕구 구조를 핵심으로 짚는다. 브랜드 충성도보다 경험과 의미를 우선하는 이 세대의 소비 논리는 마케팅 전략 전반의 재설계를 요구한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 공통 축은 '주류 시장의 경계 재설정'이다. K-뷰티는 온라인에서 오프라인으로, 미국·중국에서 아프리카·글로벌사우스로 확장하며 새 경계를 긋고 있다. 호텔 소비는 수동적 휴식에서 능동적 체험으로 이동했고, Z세대는 알콜·전통·중고 등 기존 소비 범주를 자신들의 언어로 재편하고 있다. 각 섹션의 변화가 독립적으로 보이지만, 소비자가 '기존 방식'에 만족하지 않고 대안을 직접 구성하는 능동성이라는 하나의 흐름으로 수렴된다.",
+  "cards_meta": {
+    "5c4357a5-cd6f-4344-be0d-8279c9d8f2f7": {
+      "category": "MacroTrends",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZUM5SVM1dExpV1I2VFJzU0JGajJ6bmlXV29JR0RPR0ZUUmtWMk1EdzdienNjS0h0aDR3bWdYQi12ajU0UnRkZ2pybk8tcTZpNkMwYWx4X1I5VlhDdllKMjdiUTBDYXFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션 브랜드도 ‘리세일 시장’ 군침…주도권 경쟁 격화 - ebn.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3677af5f-ce14-4b58-ac58-51999f6feb6c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iRE8yRzEwUU9sZjJNcFJqWFQ5cFNfZkVUbEVaS2thTmJxcE5sS3dJU3U3X19XNjhoUU5WalJFdURRUDdka2tZMU00TDctYlU4bGFyVkJXdTA5Z1k3TjNvaTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d11dc192-f0a2-4bb6-81dd-cdffd0df7471": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2c1cf017-37b3-4e37-942c-bfe662e98a00": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d881edf0-5bfa-485a-a359-f7f9e88bc918": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310755",
+      "original_headline": "K-Beauty Expands Beyond E-Commerce as Global Retail Footprint Grows",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "03709858-2d8f-423c-b713-fcdb6facaef2": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WcE0zMEZQM2R0d1ZwekUwbG9GQmFSS1FwdEExTUlTeVVCSTdZMjB1Y3BsX19mS3BKTTNPRWQ3c2FaYldvTl9QNjlYSFlOWFpzbkx1MExTbGIzcGh0eHlsYWlnNHNHZmVOQzlV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "랜딩인터내셔널, 올리브영 美 진출 지원…K뷰티 11개 브랜드 북미 입성 - 서울타임즈뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ff87b909-90ef-4ded-8a0f-c2acf7b6b5b2": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310759",
+      "original_headline": "美·中 넘어 아프리카로…K-뷰티 수출 다변화 신호탄 쏜 인천 뷰티쇼",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cab34399-df79-4759-acd9-84feca831e9f": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tV3lmR21hS1Q2ZjkwUGhrd2ZCU016TzRjbk8zdHktb1dqLTlMLXZuSFVySHl2TFVldXVUQ3k5WndSdWRjSUtCNzBmTHlBTms?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔서 테니스·요가·골프·줌바까지…이제 호캉스 대신 ‘스포캉스’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "18a32eab-7ae4-40e6-b7b3-45a75be57553": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DcTJxNkktekphSHlSSlU1dy03Z2dhX1dCY25MRWFBd0hEOWlHc0szZURXSUg5WHdLY2I5Tks4S0RlMk5PNmUxcmxJc2lJMkZhdHdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔 비매너 논란 손담비 \"너무 짜증 나지만 어쩌겠나\" - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ac3bb5ed-2f8d-4820-987d-4dbc0af88580": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "582e1af5-080b-491d-be5a-a7248ba16660": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "cfd05c7d-b412-4a41-9c76-8ac311968f6d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
