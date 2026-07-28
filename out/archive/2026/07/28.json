@@ -1,0 +1,206 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질·글로벌 시장 공략 본격화로 ODM 의존 탈피 전환 신호",
+    "K-패션·K-뷰티 해외 진출 인프라 정비 가속, 물류·수출 지원 체계 가동",
+    "Z세대, 전통문화 소비·무알콜 선호로 글로벌 소비 가치관 재정의"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "67bc9bd5-646b-450e-9edf-58d428b7e0da",
+        "title_ko": "비비고 비건 김치, 해외 공략",
+        "summary_ko": "CJ 비비고가 액젓을 제거하면서도 풍미를 유지한 비건 김치를 호주에 출시했다. 비건 식품 수요가 확산되는 글로벌 시장에서 K-푸드의 다변화 전략이 본격화되는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "37eb8886-b2a0-4c4b-a716-d32aac943c65",
+        "title_ko": "대학 학식, 비건 선택지 공백",
+        "summary_ko": "국내 대학 학생식당에서 비건 학생들이 먹을 수 있는 메뉴가 사실상 전무하다는 현장 보고가 이어지고 있다. 비건 인구 증가 속도에 비해 급식·외식 인프라의 대응이 뒤처지고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d6b3b2b1-b0f4-4daa-a8af-0873b028ead8",
+        "title_ko": "한국 비건 문화, 다양성 시험대",
+        "summary_ko": "한국의 비건 문화 확산이 단순 식이 선택을 넘어 사회적 다양성 존중의 척도로 논의되기 시작했다. 소비재 기업 입장에서는 비건 라인업 확충이 브랜드 포용성 지표로 연결되는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "bdee3798-a47a-4b2d-8091-f243e5ae27bf",
+        "title_ko": "K-뷰티, 브라질 시장 문 두드린다",
+        "summary_ko": "중기부가 브라질 화장품협회 및 메르카도 리브레와 K-뷰티 중소기업 진출 협력 방안을 논의했다. 한류 열풍이 남미로 확대되며 그간 물리적 거리로 소외됐던 브라질 시장이 새 격전지로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f1a0bf3-1f94-49f1-aa46-c17dbaea2347",
+        "title_ko": "오송 뷰티엑스포, B2B 강화 개편",
+        "summary_ko": "2026 오송화장품뷰티엑스포가 10월 22~24일 청주에서 열린다. 올해는 수출상담·투자유치 기능을 전면 강화하고 초기기업 성장 프로그램을 신설해 전시 중심에서 산업 지원 플랫폼으로 성격을 전환한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6f55d11d-e99c-4cfc-b158-4a7a05e7427b",
+        "title_ko": "K-뷰티, 자체 기술·IP 경쟁으로 전환",
+        "summary_ko": "성분 투명성과 임상 효능이 글로벌 기준으로 자리잡으면서, 국내 브랜드들이 ODM 의존에서 벗어나 자체 기술과 지식재산 기반의 가치 구축으로 전략을 전환하고 있다. K-뷰티의 질적 도약 여부를 가를 변곡점이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "96e82456-5b49-4b16-be4f-011038b5fe61",
+        "title_ko": "K-패션 해외 진출, 물류망 정비",
+        "summary_ko": "한진이 'K-패션 커넥트' 행사에서 K-브랜드의 해외 진출을 위한 물류 솔루션과 컨설팅을 선보였다. 콘텐츠 경쟁력에 비해 뒤처졌던 글로벌 유통 인프라가 빠르게 보완되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "a372ef47-ab48-4635-aaa0-ebce54cad41d",
+        "title_ko": "호텔신라, 수익성 경영 효과 본격화",
+        "summary_ko": "호텔신라의 2분기 영업이익이 전년 대비 521% 증가할 것으로 전망된다. 수익성 중심 경영 기조 전환이 성과를 내기 시작하면서 고급 호텔 부문의 회복세가 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "48a5dc0a-1125-4c0b-9e00-8d4eaf8fa9a8",
+        "title_ko": "일본 강진, 한국 관광객 불안 고조",
+        "summary_ko": "일본 강진으로 현지 체류 중인 한국 관광객들이 혼란을 겪었다. 일본이 한국인 해외 여행 1순위 목적지인 만큼, 자연재해 리스크가 단기 여행 수요에 미치는 영향을 주시할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "dcf7691b-99f2-4104-90c4-944f44cc3482",
+        "title_ko": "Z세대, 전통문화를 소비 정체성으로",
+        "summary_ko": "중국 Z세대가 한복(汉服) 등 전통 복식 소비를 통해 문화적 자긍심을 표출하는 '궈차오(国潮)' 트렌드가 확산되고 있다. 전통 요소를 현대 라이프스타일에 결합하는 소비 방식이 주요 시장에서 구조화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "52947843-412b-44c2-b58d-78335de77b4d",
+        "title_ko": "Z세대, 무알콜 음료로 파티 문화 재편",
+        "summary_ko": "스페인 등 유럽권 Z세대에서 주류 소비가 줄고 무알콜·제로 음료가 급성장하고 있다. 건강·가치 소비 지향이 음주 문화 자체를 바꾸며 식음료 기업의 무알콜 라인업 경쟁이 불가피해지는 구도다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K-브랜드의 글로벌 인프라 내재화'와 'Z세대의 가치 주도 소비' 두 축이다. K-뷰티는 ODM 위탁에서 자체 기술·IP로, K-패션은 콘텐츠 경쟁력에서 물류·유통망 정비로 전선을 확장하고 있으며, 브라질이라는 새 시장 개척까지 더해져 K-소비재의 외연이 동시다발로 넓어지는 국면이다. 한편 글로벌 Z세대는 전통문화 소비와 무알콜 선호를 통해 기존 소비 공식을 해체하고 있어, 국내외 소비재 기업 모두 제품 포트폴리오와 마케팅 언어를 재조정해야 할 시점에 놓여 있다.",
+  "cards_meta": {
+    "67bc9bd5-646b-450e-9edf-58d428b7e0da": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iRE8yRzEwUU9sZjJNcFJqWFQ5cFNfZkVUbEVaS2thTmJxcE5sS3dJU3U3X19XNjhoUU5WalJFdURRUDdka2tZMU00TDctYlU4bGFyVkJXdTA5Z1k3TjNvaTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "37eb8886-b2a0-4c4b-a716-d32aac943c65": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d6b3b2b1-b0f4-4daa-a8af-0873b028ead8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bdee3798-a47a-4b2d-8091-f243e5ae27bf": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99358",
+      "original_headline": "중기부, K-뷰티 중소기업 브라질 진출 확대 위한 협력방안 논의",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f1a0bf3-1f94-49f1-aa46-c17dbaea2347": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iSGFTdXhvT19pMk13NGNkSzQ5MmpSOUJ3UmpnOFI3UldKMFZCekt5eFlnZ2hsN3JjYmJBdlNDbXVlcFc5S2QwLTJ5WUJHM1BaTTNjcWZiWHFKMVRxOWdzeEdJajhYUdIBZkFVX3lxTE1iSGFTdXhvT19pMk13NGNkSzQ5MmpSOUJ3UmpnOFI3UldKMFZCekt5eFlnZ2hsN3JjYmJBdlNDbXVlcFc5S2QwLTJ5WUJHM1BaTTNjcWZiWHFKMVRxOWdzeEdJajhYUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "오송화장품뷰티엑스포 10월 개막 - 동아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6f55d11d-e99c-4cfc-b158-4a7a05e7427b": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310520",
+      "original_headline": "K-Beauty Global Transformation Report ④: The New K-Beauty Playbook",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "96e82456-5b49-4b16-be4f-011038b5fe61": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11YXhKcEU2Nm5OSWFuMFRaVldtWFVsd0QwczlVTUV1SHBBRUhkam9kZ29lYXdLcS01OUNqcG5kYlE3ajZ6UjVyX3JFdXQxUU9LQ0dFUDJWZFdWM2hzWlRVdUJXM2Jia2ZvNkMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한진, 'K-패션 커넥트'서 K-브랜드 해외 진출 물류 솔루션 제시 - 물류신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a372ef47-ab48-4635-aaa0-ebce54cad41d": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxWm5lYTRwUjdHR0xOQWxGRTdTLVVfOVdVQXhKXzZCc3U5am11Y2g0UEhVMTVuSEJWTEhDLWprdVBNU2lwUmY2V2ZDdnFlTEpuTDBWeGg5LVdLX2NzeUJJMFBfNmJZSkhVdWxqamltdi1HRGFz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'수익성 경영기조'…호텔신라, 2Q 영업익 521% 증가 전망 | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "48a5dc0a-1125-4c0b-9e00-8d4eaf8fa9a8": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbGd0bjQ4Zmt5MlBTMmpGREE1WEwyc3VTdzk1c2Jjb0I5Nnd4QWRUdFdCVG1Ncl9kRzNKZ0RYTXRndWhnZERZcnY2ZVJtdldvNGFz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"호텔방 좌우로 흔들려\"…일본 강진에 한국 관광객 현지서 당황·불안 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dcf7691b-99f2-4104-90c4-944f44cc3482": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "52947843-412b-44c2-b58d-78335de77b4d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
