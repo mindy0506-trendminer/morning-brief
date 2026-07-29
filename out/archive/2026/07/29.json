@@ -1,0 +1,183 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질 중남미 공략 본격화…정부 주도 글로벌 확산 가속",
+    "파데프리·로테이션 보양 등 여름 시즌 소비 키워드 뚜렷하게 분화",
+    "MZ세대 할랄 소비, 종교 문턱 낮추고 웰빙·가치소비 영역으로 진입"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "e443051c-0165-451e-8cf1-0e3f36376c5e",
+        "title_ko": "복날마다 다른 메뉴, 로테이션 보양",
+        "summary_ko": "삼복 시즌을 겨냥해 외식·식품업계가 이색 메뉴 경쟁에 돌입했다. 복날마다 다른 보양식을 찾아 즐기는 '로테이션 보양' 흐름이 자리를 잡으면서, 캔 장어·깨냉면 같은 프리미엄 간편식과 라멘 브랜드의 삼복 특선 메뉴가 나란히 시장에 등장하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8a64d005-467a-4c01-959f-64b6b2d40fcc",
+        "title_ko": "약국 건기식, 상담 경쟁력이 관건",
+        "summary_ko": "약국의 건강기능식품 점유율은 4.5% 수준으로 아직 낮지만, 약사 복약 상담이라는 차별점을 살릴 경우 성장 여지가 크다는 평가가 나온다. 판매 채널 다각화 속에서 전문성 기반의 신뢰가 핵심 변수로 떠오르고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "8661f17a-ad16-4c89-81a9-eb9e57929333",
+        "title_ko": "K-뷰티, 중남미 교두보 확보",
+        "summary_ko": "중기부가 브라질 상파울루에서 'K-Beauty GLOW WEEK'를 개최하며 21개 뷰티 기업의 중남미 진출을 지원했다. 한류 열풍에 힘입어 브라질 화장품협회·메르카도 리브레와 협력 채널을 구축했으며, 올해만 중국·베트남·이탈리아에 이은 네 번째 거점 확장이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bc00cefd-4468-4a23-92a8-7b27f03c2eed",
+        "title_ko": "파운데이션 없는 여름 메이크업 부상",
+        "summary_ko": "폭염과 고습도가 겹친 여름, '파데프리' 메이크업이 새로운 기준으로 자리잡고 있다. 선케어 제품이 자외선 차단을 넘어 피부 보정 기능을 흡수하고, 블러쉬·립 중심의 포인트 메이크업이 부각되면서 베이스 카테고리 내 제품 구성도 재편될 조짐이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "1e43dbc2-0842-45bf-b12d-2008fd493d76",
+        "title_ko": "K-패션 해외 진출, 물류가 변수",
+        "summary_ko": "한진이 K-패션 커넥트 행사에 물류기업으로는 단독 참가해 해외 진출 맞춤형 솔루션을 제시했다. K-브랜드 글로벌화가 속도를 내면서 크리에이티브보다 통관·배송 인프라가 실질적 병목으로 부각되는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8d6c0503-bdc4-46c4-952f-133e9da0fe01",
+        "title_ko": "일본 강진, 한국 여행객 불안 확산",
+        "summary_ko": "일본을 찾은 한국 관광객들이 강진으로 현지에서 혼란을 겪었다. 여름 성수기 일본 여행 수요가 높은 상황에서 안전 리스크에 대한 민감도가 높아지고 있어, 여행 취소·일정 변경 문의도 이어지는 분위기다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "903e12cb-b381-4c13-8279-71952e7fcd77",
+        "title_ko": "강남 르메르디앙 자리에 SK하이닉스 사옥",
+        "summary_ko": "SK하이닉스가 강남 르메르디앙 호텔 부지에 서울 거점 사옥 건립을 추진 중이다. 도심 핵심 호텔 부지가 기업 사옥으로 전환되는 사례로, 강남권 오피스·호스피탈리티 공간 재편의 신호탄으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "68393ac5-c629-4c3c-9829-88b3f5bd80ea",
+        "title_ko": "할랄 소비, 가치소비 코드로 재정의",
+        "summary_ko": "20~30대의 82%가 할랄 인증을 구매 기준으로 삼는다는 조사 결과가 나왔다. 종교적 요구를 넘어 웰빙·윤리·지속가능성을 추구하는 MZ세대의 가치소비 흐름과 맞물리면서, 할랄 인증이 식품·뷰티 전반의 프리미엄 마케팅 레버로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7c4fd654-ee18-4df8-878c-3049ade81b80",
+        "title_ko": "전통 체크인의 퇴장, 디지털 전환 가속",
+        "summary_ko": "항공·호텔 업계에서 기존 대면 체크인 방식이 디지털 통합 절차로 대체되는 흐름이 전 세계적으로 확산되고 있다. 여행 경험의 비대면화가 빨라지면서 국내 관련 서비스 업계에도 인프라 전환 압력이 커질 전망이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 가로지르는 공통 축은 '기존 카테고리 경계의 해체'다. 파데프리 트렌드는 베이스 메이크업과 선케어의 경계를 무너뜨리고, 할랄 소비는 종교 시장과 웰빙 시장의 구분을 지운다. K-뷰티의 브라질 진출과 K-패션의 물류 고도화는 크리에이티브 경쟁이 이미 인프라 경쟁으로 무게 중심을 옮겼음을 시사한다. 소비자 행동과 유통 구조가 동시에 재편되는 국면에서, 경계 위에 있는 플레이어보다 경계를 새로 긋는 플레이어가 유리한 구도다.",
+  "cards_meta": {
+    "e443051c-0165-451e-8cf1-0e3f36376c5e": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68323",
+      "original_headline": "외식·식품업계, ‘여름 신메뉴’로 시장 공략 활기",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8a64d005-467a-4c01-959f-64b6b2d40fcc": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8661f17a-ad16-4c89-81a9-eb9e57929333": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99366",
+      "original_headline": "중기부, ‘K-Beauty GLOW WEEK in Brazil’개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bc00cefd-4468-4a23-92a8-7b27f03c2eed": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSlNWNi0xTkdFTkMwQUswN0szcEk4UHpLcnRFd1czTHVJckxjUmloYU1tQWdGd3BVT2IxS29jZm5Ud2tKdXQ5RnZQUWFVWW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“덜 바를수록 예쁘다” 올여름 뷰티 키워드 ‘파데프리’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e43dbc2-0842-45bf-b12d-2008fd493d76": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11YXhKcEU2Nm5OSWFuMFRaVldtWFVsd0QwczlVTUV1SHBBRUhkam9kZ29lYXdLcS01OUNqcG5kYlE3ajZ6UjVyX3JFdXQxUU9LQ0dFUDJWZFdWM2hzWlRVdUJXM2Jia2ZvNkMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한진, 'K-패션 커넥트'서 K-브랜드 해외 진출 물류 솔루션 제시 - 물류신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d6c0503-bdc4-46c4-952f-133e9da0fe01": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0OFJfeEprd1drQzR2cnVvc0RBaGZZcVdhRG42RUlsVkFaWjZ5VzdqVU5nNl9XZDQzbjhOOW5Wb1kyXzlrVTNUMVNoc0FJSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"호텔방 좌우로 흔들려\"…일본 강진에 한국 관광객 현지서 당황·불안 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "903e12cb-b381-4c13-8279-71952e7fcd77": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkRTFwUXFxVVhLazJEQ1Q2NWxCSkhtNjQ1dWN3SXlNOU1Kd2ljR2IyUEJUclBBZUdGYUhCczZIYnJXOVBSZ0d4Z0tfdVJ5YkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[단독]SK하이닉스, 서울 한복판에 거점 세운다...강남 르메르디앙 호텔 자리에 사옥 건립 추진 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "68393ac5-c629-4c3c-9829-88b3f5bd80ea": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW1EM0lQMm9IaEwxYmRkZDFRbHlQWHVLdG80S2hBNHFZQnhxUUx0RDE2UEpYMVR3NTUtNlNLU3d5NFBUY09YNzdDc2lkRnJsd2ZQQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7c4fd654-ee18-4df8-878c-3049ade81b80": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGhwSVB5TVplV0ZUVFBVZ195TEZiXzNwNHBRaW4tM1VGZ2JnT24yaU1RVTJ5YWxZVlJQcnotUEh5WTFkbUpmSWxjbnRlZmprblMxanc2Qzhvc05nYWhLMmJLTE1YRVFoY3NGXzlTaTBQaG0ydkZGQ3FGb2xqTHhjckZJTVN1bkZ3VHFYYnh3OVlkOUZieloyZjFJQTdrVXh4RGpXcnd5bFBHdWxQdGxoYlVKLXdwbnhnLTNXRVVJaWZ2OEdFWUp6dkFVaGZhYnBEU0hlcjZGWmVhMThrSG81ZV9HQXFzaTJhQ0wwR9IBhwJBVV95cUxNLWg2eHNVR0FBSS1lcGptN2VJUDdvLXVNNnBFRHVraEhQY1I0d0hWc1loYmNiNXdXVnUxSkJscEFQZmoxaF9xdW9fZThjMy1TNFZSVVJTdU44U0haajVvNnZPS2N2MVR3V0hYaXJMOFZyelRYQ3FhT0FHbjlWRlJweUV0SDRNMDVyWHA1c1RHTmpEQVpiVEtYSzlwZ3lEeFpONjhVUlJ0TFlpUkh3ejMyd0xxLWZTU29mU1VWc3Q2YUR3VVlETUdmSlFTejJySkQyV1NmelFpQV9ma0FpR3o5SlZYRnRHUHBVVXJLOTRBUWdKTGoxQTgwTmc1Q2t1NVpxM2hRaWU5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Se despide el check-in tradicional para siempre: este será el nuevo y único método para viajar a todo el mundo - cronista.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
