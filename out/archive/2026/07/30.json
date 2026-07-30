@@ -1,0 +1,203 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질·인도네시아 동시 공략…중남미·동남아 글로벌 확장 본격화",
+    "대형마트 유통 재편, 규제 엇박자 속 승자 없는 구도로 고착화 우려",
+    "MZ세대 할랄 소비, 종교 경계 넘어 웰빙·윤리 가치소비로 진화 중"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "ae9d47d0-d65c-43f4-9d8f-cfa74fba420f",
+        "title_ko": "멕시코 모래폭풍, 호텔 인프라 타격",
+        "summary_ko": "시속 150km 강풍을 동반한 모래폭풍이 멕시코를 강타해 호텔 시설이 광범위하게 파손됐다. 이상기후가 관광·숙박 인프라의 리스크 요인으로 직결되는 사례가 반복되면서, 기후 대응 능력이 호텔 자산 평가의 새 기준으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0a810113-9352-4efd-a817-e09d47b6d8f3",
+        "title_ko": "인구 감소, 소비 구조를 다시 쓴다",
+        "summary_ko": "인구 감소가 소비 시장의 규모 축소를 넘어 소비 개념 자체를 재정의하고 있다는 분석이 제기됐다. 1인 가구·고령 소비자 중심의 수요 재편은 대용량·다인 가구 전제의 제품 설계와 유통 전략 전반에 근본적 수정을 요구한다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "28d88057-1305-4fe3-82f6-edf0e51bfec3",
+        "title_ko": "약국 건기식, 상담 경쟁력이 관건",
+        "summary_ko": "약국의 건강기능식품 시장 점유율은 4.5%에 머물고 있다. 온라인·편의점 채널과의 경쟁에서 약사 상담이라는 전문성을 차별화 무기로 삼아야 한다는 목소리가 높아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cd9177d4-00fe-4e8b-99ca-d35e73ff15a0",
+        "title_ko": "대형마트 재편, 규제가 발목",
+        "summary_ko": "대형마트 위기가 심화되는 가운데 유통 규제가 현실과 엇박자를 내고 있다는 지적이 제기됐다. 온라인·편의점으로 소비가 분산되는 상황에서 규제 체계가 구조 변화를 따라잡지 못해 업계 전반이 피로를 누적하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "88ec856e-d544-4e87-a84e-c3b775c48635",
+        "title_ko": "K-뷰티, 중남미 거점 확보",
+        "summary_ko": "중기부가 브라질 상파울루에서 'K-Beauty GLOW WEEK'를 개최하며 21개 국내 뷰티 기업의 중남미 진출을 지원했다. 올해만 중국·베트남·이탈리아·브라질로 이어진 릴레이 행사로, K-뷰티의 글로벌 거점이 유럽과 남미로까지 확산되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7f82f409-9c5c-428f-8b86-d86ebf07ee0a",
+        "title_ko": "인도네시아 할랄 의무화 대응 가속",
+        "summary_ko": "사임당화장품제조가 16개 품목에 대해 인도네시아 할랄 인증을 취득했다. 인도네시아는 올해 10월부터 화장품 할랄 표시를 의무화할 예정으로, 인증 미취득 제품의 현지 판매가 막히는 만큼 국내 OEM·ODM 업계의 대응이 시급한 과제로 부상했다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "994807d5-3f6d-4a50-b0bb-2d4b3838bed7",
+        "title_ko": "K-패션 해외 진출, 물류가 변수",
+        "summary_ko": "한진이 물류기업으로는 단독으로 'K-패션 커넥트'에 참가해 해외 진출 맞춤형 솔루션을 제시했다. K-패션 브랜드의 글로벌 진출이 늘어나면서 통관·배송 등 물류 역량이 해외 사업 성패를 가르는 핵심 변수로 부각되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8423fb38-00f6-4930-b64a-6e7087321985",
+        "title_ko": "코람코, 호텔 자산 5조 목표",
+        "summary_ko": "코람코자산운용이 5년 내 호텔 운용자산을 5조 원으로 확대하겠다는 계획을 밝혔다. 국내 호텔 시장에 기관 자금이 대규모로 유입되는 흐름이 가속화되고 있으며, 호텔이 부동산 대체투자 핵심 자산으로 자리잡고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "85e5796c-62c2-4e6f-b335-d4e75005c0f5",
+        "title_ko": "할랄 소비, 종교 넘어 가치소비로",
+        "summary_ko": "MZ세대 20~30대의 82%가 할랄 인증을 필수 조건으로 꼽는다는 조사 결과가 나왔다. 할랄이 무슬림 전유물에서 벗어나 건강·윤리·환경을 중시하는 가치소비 기준으로 재정의되고 있어, 식품·뷰티 기업 모두에 새로운 인증 전략이 요구된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bc869c55-cfb8-4c94-8d63-71406ad78343",
+        "title_ko": "Z세대, 술자리 대신 무알콜 선택",
+        "summary_ko": "스페인 Z세대를 중심으로 알콜 소비가 줄고 무알콜·저알콜 음료가 파티 문화의 중심으로 자리잡고 있다. 이 흐름은 한국 시장에서도 무알콜 맥주·하이볼 대체재 확산과 맞닿아 있어, 주류 업계의 포트폴리오 재편 필요성을 시사한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '할랄'과 'K-브랜드의 지역 다변화'다. 뷰티(사임당화장품제조 인도네시아 인증), 소비트렌드(MZ세대 할랄 가치소비) 두 섹션이 같은 흐름을 다른 각도에서 조명하고 있다. 할랄 인증이 단순한 시장 진입 요건을 넘어 윤리·웰빙 소비의 상징으로 격상되면서, 식품과 뷰티 모두 인증 전략을 영업 우선순위 최상단에 올려야 할 시점이다. 동시에 K-뷰티의 브라질 공략, K-패션의 물류 솔루션 모색, 코람코의 호텔 자산 확대는 내수 정체에 대한 산업 전반의 해외·대체 성장 탐색이 조직적으로 진행되고 있음을 보여준다.",
+  "cards_meta": {
+    "ae9d47d0-d65c-43f4-9d8f-cfa74fba420f": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYVEpJVkN4RERPUU0zU2xIWldDdXpCMWxDQWEwSlBVbFpXaEx0eXFYTWdVb2Q0TU5sRTctOHo2M3pZSV81QnNHSG9PNXZReHE0b3pBcW9YNHhRNlFjZ21FedIBYEFVX3lxTFBYVEpJVkN4RERPUU0zU2xIWldDdXpCMWxDQWEwSlBVbFpXaEx0eXFYTWdVb2Q0TU5sRTctOHo2M3pZSV81QnNHSG9PNXZReHE0b3pBcW9YNHhRNlFjZ21FeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[영상] 시속 150㎞ 강풍에 호텔 쑥대밭…멕시코 덮친 모래폭풍 - yna.co.kr",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0a810113-9352-4efd-a817-e09d47b6d8f3": {
+      "category": "MacroTrends",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGwtMXVPcXBDT2FqOGp1WktmRGQ5VEFLMjZKQzJBVERkOGkxclNzR2Zxb2l0UlNsNHVZb0dnQ1IwbkdjOTFPaWxXTmR0bzNjSFlSRVlIeklUUU9ybmdQekVLRnhQc3M1ZXlfdXI3YzBYWlFTMkV0Q29wWG9YOHZrSE53UWhnTGUyMTVDaFVwVFZiSlR1Tnc5Zkc5VTE0a3RDV0xON1BlUGNMS3dxOW5QTHg0bVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo el declive demográfico está redefiniendo el consumo - www.revistaeyn.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "28d88057-1305-4fe3-82f6-edf0e51bfec3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cd9177d4-00fe-4e8b-99ca-d35e73ff15a0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVGY0OVUxOVUyMWJ4Q3AxVGJKTWRQTUprcTgwNHpzRkpVTi0yMXUwLTR4VUtsQnVoUXdTNFB2M2FMNWlIVG9WUzVhc2VaN0lZNWN4ZXc1bVNHb3VhQm1mNlRJclNYa0Q5V25MWdIBbEFVX3lxTE9OVGY0OVUxOVUyMWJ4Q3AxVGJKTWRQTUprcTgwNHpzRkpVTi0yMXUwLTR4VUtsQnVoUXdTNFB2M2FMNWlIVG9WUzVhc2VaN0lZNWN4ZXc1bVNHb3VhQm1mNlRJclNYa0Q5V25MWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[위기의 대형마트]③승자 없는 유통 재편...엇박자 나는 유통 규제 - 블로터",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "88ec856e-d544-4e87-a84e-c3b775c48635": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99366",
+      "original_headline": "중기부, ‘K-Beauty GLOW WEEK in Brazil’개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7f82f409-9c5c-428f-8b86-d86ebf07ee0a": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99379",
+      "original_headline": "사임당화장품제조, 화장품 16개 품목 인도네시아 할랄인증 획득",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "994807d5-3f6d-4a50-b0bb-2d4b3838bed7": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42WW5MUk1kWlRiUWczejZGb0RQaE9SWl9kdUJGeU1nd3dBc1BBMWd0bFR5OGRTWjVEWGtnMUU1dEFPazY2WDhKNnN4cEV2dFY3aDkwWHNjQU5rU2JoUlZkUVhrR1l6MVVvZExXSG1Rc1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한진, 'K-패션 커넥트' 참가... 해외진출 컨설팅 진행 - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8423fb38-00f6-4930-b64a-6e7087321985": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZm1ISVFJcWtHeXBHZVM0alRWbk40N1E0cmpUM0VDV2RIVldUNmQ0Mnh1a0pSRS1paExna0Q5dnZzYWViWW9vME8tWHJ2NkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코람코 \"5년내 호텔 운용자산 5조원으로 늘리겠다\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "85e5796c-62c2-4e6f-b335-d4e75005c0f5": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW1EM0lQMm9IaEwxYmRkZDFRbHlQWHVLdG80S2hBNHFZQnhxUUx0RDE2UEpYMVR3NTUtNlNLU3d5NFBUY09YNzdDc2lkRnJsd2ZQQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bc869c55-cfb8-4c94-8d63-71406ad78343": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
