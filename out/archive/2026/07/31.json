@@ -1,0 +1,197 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질 중남미 공략 본격화…정부 주도 현지 유통망 개척 가속",
+    "편의점이 신선식품 채널로 부상, 대형마트 대비 식품 매출 7.8% 우위",
+    "코스피 급등락 속 화장품 실적주 선방, 종목별 차별화 구도 굳어져"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b25854a0-2a2d-4551-a63c-f909cfd20605",
+        "title_ko": "편의점, 신선식품 주도권 탈환",
+        "summary_ko": "CU 등 편의점의 식품 매출이 대형마트를 앞서며 7.8% 성장했다. 근거리 소비 패턴과 소포장 수요가 맞물리면서, 편의점이 신선식품의 일상 구매 채널로 자리를 굳혀가는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9781217d-c802-4a0f-ad00-8a544cc95fa5",
+        "title_ko": "약국 건기식, 상담 차별화로 승부",
+        "summary_ko": "약국 건강기능식품 점유율은 4.5% 수준에 머물고 있으나, 약사 전문 상담이라는 신뢰 자산을 활용한 차별화 전략이 주목받고 있다. 온라인·편의점과의 채널 경쟁에서 '전문성'이 핵심 변수로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6f5d23c8-b9b0-4fb5-84f2-97ded26cb5af",
+        "title_ko": "Z세대, 와인 소비 방식을 바꾸다",
+        "summary_ko": "Z세대가 격식과 전통 대신 가성비·경험·소셜 공유를 기준으로 와인을 소비하면서, 주류 업계의 마케팅 문법이 흔들리고 있다. 저알코올·소용량 제품군의 수요 증가가 이 흐름을 뒷받침한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "25f7dba6-9d99-4301-add6-3db114ca1df7",
+        "title_ko": "K-뷰티, 브라질 시장 전면 진출",
+        "summary_ko": "중기부가 브라질 상파울루에서 'K-Beauty GLOW WEEK'를 개최하고 현지 화장품협회·메르카도 리브레와 유통 협력을 논의했다. 중국·베트남·이탈리아에 이어 중남미까지 확장한 정부 주도 글로벌 프로젝트로, K-팝 한류가 수요 기반을 선점해 준 시장이라는 점에서 성과 가시화가 빠를 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "05b1ccbf-9964-4dee-8522-50e784d95e72",
+        "title_ko": "화장품 실적주, 변동장서 방어력 입증",
+        "summary_ko": "코스피가 한 주 만에 10% 급락·17% 급등을 오가는 극단적 변동성 속에서도 실적이 뒷받침된 대형 화장품 브랜드사는 견조한 흐름을 유지했다. ODM 기업과 성장주는 조정을 받아 업종 내 차별화가 선명해졌으며, 펀더멘털 기반 종목 선별이 더욱 중요해진 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "af0e45e0-d64a-4591-9a4e-e886bcd4c230",
+        "title_ko": "K-패션 해외 진출, 물류가 관건",
+        "summary_ko": "한진이 'K-패션 커넥트'에 물류기업 단독으로 참가해 해외 수출 맞춤형 솔루션을 제시했다. K-패션의 글로벌 확산에서 크리에이티브 못지않게 공급망 역량이 병목 요인으로 부각되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d1ee92eb-2949-4db2-b25a-42187c51bcea",
+        "title_ko": "K-패션 공모전, 차세대 브랜드 발굴",
+        "summary_ko": "'2026 K-패션 브랜드 디자인 공모전' 결선이 마무리됐다. 신진 디자이너 육성과 K-패션 브랜드 저변 확대를 동시에 겨냥한 이 행사는, 국내 패션 산업이 소수 대형 브랜드 의존에서 벗어나려는 구조적 시도의 일환으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "9133417f-34b0-4f84-b81b-f201a15afa98",
+        "title_ko": "호텔신라, 수익성 개선 성과 가시화",
+        "summary_ko": "호텔신라의 2분기 영업이익이 611억 원으로 전년 대비 606% 급증했다. 외형 성장보다 수익성 집중 전략이 결실을 맺은 것으로, 인바운드 관광 회복과 프리미엄 호캉스 수요 확대가 동반 작용한 결과다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "30946985-6dcd-4082-9afe-555afe7a114d",
+        "title_ko": "MZ세대, 할랄 소비를 가치 소비로",
+        "summary_ko": "20~30대의 82%가 '할랄 인증이 필수'라고 응답하며, 할랄 소비가 종교적 맥락을 넘어 웰빙·윤리·가치 소비의 언어로 재해석되고 있다. 식음료·뷰티 전반에서 클린 라벨 수요와 맞물려 새로운 인증 마케팅 기회로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ef5a9496-c76d-4ad1-86f5-0a2ddedce471",
+        "title_ko": "Z세대 소비, 경험과 진정성이 기준",
+        "summary_ko": "Z세대는 브랜드 광고보다 또래 경험 공유와 진정성을 구매 결정의 핵심 기준으로 삼는다. 가격 민감도와 가치 지향이 동시에 작동하는 이 세대를 겨냥한 마케팅은 메시지의 일관성과 커뮤니티 접점 설계가 전제조건이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 축은 두 가지다. 첫째, K-브랜드의 외연 확장이 뷰티(브라질)·패션(물류·공모전) 전방위로 동시 진행되고 있으며, 정부 지원과 민간 역량이 결합된 구조가 속도를 내고 있다. 둘째, MZ·Z세대의 소비 기준이 가격이나 기능을 넘어 가치·윤리·진정성으로 이동하고 있어, 할랄 인증부터 와인 소비 방식까지 기존 카테고리의 문법이 재편되는 중이다. 두 흐름이 교차하는 지점, 즉 가치 소비를 내세운 K-브랜드의 신흥 시장 공략에서 다음 국면의 기회가 집중될 가능성이 높다.",
+  "cards_meta": {
+    "b25854a0-2a2d-4551-a63c-f909cfd20605": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZU5OanhNXzY5MDhkR3NiVmtNSEV1QWJYZm1JLVpPc3R4ek1OYk8yUElKR09ZS0Z6YWxUVm16bEwwQ2ZWeTlwNmZFcEFiMW5kSXFXRlhGNHQybnl4NkNLQnIwODZPdTVyekJYd05pb1lEMWdwdUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[현장] \"CU서 상추를\"···마트 앞선 편의점, 식품 '7.8%' 껑충 | - 시사저널e",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9781217d-c802-4a0f-ad00-8a544cc95fa5": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6f5d23c8-b9b0-4fb5-84f2-97ded26cb5af": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFB2Qm8tMjEybWNsMzdLaUdKZDlVN1VoZGRfaWNVNmZKNXFVOWVwQXNiaDBDaThocGxfZWhZSU5qT2F2X3ZlanRWTlp3eWJLUzVfeVhJSUpmV2otdWNXUHZvUjF3OUhNVFdIY0hCWWtLeFZhTWhJMnhIRHZCaXFkb0YyZURzelZ3OWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo la generación Z está cambiando el mundo del vino - tapasmagazine.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "25f7dba6-9d99-4301-add6-3db114ca1df7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99366",
+      "original_headline": "중기부, ‘K-Beauty GLOW WEEK in Brazil’개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "05b1ccbf-9964-4dee-8522-50e784d95e72": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310846",
+      "original_headline": "코스피 롤러코스터 장세에도 화장품주 선방…실적株 강세, 성장주는 조정",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "af0e45e0-d64a-4591-9a4e-e886bcd4c230": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yQVJCQjhpVF8teUhaWE5iaGowSC1jU21VaVF5em1NOVB2VXpxTWxjNy1VNFl2dFhwblRBMWV6OUpNSHd0dlhlOGZNUW02V3dJUUJ5MnE2bUU2ZG93UkNLclpISlRwNXNkdUI4RXZZUdIBc0FVX3lxTFAxenJ1NnR6amdpNzJGV1E0UHEwUlU0aW15dklsVTF5RUtraEt1bGRGWnBqWFpMQ0hDMzlXVHhyWm91LUw0TDJpdEVaNkdYdkdGMXRUVF9KYmpZdm16MVJUTGRYaVd4VG41SVpvbXZlUG1XbXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "(주)한진, ‘K-패션 커넥트’ 참가해 맞춤형 솔루션 제시 - 해운의소리",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1ee92eb-2949-4db2-b25a-42187c51bcea": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZk5XTkRVNWVtX0wtaTlSc2VHeDQ2Uml1VGYyZHRxeHBUbnhIU3RjTDRKOEF6YUlJQzNfekRnazhlS01iVXB2QlhHSXduVUl2dE5sU0FDSzhJVm54SHNaV21FWlM1VmJ3Z01v?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "미래의 꿈을 디자인하다… ‘2026 K-패션 브랜드 디자인 공모전 및 경진대회’ 개최 - jongnonews.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9133417f-34b0-4f84-b81b-f201a15afa98": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBackh4cFdlSVNORzZGZVhQY3puY1hINnk3M1MzczR6MFlhZjZrWFJhakpsZVdRWWszWmlvcUNpbFBBS1VlWVFyZmswX1c2bnNIbXBlcjFWdFV2czBhR1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔신라, 2분기 영업익 606% 폭증…수익성 개선 집중 결과(종합) - news2day.co.kr",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "30946985-6dcd-4082-9afe-555afe7a114d": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW1EM0lQMm9IaEwxYmRkZDFRbHlQWHVLdG80S2hBNHFZQnhxUUx0RDE2UEpYMVR3NTUtNlNLU3d5NFBUY09YNzdDc2lkRnJsd2ZQQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ef5a9496-c76d-4ad1-86f5-0a2ddedce471": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hmbWpHSU5JMEZpZXFELS10dG5GM29DeGVlcXoxNnM1dVFGMVBxaDhoZ1FETk9raWZhMi15UmU1czZFamNQMFUzSG90NFNhQzRSaDhDVkhkV3A1b0JlRkRYZnFVb0ktOFFRWGUwLTNlVHRPT01jUk5OSF9nYzdBcnNoQnRfSWtnYTRLckVJbGYzY1ZlcVh6WHdB0gGfAUFVX3lxTE5ncWNnLTdnMV8xR1lRckw3Y1NuM016UW1yYlVzTWpVTkNHeWFITkdnSmxOb0RiZkZoemRMdkFoZGc1b2VmMUNtSnE0Z1VlemlUU3Ytd0QxYnhCLW9ZMDVEWks5ckM3c21ZWWVlWW04RTJ6bVRmZ1FMUF9rdUltanlRNHRUcmc4UENleE9VbXVka0o2SmFCb3FxOFlJczVXRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué mueve a la generación Z en el consumo? - marketingdirecto.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
