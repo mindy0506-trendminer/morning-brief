@@ -1,0 +1,213 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질·베트남 동시 공략으로 중남미·동남아 수출 전선 확대",
+    "편의점이 신선식품 구매처로 대형마트 앞질러, 식품 매출 7.8% 급등",
+    "MZ세대 할랄 소비, 종교 기반 넘어 웰빙·윤리 가치소비로 재정의"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "cc47ff69-eea7-43c3-b439-1fa6e5683b20",
+        "title_ko": "편의점, 식품 채널 주도권 탈환",
+        "summary_ko": "CU 등 편의점의 식품 매출이 전년 대비 7.8% 성장하며 대형마트를 앞질렀다. 상추 등 신선채소까지 편의점에서 구매하는 소비 행태가 확산되고 있어, 근거리·소용량 식품 구매 채널로서 편의점의 위상이 구조적으로 강화되는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1662a3bc-2f93-4ca3-98fb-706d63f1868a",
+        "title_ko": "약국 건기식, 점유율 4.5% 돌파",
+        "summary_ko": "약국 채널 건강기능식품 점유율이 4.5%에 달한 것으로 집계됐다. 전문가 상담이라는 차별점을 바탕으로 약사의 추천·설명 역량이 온라인 채널과의 경쟁에서 핵심 무기로 부각되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f31eb231-bc00-4798-a518-cb9b7957c50d",
+        "title_ko": "잇몸 개선 건기식 최초 출시",
+        "summary_ko": "국내 최초로 잇몸 상태 완화 기능성을 인정받은 건강기능식품이 출시됐다. 구강 건강 기능성 카테고리가 기존 치약·구강청결제 중심에서 이너뷰티형 건기식으로 확장되는 신호탄으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ea6b2954-df06-4cd1-afd9-6a1a3fe5acec",
+        "title_ko": "K-뷰티, 브라질 시장 정면 공략",
+        "summary_ko": "중기부가 브라질 상파울루에서 'K-Beauty GLOW WEEK'를 개최하며 21개 국내 뷰티 기업의 중남미 진출을 본격 지원했다. 브라질 화장품협회·메르카도 리브레와 협력 채널도 구축해, 한류 기반 수요를 실질 수출 성과로 전환하는 토대를 마련한 것이 핵심이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4e4c5b4f-96e9-49cd-90b3-96cf2d6b63f5",
+        "title_ko": "충북 K-뷰티, 베트남 남북 동시 공략",
+        "summary_ko": "충북도가 베트남 하노이·호치민을 동시에 겨냥한 권역별 맞춤형 수출 전략으로 전환했다. 단일 거점 진출에서 남·북부 이원화 전략으로의 전환은 베트남 내 K-뷰티 수요 저변이 특정 도시를 넘어 전국화되고 있음을 방증한다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "10df87b0-f2d4-4390-b39f-afb536ba1b22",
+        "title_ko": "한진, K-패션 물류 컨설팅 단독 지원",
+        "summary_ko": "한진이 'K-패션 커넥트' 행사에 물류 기업 단독으로 참가해 해외 진출 중소 패션 브랜드에 맞춤형 물류 컨설팅을 제공했다. 제품 경쟁력 못지않게 물류·통관 인프라가 K-패션 글로벌 확장의 병목으로 부상하고 있다는 점에서 의미가 크다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d1d7afe2-58b4-4dea-8862-265d149045d3",
+        "title_ko": "호텔신라, 2분기 영업익 예상 상회",
+        "summary_ko": "호텔신라가 2026년 2분기 영업이익 611억 원을 기록하며 시장 기대치를 넘어섰다. 고물가 속에서도 프리미엄 호텔·면세 수요가 견조하게 유지되고 있음을 확인해 주는 실적으로, 호캉스 소비의 구조적 지속성을 뒷받침한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6d01acc4-02c7-45cc-81fb-20e6b7806380",
+        "title_ko": "홍명보 법인카드 호텔·식당 결제 논란",
+        "summary_ko": "홍명보 감독이 자택 인근에서 법인카드로 호텔·식당 등에 1,400만 원을 사용한 것이 알려지며 논란이 불거졌다. 소비재 관점에서는 고급 숙박·외식 채널의 법인 지출 관행에 대한 사회적 시선이 달라지고 있음을 보여 주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b5247d37-794e-4274-ba53-0ee0be5bc202",
+        "title_ko": "MZ세대, 할랄 인증을 가치소비 기준으로",
+        "summary_ko": "20·30대의 82%가 '할랄 인증이 필수'라고 응답한 조사 결과가 나왔다. 할랄 소비가 종교적 의무를 넘어 웰빙·윤리·지속 가능성을 아우르는 가치소비 프레임으로 재편되고 있어, 식품·뷰티 브랜드의 할랄 인증 전략이 틈새를 넘어 주류 마케팅 요소로 격상될 시점이 다가오고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1790e14f-aae9-4659-999f-b1b34d86c72e",
+        "title_ko": "가구·인테리어 이커머스 2026 전망",
+        "summary_ko": "2026년 가구·인테리어 이커머스 주요 트렌드 9가지가 제시됐다. 개인화 추천, AR 기반 배치 시뮬레이션, 구독형 인테리어 서비스가 핵심 축으로 부각되며, 국내 홈퍼니싱 플랫폼의 디지털 전환 전략 수립에 참고할 만한 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6c96ab97-3e21-42ef-9faf-2de36c9f2ba6",
+        "title_ko": "Z세대가 바꾸는 와인 소비 문법",
+        "summary_ko": "Z세대가 와인 시장에 진입하면서 고가·전통 품종 중심의 소비 공식이 흔들리고 있다. 저도수·내추럴 와인 선호와 SNS 기반 구매 결정이 맞물리며, 국내 주류 유통사들의 Z세대 겨냥 포트폴리오 재편에도 시사점을 던진다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '경계 해체'다. 편의점이 마트의 영역을, 건기식이 의약품의 영역을 잠식하고 있고, K-뷰티와 K-패션은 아시아를 넘어 중남미까지 지리적 경계를 허물고 있다. MZ·Z세대의 소비 기준 역시 종교·전통이라는 기존 카테고리 논리를 가치와 경험 중심으로 재편하는 중이다. 브랜드 전략의 관점에서는 채널·지역·소비 가치 세 축 모두에서 기존의 경계가 동시에 재설정되고 있다는 점에 주목할 필요가 있다.",
+  "cards_meta": {
+    "cc47ff69-eea7-43c3-b439-1fa6e5683b20": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZU5OanhNXzY5MDhkR3NiVmtNSEV1QWJYZm1JLVpPc3R4ek1OYk8yUElKR09ZS0Z6YWxUVm16bEwwQ2ZWeTlwNmZFcEFiMW5kSXFXRlhGNHQybnl4NkNLQnIwODZPdTVyekJYd05pb1lEMWdwdUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[현장] \"CU서 상추를\"···마트 앞선 편의점, 식품 '7.8%' 껑충 | - 시사저널e",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1662a3bc-2f93-4ca3-98fb-706d63f1868a": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f31eb231-bc00-4798-a518-cb9b7957c50d": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PTF96clFTOG1jS053cEJfUWY1dHVZbEYyTUlKVEJCcUt2MXNzZUtDWDhOYmhTUUlhOEgyU0h4Tjl6QzVVOFNlb3N5OWpkTldqTkdwUnZtOTRNcFcwZmZmUFlRY0E0X1hNZmIzMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "국내 첫 '잇몸 상태 완화' 건강기능식품 출시 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ea6b2954-df06-4cd1-afd9-6a1a3fe5acec": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99366",
+      "original_headline": "중기부, ‘K-Beauty GLOW WEEK in Brazil’개최",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4e4c5b4f-96e9-49cd-90b3-96cf2d6b63f5": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99369",
+      "original_headline": "충북 K-뷰티 수출전략 대전환, 베트남 남·북부 동시 공략",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "10df87b0-f2d4-4390-b39f-afb536ba1b22": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xYlpHNGNueUo1WXVpVTB1My0yYWFNMS1zRHYzTTJQZmowclJEZ3ZwV0FQcFhYX1pJUmxzanVkUGw4OFBoV0lHVTUwWUxLdE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한진, K-패션 해외 진출 지원…‘숲핑’ 앞세워 맞춤형 물류 컨설팅 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1d7afe2-58b4-4dea-8862-265d149045d3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nNm5TQUlRRlp4a2FsVDhmQUpPaVdZbkJJemg0S3FXUmJTVUhuUDRmNnRWdDJud1g0SFN4WE1UWHVBeTBqSEJYNV9zSXVKMmRkZWlwMzRFNUVzaUM1QTZpeXMwTnpIemdjdnd5bjFDWG1lRlYy?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔신라, 2분기 영업익 611억원…예상치 상회(상보) | - 연합인포맥스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6d01acc4-02c7-45cc-81fb-20e6b7806380": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82Q3pydDVHWHlYdkYxSjNpWjY1LXBVSzJOaEFUOEQwOTVfWjhmQmowS0J6dWdUNUFXWXQwbks1cWRxbW1BTTFhTjRLbWw5TU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "홍명보, 자택 인근서 법카 1천400만원 사용…호텔·식당 등 결제 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b5247d37-794e-4274-ba53-0ee0be5bc202": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW1EM0lQMm9IaEwxYmRkZDFRbHlQWHVLdG80S2hBNHFZQnhxUUx0RDE2UEpYMVR3NTUtNlNLU3d5NFBUY09YNzdDc2lkRnJsd2ZQQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1790e14f-aae9-4659-999f-b1b34d86c72e": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "6c96ab97-3e21-42ef-9faf-2de36c9f2ba6": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFB2Qm8tMjEybWNsMzdLaUdKZDlVN1VoZGRfaWNVNmZKNXFVOWVwQXNiaDBDaThocGxfZWhZSU5qT2F2X3ZlanRWTlp3eWJLUzVfeVhJSUpmV2otdWNXUHZvUjF3OUhNVFdIY0hCWWtLeFZhTWhJMnhIRHZCaXFkb0YyZURzelZ3OWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo la generación Z está cambiando el mundo del vino - tapasmagazine.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
