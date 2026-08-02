@@ -1,0 +1,224 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 7월 수출 역대 최고치 기록…인도·중남미로 거점 다변화 본격화",
+    "호텔신라 영업익 606% 급등, 국내 호텔 브랜드의 글로벌 확장 흐름 가속",
+    "Z세대 저알콜 선호·구독 피로 확산, 소비 절제 트렌드가 전방위로 확대"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f8bda607-b22f-4219-a4a6-b3d29d7f7885",
+        "title_ko": "Z세대, 술자리 대신 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 해외 Z세대 사이에서 알콜 음료 소비가 줄고 무알콜·저알콜 음료가 파티 문화의 주류로 자리잡고 있다. 이 흐름은 국내 음료 시장의 제품 구성 전략에도 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a9b19059-ebf5-4364-b7d4-7bf173b18f92",
+        "title_ko": "약국 건기식, 점유율 4.5% 돌파구는 상담",
+        "summary_ko": "전체 건강기능식품 시장에서 약국 채널의 점유율은 4.5%에 머문다. 가격·편의 경쟁에서 이커머스에 밀리는 만큼, 약사의 전문 상담을 차별화 축으로 삼아야 한다는 업계 목소리가 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c5966964-26ed-4cc8-ab1f-76820d00b2db",
+        "title_ko": "잇몸 개선 건기식, 국내 첫 출시",
+        "summary_ko": "국내 처음으로 '잇몸 상태 완화' 기능성을 인정받은 건강기능식품이 출시됐다. 구강 관리의 건기식화는 소비자의 예방적 건강 관리 수요가 치아·잇몸 영역까지 확장됐음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c7555d17-b0d4-4ba5-ba28-ba7c0eff503f",
+        "title_ko": "K-뷰티 7월 수출 13.5억 달러 신기록",
+        "summary_ko": "7월 화장품 수출이 전년 동기 대비 30% 이상 증가해 역대 최고치를 경신했고, 국내 5대 소비재 수출 중 1위를 차지했다. 성장세가 단기 반등이 아닌 구조적 확대 국면임을 수치가 뒷받침한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "86dea025-82ff-4779-96dc-04bc8a04cb48",
+        "title_ko": "인도, K-뷰티 아동 화장품 새 성장축",
+        "summary_ko": "중국 의존도를 낮추는 과정에서 인도가 K-뷰티 아동 화장품의 신흥 거점으로 부상했다. 인도네시아의 물량 공세와 대조되는 인도의 프리미엄 수요 확대는 시장 다변화 전략의 현실성을 높인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e960344b-f707-449e-b837-9e011824dd83",
+        "title_ko": "브라질 'K-뷰티 글로우 위크' 중남미 공략",
+        "summary_ko": "중소벤처기업부가 브라질에서 K-뷰티 행사를 개최하며 중남미 진출을 정책적으로 지원하고 나섰다. 인도·동남아에 이어 중남미까지 거점을 넓히는 흐름은 K-뷰티의 지역 다변화가 전략적으로 가속되고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "94330d54-1e61-4d91-8d26-58a3821a5f87",
+        "title_ko": "아이돌이 이끄는 명품 패션 확산",
+        "summary_ko": "트레저 멤버들의 럭셔리 브랜드 착장이 국내 매체의 집중 조명을 받고 있다. 아이돌의 명품 노출이 팬덤 기반 소비를 자극하는 채널로 굳어지는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c9a30446-272e-4835-a06a-cd6ef6d34e6e",
+        "title_ko": "무신사, 성수·도쿄 동시 팝업 공세",
+        "summary_ko": "무신사가 서울 성수에서 뷰티 페스타를 열고 동시에 도쿄에서 K패션 팝업을 진행했다. 국내 체험형 마케팅과 일본 현지 팝업을 병행하며 오프라인 접점 확장을 가속하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "04ace16d-a223-47af-bf15-179fb52038d1",
+        "title_ko": "호텔신라 영업익 606% 급등, 글로벌 가속",
+        "summary_ko": "호텔신라가 2분기 영업이익을 전년 동기 대비 606% 끌어올렸다. 면세와 호텔 사업 동반 개선이 배경이며, 국내 호텔 브랜드들이 다각화를 앞세워 글로벌 시장 진출을 서두르는 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b73f5f97-8c0c-4177-a0dc-7f87ca4808aa",
+        "title_ko": "와인 소믈리에 자격, 식음료 전문직 관심 증가",
+        "summary_ko": "안산대 호텔관광학과가 국제 와인 소믈리에 자격 합격자를 다수 배출했다. 호텔·외식 업계의 서비스 전문화 수요가 커지면서 관련 자격증에 대한 관심이 높아지는 흐름이 반영된 결과다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "68316de5-c447-46e8-80c5-f0e7077dfcbb",
+        "title_ko": "구독 피로, 잊힌 결제가 새 관리 과제로",
+        "summary_ko": "소비자들이 인지하지 못한 채 납부하는 구독료가 가계 지출의 사각지대로 부각되고 있다. 구독 경제가 성숙기로 접어들면서 '관리형 소비' 수요가 커지는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f67485a6-cd08-474d-90a5-7fc39f9cadc2",
+        "title_ko": "가구·인테리어 이커머스, 2026 핵심 트렌드",
+        "summary_ko": "가구·장식 이커머스 분야에서 2026년을 겨냥한 9가지 트렌드가 제시됐다. 온라인 채널이 고관여 카테고리인 인테리어 영역까지 빠르게 침투하고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 'K-콘텐츠와 K-소비재의 해외 거점이 동시에 다변화되고 있다'는 점이다. K-뷰티는 중국 중심에서 인도·중남미로, 무신사는 국내에서 일본 오프라인으로, 호텔 브랜드는 국내 회복을 발판 삼아 글로벌 확장으로 이동하고 있다. 한편 국내 소비자 측에서는 Z세대 저알콜 선호, 구독 피로, 잊힌 결제 관리 필요성이 동시에 부상하며 '절제형 소비'의 윤곽이 뚜렷해지고 있다. 수출 성장과 내수 절제가 엇갈리는 이 구도는 브랜드 전략에서 내외수를 달리 설계해야 한다는 신호로 볼 수 있다.",
+  "cards_meta": {
+    "f8bda607-b22f-4219-a4a6-b3d29d7f7885": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a9b19059-ebf5-4364-b7d4-7bf173b18f92": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LY2IyR0FCNXV6NUltNkJadURCaUl5aXdremIwSjY2ZDR0b0VkWDhOdU9ZOU52NWxOUzBuSm9UVzdHbHAxd2JzQlhXQ1hmTzFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c5966964-26ed-4cc8-ab1f-76820d00b2db": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PTF96clFTOG1jS053cEJfUWY1dHVZbEYyTUlKVEJCcUt2MXNzZUtDWDhOYmhTUUlhOEgyU0h4Tjl6QzVVOFNlb3N5OWpkTldqTkdwUnZtOTRNcFcwZmZmUFlRY0E0X1hNZmIzMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "국내 첫 '잇몸 상태 완화' 건강기능식품 출시 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c7555d17-b0d4-4ba5-ba28-ba7c0eff503f": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310850",
+      "original_headline": "K-Beauty Exports Hit Record High in July, Reaching $1.35 Billion",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "86dea025-82ff-4779-96dc-04bc8a04cb48": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310753",
+      "original_headline": "India Emerges as New Growth Engine for K-Beauty Children's Cosmetics",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e960344b-f707-449e-b837-9e011824dd83": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FaWJualk1aUtZX3oyblIwdUZ0WS1sVi1veklDV0ZKVm5iV0xhcjVSbUpOU3ZtZ0wzNG1hNVc4ZUZJb3BjemdnZVZUQWMxczQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중기부, 브라질서 ‘K-뷰티 글로우 위크’ 개최…중남미 진출 지원 - 와우테일",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "94330d54-1e61-4d91-8d26-58a3821a5f87": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjg2TFJBcXo1cENfSlFBV1RjQTdIc2lQZmg2RkJLRWd3LXF4bnlwamtEVkxhVm1rRk53ZGVZTWxHTHo4WFZvQnJMZWx0b0JYOVFQTE1ObnFub3hKQ0pPWnNNZm9aT1BMTDVtSUJGcnhLWnp6VWRpNlMzbThCUnlpMHhwYmtmNlRtUFRxVHo2LVEzM0ZHWUhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[사진]트레저 요시,'남다른 패션 센스' - chosun.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c9a30446-272e-4835-a06a-cd6ef6d34e6e": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6Mlk1ZEx6eW92SDdpRFJuVGdkUndRREN4NWVSZjdxX1lmX04wWTl0VkxidzRueFFlcmc4REJfUThJVlhMai1ZN1JoT0hMQlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "무신사, 성수서 '뷰티 페스타'·도쿄서 K패션 팝업 연달아 개최 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "04ace16d-a223-47af-bf15-179fb52038d1": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yeE0zMkFnRERhS0VXaEEzUWw0dUcxRzMxeDdHcXdFZzFGWnBpdzM4ZXVmZG9oWlp2NllURDlGRXh5QU5kWmFmTFJOX3MyeTdHeWpGVU9WZEZIZGQxbnlZbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[국가 브랜드 경쟁력] 호텔 브랜드 다각화로 글로벌 진출 가속 - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b73f5f97-8c0c-4177-a0dc-7f87ca4808aa": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZ2drak1DMGlPeUV5NnRhVUo5OFBTaG00NlVGQTNVWU5QSG1Pajh5bVNVZGxGb1dZdGlGX2V0ODRBZl9SSVE0YlU0cmx6QUhzUzZoX245RmxMSW9xbXFzZXJ2cTd0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "안산대 호텔관광학과, 국제 와인 소믈리에 자격시험 합격자 배출 - 한국대학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "68316de5-c447-46e8-80c5-f0e7077dfcbb": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "f67485a6-cd08-474d-90a5-7fc39f9cadc2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
