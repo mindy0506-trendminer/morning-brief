@@ -1,0 +1,207 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국 시장 물량 축소 속 고단가 제품으로 수익 구조 전환 가속",
+    "Z세대, 주류·담배 기피 확산…음료·건강식품 카테고리 수혜 본격화",
+    "비건 소비 저변 확대, CJ 비비고의 해외 공략이 그 실수요를 확인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "d8c063a6-8059-412e-b07d-65c2badd261d",
+        "title_ko": "비비고, 비건 김치 해외 출시",
+        "summary_ko": "CJ 비비고가 액젓을 제거하고 풍미를 유지한 비건 김치를 호주에 출시했다. 식물성 식품 수요가 높은 영미권 시장을 정조준한 행보로, K-푸드의 현지화 전략이 비건 라인으로 확장되고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0304526e-5311-4825-bc5a-848b67caf825",
+        "title_ko": "대학 급식, 비건 선택지 여전히 부재",
+        "summary_ko": "국내 대학 학생식당에서 비건 메뉴 부재 문제가 반복 제기되고 있다. 소비 의향은 있지만 접점 자체가 없는 구조로, 단체급식 시장에서 식물성 옵션 확충이 과제로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "00eeda6c-f98c-453c-85c8-97264f5069e6",
+        "title_ko": "비건 문화, 다양성 지표로 재조명",
+        "summary_ko": "비건 식단 선택이 단순 식이 취향을 넘어 사회적 다양성 수용도의 척도로 논의되기 시작했다. 식품 업계 입장에서는 가치 소비층을 겨냥한 제품 라인 확장의 근거로 활용 가능한 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "cb8bdbbb-800c-4540-8597-32e4218b594a",
+        "title_ko": "K-뷰티, 고단가 전략으로 중국 재편",
+        "summary_ko": "관세청 통계 기준 K-뷰티 8대 핵심 품목의 수출 공통 키워드는 '프리미엄화'와 '시장 재편'이었다. 중국 수출 물량이 줄어드는 상황에서도 단가를 높여 수익을 방어하는 전략이 가시적 성과를 내고 있으며, 기초화장품·마스크팩 등 전 품목에 걸쳐 동일한 흐름이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "62a98feb-f858-4db6-96af-acfa67270ad8",
+        "title_ko": "티몰 선케어 판매량 15% 감소",
+        "summary_ko": "2026년 7월 티몰 한국관 자외선차단제 상위 10개 브랜드 합산 판매량이 전년 동기 대비 15.8% 줄었다. 물량 감소에도 브랜드 판도 변화가 동반되고 있어, 프리미엄 재편 과정에서의 점유율 이동을 주시할 필요가 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2a876dda-6263-4312-85c8-e9ead99c2cb3",
+        "title_ko": "스웨트셔츠, 시즌 초월 기본템으로 정착",
+        "summary_ko": "스페인 매체가 선정한 '유행 타지 않는 스웨트셔츠 13선'이 주목받고 있다. 트렌드 주기가 짧아지는 패션 환경에서 오히려 오래 입을 수 있는 기본 아이템의 수요가 글로벌 공통으로 견조함을 보여주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5dca9de0-2eb0-457d-9f60-4ecb710efddd",
+        "title_ko": "호텔신라, 환율 안정이 회복 열쇠",
+        "summary_ko": "대신증권은 환율이 안정될 경우 호텔신라 시내 면세점 매출이 회복 궤도에 오를 것으로 전망했다. 외국인 방한 소비와 직결되는 환율 변수가 국내 고급 소비재·면세 채널의 핵심 리스크로 작동하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "53ff3263-5885-4a18-b044-e80e5ebf3dc3",
+        "title_ko": "현대리바트, 집테리어 신트렌드 공개",
+        "summary_ko": "현대리바트가 '2026 코리아빌드위크'에 참가해 최신 인테리어 트렌드를 선보인다. 주거 공간에 대한 소비자 관심이 지속되는 가운데, 가구·인테리어 업계가 전시를 통한 브랜드 경험 마케팅을 강화하는 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "6dc9194a-070e-4f5f-9f05-f3e2f553b86c",
+        "title_ko": "Z세대, 역대 가장 건강한 세대",
+        "summary_ko": "스페인어권 매체 분석에 따르면 Z세대는 담배·술·대마초 모두에서 이전 세대보다 소비율이 낮은 '역대 최건강' 세대로 평가받는다. 무알코올·기능성 음료, 웰니스 식품 시장에 구조적 수혜가 기대된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a37ff101-c6d0-428e-bbcb-5d52f393ad60",
+        "title_ko": "미국 MZ, 절주·운동 동시 확산",
+        "summary_ko": "미국 Z세대와 밀레니얼의 음주량 감소와 운동량 증가가 동반 확인됐다. 주류 업계의 위협 요인인 동시에, 스포츠영양·저알코올 음료 카테고리에는 분명한 기회 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0b363565-ca88-4647-85c1-746e1486a7b8",
+        "title_ko": "Z세대가 바꾸는 와인 시장",
+        "summary_ko": "Z세대가 와인 시장에 유입되면서 소용량, 저알코올, 내추럴 와인 선호 등 기존 문화와 다른 소비 패턴이 나타나고 있다. 전통 와인 업계의 제품·커뮤니케이션 전략 전환이 불가피하다는 평가가 나온다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '프리미엄화'와 '절제 소비'의 동시 진행이다. K-뷰티는 물량 축소에도 단가를 높여 수익을 지키는 구조로 이행 중이고, Z세대는 주류·담배를 멀리하며 소비 기준 자체를 바꾸고 있다. 비건·웰니스 수요가 식음료와 맞닿는 지점에서는 CJ 비비고처럼 현지화된 제품으로 해외 시장을 직접 공략하는 움직임이 가시화됐다. 브랜드 입장에서는 '많이 팔기'보다 '제대로 팔기'로 전략 축이 이동하는 시점임을 복수의 신호가 동시에 가리키고 있다.",
+  "cards_meta": {
+    "d8c063a6-8059-412e-b07d-65c2badd261d": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iRE8yRzEwUU9sZjJNcFJqWFQ5cFNfZkVUbEVaS2thTmJxcE5sS3dJU3U3X19XNjhoUU5WalJFdURRUDdka2tZMU00TDctYlU4bGFyVkJXdTA5Z1k3TjNvaTV3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0304526e-5311-4825-bc5a-848b67caf825": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "00eeda6c-f98c-453c-85c8-97264f5069e6": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cb8bdbbb-800c-4540-8597-32e4218b594a": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310613",
+      "original_headline": "K-뷰티 수출, 얼마나 비싸게 팔았나?",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "62a98feb-f858-4db6-96af-acfa67270ad8": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310859",
+      "original_headline": "7월 티몰 K-뷰티 선케어 분석②: 판매량 15.8% 감소",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2a876dda-6263-4312-85c8-e9ead99c2cb3": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Y0pBMFU0aGk4WEtZTjlkRHFPTkZTS2RFUEV3S0pobVVOY1lzZ1lLN1ZQVDRFdWJwWWVlWC1sT1VkMWVfcTJ4U0U2aUZiOXV6dUJVb0pnUnlrR0V2a01EOURxM3ZuUV9RZ3hZWWZDTjVHMV83TVVYclB5SFFYaGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "13 sudaderas que debes tener porque nunca pasan de moda y pegan con todo - revistagq.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "5dca9de0-2eb0-457d-9f60-4ecb710efddd": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNlE4MzBFMGVpLXNObTNiaWNrampOLUhzOG50T3J0WDRzMlU3QktuVkhLRllySTFqYXdTNVRTOG81bzBQeFFFdEVwZ3UxaTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대신증권 \"호텔신라, 환율 안정 시 시내점 매출 회복\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53ff3263-5885-4a18-b044-e80e5ebf3dc3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lZF8wVVQ5VmJ2RC1wQkg5TFJpOGNyX1R0em5mbVc5clBMbElnNDdRQkxSZ05jR0dSS2hsTnpENUY5SnFXOWt3VHdXQWhCc3dWc0FRM1V2UnhZZVNROFRTcDRLSGZTOXPSAWdBVV95cUxOZWRfMFVUOVZidkQtcEJIOUxSaThjcl9UdHpuZm1XOXJQTGxJZzQ3UUJMUmdOY0dHUktobE56RDVGOUpxVzlrd1R3V0FoQnN3VnNBUTNVdlJ4WWVTUThUU3A0S0hmUzlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대리바트, ‘2026 코리아빌드위크’ 참가…“최신 트렌드 반영한 인테리어 선보인다” - 리버티코리아포스트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6dc9194a-070e-4f5f-9f05-f3e2f553b86c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLW50ejNzUl8zVFJ6UkFTMG41VWVDZVNpNlN6bDVIRllTSE1oTFBOcnBhUHQybmRxSGpJdzZWM2NJeXEtRzdyeG1fWFJ3ZFZvN0NHZ0Y3MXBBMjgwc2tfS1FsYlUwYkFFVjdKVkwxRkhlMzhvTHJwNnBPVEJWaFdIMkRXemRDWnk3TWZUZ1JMN0V5SHhyeDAwWm5hYjM3Y2xIaTBxV2tBT29WaTIxV21NVm13dU5kLThhZmwycFRB0gHYAUFVX3lxTFBCM3FnYWMzb0YzdHIzVkp3ZDBYdDViS3FSM2phZDQzb3F0dFFFWVhTMm8tbm9tbUpkTExtWk1uNldWUXJjWW8wV09STWFiRk9nTVZRcmM4N1pBRlhLWkFRVDA4dVpibGIzNUFPRmkwcjJ4VlVRSEptd2p3ZEZUZFVyU0NPZ3R3WENva1VFNWhfSU8wNl9aMVhiUm53X2hLUEZrT2xFcTAwYkRSYkdDR0hFeDhsT3VrM1pKQVJSTHA0b0tiOVJiaTIzQlc2Uk93T3dSQTJGcnNvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni tabaco, ni alcohol ni cannabis: la generación Z es la más sana de la historia - infobae.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a37ff101-c6d0-428e-bbcb-5d52f393ad60": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOak00T3VCWDVWbkJvcXh1U2IzQ1N6TG5NU1BYSy1aSE9vcV9xQjFmV2tKMGdNejB4a1BORnMtLVpNQUc2UC1sMHgyeHFEekRtRFNfNlZaUmYydHJtbUpQN2ZWUWxKcWM2OExGWFEwMFU0U25kUktwTHRGU0pGeGZPWlFsNHVGQTJDb2pWU1FqSHdmbWc2TGdsb3d4RGJ0ZklzZ1VVb2xSZG9TQlY4YWdfUXc1VnpCZllpMy1nbTI0Q2FUTnhvWmFpUk9kd0NJREFGaUd4endXSVZiUWxpNVljenlDaE9fMkp0OUlsY2gzNjPSAYsCQVVfeXFMUHNRZHhHUUVTbHVCbjhTbU1HN0pUd0VIQl90ZDRTbHQ2QWEta051cVIzelM5R0FibU5ZeGNnX3JkZ0lVQUEwdXViQmY2eGwxQTQtNGlzSnRjTlk3QmI5cXZRelpndlhFWXBscU1tN0EzSEFsaGgwZ1NGTm5fbFZubUN4UUxIRkJ3Snozai1EM2VNeGxhckpKdEF5Q3VrWS1SLS1NS3JpTC1paHhoT2Q1cFZXZHBGWC16S3cwaGdyXy1hTWdQWEtJZGJsX2VGYkhPaHZhVFJQQVRTcW1aMzRDdmNaa2JNSVVyRlhIREdhMEhHVWpXT1B4TEtCWEZ1N3c1N1ctVnlFVGREeFNj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y los millennials estadounidenses beben menos y hacen más ejercicio, según una nueva revisión - infobae.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "0b363565-ca88-4647-85c1-746e1486a7b8": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFB2Qm8tMjEybWNsMzdLaUdKZDlVN1VoZGRfaWNVNmZKNXFVOWVwQXNiaDBDaThocGxfZWhZSU5qT2F2X3ZlanRWTlp3eWJLUzVfeVhJSUpmV2otdWNXUHZvUjF3OUhNVFdIY0hCWWtLeFZhTWhJMnhIRHZCaXFkb0YyZURzelZ3OWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo la generación Z está cambiando el mundo del vino - tapasmagazine.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
