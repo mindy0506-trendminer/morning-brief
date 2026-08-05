@@ -1,0 +1,179 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영, 미국 세포라 580개 매장 진입으로 K뷰티 유통 교두보 확보",
+    "식품진흥원, 기능성표시식품 원료 확대·공유공장 모델로 규제 혁신 본격화",
+    "Z세대 주류 소비 감소세, 무알코올 음료 중심의 소비 재편 글로벌 공통 신호"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "5ea8030f-f19f-4d56-ae98-0fc495004389",
+        "title_ko": "기능성식품 규제 혁신 착수",
+        "summary_ko": "식품진흥원이 기능성표시식품에 활용 가능한 원료 범위를 넓히고, 건강기능식품 공유공장 모델 마련에 나선다. 원료 다양화와 생산 인프라 공유가 동시에 진행되면서 중소 기능성식품 브랜드의 시장 진입 장벽이 낮아질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "919ed467-aa75-4c49-b32a-203004893ad1",
+        "title_ko": "대학 식당, 비건 수요 사각지대",
+        "summary_ko": "대학 학생식당의 비건 메뉴 부재가 비건 학생들의 식사 공간 선택권을 제한하고 있다. 단체급식 채널에서 대체육·비건 옵션 확보가 여전히 초기 단계임을 보여주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "9f5eed55-3225-457d-b849-cc7d2dfa7694",
+        "title_ko": "올리브영, 세포라 통해 미국 직진출",
+        "summary_ko": "CJ올리브영이 이달 20일 미국 세포라 580여 개 매장에 'K뷰티에딧' 브랜드를 공식 출시한다. 온라인 직판 중심의 K뷰티 미국 공략에서 대형 오프라인 유통망 입점으로 전략 축이 이동했다는 점에서, 중소 K뷰티 브랜드의 미국 진출 경로에도 파급 효과가 예상된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8ab74250-91b4-4e32-a9b7-c14cc982ca6f",
+        "title_ko": "화장품주 급등 후 숨고르기",
+        "summary_ko": "이틀 연속 급등한 화장품 섹터가 차익실현 매물로 보합세를 보였다. 본느는 4일 연속 상한가를 기록하며 개별 종목 강세가 지속됐고, 전체 65개 종목 중 66%가 상승 마감해 업종 내 모멘텀은 유지되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "e99eed9d-0aba-46ec-a3b8-bbc19aa2ffa0",
+        "title_ko": "샤를리즈 테론, 럭셔리 뮤즈 화보",
+        "summary_ko": "샤를리즈 테론이 럭셔리 브랜드 뮤즈로서의 존재감을 드러낸 화보가 공개됐다. 셀러브리티 중심 럭셔리 마케팅 흐름을 재확인하는 이슈로, 실질적 시장 변수보다는 브랜드 이미지 관리 관점의 참고 자료다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "bf1aa147-b9e5-44fb-b007-06c1c87da15a",
+        "title_ko": "NH농협카드, 숙박 25% 할인 프로모션",
+        "summary_ko": "NH농협카드가 호텔스닷컴과 제휴해 최대 25% 숙박 할인 행사를 진행한다. 카드사와 글로벌 숙박 플랫폼의 결합 프로모션이 여름 성수기 여행 소비를 자극하는 방식으로 반복 확대되는 패턴이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "40ab0e5e-ae33-4c24-8b7e-2ab316757465",
+        "title_ko": "Z세대, 술 대신 무알코올로",
+        "summary_ko": "스페인을 비롯한 유럽 Z세대 사이에서 주류 소비가 눈에 띄게 줄고 무알코올·0.0% 음료가 파티 문화의 대세로 떠올랐다. 건강·절주 의식의 확산이 소비재 카테고리 경계를 재편하는 글로벌 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4218bdd3-4482-4b6d-93a7-2a4b859b0300",
+        "title_ko": "Z세대가 바꾸는 와인 시장",
+        "summary_ko": "Z세대의 음주 방식 변화가 와인 산업에도 영향을 미치고 있다. 전통적 와인 소비 감소와 함께 내추럴 와인, 소량 프리미엄 선택 경향이 맞물리며 카테고리 내 재편이 진행 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a6bea165-ffc0-427f-a763-ab0978f8a89f",
+        "title_ko": "Z세대 소비 행동 다층 분석",
+        "summary_ko": "중국 Z세대 소비 행동 연구는 가성비·개성·경험 중심의 구매 패턴을 확인한다. 국내외 소비트렌드와 비교할 때 Z세대의 탈주류·경험 소비 성향이 지역을 막론하고 수렴하고 있음을 뒷받침한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 두 가지다. 첫째, K뷰티의 미국 진출이 올리브영의 세포라 입점을 계기로 온라인 직판에서 오프라인 대형 유통망으로 무게 중심을 옮기고 있다. 이는 K뷰티 브랜드의 미국 현지화 전략 전반에 영향을 줄 변수다. 둘째, Z세대의 탈알코올·무알코올 소비 트렌드가 스페인·중국 등에서 동시 포착되며 글로벌 공통 현상으로 굳어지고 있다. 국내 식음료 기업 입장에서는 기능성·무알코올 음료 카테고리 확장의 근거가 한층 강해진 시점이다.",
+  "cards_meta": {
+    "5ea8030f-f19f-4d56-ae98-0fc495004389": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zWG80cVhCSm9UbWJnSHFNU2d1RHoxQWRUVGpGX2FfaThHam1rRUJIanNEQVdWbmExLTFHZ0ZiTVl5U2xxVFpnZGpnSDZfZ0NzRk13QjBmZEhBTmlLWWZPddIBYEFVX3lxTE4zWG80cVhCSm9UbWJnSHFNU2d1RHoxQWRUVGpGX2FfaThHam1rRUJIanNEQVdWbmExLTFHZ0ZiTVl5U2xxVFpnZGpnSDZfZ0NzRk13QjBmZEhBTmlLWWZPdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식품진흥원, 기능성식품 규제 개선 실증 나선다 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "919ed467-aa75-4c49-b32a-203004893ad1": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9f5eed55-3225-457d-b849-cc7d2dfa7694": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KX1h3QVFNdnNGWFY3OFFBT3BGM0pxRTdrYWl3THNQQkNMNFh1TXlhM3p1Z0w5RHk2cGU2bk1yY2hpNkc4b1lMaEhXMkhUUUxxeHhpSDRxd0w1NmlrT3lOcUNaaTRnV2pURXp4aHVWZEI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 美 세포라 매장에 20일 ‘올리브영 K뷰티에딧’ 론칭 - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ab74250-91b4-4e32-a9b7-c14cc982ca6f": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310931",
+      "original_headline": "이틀 연속 급등한 화장품주 '숨고르기'...본느 4일 연속 상한가",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e99eed9d-0aba-46ec-a3b8-bbc19aa2ffa0": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 럭셔리 OR 명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xcjJVaW5tdUJRU29xNVVsLVhUTjZnMExKLVZ3TE45aU5VU2E1YndqWlVKUGhjQzAzWWJKUXdiZGVvTUF3R283UHdCYW1FUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[ET포토] 샤를리즈 테론, '럭셔리 브랜드 뮤즈다운 포즈' - 전자신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bf1aa147-b9e5-44fb-b007-06c1c87da15a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaOHQtR0FCZjRrc0RhbUZzRlRvWFBUcEtxOXlOSkNqVjNvdmFvX3R5WElHTHdVLXZNdmhqRi1PazB6WFgtQXJ2NmZHX1FyRlBiV0lQTVlHNkJTMTg0QUg3cUhIYk4xQzNIVTgwQUQzUzdlb25t?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "NH농협카드, 호텔스닷컴과 숙박 할인 프로모션 진행 - 파이낸셜포스트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40ab0e5e-ae33-4c24-8b7e-2ab316757465": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "4218bdd3-4482-4b6d-93a7-2a4b859b0300": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFB2Qm8tMjEybWNsMzdLaUdKZDlVN1VoZGRfaWNVNmZKNXFVOWVwQXNiaDBDaThocGxfZWhZSU5qT2F2X3ZlanRWTlp3eWJLUzVfeVhJSUpmV2otdWNXUHZvUjF3OUhNVFdIY0hCWWtLeFZhTWhJMnhIRHZCaXFkb0YyZURzelZ3OWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo la generación Z está cambiando el mundo del vino - tapasmagazine.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a6bea165-ffc0-427f-a763-ab0978f8a89f": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMXdRZ2NuOG45TmVYVkR3cEp5VHNBUW5kYnpoMkFQaFBvVDdVNGVyWGpmaHREU0hRNDRzWm55RXV2eTZHT3pWWS01NnFBRzBORzRxTzhyRS1nRk9WVGt1cg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "消费新力量 年轻新态度——Z世代消费行为分析与思考 - 光明网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
