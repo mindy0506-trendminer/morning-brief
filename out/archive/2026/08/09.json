@@ -1,0 +1,144 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티·패션, 미국·유럽·아프리카로 동시 다발 진출하며 글로벌 확장 본격화",
+    "홈 퍼니싱이 취향 소비의 핵심 카테고리로 자리잡고 이커머스 채널과 결합 가속",
+    "Z세대 금주 흐름, 무알콜 음료 시장 성장의 구조적 배경으로 확인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "5c419c97-cea6-4aec-9a3f-298cc1fc6d68",
+        "title_ko": "Z세대, 음주 대신 무알콜 선택",
+        "summary_ko": "Z세대가 파티 문화에서 알콜을 빼고 무알콜 음료를 주류로 받아들이는 흐름이 뚜렷해지고 있다. 단순한 건강 선호를 넘어 음주 자체를 거부하는 세대적 태도로 굳어지면서, 무알콜 음료 카테고리의 구조적 성장 근거가 강화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "7b19cfe5-1f49-470d-99dd-a5ba429d932f",
+        "title_ko": "올리브영, 세포라 580개 매장 입점",
+        "summary_ko": "CJ올리브영이 미국 세포라 580여 개 매장과 온라인몰에 '올리브영 K뷰티에딧' 코너를 열었다. 자체 편집숍 브랜드를 앞세워 미국 주류 유통망에 직접 진입한 것으로, K-뷰티 유통의 주도권을 개별 브랜드가 아닌 플랫폼 사업자가 쥐는 구도로 전환되는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b01bb228-af38-4189-a08a-88c9c8f97d13",
+        "title_ko": "K-뷰티, 아프리카까지 판로 확대",
+        "summary_ko": "인천관광공사가 '2026 뷰티·헬스케어쇼'를 역대 최대 규모로 개최하며 글로벌사우스 바이어 유치에 나섰다. 미국·유럽 편중에서 벗어나 아프리카를 포함한 신흥시장으로 K-뷰티 수출 지형이 넓어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "78b9a6c5-1b63-4840-9d51-109f8b541520",
+        "title_ko": "현대백화점·콘진원, K패션 해외 수출 연대",
+        "summary_ko": "현대백화점이 한국콘텐츠진흥원과 손잡고 K패션 브랜드의 아시아·유럽 진출을 지원하는 체계를 구축했다. '더현대 글로벌' 플랫폼을 활용해 일본을 넘어 파리까지 판로를 넓힌다는 계획으로, 유통 대기업이 K패션 해외 진출의 전략적 교두보 역할을 맡는 양상이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "ce1c4524-7449-4caa-94fc-dcd708fd252a",
+        "title_ko": "홈 퍼니싱, 일상 취향 소비로 안착",
+        "summary_ko": "홈 퍼니싱이 특별한 이벤트성 구매에서 벗어나 일상적 취향 표현의 수단으로 자리잡았다. 집을 개인 정체성의 공간으로 여기는 인식이 확산되면서 관련 소비 빈도와 단가 모두 높아지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a03a718d-f977-41f4-8173-e69b4eedda14",
+        "title_ko": "가구·인테리어 이커머스 9대 트렌드",
+        "summary_ko": "2026년 가구·인테리어 이커머스에서는 맞춤형 제작, 증강현실 배치 미리보기, 구독형 렌털 모델 등이 핵심 성장 축으로 꼽힌다. 홈 퍼니싱의 취향 소비화 흐름과 맞물려 온라인 채널이 오프라인을 보완하는 수준을 넘어 주도적 구매 경로로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "dd6528be-2501-4938-92fc-08e476c8b987",
+        "title_ko": "전통 체크인 종말, 디지털 전환 가속",
+        "summary_ko": "항공·숙박을 아우르는 여행 산업 전반에서 전통적 체크인 방식이 디지털 단일 체계로 대체되고 있다. 소비자 경험의 마찰을 줄이는 방향으로 여행 서비스 접점이 재설계되면서, 관련 하드웨어·소프트웨어 수요가 동시에 확대될 전망이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 'K-콘텐츠 파워의 소비재 전이'다. 뷰티는 세포라를 통해 미국 주류 유통에, 패션은 유통 대기업 플랫폼을 통해 유럽에 동시 진입하고 있다. 주목할 점은 진출 방식의 변화다. 개별 브랜드 단위 수출에서 올리브영·더현대 같은 플랫폼 사업자가 묶음 채널을 구성해 진출하는 방식으로 무게 중심이 이동하고 있다. 한편 Z세대의 금주 흐름과 홈 퍼니싱 취향 소비 심화는 '경험 내재화' 욕구, 즉 밖에서 소비하던 것을 집 안과 자기 정체성 안으로 끌어들이는 거시 소비 심리와 연결된다.",
+  "cards_meta": {
+    "5c419c97-cea6-4aec-9a3f-298cc1fc6d68": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "7b19cfe5-1f49-470d-99dd-a5ba429d932f": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRamJ4eXdLS1phbUtHMlNERk10ZF9lcmNCQ2dLRXEtR1JsMEk5eVU3UEJZSFhFaUtwTlVpSW1TRWFnZl9xMDdpdzg0a0o0V1RxLXl3YmF3LUNLa3lh?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영, 美 진출 교두보…세포라 580여개 매장에 'K뷰티에딧' 론칭 - 뉴스핌",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b01bb228-af38-4189-a08a-88c9c8f97d13": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310947",
+      "original_headline": "아프리카로 향한 K-뷰티…인천관광공사, 글로벌사우스 공략 강화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "78b9a6c5-1b63-4840-9d51-109f8b541520": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KLTBIZWtzNzZ1b24wV1J0WVVyc1M1Y0JQZXlPcVc2UFlFSzROV1FmMXZqOVE0RWdIZVl4RVM5aTgzaWhzSHVtdDNMOHdFakRHWVHSAVNBVV95cUxOUjhhYUlEVktBQ2laVm83amVaX1k0Vmgxd0VzMTJ5RjYxNTF0UUh2OXhQcjhLaG1tdzFxdGdjSHNlX1pRenJPZ3BwZzJ4ZkFCRG1Kdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대百, 콘진원과 K패션 해외 진출 지원…글로벌 판로 넓힌다 - sedaily.com",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ce1c4524-7449-4caa-94fc-dcd708fd252a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - i-boss.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a03a718d-f977-41f4-8173-e69b4eedda14": {
+      "category": "라이프스타일",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "dd6528be-2501-4938-92fc-08e476c8b987": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGhwSVB5TVplV0ZUVFBVZ195TEZiXzNwNHBRaW4tM1VGZ2JnT24yaU1RVTJ5YWxZVlJQcnotUEh5WTFkbUpmSWxjbnRlZmprblMxanc2Qzhvc05nYWhLMmJLTE1YRVFoY3NGXzlTaTBQaG0ydkZGQ3FGb2xqTHhjckZJTVN1bkZ3VHFYYnh3OVlkOUZieloyZjFJQTdrVXh4RGpXcnd5bFBHdWxQdGxoYlVKLXdwbnhnLTNXRVVJaWZ2OEdFWUp6dkFVaGZhYnBEU0hlcjZGWmVhMThrSG81ZV9HQXFzaTJhQ0wwR9IBhwJBVV95cUxNLWg2eHNVR0FBSS1lcGptN2VJUDdvLXVNNnBFRHVraEhQY1I0d0hWc1loYmNiNXdXVnUxSkJscEFQZmoxaF9xdW9fZThjMy1TNFZSVVJTdU44U0haajVvNnZPS2N2MVR3V0hYaXJMOFZyelRYQ3FhT0FHbjlWRlJweUV0SDRNMDVyWHA1c1RHTmpEQVpiVEtYSzlwZ3lEeFpONjhVUlJ0TFlpUkh3ejMyd0xxLWZTU29mU1VWc3Q2YUR3VVlETUdmSlFTejJySkQyV1NmelFpQV9ma0FpR3o5SlZYRnRHUHBVVXJLOTRBUWdKTGoxQTgwTmc1Q2t1NVpxM2hRaWU5OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Se despide el check-in tradicional para siempre: este será el nuevo y único método para viajar a todo el mundo - cronista.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
