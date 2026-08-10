@@ -1,0 +1,171 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영이 K더마 카테고리 확대와 세포라 입점을 동시에 추진하며 글로벌 채널 구도 재편",
+    "소비트렌드: MZ세대 할랄 소비가 웰빙·윤리 기반 가치소비로 진화, 20~30대 82% 인증 필수 인식",
+    "식음료: 대학가 비건 수요 가시화, 제도적 선택지 부재가 소비 장벽으로 부상"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "0ebe506f-eef9-4f0c-9920-31ac23f11cbe",
+        "title_ko": "학생식당 비건 선택지 부재",
+        "summary_ko": "대학 학생식당에서 비건 메뉴 선택지가 사실상 없어 비건 학생들이 식사 공간에서 배제되고 있다. 수요는 존재하지만 제도적 공급이 따라가지 못하는 구조적 공백이 드러난다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d27e0fde-5184-4244-9017-70613270c800",
+        "title_ko": "비건 문화, 다양성 척도로 부상",
+        "summary_ko": "한국 내 비건 문화 수용 실태가 사회 다양성 존중의 가늠자로 거론되기 시작했다. 식품 선택을 넘어 라이프스타일 정체성으로 인식되는 흐름이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "63a78e8c-4ce1-4586-bae1-41d475aaeac6",
+        "title_ko": "대체육, 미래 식탁 선택지로",
+        "summary_ko": "대체육이 단순 트렌드가 아닌 미래 식탁의 실질적 선택지로 자리매김하고 있다는 기고가 충청타임즈에 실렸다. 공급·제도·소비자 인식 세 축이 동시에 움직일 때 본격 시장이 열린다는 진단이 담겼다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "a7a4fea9-9132-45e6-b435-34a542990e6c",
+        "title_ko": "올리브영, K더마 전국 확대",
+        "summary_ko": "올리브영이 출시 4개월 만에 '어드밴스드 더마' 전용 매대를 전국 650개 매장으로 확장했다. 국내 제약사와 공동 개발한 고기능 스킨케어 카테고리로, K더마 브랜드 육성을 오프라인 체험 거점과 연계하는 전략이 본격화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c44c597a-6888-4d74-9510-7ff2612f85eb",
+        "title_ko": "올리브영 큐레이션, 세포라 진출",
+        "summary_ko": "올리브영이 20일 미국 세포라 오프라인 580여 개 매장과 온라인몰에 'K뷰티에딧' 매대를 공식 론칭한다. 자체 큐레이션 역량을 수출해 K뷰티 브랜드의 미국 메인스트림 유통 진입을 돕는 구조로, 플랫폼 자체가 채널이 되는 방식이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fcd63245-8b26-4d23-9e18-6eb3f95dd875",
+        "title_ko": "8월 올영픽, 프리미엄 헤어 선점",
+        "summary_ko": "모로칸오일과 라엘이 각각 8월 올영픽에 선정되며 프리미엄 헤어·여성 위생 카테고리에서 할인 기획전을 전개한다. 올영픽이 인디·해외 브랜드의 단기 매출 부스터로 자리잡은 흐름이 지속되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8139b0ae-4621-4b6a-8301-030fde2e1d7f",
+        "title_ko": "전면 리모델링 대신 부분 인테리어",
+        "summary_ko": "숨고가 발표한 트렌드 리포트에 따르면 고물가 국면에서 주거 공간 전체를 바꾸는 대신 특정 구역만 손보는 '실속형 부분 인테리어' 수요가 늘고 있다. 비용 효율을 중시하는 소비 심리가 인테리어 서비스 시장 구조도 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5fdc416c-8cb7-4625-96b3-61d0fc0bbebb",
+        "title_ko": "2026 실내 디자인 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어 디자인 방향이 자연 소재·기능성 공간 분리·절제된 색 구성을 중심으로 수렴되고 있다. 부분 인테리어 수요 확대와 맞물려 특정 포인트에 집중 투자하는 방식이 실효적 대안으로 부상 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "af96a524-86f2-4889-9a5c-1ca1b52fcd59",
+        "title_ko": "MZ 할랄 소비, 가치 소비로 진화",
+        "summary_ko": "할랄 시장 20~30대 소비자의 82%가 할랄 인증을 구매 필수 조건으로 꼽았다. 종교적 의무를 넘어 웰빙·윤리·환경 가치와 결합한 소비 선택이 되면서, 할랄 인증이 프리미엄 포지셔닝 레버로 기능하기 시작했다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '채널과 인증이 소비 설득의 새 언어가 되고 있다'는 점이다. 올리브영은 K더마 매대 확장과 세포라 진출을 동시에 밀어붙이며 큐레이션 플랫폼 자체를 수출 자산으로 전환했고, MZ세대의 할랄 소비는 인증 마크를 윤리 소비의 시각적 신호로 삼는 방향으로 진화하고 있다. 비건·대체육 논의도 맥락이 같다. 제품 품질만으로는 부족하고, 공간 내 가시성과 제도적 인정이 함께 갖춰져야 소비로 전환된다는 흐름이 식음료·뷰티·소비트렌드 세 영역에서 동시에 확인된다.",
+  "cards_meta": {
+    "0ebe506f-eef9-4f0c-9920-31ac23f11cbe": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d27e0fde-5184-4244-9017-70613270c800": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "63a78e8c-4ce1-4586-bae1-41d475aaeac6": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a7a4fea9-9132-45e6-b435-34a542990e6c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99418",
+      "original_headline": "CJ올리브영, K더마 육성...‘어드밴스드 더마’ 고객 접점 확대",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c44c597a-6888-4d74-9510-7ff2612f85eb": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99435",
+      "original_headline": "CJ올리브영, 美 세포라 매장에 20일 ‘올리브영 K뷰티에딧’ 론칭",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fcd63245-8b26-4d23-9e18-6eb3f95dd875": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99398",
+      "original_headline": "모로칸오일, 8월 올영픽 선정",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8139b0ae-4621-4b6a-8301-030fde2e1d7f": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNGYwVVJYOXQzXzRjcmptLXFoeDZyQ0xfVFdxd2F1bFBPVVVwajNWY2hpODFyMUc1OTVfdEE0eGJaQVNmcHVySjBPMWxzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "숨고, ‘실속형 부분 인테리어 트렌드’ 발표 - 바이라인네트워크",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5fdc416c-8cb7-4625-96b3-61d0fc0bbebb": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "af96a524-86f2-4889-9a5c-1ca1b52fcd59": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04OW1EM0lQMm9IaEwxYmRkZDFRbHlQWHVLdG80S2hBNHFZQnhxUUx0RDE2UEpYMVR3NTUtNlNLU3d5NFBUY09YNzdDc2lkRnJsd2ZQQw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
