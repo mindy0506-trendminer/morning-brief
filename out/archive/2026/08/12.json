@@ -1,0 +1,221 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 인도·미국·약국 채널 3방향 동시 확장으로 글로벌 접점 넓혀",
+    "MZ세대 할랄 소비, 웰빙·윤리 가치와 결합해 주류 구매 기준으로 부상",
+    "Z세대 무알콜 전환과 비건 수요 확대, 식음료 업계 포트폴리오 재편 압박"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "f2178792-b4d4-4245-b381-732377b002c4",
+        "title_ko": "호텔 보안, 지정학 리스크로 부상",
+        "summary_ko": "이란이 나토 회의 당시 트럼프가 머문 호텔의 층수까지 파악했다는 보도가 나왔다. 고급 호텔이 외교·안보 정보전의 무대가 되면서, 호스피탈리티 업계의 보안 및 리스크 관리 기준이 재정의될 가능성이 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c8781196-091a-4f24-9087-955370829f69",
+        "title_ko": "주거가 사치재가 된 스페인",
+        "summary_ko": "스페인에서 주택이 사실상 럭셔리 자산으로 전환됐다는 분석이 제기됐다. 주거 접근성 위기가 소비자의 가처분소득 구조를 바꾸고, 이는 의류·여행·식음료 등 소비재 전반의 지출 우선순위 재편으로 이어질 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "1180293c-9438-48a6-ae21-2c2c012a039b",
+        "title_ko": "Z세대, 술 대신 무알콜로",
+        "summary_ko": "스페인 Z세대 사이에서 알콜 소비가 줄고 무알콜 음료가 파티 문화의 중심으로 자리잡고 있다. 절주를 넘어 '처음부터 안 마시는' 세대적 전환으로, 음료 업계의 제품 구성 재편 압력이 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f86315ab-6b10-454b-82f2-3c5a62523c25",
+        "title_ko": "대학 급식, 비건 사각지대",
+        "summary_ko": "비건 학생들이 학생식당에서 선택 가능한 메뉴가 사실상 없어 식사를 포기하는 사례가 이어지고 있다. 비건 수요가 젊은 층에서 실질적 소비로 굳어지는 속도에 비해 단체급식 인프라의 대응이 크게 뒤처진 현실이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "08a9a982-6183-4769-a1fd-3a6d75c70ecc",
+        "title_ko": "비건 문화, 다양성 척도 되다",
+        "summary_ko": "한국의 비건 문화를 통해 사회적 다양성 수용 수준을 진단하는 시각이 대학가를 중심으로 형성되고 있다. 식습관을 개인 선택이 아닌 소수자 권리 문제로 바라보는 프레임 전환이 소비재 업계의 포용 마케팅에도 시사점을 준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ff3f41c7-f330-4035-b001-7f113f543e98",
+        "title_ko": "K-뷰티, 인도 소비자 마음 읽기",
+        "summary_ko": "한국국제무역협회 지원 아래 뷰티경제가 인도 여성 소비자 심층 인터뷰를 진행한 결과, K-뷰티 선택 이유로 피부 효능·가성비·K-콘텐츠 영향력이 복합 작용하는 것으로 나타났다. 인도가 K-뷰티의 차세대 핵심 성장 시장으로 본격 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "82c90994-cefd-4513-9ec2-0681ca7bacc0",
+        "title_ko": "디토닉·올리브영, 미국 유통 확장",
+        "summary_ko": "뷰티테크 기업 디토닉이 올리브영과 손잡고 미국 글로벌 리테일 채널에 진입했다. K-뷰티 열풍을 타되 AI 기반 리테일 전환(AX) 역량을 앞세워 차별화를 꾀하는 전략이 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "684d67a4-486a-4326-be94-f07f68bc9bf0",
+        "title_ko": "약국 K-뷰티존 100호점 돌파",
+        "summary_ko": "바로팜이 운영하는 약국 내 K-뷰티 전문 코너 '파마시뷰티존'이 100호점을 완료했다. 드럭스토어와 H&B 채널을 넘어 동네 약국이 K-뷰티 판매 거점으로 확장되는 흐름을 상징한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "93c05f81-4103-4d71-98ef-640889bff224",
+        "title_ko": "가을 인테리어 트렌드 대구서 총람",
+        "summary_ko": "2025 대구경향하우징페어가 엑스코에서 개막해 가을 시즌 인테리어 트렌드를 한자리에 모았다. 지역 거점 박람회가 소비자 인테리어 의사결정의 오프라인 접점으로 여전히 유효함을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6b604c86-bafe-4d50-a233-621dd7caadb3",
+        "title_ko": "2026 인테리어 디자인 방향",
+        "summary_ko": "브런치 채널을 통해 공유된 2026년 인테리어 디자인 트렌드 분석이 주목을 받고 있다. 소비자가 직접 큐레이션한 트렌드 콘텐츠가 전문 매체를 대체하는 채널로 자리잡고 있다는 점도 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "89f49d9c-7cb5-4c7e-8b91-505c0b8fb257",
+        "title_ko": "MZ, 할랄 인증을 가치 기준으로",
+        "summary_ko": "20~30대의 82%가 할랄 인증을 필수 요건으로 꼽는다는 조사 결과가 나왔다. 종교적 의무를 넘어 웰빙·윤리·가치 소비의 교차점으로 할랄이 재정의되고 있어, 식음료·뷰티 업계의 인증 전략 재검토가 필요한 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5fd458b3-bb8a-484e-8b03-7ebbf545c74e",
+        "title_ko": "지출 줄여도 '진짜 브랜드'는 산다",
+        "summary_ko": "스페인 소비자 10명 중 7명이 지출 삭감을 선언했지만, 절반은 '진정성 있는 브랜드' 제품 구매는 유지하겠다고 답했다. 가격 압박 속에서도 브랜드 본질성이 구매 결정의 마지노선으로 작동하는 패턴이 확인된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '가치 기반 선별 소비'다. Z세대의 무알콜 전환, MZ세대의 할랄 인증 요구, 스페인 소비자의 '진정성 브랜드' 고수는 각각 다른 시장에서 발생했지만, 소비를 정체성과 윤리의 표현 수단으로 쓰는 동일한 심리적 기반을 공유한다. K-뷰티가 인도·미국·약국 채널을 동시에 공략하는 흐름 역시, 단일 채널 의존을 탈피해 '어디서든 발견 가능한 브랜드'로 진화하려는 전략적 대응이다. 소비자가 지갑을 닫는 시대일수록, 브랜드의 본질과 유통 접점의 다양성이 생존을 가르는 변수가 되고 있다.",
+  "cards_meta": {
+    "f2178792-b4d4-4245-b381-732377b002c4": {
+      "category": "MacroTrends",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWEdkWjRLdzNCLUdVNl9LX1FxcDZOcHJUcmpTTHRSWXhLcl93a1JvNzljMXg0YUxad3RISkc2TzBWYl84OWctcFUtRUVjdXlfeV9JbDBn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“이란, 나토회의 참석한 트럼프 호텔 층까지 파악했다” - 중앙일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c8781196-091a-4f24-9087-955370829f69": {
+      "category": "MacroTrends",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2RsYlhiUWJob2RNMVBXOVZLWXlhQ055YW4yUUVENEJUZUh6LTFnd1FxQ093SGktdWw1RnRVTEo3VXlCT2xwMjRVZUI0c2ZNLWo1MHkzUzZqU1dZd3RncXEta3dXdXUwVWh0N3gxbElBeG9PcGVoekRzLU5zVmtqblZjSk9DbThXenF4OFJMcnNRdU1xT2VZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La jungla de la vivienda: ¿Se ha convertido en un bien de lujo? - rtve.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "1180293c-9438-48a6-ae21-2c2c012a039b": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "f86315ab-6b10-454b-82f2-3c5a62523c25": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLUdIM0dPWjhYTUtlTHBJWjV4OXhYclJ5MW9VNTdNdS1wY3lUeGpfVzJRU2JWaXJmXzdJcUdPWlQxMGhCTkI0cVNiTUFhWFZfb2pSWHlJQ0FTODFiR0tKa1lGa1BQbzBQOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“샐러드에 불고기?” 학생식당 못 가는 비건 학생들 - 고대신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "08a9a982-6183-4769-a1fd-3a6d75c70ecc": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ff3f41c7-f330-4035-b001-7f113f543e98": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310676",
+      "original_headline": "K-Beauty Indian Report ①: Why Indian Consumers Choose K-Beauty",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82c90994-cefd-4513-9ec2-0681ca7bacc0": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9URnVMOUNiWk5ud3JSTHZ3dDRFNmdfMHpQZ0Vsc0MzZ1dqSDFLWDFFNFFUcHM3LUxnNG1nWkJDQWhoRmZhcHhWMlB1aVpYYW1GblNjblV5Ql9NdGxKNm0yR1lCQjF2c2tJd3JN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "디토닉, K-뷰티 열풍 타고 美 진출… 글로벌 리테일 영토 진출 - FA저널",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "684d67a4-486a-4326-be94-f07f68bc9bf0": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14blZtOVBtQ25zSkRlcHI3SUlsM29ZVGlLTWJTTzM2dy1XVXMyNXROMm9lZnRYaUJrLTJOMWY0WVZtRkloSFNRYTRDemY1YkVoUkoyVG0xUXJGSWQycmN1eDdFUlZFZDNJaUROaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바로팜, 약국 K-뷰티 ‘파마시뷰티존’ 100호점 완료 - 약사공론",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "93c05f81-4103-4d71-98ef-640889bff224": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5S0g1YVVtMVVsNzBWekFQRk9RSkF6S1FaNFhXb0h5akV3QXhPOWFvRnhocEYwYnVqd3dKMEZmNERjMUJac1lZUHVPRGp6MUkzNjVTZUYzOHVneUlOdERoeG4wNGtxZ2JG?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘2025 대구경향하우징페어’, 가을 인테리어 트렌드 총집합…18일 엑스코서 개막 - 대구일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6b604c86-bafe-4d50-a233-621dd7caadb3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tYVpERTd3SWUtbEI1cm0yeWE4ZWJlTFlRdG1nTVRRemVCa2Y4U0pkdnVrN2VfQmltcnpsclpURTlmcjR2Rng3YnlXSktqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026 인테리어 디자인 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "89f49d9c-7cb5-4c7e-8b91-505c0b8fb257": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zNEtnUDFfR0JtSjFLQWktRXkxcGRfeUlBWXRHR2ZnZS00b1RGRlNqU1pYZk9yLUhiOWtXMW1wZkFVeE5QUHFGQ3hNckNwZ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5fd458b3-bb8a-484e-8b03-7ebbf545c74e": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3RMWEtrN09MOHRRTkpPMmh4ZjBxZFdBVDJudnB1ZmVHZGp6XzA2ZU4xdERPZjRYYnFnRjRZQS1GT2VNa1pEbmFxQmg5eFpNNFZSa25DQTVIS09Ia2pubDgxV2ZHWmV4dWhWUFdURkszV01nTGtVRFNwTDZsRWZPMHg3TjBDYkNnZWZvTnJnYTh5X3ZCaTJucnJjb0R6S0FmLUxTZFdpMmlpdDBUcTBMUG9xWEp0NDJCVzM1YW1ieUtBY2JOUTZBVGswVDBUVFVhOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "7 de cada 10 españoles recortarán gastos en 2023 pero la mitad seguirá comprando marcas ‘auténticas’ - justretail.news",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
