@@ -1,0 +1,241 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 글로벌 필수품 위상 굳히며 인디 브랜드 육성 체계로 확장",
+    "MZ세대 가치소비, 할랄·비건 인증 중심으로 소비 기준 고도화",
+    "K패션·K푸드, 외국인 수요와 해외 출시로 수출 소비재 전선 확대"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b37efd84-4bb4-47cf-8271-cae898a39748",
+        "title_ko": "한국 비건 문화, 다양성의 시험대",
+        "summary_ko": "한국 사회에서 비건 식생활은 단순한 식단 선택을 넘어 소수자 배려와 다양성 수용 수준을 가늠하는 척도로 부상하고 있다. 외식업계와 제도권 모두 비건 친화 환경 조성 압력을 받게 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5da40193-485e-4388-a6c0-2daf088817d2",
+        "title_ko": "비비고 비건 김치, 호주 공략",
+        "summary_ko": "CJ 비비고가 액젓을 제거한 비건 김치를 호주 시장에 출시했다. 전통 발효식품의 비건 재해석으로 할랄·채식 수요가 높은 해외 시장을 동시에 공략하는 전략으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f942686c-ae47-400c-a73a-c35f8905a772",
+        "title_ko": "대체육, 미래 식탁의 선택지로",
+        "summary_ko": "대체육이 환경·건강·윤리 소비의 교차점에서 미래 식단의 현실적 대안으로 조명받고 있다. 국내 시장에서도 프리미엄 식재료로의 위상 전환이 서서히 진행 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "a275ea74-6537-4344-a290-f3dd713d5c52",
+        "title_ko": "K-뷰티, 세계 필수품으로 자리매김",
+        "summary_ko": "문화체육관광부 채널을 통해 K-뷰티가 특정 국가 트렌드가 아닌 글로벌 생활 필수재로 공인받는 흐름이 가시화됐다. 국가 브랜드 차원의 후광이 개별 기업 수출에도 직접 작용할 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3017719c-d5e7-47e9-aa0a-6fd195a53a50",
+        "title_ko": "약국 뷰티존 100호점 돌파",
+        "summary_ko": "바로팜이 약국 내 K-뷰티 전용 코너 '파마시뷰티존'을 100곳까지 확장했다. 의약품 신뢰도를 뷰티 구매 결정에 연결하는 채널 전략으로, 더마·클린뷰티 수요 흡수에 유리한 구조를 만들었다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1e3ebf9b-e0d1-4129-9517-51f46d3a2683",
+        "title_ko": "코스맥스, 인디 브랜드 판로 지원",
+        "summary_ko": "코스맥스가 중기부·무신사와 연대해 연매출 120억 원 이하 소공인 뷰티 브랜드 20곳의 오프라인 판로를 지원한다. ODM 대기업이 인디 생태계 육성 주체로 직접 나선 것은 K-뷰티 공급망 구조의 변화를 시사한다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "c127acce-b7f6-40c9-a082-6908b16e9a98",
+        "title_ko": "외국인 관광객, K패션 컬러 단위로 쓸어 담아",
+        "summary_ko": "동일 품목을 색상별로 복수 구매하는 외국인 쇼핑 패턴이 국내 K패션 매장에서 뚜렷해지고 있다. 단순 기념품 소비를 넘어 패션 자체를 목적으로 한 방한 수요가 구체적인 매출로 확인되는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "abf8f995-217c-4e03-a411-bf34d2fc9373",
+        "title_ko": "G마켓, 웰니스 여행 상품 대형 기획",
+        "summary_ko": "G마켓이 인천을 무대로 웰니스 여행 기획전을 열고 최대 10만 원 쿠폰을 제공한다. 플랫폼이 여행·건강·체험을 묶는 복합 상품 기획에 적극 개입하는 흐름이 이커머스 전반으로 번지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7ba9b177-b8bc-4e34-96e6-1ce482e2e4be",
+        "title_ko": "호텔급 주거 서비스, 총판 계약으로 확산",
+        "summary_ko": "하스피가 드림스코프와 손잡고 하이엔드 호텔 운영 노하우를 프리미엄 주거 커뮤니티에 접목한 서비스 총판 계약을 체결했다. 호텔식 라이프스타일 서비스가 거주 공간으로 이식되는 흐름의 가속을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d2488c25-a270-4e33-ba1b-83fed7906365",
+        "title_ko": "2026 인테리어 트렌드 지형도",
+        "summary_ko": "2026년 실내 인테리어는 기능성과 감성의 균형, 자연 소재 중심 미니멀리즘이 주류로 부상하고 있다. 소비자 라이프스타일 전반의 '의도적 단순화' 흐름과 맞물려 홈퍼니싱 구매 기준도 달라지는 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "739c74f8-8b39-4850-a050-c9d91bd5a273",
+        "title_ko": "Z세대, 한복을 문화 소비재로 재발견",
+        "summary_ko": "중국 Z세대가 한푸(漢服)를 패션이자 민족 정체성 소비로 적극 수용하며 '국조(國潮)' 트렌드의 핵심 층으로 자리 잡고 있다. 전통 복식의 일상화가 문화 소비 시장의 새 성장 동력으로 주목받는다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5d454e4e-10f0-4aa9-b5ce-990c205c15a9",
+        "title_ko": "MZ 할랄 소비, 가치 기준으로 진화",
+        "summary_ko": "MZ세대 20~30대의 82%가 할랄 인증을 구매 필수 조건으로 꼽는다는 조사 결과가 나왔다. 웰빙·윤리·환경 가치가 중첩된 할랄 소비는 이제 무슬림 한정 수요가 아니라 가치 소비의 새 기준으로 확장되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5b2cd43d-42d6-40ef-bd8f-8b35aa94a4fe",
+        "title_ko": "2026 소매업 10대 예측",
+        "summary_ko": "미국소매협회(NRF)가 2026년 소매 시장 핵심 트렌드로 개인화, 가치 중심 소비, 옴니채널 가속을 꼽았다. 글로벌 소비 지형의 재편 방향이 국내 유통·브랜드 전략에도 직접 영향을 미칠 구도다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '소비 기준의 고도화'다. MZ세대의 할랄 인증 요구, 비건 식품의 해외 출시, K-뷰티 인디 브랜드 육성 체계는 모두 소비자가 가격과 품질을 넘어 윤리·정체성·신뢰를 구매 조건으로 내세우는 구조 변화의 단면이다. 동시에 K패션·K푸드·K-뷰티 세 축이 각각 외국인 관광객 직구, 해외 현지 출시, 글로벌 필수재 공인이라는 서로 다른 경로로 수출 소비재 지위를 굳히고 있다는 점도 눈여겨볼 만하다. 플랫폼 차원에서는 이커머스가 단순 판매를 벗어나 웰니스 여행 기획까지 주도하며 소비 경험의 설계자 역할을 자임하는 흐름이 뚜렷해지고 있다.",
+  "cards_meta": {
+    "b37efd84-4bb4-47cf-8271-cae898a39748": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5da40193-485e-4388-a6c0-2daf088817d2": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f942686c-ae47-400c-a73a-c35f8905a772": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a275ea74-6537-4344-a290-f3dd713d5c52": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbDR3QTlHOVVSbUFydTVQZnpCai1fa2toYjJrbkhTdDNWOGZkMG9mRWRHbW93d1Z3bzh0aVktTE52QXYySUtFMzRKTldQeUROeWJxTkoyUHNQRHRRbGhJTHR1aDlGU1Jmdl95blJaQ1lPcTRtajlRWFRXUlVlM3NLaFE4OTZNVmNjWV9hZEV1ZnpPUWwxS2lxOTVzby1XTFpPN0VSVllkWUxYcFgxMEh0Q09jdm5kR1pBd0g2cWRFcXUyVVN2Y2pGVE9DV3lhbVROZ3VyQjROdnNuNnN6am5xWWhVSVd2WS1ERVU3Tzh5cTgzakVWQmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코리아넷뉴스 - [세계인의 일상 K] ④ K-뷰티에서 글로벌 뷰티로···'세계 필수품' 되다 - 문화체육관광부 한국문화원",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3017719c-d5e7-47e9-aa0a-6fd195a53a50": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14blZtOVBtQ25zSkRlcHI3SUlsM29ZVGlLTWJTTzM2dy1XVXMyNXROMm9lZnRYaUJrLTJOMWY0WVZtRkloSFNRYTRDemY1YkVoUkoyVG0xUXJGSWQycmN1eDdFUlZFZDNJaUROaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바로팜, 약국 K-뷰티 ‘파마시뷰티존’ 100호점 완료 - 약사공론",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e3ebf9b-e0d1-4129-9517-51f46d3a2683": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99477",
+      "original_headline": "코스맥스, 중기부·무신사와 ‘무뷰페’서 연합부스 운영",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c127acce-b7f6-40c9-a082-6908b16e9a98": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KRTFqWmFETUVKdFlKS2hJMVVwazhSRnJKRFFDX09XVGN2ODJNM0ZaM1NETTlpRW5hQWNTQXY3M0RSZlZzcU1MNTZmWHJsMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“같은 건데 색깔별로 사가더라고요”…외국인 쇼핑에 물 만난 ‘K패션’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "abf8f995-217c-4e03-a411-bf34d2fc9373": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 웰니스",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWXc4eEZEdXFsMy1jTTR4YlRhRV9zTE5yUGdpWTgxVVRhRkJoUXh3M2JXWkQyU25hRjBHSEVuYzZVSS1pVWVmaThUQkNLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "G마켓, 인천 웰니스 여행 기획전…최대 10만원 쿠폰 제공 - 전자신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7ba9b177-b8bc-4e34-96e6-1ce482e2e4be": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZkVfMlZKMGxKRVl0OW5YcnJyVG43cF9SOEk3WVpteWhBVGY3ZzV5LW1zTmtZR3EzbGNiS3JyVldZeTZCSE5wazljNGFUc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "㈜하스피, ㈜드림스코프와 '하이엔드 호텔·프리미엄 주거 커뮤니티' 총판 계약 체결 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d2488c25-a270-4e33-ba1b-83fed7906365": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "739c74f8-8b39-4850-a050-c9d91bd5a273": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d454e4e-10f0-4aa9-b5ce-990c205c15a9": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zNEtnUDFfR0JtSjFLQWktRXkxcGRfeUlBWXRHR2ZnZS00b1RGRlNqU1pYZk9yLUhiOWtXMW1wZkFVeE5QUHFGQ3hNckNwZ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5b2cd43d-42d6-40ef-bd8f-8b35aa94a4fe": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] gen z consumer trends",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41U0F1b1Bfa01SQ2czclIxOHp5WWo4eGFmYS03dzM3TURud3E3RjI5S1c2VHdIckNya3NKRUtvQWR4NE9KdmhydkxGRU5vN0F5U1NTZ0tsLU4ydWlmdGRuVUU4WHVUSzdJRjF1ZWlheUlyTTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 trends and predictions for retail in 2026 - nrf.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
