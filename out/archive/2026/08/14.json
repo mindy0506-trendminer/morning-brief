@@ -1,0 +1,222 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, LA·일본·인도 3개 시장 동시 공략으로 해외 확장 본격화",
+    "외국인 방한 소비 급증, K패션·호텔 업계 상반기 역대 최대 실적 견인",
+    "Z세대, 건강·진정성 중심 소비로 주류·담배 시장 구도 재편"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f2b14d58-50ba-43c1-884d-406e9d0d7cb3",
+        "title_ko": "한국 비건 문화의 민낯",
+        "summary_ko": "비건 식단은 단순 식이 선택을 넘어 다양성 존중의 사회적 지표로 부상했다. 한국 사회가 채식 소비자를 얼마나 수용하느냐는 소비재 기업의 제품 구성과 외식 메뉴 설계에 직결된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3592668d-faff-4c65-93fc-a42c953293cb",
+        "title_ko": "비비고, 호주에 비건 김치 출시",
+        "summary_ko": "CJ 비비고가 액젓을 빼고도 풍미를 유지한 비건 김치를 호주 시장에 출시했다. K푸드의 글로벌 확장과 비건 시장 공략을 동시에 겨냥한 행보로, 현지 플랜트베이스 수요를 타깃으로 삼았다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "74f32b51-b859-4e49-9177-130d084fe610",
+        "title_ko": "대체육, 미래 식탁의 현실 옵션으로",
+        "summary_ko": "대체육이 환경·건강 담론을 넘어 실제 식탁 위 선택지로 자리를 굳히고 있다는 기고 분석이 나왔다. 소비재 기업 입장에서는 단백질 대체 카테고리 내 포트폴리오 재편 타이밍을 가늠할 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "0def29d9-75f0-4c85-b867-d1685e92b3bf",
+        "title_ko": "K뷰티, LA 케이콘에서 현지 접점 확대",
+        "summary_ko": "올리브영 페스타 LA 2026이 KCON LA와 연계해 8월 14~16일 개최되며, 55개 K뷰티·라이프스타일 브랜드가 참가한다. 톰(THOME), 카자 등 신흥 브랜드들이 미국 소비자와의 직접 체험 접점을 확보하는 구조로, 올리브영이 해외 팝업 플랫폼으로 기능하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f1056756-2548-46f4-a5bb-44f7a3e20c1a",
+        "title_ko": "일본 진출 K뷰티, 현지화 숙제 산적",
+        "summary_ko": "2026년 상반기 한국 화장품 수출액이 역대 최고치인 70억 달러를 기록한 가운데, 일본 진출 브랜드 담당자 56%는 마케팅 집행 전 현지 반응 검증이 필요하다고 답했다. 빠른 성장만큼 현지 소비자 데이터 기반 전략 내재화가 과제로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e675cfb7-66f3-4bbf-b3df-5a5063bca2e3",
+        "title_ko": "인도 소비자, 쌀 성분 스킨케어에 주목",
+        "summary_ko": "인도 여성 소비자들이 미백·즉효 성분보다 보습·저자극 중심의 쌀 성분 스킨케어를 선택하는 흐름이 확인됐다. K뷰티 성분 마케팅이 동남아를 넘어 인도 시장에서도 유효하다는 실증 신호로, 현지 특화 라인업 검토가 요구된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "74218621-6f69-47ed-8726-e7d30391c6a9",
+        "title_ko": "외국인, K패션 같은 옷 색깔별로 쓸어담아",
+        "summary_ko": "방한 외국인 쇼핑객이 동일 품목을 색상별로 복수 구매하는 현상이 K패션 매장에서 뚜렷해지고 있다. 가성비와 디자인 경쟁력이 결합된 결과로, 인바운드 소비가 K패션 브랜드의 실적 버팀목으로 기능하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c1ac2d06-1c49-4b70-8b89-f3bfce53d3b7",
+        "title_ko": "파르나스호텔, 상반기 매출 역대 최대",
+        "summary_ko": "파르나스호텔앤리조트가 2026년 상반기 매출 2855억 원, 영업이익 543억 원으로 모두 역대 최대를 기록했다. 방한 관광 수요와 호캉스 문화가 맞물리며 프리미엄 호텔 시장의 구조적 성장이 확인되는 수치다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ea465e8c-3409-4f48-a527-9150d5d1f182",
+        "title_ko": "2026 인테리어 키워드는 '굿 무드'",
+        "summary_ko": "현대L&C가 올해 인테리어 트렌드로 '굿 무드'를 제시했다. 심리적 안정과 감성적 공간 연출을 우선시하는 소비자 심리가 홈 데코 제품 기획 방향을 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "dec7e619-658c-424a-a16a-9a7f828ece95",
+        "title_ko": "Z세대, 역사상 가장 건강한 세대로",
+        "summary_ko": "Z세대는 담배·주류·대마초를 모두 기피하는 세계에서 가장 절제된 세대로 분석된다. 이 흐름은 담배·주류 소비재 기업에 구조적 수요 감소 압력으로, 건강음료·무알콜 카테고리에는 기회로 작용한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b2e25aee-7409-4b28-a516-7e94aa744bdc",
+        "title_ko": "Z세대 소비 재정의: 진정성이 화폐",
+        "summary_ko": "Z세대는 창의성·진정성·가치 일관성을 브랜드 선택의 핵심 기준으로 삼고 있다는 분석이 나왔다. 마케팅 메시지와 실제 브랜드 행동 간 괴리를 빠르게 감지하는 세대로, 표면적 캠페인보다 제품·문화 일치가 관건이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "212b97aa-d369-40bd-a2c5-21acc403bc46",
+        "title_ko": "Z세대가 와인 시장을 흔든다",
+        "summary_ko": "Z세대가 와인 선택 방식과 소비 맥락을 바꾸고 있다. 전통적 격식보다 경험·스토리 중심의 소비를 선호하며, 내추럴 와인·소용량 패키지 등 틈새 카테고리의 성장을 이끄는 동력이 되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 'K콘텐츠 수요가 실물 소비로 전환되는 속도'다. 방한 외국인이 K패션을 색상별로 복수 구매하고, 올리브영이 KCON과 연계해 LA에서 55개 브랜드를 한꺼번에 노출하는 방식은 모두 문화 팬덤을 구매 행동으로 연결하는 동일한 회로를 보여준다. 동시에 Z세대의 절제·진정성 소비 패턴은 이 수요가 단순 유행에 그치지 않으려면 브랜드 실체가 뒷받침돼야 함을 경고한다. K뷰티의 일본·인도 현지화 숙제가 바로 그 실체 검증의 현장이다.",
+  "cards_meta": {
+    "f2b14d58-50ba-43c1-884d-406e9d0d7cb3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3592668d-faff-4c65-93fc-a42c953293cb": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "74f32b51-b859-4e49-9177-130d084fe610": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0def29d9-75f0-4c85-b867-d1685e92b3bf": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99487",
+      "original_headline": "톰(THOME), '올리브영 페스타 LA 2026' 참가",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f1056756-2548-46f4-a5bb-44f7a3e20c1a": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99454",
+      "original_headline": "챌린저스, 日 진출 K뷰티 브랜드 설문조사 결과 발표",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e675cfb7-66f3-4bbf-b3df-5a5063bca2e3": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310680",
+      "original_headline": "[K-뷰티 인도 리포트④] 왜 인도 소비자는 Rice 성분 스킨케어를 선택하는가?",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "74218621-6f69-47ed-8726-e7d30391c6a9": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KRTFqWmFETUVKdFlKS2hJMVVwazhSRnJKRFFDX09XVGN2ODJNM0ZaM1NETTlpRW5hQWNTQXY3M0RSZlZzcU1MNTZmWHJsMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“같은 건데 색깔별로 사가더라고요”…외국인 쇼핑에 물 만난 ‘K패션’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c1ac2d06-1c49-4b70-8b89-f3bfce53d3b7": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOWdsdkxHS3d4Mi0xZHFjM29IMWhvbFB2MGRqdEdabWRZQnlDTV8tbDRBZEtZSU5rNlNGd0p0T3Q1OG1zNFlZZWNaTFhrc0VCWk1PWWF5WWlfZVp2UXQwQVVObVJFejJrOVpHdVRNUjZUTmFMYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "파르나스호텔앤리조트, 상반기 매출 2855억원 ‘역대 최대’ - 호텔앤레스토랑",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ea465e8c-3409-4f48-a527-9150d5d1f182": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbzhtWmtfR2NWNFhxNmN5Vm1FZ1Q5c2ZtX2RMMkxnVGZUaHRrMlN4VmlVa1NQUkJrUmpFMGhfOTlaOHZ6SUpyd2pmZUFKSEhNNHZrZlhGQ21QRm02X1BJTm1ZTlZSejhNY1Uwb3JSTjdSN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C, 올해 인테리어 트렌드 '굿 무드' 제시 - 오늘경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dec7e619-658c-424a-a16a-9a7f828ece95": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLW50ejNzUl8zVFJ6UkFTMG41VWVDZVNpNlN6bDVIRllTSE1oTFBOcnBhUHQybmRxSGpJdzZWM2NJeXEtRzdyeG1fWFJ3ZFZvN0NHZ0Y3MXBBMjgwc2tfS1FsYlUwYkFFVjdKVkwxRkhlMzhvTHJwNnBPVEJWaFdIMkRXemRDWnk3TWZUZ1JMN0V5SHhyeDAwWm5hYjM3Y2xIaTBxV2tBT29WaTIxV21NVm13dU5kLThhZmwycFRB0gHYAUFVX3lxTFBCM3FnYWMzb0YzdHIzVkp3ZDBYdDViS3FSM2phZDQzb3F0dFFFWVhTMm8tbm9tbUpkTExtWk1uNldWUXJjWW8wV09STWFiRk9nTVZRcmM4N1pBRlhLWkFRVDA4dVpibGIzNUFPRmkwcjJ4VlVRSEptd2p3ZEZUZFVyU0NPZ3R3WENva1VFNWhfSU8wNl9aMVhiUm53X2hLUEZrT2xFcTAwYkRSYkdDR0hFeDhsT3VrM1pKQVJSTHA0b0tiOVJiaTIzQlc2Uk93T3dSQTJGcnNvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni tabaco, ni alcohol ni cannabis: la generación Z es la más sana de la historia - infobae.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "b2e25aee-7409-4b28-a516-7e94aa744bdc": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlhRdy1ELTZlNFliT09VOWthNjVhT0tWNDBtcWw1QzlfdmhzOEpaM0pVUGNlbzZFU3ZQSWxXZ0pOb0FuLVA5cXBpLVN3dlFMX3dURlYzSXFUWGFnYXBXZUM3Y09MVDB1WUtqaXRVZDFQRGU2clB5RUpseWZUVXk5OEJTcVhZNXY0NzVFWXM2OXNFaUd1NDlzNkF3WWxnVXZMWnVpRHNyNnpzdERka1NrU2JFUHhFeWFrQTg2RUM1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z redefine el consumo: creatividad, autenticidad y coherencia como moneda de cambio - puromarketing.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "212b97aa-d369-40bd-a2c5-21acc403bc46": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFB2Qm8tMjEybWNsMzdLaUdKZDlVN1VoZGRfaWNVNmZKNXFVOWVwQXNiaDBDaThocGxfZWhZSU5qT2F2X3ZlanRWTlp3eWJLUzVfeVhJSUpmV2otdWNXUHZvUjF3OUhNVFdIY0hCWWtLeFZhTWhJMnhIRHZCaXFkb0YyZURzelZ3OWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Cómo la generación Z está cambiando el mundo del vino - tapasmagazine.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
