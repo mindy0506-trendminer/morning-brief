@@ -1,0 +1,159 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 7월 수출 37.8% 급증, 중국 시장서 메이크업 반등 신호 포착",
+    "올리브영 미국 부촌 안착, AI 피부 스캔으로 현지 프리미엄 수요 공략",
+    "MZ세대 Z세대, 할랄·무알코올로 가치 소비 기준 재편 중"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "4609126b-f1bf-44b1-a280-e8b62a7d3431",
+        "title_ko": "K-헬스 컨퍼런스, 건기식 수출 전략 총집결",
+        "summary_ko": "건강기능식품 수출과 맞춤형 시장을 한자리에서 조망하는 'K-헬스 컨퍼런스 2026'이 개막을 앞두고 있다. 글로벌 헬스케어 수요 확대 속에 국내 건기식 업계가 해외 시장 개척을 위한 전략 정비에 나선 시점으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e8dd25ca-3bde-4975-9ae4-643e42c6f328",
+        "title_ko": "비비고, 비건 김치로 호주 공략",
+        "summary_ko": "CJ 비비고가 액젓을 빼고도 기존 풍미를 구현한 비건 김치를 호주 시장에 출시했다. K-푸드의 비건 전환이 해외 건강식 수요와 맞물리며 신규 수출 경로로 자리잡을지 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "925cb288-ec05-4d9f-acda-095a39e82961",
+        "title_ko": "K-뷰티 수출, 중국서 색조 부활",
+        "summary_ko": "2026년 7월 화장품 수출이 전년 동기 대비 37.8% 증가한 13억 5,100만 달러를 기록했다. 미국에서는 스킨케어·헤어케어가 주도하는 반면, 중국에서는 스킨케어 강세에 메이크업 회복세가 더해져 품목 구조가 다양해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f0ba32f3-7fe8-4e27-9e3a-b03165a31c9f",
+        "title_ko": "올리브영, 미국 부촌서 피부 스캔 앞세워",
+        "summary_ko": "올리브영이 미국 고소득 상권에 매장을 열고 AI 기반 피부 스캔 서비스로 차별화를 꾀하고 있다. 체험형 큐레이션이 현지 프리미엄 소비자의 K화장품 선택 장벽을 낮추는 방식으로 작동하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "ada6c6ff-a507-40aa-a7f2-ec769c13a2f7",
+        "title_ko": "K패션, 외국인 다색 구매로 수요 급증",
+        "summary_ko": "국내 K패션 매장에서 외국인 관광객이 동일 아이템을 색상별로 구매하는 패턴이 두드러지고 있다. 단순 기념품 소비를 넘어, 스타일 자체를 목적으로 한 계획 구매로 전환되고 있다는 점에서 K패션의 브랜드력 상승 신호로 해석된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "cbd5f176-c729-4e55-905a-31d66c93ecf0",
+        "title_ko": "호텔·배달앱, 위생 점검서 동시 적발",
+        "summary_ko": "호텔 냉동고 쥐 오염 사례와 배달 앱 위생 위반이 동시에 수면 위로 올랐다. 외식·숙박 전반에 걸친 소비자 신뢰 문제로 번지면서, 식품 안전 관리의 공급망 전체 적용 요구가 거세질 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "d11404e1-c02d-4318-aa3c-fedaaf25b894",
+        "title_ko": "MZ세대, 할랄을 가치 소비 기준으로",
+        "summary_ko": "국내 20~30대의 82%가 할랄 인증을 필수 구매 조건으로 꼽았다는 조사 결과가 나왔다. 웰빙·윤리·종교적 신념이 혼합된 소비 기준이 형성되고 있어, 할랄 인증이 무슬림 전용 시장을 넘어 가치 소비 지표로 확장되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "100b5d84-8c19-4bcd-977c-e58c36074f5d",
+        "title_ko": "Z세대 음주 이탈, 무알코올 음료 부상",
+        "summary_ko": "스페인을 비롯한 글로벌 Z세대 사이에서 음주 문화 이탈이 가속화되며 무알코올 음료가 파티 필수품으로 자리잡고 있다. 건강·가치 중심의 소비 전환이 주류 카테고리 전체의 제품 포트폴리오 재편을 촉진하는 구조다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 축은 'K-소비재의 프리미엄 글로벌화'와 '가치 소비의 기준 이동'이다. K-뷰티는 수출 최대치를 갱신하면서도 올리브영의 AI 피부 스캔처럼 체험 기반 큐레이션으로 현지 고급 시장을 직접 공략하고 있으며, K-패션 역시 외국인의 다색 구매로 브랜드 지위가 격상되는 중이다. 동시에 MZ·Z세대의 소비 기준은 할랄 인증, 무알코올처럼 윤리·건강 지향으로 수렴되고 있어, 국내외 소비재 기업 모두 제품 포트폴리오와 인증 전략을 재점검해야 할 시점이다.",
+  "cards_meta": {
+    "4609126b-f1bf-44b1-a280-e8b62a7d3431": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5OTRxRFR6bVhHdEZiUlk1aUxHZHZGNXhQbXByRjVQQmZwS0NUY1lxZFZsZ2Iya0FJSVNKMkFvLTMwZHYtWWdLM3FybjhIWnBTZ3NaZW9ZUGVmZTR0d0pEY0oxLUZCd0o5RWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "건기식 수출·맞춤형 시장 한눈에…‘K-헬스 컨퍼런스 2026’ 열린다 - 천지일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e8dd25ca-3bde-4975-9ae4-643e42c6f328": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "925cb288-ec05-4d9f-acda-095a39e82961": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311100",
+      "original_headline": "[K-뷰티 수출 3강 시장 분석② 중국] 스킨케어는 여전하고 메이크업이 돌아왔다",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f0ba32f3-7fe8-4e27-9e3a-b03165a31c9f": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nUWNTZFFrcDRVN01SS055WkEybjNJOWNLc3lWUlU4ZGpSTmhHS2tkWGJjZFJFM3JxY1RBOGQtOEtSUUtfVDJzek9tLVJDc3YzOHFr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'스킨 스캔'해보고 K화장품 '픽'…美 부촌에서 통한 올리브영 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ada6c6ff-a507-40aa-a7f2-ec769c13a2f7": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KRTFqWmFETUVKdFlKS2hJMVVwazhSRnJKRFFDX09XVGN2ODJNM0ZaM1NETTlpRW5hQWNTQXY3M0RSZlZzcU1MNTZmWHJsMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“같은 건데 색깔별로 사가더라고요”…외국인 쇼핑에 물 만난 ‘K패션’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cbd5f176-c729-4e55-905a-31d66c93ecf0": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xdEZGN1ZwcEswemdjeEcwZEpxcWtsNG4zNWVDT2VVbjlRZkF3WDl3VnhGSE40TVQ4SFU3WjJacDdPZFJ3VU9KOEJ4UWJGeDE4enVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"냉동고에서 쥐 돌아다녀\"…호텔도, 배달 앱도 다 걸렸다 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d11404e1-c02d-4318-aa3c-fedaaf25b894": {
+      "category": "소비트렌드",
+      "source_name": "GN-KO [소비트렌드] MZ세대 소비",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKb0VOdG4xblBrTVFydTJJbERDaTBacUV1X1BtWHdIRDhFdUpIbFFSMEwyWXBTZ0w0ejNwa2l6NFpodjdSRW05Y1lnekMwLVhybWd1bGZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "MZ세대 할랄 소비, 웰빙·윤리·가치로 진화…할랄 시장 20~30대 82% “할랄 인증 필수” - 헤럴드경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "100b5d84-8c19-4bcd-977c-e58c36074f5d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
