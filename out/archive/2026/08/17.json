@@ -1,0 +1,188 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국 메이크업 수요 회복·대만 엑스포 역대 최대로 수출 모멘텀 강화",
+    "대형마트 의무휴업 완화 논의, 오프라인→온라인 유통 구조 재편 가속 신호",
+    "K패션·K-뷰티 동반 부상, 방한 외국인 소비가 새로운 내수 성장 축으로 자리매김"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "abb3d0b9-3afd-4d4c-91e3-8589b65d819c",
+        "title_ko": "K-뷰티 중국, 메이크업 귀환",
+        "summary_ko": "2026년 7월 화장품 수출이 전년 동기 대비 37.8% 증가한 가운데, 중국 시장에서 스킨케어 강세가 유지되는 동시에 메이크업 부문의 회복세가 뚜렷해졌다. 중국 소비 심리 반등이 K-뷰티 카테고리 확장으로 이어지고 있다는 점에서 구조적 기회로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c10a5669-567e-4cb0-ac54-323c8012d4c0",
+        "title_ko": "장수 성분 스킨케어 출시 러시",
+        "summary_ko": "랑콤이 스위스 바이오테크 기업과 협업해 유로리틴-A 기반 안티에이징 제품을 공개하는 등, 뷰티업계가 단순 보습을 넘어 세포 수준의 노화 관리를 내세운 '롱제비티 스킨케어'로 프리미엄 시장을 공략하고 있다. 성분 과학과 라이프스타일 의학의 접점이 소비자 접점으로 이동하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4063d2d8-e84d-48fc-b897-ccf6816be702",
+        "title_ko": "K-뷰티엑스포 대만, 역대 최대",
+        "summary_ko": "킨텍스가 주관한 '2026 K-뷰티엑스포 대만'이 82개사 90개 부스 규모로 역대 최대 개최를 기록했다. 중국 의존도를 낮추고 동남아·대만 시장으로 수출 축을 다변화하는 흐름이 전시 규모에서도 확인된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "f547285c-82d0-43d6-b857-8e558569f238",
+        "title_ko": "외국인, K패션 색상별 구매 열풍",
+        "summary_ko": "방한 외국인들이 동일 의류를 색상별로 복수 구매하는 행태가 뚜렷해지며 K패션 오프라인 매장이 수혜를 받고 있다. 단가보다 스타일 다양성에 지갑을 여는 외국인 소비가 내수 패션 시장의 새 성장 변수로 부상했다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "cc4da616-ecd4-43d0-8a05-f37b42cf3ac0",
+        "title_ko": "2026 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어의 핵심 키워드는 자연 소재·다기능 공간·절제된 색조로 압축된다. 팬데믹 이후 자리잡은 집의 '생활 플랫폼화'가 디자인 선택에도 계속 영향을 미치고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4d3d76d8-81ff-4e44-b156-5c242055c358",
+        "title_ko": "인테리어 필름, 셀프 리모델링 대세",
+        "summary_ko": "시공 비용과 기간을 줄일 수 있는 인테리어 필름이 셀프 리모델링 시장에서 빠르게 주류로 올라서고 있다. 고물가 환경 속 '가성비 공간 변신' 수요가 관련 제품군 성장을 이끄는 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "938d7207-292c-4deb-8b2f-2bea6be240a6",
+        "title_ko": "대구 하우징페어, 가을 인테리어 집결",
+        "summary_ko": "2025 대구경향하우징페어가 엑스코에서 개막하며 가을 시즌 인테리어 트렌드를 한자리에 모았다. 지역 거점 전시가 소비자와 제조사 간 실물 접점 역할을 강화하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4b3d42df-ee2a-46b4-b218-0aaf24772768",
+        "title_ko": "마트 의무휴업 완화, 유통 지형 흔드나",
+        "summary_ko": "오프라인 대형마트 이용이 온라인으로 급격히 이동한 현실을 반영해 의무휴업 규제 완화 논의가 본격화됐다. 규제 완화가 현실화될 경우 온·오프라인 채널 간 경쟁 구도가 다시 한번 재편될 가능성이 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bc8831c2-1e99-4fe5-ba93-8258a5708d5d",
+        "title_ko": "B2B 이커머스 혁신 공동체 등장",
+        "summary_ko": "복잡한 B2B 거래 구조의 디지털 전환을 이끄는 실무자들을 위한 전문 커뮤니티가 새롭게 출범했다. 소비재 공급망의 디지털화가 B2C에서 B2B로 무게 중심을 옮기는 흐름과 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ac668c47-e77a-45d0-8bd9-2fcfba2c2650",
+        "title_ko": "Z세대, 음주 문화 거리두기",
+        "summary_ko": "스페인·남미권 Z세대를 중심으로 음주 문화를 의도적으로 멀리하는 '탈음주' 흐름이 확산되고 있다. 주류 소비의 사회적 의미가 약해지며 논알코올·웰니스 음료 시장에 구조적 수요가 형성되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 'K-콘텐츠발 소비 수요가 뷰티·패션을 넘어 실물 구매로 전환되는 속도가 빨라지고 있다'는 점이다. 방한 외국인의 K패션 복수 구매, 대만 K-뷰티엑스포 역대 최대 규모, 중국 메이크업 수요 회복이 동시에 신호를 보내고 있다. 한편 국내에서는 마트 의무휴업 완화 논의와 인테리어 필름 부상이 모두 '비용 절감·편의 극대화' 소비 심리를 반영한다는 점에서 같은 뿌리를 공유한다. Z세대의 탈주류 흐름까지 더하면, 소비자의 지출 우선순위가 경험·외모·공간으로 재편되고 알코올 등 전통 소비재는 구조적 압박에 직면하는 그림이 선명해진다.",
+  "cards_meta": {
+    "abb3d0b9-3afd-4d4c-91e3-8589b65d819c": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311100",
+      "original_headline": "[K-뷰티 수출 3강 시장 분석② 중국] 스킨케어는 여전하고 메이크업이 돌아왔다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c10a5669-567e-4cb0-ac54-323c8012d4c0": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311137",
+      "original_headline": "[뷰티 신상] 롱제비티 스킨케어부터 메이크업 프렙까지",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4063d2d8-e84d-48fc-b897-ccf6816be702": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fc3EwYzcyRVcxX3JrTmxQaHI1WjRjdnZLejEzYlJZRmFJbHppM0IwdUl2b09ZVmpZVDVnN3NIRDRHdUM4MEVaTDhEcnVGYlhfb1hr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "킨텍스 '2026 K-뷰티엑스포 대만' 역대 최대 규모 성황리 개최 - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f547285c-82d0-43d6-b857-8e558569f238": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KRTFqWmFETUVKdFlKS2hJMVVwazhSRnJKRFFDX09XVGN2ODJNM0ZaM1NETTlpRW5hQWNTQXY3M0RSZlZzcU1MNTZmWHJsMnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“같은 건데 색깔별로 사가더라고요”…외국인 쇼핑에 물 만난 ‘K패션’ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cc4da616-ecd4-43d0-8a05-f37b42cf3ac0": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4d3d76d8-81ff-4e44-b156-5c242055c358": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHUVJES3JuS0k4cnpxQjVDY2RWLVYxYzFYM0g3aW8tTjJMc295VXNERVFHc3RsNm9xbldHeno4LVZwdG5BVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "간편하게 새 공간으로 변신… 트렌드로 떠오른 ‘인테리어 필름’ - v.daum.net",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "938d7207-292c-4deb-8b2f-2bea6be240a6": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5S0g1YVVtMVVsNzBWekFQRk9RSkF6S1FaNFhXb0h5akV3QXhPOWFvRnhocEYwYnVqd3dKMEZmNERjMUJac1lZUHVPRGp6MUkzNjVTZUYzOHVneUlOdERoeG4wNGtxZ2JG?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘2025 대구경향하우징페어’, 가을 인테리어 트렌드 총집합…18일 엑스코서 개막 - 대구일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4b3d42df-ee2a-46b4-b218-0aaf24772768": {
+      "category": "소비트렌드",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4SEN2WUVSUTNYOFVYdDRnOWg1UnpVX2dHdGMxU0pCNUp1d1ZaTGwtdFVjaFAyaUtNZF9xc1ByVEYzMkJXVnE3eW9ic0p4VEQwTkR0M1RLaDJqYjdVQzFDRtIBYEFVX3lxTFB4SEN2WUVSUTNYOFVYdDRnOWg1UnpVX2dHdGMxU0pCNUp1d1ZaTGwtdFVjaFAyaUtNZF9xc1ByVEYzMkJXVnE3eW9ic0p4VEQwTkR0M1RLaDJqYjdVQzFDRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마트 의무휴업 완화 논의…'오프라인→온라인' 유통시장 변화 이유 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bc8831c2-1e99-4fe5-ba93-8258a5708d5d": {
+      "category": "소비트렌드",
+      "source_name": "Retail Dive",
+      "source_url": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+      "original_headline": "A new community for the people modernizing complex B2B commerce",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "ac668c47-e77a-45d0-8bd9-2fcfba2c2650": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
