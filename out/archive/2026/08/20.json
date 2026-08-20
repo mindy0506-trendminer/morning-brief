@@ -1,0 +1,144 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, LA 페스타·세포라 입점으로 북미 오프라인 교두보 확보 본격화",
+    "외식업 가업 승계 세대, 브랜드·경영 역량 강화 수요로 교육 시장 부상",
+    "Z세대 무알콜 선호 확산, 글로벌 음료 소비 구도 재편 신호 지속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "499a293e-663c-4c0e-8715-30cbba91b36b",
+        "title_ko": "외식 2세 경영주 교육 프로그램 출범",
+        "summary_ko": "한국외식정보교육원이 외식업 가업 승계 예정자를 대상으로 6주 과정의 역량 강화 교육을 시작했다. 단순 승계를 넘어 브랜드 재해석과 지속 성장 전략 수립에 초점을 맞춘 커리큘럼으로, 세대 교체기 외식업의 경영 전문화 수요가 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "afcba53e-b1b1-44da-9220-d2c262abfb58",
+        "title_ko": "비비고 비건 김치, 호주 시장 공략",
+        "summary_ko": "CJ 비비고가 액젓 없이 기존 풍미를 구현한 비건 김치를 호주에서 출시했다. 한식의 글로벌 확산과 비건 수요가 맞물리는 지점을 겨냥한 행보로, 해외 기능성·대체 식품 시장에서의 K-푸드 영토 확장을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "40de825d-057d-4a6c-b47e-5c8ce80404c4",
+        "title_ko": "동국제약 더마 브랜드, 올리브영 4개월 만에 안착",
+        "summary_ko": "동국제약의 더마비건 브랜드 루온셀이 출시 4개월 만에 올리브영 온라인몰에 공식 입점했다. 제약사 기반 더마 브랜드가 올리브영을 핵심 채널로 빠르게 편입시키는 패턴이 반복되고 있으며, 플랫폼의 신규 브랜드 검증 역할이 강화되는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f305e786-f090-41ba-9de8-37b92e5102d0",
+        "title_ko": "올리브영 페스타 LA, 10만 명 동원",
+        "summary_ko": "올리브영이 KCON LA 2026과 연계해 로스앤젤레스에서 개최한 K뷰티 오프라인 행사에 3일간 10만 명이 몰렸다. 플랫폼이 단순 유통을 넘어 해외 시장에서 K뷰티 문화 체험의 거점으로 기능하기 시작했다는 점에서 의미가 크다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "03f49c46-ea3e-4861-ae97-fc2dd381b54c",
+        "title_ko": "풀리, 세포라 K뷰티에딧 매대 진입",
+        "summary_ko": "비건 스킨케어 브랜드 풀리가 올리브영 K뷰티에딧 큐레이션을 통해 미국 세포라에 입점, 주요 제품 6종 판매를 시작했다. 올리브영이 국내 플랫폼 역할에서 나아가 북미 대형 유통망 진입의 관문으로 기능하는 구도가 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "7dc05721-5205-41b0-93c8-e7408a435825",
+        "title_ko": "더 플라자, 2029년 초고급 호텔로 전면 개편",
+        "summary_ko": "개관 50주년을 맞은 더 플라자가 2029년을 목표로 최고급 호텔로의 전면 재탄생 프로젝트를 공식화했다. 국내 럭셔리 숙박 수요 증가와 맞물려, 도심 랜드마크 호텔의 포지셔닝 재정비 경쟁이 가속화될 전망이다.",
+        "is_paywalled": true
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "a12989f1-c839-4286-ba83-1c97d37865eb",
+        "title_ko": "Z세대, 파티 문화마저 무알콜로",
+        "summary_ko": "스페인을 포함한 유럽 Z세대 사이에서 주류 소비가 줄고 무알콜·제로 음료가 파티 자리를 대체하는 흐름이 확산되고 있다. 건강 지향과 소셜 이미지 관리가 결합된 이 변화는 글로벌 음료 업계의 제품 포트폴리오 재편을 가속할 공산이 크다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 흐름은 '플랫폼이 유통을 넘어 시장 진입 관문으로 진화하고 있다'는 점이다. 올리브영은 국내 더마 브랜드의 소비자 접점을 단기간에 확보해 주는 동시에, 북미 세포라 진입의 큐레이터 역할까지 수행하고 있다. 한편 Z세대의 무알콜 선호와 리세일 부상은 '가치 기반 소비'가 특정 카테고리에 국한되지 않고 식음료·패션 전반으로 구조적으로 번지고 있음을 시사한다. 외식업 2세 교육 수요 역시 같은 맥락으로, 소비자뿐 아니라 공급자 세대 교체 국면에서도 '브랜드·경험 중심'으로의 재정비 압력이 커지고 있다.",
+  "cards_meta": {
+    "499a293e-663c-4c0e-8715-30cbba91b36b": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68387",
+      "original_headline": "한국외식정보교육원 , 외식업 2세 경영주 역량 강화 교육 개최",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "afcba53e-b1b1-44da-9220-d2c262abfb58": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40de825d-057d-4a6c-b47e-5c8ce80404c4": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99550",
+      "original_headline": "동국제약 ‘루온셀’, 올리브영 온라인몰 공식 입점",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f305e786-f090-41ba-9de8-37b92e5102d0": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99511",
+      "original_headline": "10만명 홀린 ‘K뷰티 놀이터’…‘CJ올리브영 페스타 LA’ 성료",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "03f49c46-ea3e-4861-ae97-fc2dd381b54c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99547",
+      "original_headline": "풀리, ‘올리브영 K뷰티에딧’ 통해 미국 세포라 입점",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7dc05721-5205-41b0-93c8-e7408a435825": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVlwbjQ5OEJsWDdMYTdQSGI4RThpbHcwLVdPQXVUTGVVeVRyaTQwcUY1MWppd2R6Q0R6RHdJQmowTVAxMks4cWhPYkt5d09jM2lxbmpqSDAtaU1QNDE5cVZHUTVtR2FWLTJRamFzbl8tSml5YVE2bWgtWVhrbkpkODlGWl9GZWRjdFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "50살 ‘더 플라자’, 2029년 최고급 호텔로 재탄생한다 - 조선일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a12989f1-c839-4286-ba83-1c97d37865eb": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
