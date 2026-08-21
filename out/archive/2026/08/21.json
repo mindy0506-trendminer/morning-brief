@@ -1,0 +1,172 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 화장품법 개정과 세포라 입점으로 글로벌 공세 본격화",
+    "Z세대, 무알콜 음료·쿠폰 소비로 기성 소비 공식과 결별 중",
+    "비건 식품·화장품, 해외 유통 채널 확장으로 수출 전선 다변화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f3dfab07-48be-40a9-bef7-5b89e37ec063",
+        "title_ko": "비비고 비건 김치, 호주 공략",
+        "summary_ko": "CJ 비비고가 액젓을 빼고도 원래 풍미를 살린 비건 김치를 호주에 출시했다. 전통 발효 식품을 비건 기준에 맞게 재설계해 현지 비건 소비자를 직접 공략하는 전략으로, 해외 K-푸드 포트폴리오가 넓어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "799e05ce-6352-4c04-9dd1-702d199952b7",
+        "title_ko": "대체육, 미래 식탁의 현실화",
+        "summary_ko": "대체육이 실험적 선택지를 넘어 일상 식탁의 대안으로 논의되고 있다. 기술 성숙도와 소비자 수용성이 동시에 높아지면서 시장 진입 타이밍을 재는 식품 기업들의 관심이 집중되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "54efc2f9-6d21-458e-ba5d-e19390750459",
+        "title_ko": "풀리, 올리브영 경유 세포라 입점",
+        "summary_ko": "비건 스킨케어 브랜드 풀리가 올리브영의 'K뷰티에딧' 큐레이션 매대를 통해 미국 세포라에 입점, 주력 제품 6종 판매를 시작했다. 올리브영이 K-뷰티 브랜드의 북미 진출 관문으로 기능하는 구도가 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "45c33006-6253-4453-b610-8d56bc5a567f",
+        "title_ko": "화장품법 개정, K-뷰티 지원 체계 정비",
+        "summary_ko": "화장품법 개정안이 국회 본회의를 통과하며 화장품관리기본계획 수립과 화장품관리협의회 신설 근거가 마련됐다. 세계 2위 화장품 수출국으로 올라선 한국이 정책 인프라를 갖추며 글로벌 경쟁력 강화에 나선 것으로 평가된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1834f0c9-ec0a-4a5a-b102-bcff4077870d",
+        "title_ko": "서울뷰티위크, 신진 브랜드 각축전",
+        "summary_ko": "8월 23~25일 열리는 2026 서울뷰티위크에 메디톡스와 다름인터내셔널(에포나·베르티) 등 다수 브랜드가 참가한다. 피부 고민 맞춤 처방 콘셉트와 체험형 부스가 주류를 이루며, 오프라인 접점을 통한 브랜드 인지도 확보 경쟁이 치열해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8a08b64c-c60f-405b-8e60-f92e3a40211f",
+        "title_ko": "제주 포도호텔, 웰니스 패키지 확대",
+        "summary_ko": "포도호텔과 디아넥스가 웰니스와 액티비티를 결합한 신규 패키지 2종을 출시했다. 여름 성수기 이후에도 제주 체류 수요를 유지하려는 호텔들이 경험 설계 경쟁에 나서고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d8f2d37f-5f03-413a-b7da-597fa8146b5a",
+        "title_ko": "현대L&C, '굿 무드' 인테리어 제시",
+        "summary_ko": "현대L&C가 올해 인테리어 트렌드 키워드로 '굿 무드'를 내세웠다. 기능보다 감정적 쾌적함을 우선하는 소비 심리가 공간 설계 방향을 바꾸고 있다는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "eac13a73-d3b4-4a1f-887b-7e1742ba03dd",
+        "title_ko": "Z세대, 무알콜 음료로 파티 재정의",
+        "summary_ko": "스페인을 포함한 유럽권 Z세대 사이에서 주류 소비가 감소하고 무알콜 음료가 파티의 주역으로 부상하고 있다. 절제와 웰니스를 동시에 추구하는 이 세대의 소비 코드가 음료 시장 구도를 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a99f0d2c-cc3e-4450-9b0e-7ad343467786",
+        "title_ko": "중국 Z세대, 쿠폰 소비 새 트렌드",
+        "summary_ko": "중국 신1선 도시 Z세대 소비 보고서에 따르면 청두·항저우·충칭이 'Z세대 친화 도시' 상위권을 차지했다. '신규 쿠폰 청년' 집단이 부상하며, 가성비를 전략적으로 추구하는 새로운 소비 층위가 형성되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '비건·웰니스·절제'가 소비 전반의 기본값으로 자리잡고 있다는 점이다. 식음료에서는 비건 김치와 대체육이 해외 유통망을 뚫고, 뷰티에서는 비건 스킨케어가 세포라 입점이라는 상징적 관문을 넘었다. Z세대가 주류 대신 무알콜 음료를 선택하고 쿠폰으로 가성비를 전략적으로 관리하는 모습은, 소비 철학이 이미 세대 교체 수준으로 변했음을 보여준다. 화장품법 개정과 올리브영의 북미 큐레이션 채널화는 이 흐름을 제도·유통 인프라 차원에서 뒷받침하는 구조로, K-소비재 전반의 해외 확장이 개별 브랜드 노력이 아닌 생태계 차원으로 격상되고 있다.",
+  "cards_meta": {
+    "f3dfab07-48be-40a9-bef7-5b89e37ec063": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "799e05ce-6352-4c04-9dd1-702d199952b7": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "54efc2f9-6d21-458e-ba5d-e19390750459": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iTkdEU241Z0lKcmxTRXpybXFJLWl3Vm9WeWRDaFhXeFJ6azQ4bXRFUl9HdXA1RE02SWRaRENXbUFvWVl5WUhCMXllbXhKYkRONzdKNXg0bHNodml5ZHd1Q0t2TUh6SWNP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "풀리, ‘올리브영 K뷰티에딧’ 통해 미국 세포라 입점 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "45c33006-6253-4453-b610-8d56bc5a567f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99555",
+      "original_headline": "화장품법 개정, K-뷰티 경쟁력 높아진다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1834f0c9-ec0a-4a5a-b102-bcff4077870d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99559",
+      "original_headline": "㈜다름인터내셔널, ‘2026 서울뷰티위크’ 참가",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8a08b64c-c60f-405b-8e60-f92e3a40211f": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2xDdXVKa1dqT1NkZ2JNWjVyX2ttZ2FqczJkNVVGWk1Pam1IYU1ncnBoQXE3aGNIRU44ZUFITUFrUGZtM2FaUFZOU0U4aVV4a1l6Y1FCbWZtbGpFbnZOcGRRX05Ua1BaUEw5c2JHT05CZXR0S0ZxNVVMUUFyVzc2ZlRlWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주 포도호텔·디아넥스, 신규 패키지 2종 출시 - 뷰티트래블뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d8f2d37f-5f03-413a-b7da-597fa8146b5a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbzhtWmtfR2NWNFhxNmN5Vm1FZ1Q5c2ZtX2RMMkxnVGZUaHRrMlN4VmlVa1NQUkJrUmpFMGhfOTlaOHZ6SUpyd2pmZUFKSEhNNHZrZlhGQ21QRm02X1BJTm1ZTlZSejhNY1Uwb3JSTjdSN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C, 올해 인테리어 트렌드 '굿 무드' 제시 - 오늘경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "eac13a73-d3b4-4a1f-887b-7e1742ba03dd": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a99f0d2c-cc3e-4450-9b0e-7ad343467786": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFBkSWZYSkVYdjZSS1BJX0VhRy1fNE1ZYlJiMl9xeDIzUUV0TUhzaVljUWs1N2NYRncyNDAzczNSV1luLU9vZDE2MUU5YXFyMm1PY2ttLUVieGlsY2gtMjU4TFN0d3NBNEF1YlI3U0tSOElOWElrNnA4WkJITms2Q1FnV3hoYlczSlR5UA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "新一线城市Z世代消费趋势报告：成都、杭州、重庆获得“Z世代友好城市榜”前三名，“新领券青年”群体兴起 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
