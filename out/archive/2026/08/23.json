@@ -1,0 +1,172 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티: 올리브영 채널 통해 미국 세포라 입점 사례 잇따르며 해외 유통 공식화",
+    "라이프스타일: AI 얼굴 인식 기반 프런트리스 체크인, 국내 호텔 업계 전반으로 확산",
+    "소비트렌드: Z세대, 무알콜·관심사 중심 소비로 기성 소비 문법과 결별 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "fff9d504-1de4-42c3-92f9-07661fd9a804",
+        "title_ko": "비건, 다양성 의제로 진입",
+        "summary_ko": "한국 대학가에서 비건 문화가 식단 선택을 넘어 사회적 다양성 존중의 척도로 논의되기 시작했다. 식품 선택이 가치관 표명의 수단으로 자리잡는 흐름이 국내에서도 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "380b482c-b7d3-4412-b82e-43c045398ccf",
+        "title_ko": "대체육, 미래 식탁 선택지로",
+        "summary_ko": "충청타임즈 기고를 통해 대체육이 일부 소비자의 실험적 선택에서 벗어나 주류 식탁의 현실적 대안으로 제시됐다. 공급망 안정성·가격 경쟁력이 보급 속도를 결정할 변수로 지목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "77f59520-27de-413c-996b-bf8f4184a581",
+        "title_ko": "비건 식품 시장 2035년 고속 성장",
+        "summary_ko": "글로벌 비건 식품 시장이 2035년까지 고속 성장 궤도를 유지할 것이라는 전망이 나왔다. 국내 대체육·비건 논의와 맞물려, 식품 기업의 포트폴리오 재편 압력이 높아지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "aa135098-1c65-45fe-9534-6a93561a496c",
+        "title_ko": "풀리, 세포라로 미국 직행",
+        "summary_ko": "비건 스킨케어 브랜드 풀리(FULLY)가 올리브영 K뷰티에딧 큐레이션 매대를 통해 미국 세포라 입점에 성공했다. 올리브영이 북미 유통 관문 역할을 굳히는 사례가 누적되면서, 국내 중소 뷰티 브랜드의 해외 진출 경로가 정형화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "119298c3-da35-4cba-afa9-ada4db2f95ab",
+        "title_ko": "시그닉, 체험형 팝업으로 승부",
+        "summary_ko": "시그닉이 무신사 뷰티 페스타에서 'SKIN GYM' 콘셉트 부스를 운영하며 피부 고민 맞춤 체험을 전면에 내세웠다. 제품 효능을 직접 경험하게 하는 오프라인 팝업이 신흥 브랜드의 인지도 확보 공식으로 굳어지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "41b89f9d-c24c-4f62-8bfd-713ddd6fe89c",
+        "title_ko": "서울뷰티위크, 브랜드 각축장",
+        "summary_ko": "다름인터내셔널이 서울뷰티위크에서 에포나·베르티 두 브랜드를 동시 출전시키며 피부 처방 콘셉트로 차별화를 시도했다. 메디톡스 등 기성 기업과 신생 브랜드가 동일 전시장에서 경쟁하며, 오프라인 B2C 행사가 브랜드 론칭 플랫폼으로 기능하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "462ef761-f984-4f3b-bfd2-d95a0cbcd7bf",
+        "title_ko": "프런트 없는 체크인 확산",
+        "summary_ko": "호텔 입구에서 AI가 투숙객 얼굴을 인식해 이름을 부르고 카드키를 건네는 무인 체크인 방식이 국내 호텔 업계에 빠르게 퍼지고 있다. 인건비 절감과 개인화 서비스를 동시에 구현한다는 점에서 프리미엄 호텔과 비즈니스 호텔 모두 도입을 검토 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4e72e571-0c8e-4860-9836-a9350634992e",
+        "title_ko": "서울역 힐튼 재개발 지연",
+        "summary_ko": "사업비 7조 원 규모의 서울역 힐튼호텔 재개발 사업이 통합 준공 시점을 1년 이상 넘길 것으로 전망된다. 대형 도심 호텔 공급 지연은 서울 중심부의 숙박 공급 부족을 심화시켜 기존 호텔의 객실 단가 협상력을 높이는 요인이 될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "5cad4247-974a-45fd-b2fe-fdcc4151fbce",
+        "title_ko": "Z세대, 무알콜로 파티 문화 재정의",
+        "summary_ko": "스페인 등 유럽에서 Z세대의 주류 소비가 눈에 띄게 줄고 무알콜 음료가 파티 문화의 주류로 떠올랐다. 음주를 사교의 도구로 삼던 기성 문화와의 단절이 글로벌 식음료 포트폴리오 재편 압력으로 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '채널의 재편'이다. 올리브영이 북미 세포라 입점 경로를 표준화하고, 무신사·서울뷰티위크가 신흥 뷰티 브랜드의 오프라인 론칭 플랫폼으로 굳어지는 동시에, 호텔에서는 AI가 프런트데스크를 대체하고 있다. Z세대가 무알콜·관심사 소비로 기성 문법을 거부하는 흐름까지 더하면, 소비재 전 영역에서 '기존 채널과 접점의 해체·재조립'이 동시 진행 중이라는 공통 신호로 읽힌다. 리세일의 주류화 역시 같은 맥락의 연장선이다.",
+  "cards_meta": {
+    "fff9d504-1de4-42c3-92f9-07661fd9a804": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "380b482c-b7d3-4412-b82e-43c045398ccf": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "77f59520-27de-413c-996b-bf8f4184a581": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13bUtwSmhpVENabFZKNmFLM1Y5Z1ZRUDB2eWhDTk1BTE9wNm9MYkppWVE3YUNOdUpyalF5ZlBKSTlsV3FKb203eDIyaTRnMTVkMGI2WFU4OWZXb1RZSW9lbHBSUXFtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "글로벌 비건 식품 시장, 2035년 고속 성장 전망 - 비건뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa135098-1c65-45fe-9534-6a93561a496c": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iTkdEU241Z0lKcmxTRXpybXFJLWl3Vm9WeWRDaFhXeFJ6azQ4bXRFUl9HdXA1RE02SWRaRENXbUFvWVl5WUhCMXllbXhKYkRONzdKNXg0bHNodml5ZHd1Q0t2TUh6SWNP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "풀리, ‘올리브영 K뷰티에딧’ 통해 미국 세포라 입점 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "119298c3-da35-4cba-afa9-ada4db2f95ab": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nYVF2MWstTjlBZGdIMzVLR1lLYXYtUUY4RVAtZTk1VDMwNnVjc1pPSkZGb2tNV1kzQWtWZ0dMT3lvQmFVOXpISkFxbHliT08zbWxnN2ZKT2hhRUF4RWR2VEMxbW9QUE52bjlN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "시그닉, 성수 ‘무신사 뷰티 페스타’ 참가 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "41b89f9d-c24c-4f62-8bfd-713ddd6fe89c": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0cnk2VFM0Q0ZqSjdBcjlfVHBMdE8tRUF1eUZzVHltYnRkdDJnSHZ4U3FNQzZHdnZOWElKTW12aDliSHJpNFlGME1ZcHNGVlc2a1JiSVF1cHljc2VoUXpUa3VxalhOcWxN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "메디톡스, ‘2026 서울뷰티위크’ 참가 - 충청타임즈",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "462ef761-f984-4f3b-bfd2-d95a0cbcd7bf": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DekRZNHgyUVhNUXk5UmU4cGFVaGFPeFB1WWJBWUhzYXRWOGlLblM3MHNXWUZ3bFp6NlUxX1hQWlA4TXNDbGpobzNtYThPdDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“호텔 들어서자 이름 부르고 카드키 건넸다”…‘프런트 없는 체크인’ 확산 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4e72e571-0c8e-4860-9836-a9350634992e": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZlhBMnEtb0RyTTZhMHRCRnhzRTdZQ0ZQUk96MmZHbmQwYTd6dU5OZ3dRY1ExR1h0bXFsQWRiOE1OOUl1aXFUczE2R0JlMDY0SjlJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "사업비 7조 서울역 힐튼호텔 재개발, 통합 준공 1년 이상 늦어질듯 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5cad4247-974a-45fd-b2fe-fdcc4151fbce": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
