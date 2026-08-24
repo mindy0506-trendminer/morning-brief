@@ -1,0 +1,214 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 세포라 입점·수출거점 조성으로 북미·글로벌 공략 본격화",
+    "맞춤형 건기식 시장 팽창에 식약처 위생점검 본격 가동, 제도화 신호",
+    "Z세대, 무알콜·관심사 기반 소비로 기존 소비 공식 재편 중"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b8bd4ad4-9346-42ef-a8fe-d961a736510c",
+        "title_ko": "발효돈태반 건기식 5000만정 돌파",
+        "summary_ko": "LG생활건강의 '하나미 비컴 궁'이 누적 5000만정 판매를 넘어섰다. 국내 첫 발효돈태반 건기식이라는 차별화 포인트가 소비자 신뢰로 이어진 사례로, 기능성 원료 다변화 흐름을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ea5eee78-ec32-4fc4-9984-4f26d1b1da96",
+        "title_ko": "맞춤형 건기식, 규제 관리 시대로",
+        "summary_ko": "식약처가 개인 맞춤형 건강기능식품 업체를 대상으로 위생·품질 실태 점검에 나섰다. 시장 본격화와 동시에 제도권 관리가 시작된 셈으로, 품질 기준 준수 여부가 브랜드 신뢰의 핵심 변수가 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4728f93e-d85a-4acc-a2f1-641b95d46c87",
+        "title_ko": "새벽배송 상생안, 유통 갈등 지속",
+        "summary_ko": "대형마트의 새벽배송 허용을 둘러싼 상생 논의에서 유통업계와 소상공인 간 입장차가 좁혀지지 않고 있다. 배송 채널 확장 경쟁이 오프라인 소상공인 생존과 직결되는 구도가 선명해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "b0dc8a4c-d3bd-42db-a8c2-8eeb9655ea3a",
+        "title_ko": "서울뷰티위크, K뷰티 총집결",
+        "summary_ko": "한국콜마, 다름인터내셔널 등 다수 업체가 '2026 서울뷰티위크'에 참가해 최신 K뷰티 제품을 선보였다. 국내 B2B 전시가 해외 바이어 접점이자 브랜드 론칭 무대로 기능하는 흐름이 강해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "80fd5be7-76bc-40b7-b18e-a1ef2f3a2da9",
+        "title_ko": "셀퓨전씨, 세포라 580개 매장 입점",
+        "summary_ko": "셀퓨전씨가 미국 세포라 전국 580여 개 매장의 '올리브영 K 뷰티에딧' 매대에 공식 입점했다. 올리브영의 미국 채널 확장이 중소 K뷰티 브랜드의 북미 유통 교두보로 기능하는 구조가 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8d1e4544-be3c-4b5b-8153-49183b399c63",
+        "title_ko": "경북, K뷰티 수출거점 구축 착수",
+        "summary_ko": "경북도가 경주 관광 자원과 경산 화장품 산업을 연계한 K뷰티 수출거점 조성에 나선다. 지자체 주도의 산업 클러스터화가 K뷰티 공급망의 지역 분산을 촉진할 변수로 작용할 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "9ff22464-b722-459c-9f26-86c92edad5c0",
+        "title_ko": "웰니스 호캉스, 휴가 소비 주류로",
+        "summary_ko": "단순 관광 대신 수면·회복·마음 챙김을 목적으로 한 웰니스 호캉스가 부상하고 있다. 호텔업계의 부가 서비스 패키지 경쟁이 체험 질 중심으로 재편될 가능성이 높다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1641d22e-11ec-4f23-b2ee-b1065b51f236",
+        "title_ko": "2026 코펀, 가구·인테리어 트렌드 총람",
+        "summary_ko": "가구연합회 주관 '2026 코펀 전시회'가 27일 개막해 신개념 가구와 인테리어 트렌드를 한자리에 모은다. 국내 리빙 시장의 신제품 주기가 짧아지는 가운데, 전시회가 업계 트렌드 선도 기능을 강화하는 추세다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "83b4700d-8479-468c-b91e-1b14196ac251",
+        "title_ko": "잊혀진 구독료, 지갑 누수 경보",
+        "summary_ko": "인지하지 못한 채 결제되는 구독 서비스가 가계 지출 점검의 주요 대상으로 떠오르고 있다. 구독 경제 성숙기에 소비자 피로와 해지 수요가 맞물리며, 서비스 제공사의 가입 유지 전략 부담이 커지는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f8f9892-31ac-4d36-b9c0-4d406cbf400f",
+        "title_ko": "Z세대, 파티에서 술 대신 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 여러 시장에서 Z세대 음주량이 줄고 무알콜·저알콜 음료 수요가 급증하고 있다. 음료 기업의 포트폴리오 재편과 편의점·마트의 무알콜 섹션 확대가 가속화될 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b06f59f2-40a2-413b-b2a0-f6c74ffa7992",
+        "title_ko": "관심사가 지갑을 연다, Z세대 소비",
+        "summary_ko": "중국 Z세대 사이에서 취미·관심사 기반 소비가 일상 지출의 핵심 동인으로 자리잡고 있다. 브랜드 인지도보다 개인 취향과의 정합성이 구매 결정을 좌우하는 구조로, 한국 소비재 기업의 세분화 전략 재검토가 필요하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '소비의 개인화와 목적화'다. 맞춤형 건기식 시장 팽창, Z세대의 관심사·건강 기반 소비, 웰니스 호캉스 부상은 모두 '내게 맞는 것'을 찾는 소비자 태도가 카테고리를 가리지 않고 확산되고 있음을 보여준다. K뷰티의 해외 공략이 올리브영 플랫폼과 지자체 클러스터 양 축으로 동시에 전개되는 점도 주목할 만하다. 단일 브랜드 역량보다 유통 채널과 지역 인프라의 결합이 글로벌 경쟁력을 결정하는 구조로 빠르게 바뀌고 있다.",
+  "cards_meta": {
+    "b8bd4ad4-9346-42ef-a8fe-d961a736510c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UVltQ2syeFhQSmVoYWlxSThuZnNwejVYbU42a0lVdTJWVjh3YWcwZ0x2SGFUd3ZtRGhhZzluNnpRTW9CSWc4UVBScnRSazNnZFRLeElPVHpiUmVHYnRPeHk4Um9SUWJPMGdNVkdsdUY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LG생활건강 “ 발효돈태반 건기식 ‘하나미 비컴 궁’, 5000만정 판매 돌파” - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ea5eee78-ec32-4fc4-9984-4f26d1b1da96": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQmpLdmxEQjRUQV81NVFFTkdvVmFlSnZYdG9YZW8yblQ1cUg0eVBfUXlVMklVSkpoaEN3aFEyVXRpUnFseWdIcnItVmItSzk1MHfSAVdBVV95cUxPc2pTTkRxMkkxX3RUWmlVOUlkNFd5Q20wMEpzQmVyTFhkd284Nm5XQTJhbi1wSl9TR1FnazVCZGNjakIzbmd3bGNFellxb2dJRmJtM0hncUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, '맞춤형 건기식' 업체 집중점검 - 뉴스1",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4728f93e-d85a-4acc-a2f1-641b95d46c87": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WVS01X3Y1aVpmbVcwR1dCOUdlTERlREJEQ3pmaUZ3VVY1Nnp6b2tWNTljVXZtN2Z6R0JwWHBLLURuTENwMGhPQ2dfeThlbnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대형마트 새벽배송 상생안 놓고 이견…유통·소상공인 간극 여전 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b0dc8a4c-d3bd-42db-a8c2-8eeb9655ea3a": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fS0FUdXQ2dUI4WEQyNTN0ZnlhVl85Tmc1VlNqaUEyb1YxVWI4QXlpYkxIQnZzZ3pDOXFQZVNmVFhMdDEyaGNCX3NtSkVxT1dxWFBXSkRROU5RMWRuSFR3b3dyRTRjSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"최신 K뷰티 총출동\"...한국콜마, '2026 서울뷰티위크' 참가 - 청년일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "80fd5be7-76bc-40b7-b18e-a1ef2f3a2da9": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99564",
+      "original_headline": "셀퓨전씨, 美 세포라 ‘올리브영 K 뷰티에딧’ 입점",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d1e4544-be3c-4b5b-8153-49183b399c63": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVkMzdVVPMHlHenlVaFN1QWF6Q0hsakl3UmpKN3dfYVNmNnpIcWpvLTZ5Nnp2cExVMTIxeVFDa3B4bHJ0ZzR5TE1kYjBILTdHZVZTMzN2YlFBUdIBWEFVX3lxTFBoTlRKMlhvc2ZkWW12Ym5kOTMtalNfbUtKMmVBXzRJczN2QTh5em5qSlIybGdrVF9Dc0RyODdfa3RCT2RxYmlia0ZLMjVKZzF6T2xMaE13YjI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경북도, 경주 관광·경산 화장품산업 연계…K-뷰티 수출거점 조성 - 아주경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9ff22464-b722-459c-9f26-86c92edad5c0": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwQm0zTjZCMnZTQk1QZTBQXy1US0lMMVhRcXFLeVBsV3B0NW1TX1Z0dldERGNNNzdHM2hWa0pOd0t1THNXaVFIWi00bFZjVWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"잘 쉬는 것이 진짜 여행\"…'웰니스 호캉스' 뜬다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1641d22e-11ec-4f23-b2ee-b1065b51f236": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zeFBtekU5VS1yMC02elB5bDdhVEFoblJOb3JmU01Ec0szelFRR2YwdlVCMnhWUHE0bVV6ZURmcVd1M1BYNDlIcDk4Ykkzb0dJN2tzcWlLeTR6QWxzM1FVS1VfMmRTRnNuS2UwZkpnV27SAXBBVV95cUxNc3hQbXpFOVUtcjAtNnpQeWw3YVRBaG5STm9yZlNNRHNLM3pRUUdmMHZVQjJ4VlBxNG1VemVEZnFXdTNQWDQ5SHA5OGJJM29HSTdrc3FpS3k0ekFsczNRVUtVXzJkU0ZzbktlMGZKZ1du?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "가구연합회, ‘2026 코펀 전시회’ 개최.. 신개념 가구·인테리어 트렌드 한눈에 - 중소기업뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "83b4700d-8479-468c-b91e-1b14196ac251": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f8f9892-31ac-4d36-b9c0-4d406cbf400f": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "b06f59f2-40a2-413b-b2a0-f6c74ffa7992": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HMzBCbVNFVTV6T3NSSkN5eWpqc1B6VWxHZDhpLWpqRGMxTmtrb2lOQ0VOSkhjSi1wRmMzbHRublF1VUtmSk13MklfaTlrZGlpdGYwT0NNRVRYRC1rTmpLQW1wOXlrbVh3YjlwNGMza3VXZkJBaXA1Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "兴趣圈消费涌上Z世代的账单 - 中国青年报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
