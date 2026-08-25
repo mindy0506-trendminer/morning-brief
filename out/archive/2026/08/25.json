@@ -1,0 +1,197 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티·K-패션, 단순 구매를 넘어 '체험형 인바운드' 거점으로 구도 재편",
+    "맞춤형 건기식 시장 본격화, 식약처 집중 점검으로 제도권 진입 가속",
+    "Z세대, 알코올·구독 지출 동시 축소…절제 소비가 글로벌 트렌드로 확산"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "983edca0-d4f9-45ae-bee9-a468fc513844",
+        "title_ko": "맞춤형 건기식, 제도권 진입 가속",
+        "summary_ko": "식약처가 맞춤형 건강기능식품 업체를 대상으로 위생·품질 집중 점검에 나섰다. 개인화 건기식 시장이 본격 성장 궤도에 오른 가운데, 규제 당국의 선제 점검은 시장 신뢰도를 높이는 동시에 영세 업체의 진입 장벽을 높일 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "925065f9-2800-4bb7-b959-3ea68e800269",
+        "title_ko": "건기식 기업, 사회공헌 마케팅 강화",
+        "summary_ko": "아이팜코리아가 대구적십자사에 2천만 원 상당의 건강기능식품을 후원했다. 건기식 브랜드의 지역 사회공헌 활동이 브랜드 신뢰 구축 수단으로 자리잡는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "23b5859c-f6c4-4ead-8859-70cc6f2e0c4e",
+        "title_ko": "비건 문화, 다양성 담론으로 확장",
+        "summary_ko": "한국 비건 문화가 식단 선택을 넘어 사회적 다양성 존중 논의와 결합되는 양상이다. 소비 양식이 가치관 표현의 수단으로 기능하면서, 식품 업계의 비건 라인업 확대 압력도 커질 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "1338b1ca-0be1-4664-93f9-1e66cfcd97a3",
+        "title_ko": "K-뷰티, 쇼핑에서 체험 거점으로",
+        "summary_ko": "K-뷰티 트렌드가 제품 구매 중심에서 브랜드 체험 중심으로 이동하고 있다. 경주·제주를 인바운드 수출 거점으로 육성하는 정책과 맞물려, 외국인 관광객의 현지 소비가 중소 뷰티 기업의 새로운 수출 경로로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "d1239ab7-18df-4b36-a7f9-1a90e1e757bd",
+        "title_ko": "마뗑킴, K-패션 대표 브랜드 부상",
+        "summary_ko": "하고하우스를 방문한 외국인들이 마뗑킴을 K-패션의 상징으로 꼽으며 인증샷을 쏟아내고 있다. 뷰티에 이어 패션도 체험형 오프라인 공간이 글로벌 팬덤 형성의 핵심 접점으로 기능하는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "7b8dceaa-3951-4d49-b908-8f7e966f1571",
+        "title_ko": "추석 호캉스, 미식 경험으로 차별화",
+        "summary_ko": "제주신라호텔이 추석 연휴 한식 미식 기획 행사를 선보이며 명절 여행객을 공략하고 있다. 단순 숙박을 넘어 '먹기 위해 떠나는 여행'으로 호텔 체험을 재정의하는 전략이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a172f17c-3a28-4368-81b2-3c39d658cc49",
+        "title_ko": "힐튼, 아시아 첫 캐노피 호텔 방콕 개관",
+        "summary_ko": "Hilton이 아시아 최초로 캐노피 브랜드 호텔을 방콕에 열었다. 라이프스타일 호텔 세분화 경쟁이 동남아시아로 무게 중심을 옮기는 흐름 속에서, 한국 여행객의 선택지도 넓어진다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0c93abbb-5ec8-4470-8518-1996ed6f4f92",
+        "title_ko": "Z세대, 무알코올로 파티 문화 재편",
+        "summary_ko": "스페인을 비롯한 유럽에서 Z세대의 알코올 소비가 눈에 띄게 줄고 무알코올 음료가 그 자리를 채우고 있다. 절제와 건강을 소비 정체성으로 삼는 흐름이 글로벌 식음료 시장의 제품 포트폴리오를 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0af3fba8-1617-4fb2-892b-0d9ce80b6176",
+        "title_ko": "구독 서비스, 소비자 지출 사각지대",
+        "summary_ko": "인지하지 못한 채 결제되는 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 경제의 외형 성장이 소비자 피로와 이탈 압력을 동시에 키우고 있으며, 업계의 투명한 해지 정책이 신뢰의 차별점이 될 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7d2844e6-1450-4818-b75f-60f8d2995bf7",
+        "title_ko": "중국 Z세대 소비 코드 해부",
+        "summary_ko": "중국 Z세대 소비 데이터 분석에 따르면 이들은 가성비보다 경험·정체성 표현에 지갑을 연다. 한국 소비재 브랜드가 중국 시장에서 Z세대를 공략할 때 제품 스펙보다 문화적 서사를 앞세워야 함을 시사한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '경험·가치 중심 소비의 전방위 확산'이다. K-뷰티·K-패션은 체험형 공간으로, 호텔은 미식 기획으로, Z세대는 무알코올·구독 절제로 각자의 방식으로 같은 방향을 가리킨다. 제품이나 서비스의 기능적 완성도만으로는 선택받기 어려워진 시대에, 소비자는 자신의 정체성과 가치관을 반영하는 브랜드 서사에 지갑을 열고 있다. 맞춤형 건기식 규제 강화와 리세일 시장 성장도 같은 맥락 위에 있다. 브랜드의 진정성과 투명성이 가격·기능 못지않은 경쟁 변수로 자리잡고 있다.",
+  "cards_meta": {
+    "983edca0-d4f9-45ae-bee9-a468fc513844": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQmpLdmxEQjRUQV81NVFFTkdvVmFlSnZYdG9YZW8yblQ1cUg0eVBfUXlVMklVSkpoaEN3aFEyVXRpUnFseWdIcnItVmItSzk1MHfSAVdBVV95cUxPc2pTTkRxMkkxX3RUWmlVOUlkNFd5Q20wMEpzQmVyTFhkd284Nm5XQTJhbi1wSl9TR1FnazVCZGNjakIzbmd3bGNFellxb2dJRmJtM0hncUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, '맞춤형 건기식' 업체 집중점검 - 뉴스1",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "925065f9-2800-4bb7-b959-3ea68e800269": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTERGbEY1UElvMThlWHZQMVY2dnBTYmJJVms0MEZidHZZTGJaNVZoc0Zucng2TEhlMWxCM3lZNE9yREhkYVNON1ZTNm1DUlRGTktCd3VNbjU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "아이팜코리아, 대구적십자사에 2천만원 상당 건강기능식품 후원 - 경북신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "23b5859c-f6c4-4ead-8859-70cc6f2e0c4e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1338b1ca-0be1-4664-93f9-1e66cfcd97a3": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nVzZlWjJXNEo5SUphV0kwRWltN3R2R0NZU1dwTXgtRG41NDdOV2JUYXI1VW5RTHFNeDkxTm5GSDdnQkxqcGVlRmMwbVFWQ0ZUTHBv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "쇼핑을 넘어 경험으로…K뷰티 트렌드 중심에 서다 - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1239ab7-18df-4b36-a7f9-1a90e1e757bd": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xYzFtWVVkamQ3ZTc1TnFNOWxHczdZak1vZ0xnUko1b1ZOSDREdmlQYTVIV3pzR1lmZVVFYWxRMkhsRklvLW9xTnY5SUtDU3hIaXlfSGJXTllHMGV6cDJR0gFkQVVfeXFMTW5DRExrMDN1NGh0c25CdG1DU3VFVXljc2pqRmFyR2ZqQW9USEloTGNJcUtMdFp6bUxndWFlOXpJN2I2Rl9DMnVJLVVxN0VMOWpPVXRxRTJfYU1jRlhLZGhZN2FHTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"K-패션 하면 마뗑킴 생각나요\"…외국인들 인증샷 쏟아진 하고하우스 - 뉴스1",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7b8dceaa-3951-4d49-b908-8f7e966f1571": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neVdzTEwzR2w1cUdxU1ZQOWZJQTZRbmNJcElkTEFlMURscjA0MGM2VUNmN1dQb0lzME55R0FPSlNxUU1qNVdVYlhzbVhic1Rqeml3WWRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주신라호텔, 추석 연휴 ‘한식 맛집’ 변신…매일 다른 메뉴 선보인다 - 지디넷코리아",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a172f17c-3a28-4368-81b2-3c39d658cc49": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNFBIU2xlWmpHU3VhLU15OURvbHV1SEpMRmdJQnMwS1JCbDFiNXJZcDhEMlMyV0tZVVFjNldxYnRkU3ByT2VMOHlfTnNNdjllTEEtS2NVTjh6RHPSAWBBVV95cUxQeE9uLUNEdjBQRDJRZkpncDRPckFXVWRaWm5QY25MQkFRblZOSnhZZ0NNSklVMHhNUnRhbkIyQWdqeEhFdktyajUzcl81TmhEUjFlZGNYRFk4YUpGVnRsS0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[여행소식] 힐튼, 아시아 최초로 캐노피 호텔 방콕에 개관 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c93abbb-5ec8-4470-8518-1996ed6f4f92": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "0af3fba8-1617-4fb2-892b-0d9ce80b6176": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "7d2844e6-1450-4818-b75f-60f8d2995bf7": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
