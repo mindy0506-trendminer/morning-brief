@@ -1,0 +1,201 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 꾸밈보다 회복 중심의 'Precision Recovery' 기조가 F/W 시장 기준으로 자리잡는 중",
+    "올리브영, 산리오 IP에 K-로컬 감성 덧입혀 국내외 고객 공략 본격화",
+    "Z세대, 무알콜 음료 선호로 음주 문화 지형 재편 흐름 글로벌 확산"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "9da455e2-34c9-4c66-9e31-34fb28e78240",
+        "title_ko": "중국 '국민 외식 브랜드' 육성 기대감",
+        "summary_ko": "중국 15·5계획 소비 전략의 일환으로 외식 분야 대표 브랜드 육성 논의가 부상하고 있다. 내수 소비 진작과 브랜드 경쟁력 강화를 동시에 겨냥한 흐름으로, 한국 외식 기업의 중국 시장 진출 전략에도 시사점이 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "16ccf00a-cc71-45da-9e42-6a948081288c",
+        "title_ko": "한국 비건 문화, 다양성 척도로 부상",
+        "summary_ko": "비건 식문화가 식이 선택의 영역을 넘어 사회적 다양성 존중의 지표로 논의되고 있다. 식품·외식 기업 입장에서는 메뉴 다양화 수요로 직결되는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "eed32c5f-d551-43a2-b436-cb77e79415e4",
+        "title_ko": "대체육, 미래 식탁의 현실적 선택지로",
+        "summary_ko": "대체육이 환경·건강·윤리 복합 수요를 흡수하며 미래 식탁의 실질적 대안으로 자리를 굳혀가고 있다는 분석이 나온다. 국내 시장에서도 관련 제품 라인업 확장 여부가 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "2e9eff8e-f306-4df6-9a19-b0b122cf8eaf",
+        "title_ko": "올리브영×산리오, K-로컬 IP 전략화",
+        "summary_ko": "올리브영이 산리오캐릭터즈와 두 번째 대규모 컬래버레이션을 진행한다. 이번에는 캐릭터들이 한국 도시를 누비는 'K-로컬' 감성 비주얼을 직접 개발해, 글로벌 IP를 한국 고유 감성으로 재해석하는 전략적 시도가 돋보인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7e9d229a-58c4-47bf-abb6-b62ac07659be",
+        "title_ko": "F/W 뷰티 기준, '덜어냄'으로 이동",
+        "summary_ko": "2026년 가을·겨울 뷰티 시장의 핵심 키워드는 '정밀한 회복'이다. 화려한 연출보다 피부·모발의 실질적 건강 회복에 초점이 맞춰지며, 성분 정밀도와 지속 가능성이 제품 선택의 우선 기준으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "96a89d26-b989-4d87-9812-716c791fcec0",
+        "title_ko": "스킨1004, 피부 고민별 맞춤 크림 출시",
+        "summary_ko": "스킨1004가 원료 주의 철학을 앞세운 '랩인네이처' 크림 2종을 선보였다. 아줄렌 펩타이드 복합 성분으로 진정과 밀도 케어를 동시에 겨냥하며, 개인 맞춤형 스킨케어 수요에 직접 대응하는 제품 설계가 특징이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5516f255-de7d-48db-a664-f7c262cf00aa",
+        "title_ko": "2026 실내 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어 트렌드로 자연 소재·기능성 수납·정서적 안정감을 주는 공간 구성이 꾸준히 언급되고 있다. 팬데믹 이후 정착된 '집의 재발견' 흐름이 여전히 소비 선택을 이끌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "38ae5e5d-88ad-438d-9159-b083e1a990da",
+        "title_ko": "인테리어 트렌드, 개성·지속성 양축",
+        "summary_ko": "2026년 인테리어 디자인 방향으로 개인 취향 표현과 오래 쓸 수 있는 소재 선택이 동시에 부각되고 있다. 획일적 스타일에서 벗어나 '자기다운 공간'을 추구하는 소비 심리가 관련 시장을 견인 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "013f54c9-4907-457c-8cca-4907b983ef94",
+        "title_ko": "셀프 인테리어 붐, 개성 공간 수요 폭발",
+        "summary_ko": "DIY 인테리어에 대한 관심이 높아지며 관련 자재·가구·소품 시장이 동반 성장하고 있다. 비용 절감 동기로 시작했지만 '나만의 공간' 정체성 표현 욕구로 확장되는 양상이 뚜렷하다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4004132e-14e5-4ad1-8193-7acd78c465fd",
+        "title_ko": "Z세대, 파티 문화도 무알콜로",
+        "summary_ko": "스페인을 비롯한 유럽 Z세대 사이에서 알콜 소비가 줄고 무알콜 음료가 파티 문화의 주류로 자리잡는 추세가 확인된다. 건강·자기관리 의식이 소비 전반을 재편하는 흐름의 연장선으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5d281805-db91-4bf3-88df-76e3f47a48ca",
+        "title_ko": "중국 신1선 도시 Z세대 소비 지형도",
+        "summary_ko": "청두·항저우·충칭이 'Z세대 친화 도시' 상위권을 차지하며, 쿠폰·할인을 적극 활용하는 '신영수 청년' 집단이 부상한 것으로 나타났다. 가성비와 경험 소비를 동시에 추구하는 소비 이중성이 핵심이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터 전반을 관통하는 흐름은 '덜어내고 정밀하게'다. 뷰티에서는 과잉 성분 대신 회복 중심 처방이 기준이 되고, 식품에서는 대체육·비건이 윤리적 선택의 정밀화로 이어지며, 인테리어에서는 유행 추종보다 개인 취향의 정확한 구현이 소비를 움직인다. Z세대가 술 대신 무알콜을 선택하고 쿠폰을 적극 활용하는 행동 역시 같은 맥락이다. '더 많이'가 아닌 '더 맞게'를 원하는 소비 감각이 카테고리 경계를 넘어 동시 다발로 확산되고 있다.",
+  "cards_meta": {
+    "9da455e2-34c9-4c66-9e31-34fb28e78240": {
+      "category": "식음료",
+      "source_name": "GN-ZH [식음료] 食品 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Feks2c1FOSm1VNUVSUWM5dXJEX0dWYVUzVm9SNVVqQVhSX0N4ckhMeU9xclNlWTYwSXlNWXl6SG5VeVVSYV84cGxtTGVzamc1ZGJhWnZhT25pZjhQM2wxekxrY3lPdDhJc2s2bjF4M1hHdjVXWDNMOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "期待更多“国民餐饮顶流”（“十五五”消费新图鉴⑤） - 新浪财经",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "16ccf00a-cc71-45da-9e42-6a948081288c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "eed32c5f-d551-43a2-b436-cb77e79415e4": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2e9eff8e-f306-4df6-9a19-b0b122cf8eaf": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HbHlKUjE5Yl85YzV0b19WUmZFbWhqZDUwcXBnZjdJcnhpdXFqOFowTWdTUURaNDY4ejE1aVI3ampYWU5kb25Zb1RLaVB6RkRDeUNDc21PODRxMDh0Um13SkZUWXpxYlZtZ3JVMG1TOUxlZ3pJVk5F?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, ‘산리오캐릭터즈’ 대규모 컬래버 진행 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7e9d229a-58c4-47bf-abb6-b62ac07659be": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311280",
+      "original_headline": "[2026 F/W 뷰티 트렌드 전망③] \"정밀한 회복의 시대\"",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "96a89d26-b989-4d87-9812-716c791fcec0": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QVNVUkt1WmNFeEJSa2VudHYwanlzTzFWX2JRdzNzdEM2czdZb1hoUXhnMGg5YkRCZzE5ajV0eXF4OXI0MU9kdGZLUGp5dHZCWUVMNEpEd0s5TVctLVBpanhWc3I4RkFhUHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스킨1004, 개인 맞춤 케어 ‘랩인네이처’ 크림 출시 - 의학신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5516f255-de7d-48db-a664-f7c262cf00aa": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "38ae5e5d-88ad-438d-9159-b083e1a990da": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tYVpERTd3SWUtbEI1cm0yeWE4ZWJlTFlRdG1nTVRRemVCa2Y4U0pkdnVrN2VfQmltcnpsclpURTlmcjR2Rng3YnlXSktqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026 인테리어 디자인 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "013f54c9-4907-457c-8cca-4907b983ef94": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4004132e-14e5-4ad1-8193-7acd78c465fd": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d281805-db91-4bf3-88df-76e3f47a48ca": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFBkSWZYSkVYdjZSS1BJX0VhRy1fNE1ZYlJiMl9xeDIzUUV0TUhzaVljUWs1N2NYRncyNDAzczNSV1luLU9vZDE2MUU5YXFyMm1PY2ttLUVieGlsY2gtMjU4TFN0d3NBNEF1YlI3U0tSOElOWElrNnA4WkJITms2Q1FnV3hoYlczSlR5UA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "新一线城市Z世代消费趋势报告：成都、杭州、重庆获得“Z世代友好城市榜”前三名，“新领券青年”群体兴起 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
