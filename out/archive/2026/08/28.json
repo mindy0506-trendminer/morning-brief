@@ -1,0 +1,188 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 아동 스킨케어로 차세대 수출 성장 카테고리 확장 가시화",
+    "Z세대, 무알콜·다채로운 소비로 기존 음주·획일 소비 문화 대체 가속",
+    "불꽃축제 호텔 바가지 논란, 이벤트 연계 숙박 가격 관행에 소비자 반발 재점화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "6792add1-c6dc-40f1-bbef-ac80571eb3a2",
+        "title_ko": "AI로 맛을 설계하는 시대",
+        "summary_ko": "AI 기반 향미 설계와 대체육을 주제로 한 신간이 식품업계 안팎의 주목을 받고 있다. 원료 혁신을 넘어 '맛의 알고리즘화'가 식품산업의 다음 경쟁 축으로 떠오르는 흐름을 반영한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6454e917-f4f8-4c12-9494-b91962d95a84",
+        "title_ko": "중국, 국민 외식 브랜드 육성 드라이브",
+        "summary_ko": "중국 관영 매체가 '십오오' 소비 계획의 일환으로 대중적 외식 브랜드의 육성을 주문하고 나섰다. 정책 드라이브가 내수 소비 진작과 맞물려 현지 외식 체인의 규모화를 가속할 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d86acb50-b0f5-4352-98bc-0bcd06bf2376",
+        "title_ko": "바디판타지, 산리오 IP로 1020 공략",
+        "summary_ko": "바디판타지가 올리브영과 산리오캐릭터즈 콜라보 캠페인에 합류해 캐릭터별 향기를 매칭한 한정 바디미스트를 선보였다. 캐릭터 IP를 향기 경험과 결합하는 방식이 1020 소비자 접점 확대의 유효한 공식으로 자리잡는 모양새다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3f58385e-40b9-40f5-9a0a-8c71be78bac9",
+        "title_ko": "K-뷰티, 아동 스킨케어로 영역 확장",
+        "summary_ko": "K-뷰티의 글로벌 확장이 스킨케어·메이크업·헤어케어를 넘어 아동 개인위생 카테고리로 번지고 있다. 수출 데이터가 아직 초기 단계임을 가리키지만, 성분 신뢰도와 한국산 브랜드 선호가 맞물려 빠른 성장 궤도가 예상된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5e966ee8-51ec-4c80-94a4-31cf32d5ac51",
+        "title_ko": "F/W 뷰티, 유행보다 지속성 우선",
+        "summary_ko": "2026년 가을·겨울 뷰티 시장의 핵심 키워드로 '본질과 지속성(Authentic Longevity)'이 제시됐다. 스킨케어·메이크업·웰니스의 경계가 허물어지면서 트렌드 추종보다 피부 건강 자체를 경쟁력으로 보는 소비자 인식 변화가 배경이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "3520f1d8-aa8f-482a-b0e9-fd539c095b25",
+        "title_ko": "불꽃축제 앞에 또 터진 숙박 바가지",
+        "summary_ko": "세계불꽃축제를 앞두고 여의도 일대 호텔 1박 요금이 200만 원대까지 치솟으며 소비자 불만이 재점화됐다. 이벤트 연계 숙박 가격 급등은 매년 반복되는 구조적 문제로, 대안 숙소 탐색 행동과 숙박 플랫폼 논쟁을 동시에 키우고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f6d1a44-cbde-4aa1-b957-1b4b1eb4ea9e",
+        "title_ko": "영덕에 2,400억 관광호텔 신규 조성",
+        "summary_ko": "영덕군이 메르센트리조트와 병곡리 일원에 2,400억 원 규모의 관광호텔 개발 협약을 체결했다. 수도권 집중에서 벗어나 동해안 지역 프리미엄 숙박 인프라를 확충하려는 지방자치단체의 움직임이 본격화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "fb0b6a81-adab-4b1e-bf93-b125871a131f",
+        "title_ko": "잊힌 구독료, 지출 누수 주범 부상",
+        "summary_ko": "인지하지 못한 채 빠져나가는 구독 서비스 비용이 소비자 가계 누수의 핵심 요인으로 지목됐다. 구독 피로감이 확산되면서 정기 지출을 한눈에 관리하는 도구와 서비스에 대한 수요가 높아지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7af76a39-ce60-4ae5-b62f-0e34618880e1",
+        "title_ko": "Z세대, 파티에서 알콜 대신 무알콜 선택",
+        "summary_ko": "스페인 등 유럽에서 Z세대의 주류 소비가 뚜렷하게 줄고 무알콜 음료가 파티 주류로 자리 잡고 있다. 건강과 자기 통제를 중시하는 가치관이 음주 문화 자체를 재정의하는 신호로 해석된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f05db7e4-86e7-4912-a97a-89db27b43d5b",
+        "title_ko": "Z세대 소비, 다원화·자유화 진행형",
+        "summary_ko": "중국 Z세대의 소비 패턴이 단일한 트렌드 추종 대신 개인 취향 기반의 다양화로 이동하고 있다. 획일적 마케팅 공식이 통하지 않는 세대가 주력 소비층으로 부상하면서 브랜드의 세분화 전략 필요성이 커지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '가치 재정의'다. 뷰티에서는 유행 추종 대신 지속 가능한 피부 건강이, 소비트렌드에서는 음주·획일 소비 대신 무알콜·다원화가 새 기준으로 자리 잡고 있다. 식음료에서는 AI가 향미 설계의 언어 자체를 바꾸고 있고, 리세일과 비건은 각각 유통과 식생활의 정의를 확장하고 있다. 소비자들이 '무엇을 살 것인가'보다 '어떤 소비가 나다운가'를 먼저 묻는 시대로 전환이 빨라지고 있으며, 이 흐름에 올라타지 못한 브랜드는 가격과 채널 모두에서 압박을 받는 구조가 심화될 것이다.",
+  "cards_meta": {
+    "6792add1-c6dc-40f1-bbef-ac80571eb3a2": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XLUVLZGFXZkxfdHNkRkoxckEtSF9wWkE4QlBGOEVrTC12b2FXSnF0Z1A1TXNRMHJpdk9URlBrS1lkYWJ0M1BscDBseW9ZNlhFZEI2VlFLU2E2SzZmWUg4SGpCV21ER0JZTWJkYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[신간] AI 향미 설계부터 대체육까지…식품산업 미래 여는 ‘미각 해킹’ - 식품저널 foodnews",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6454e917-f4f8-4c12-9494-b91962d95a84": {
+      "category": "식음료",
+      "source_name": "GN-ZH [식음료] 食品 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUEJud2xUaWM3VVNzRVQxNUNyOWltTUlaWmwxa0tfQmFtdFlTUkhRWTB0LVNvc3Q3S3hvWGppUGFvSFRPNUtDWC04dFVpYjlxbTc2b2xDeTdLcVh5ZVdLaVg1d1Y2M09Za1RWTGRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "期待更多“国民餐饮顶流”（“十五五”消费新图鉴⑤） - 人民网健康",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "d86acb50-b0f5-4352-98bc-0bcd06bf2376": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99650",
+      "original_headline": "바디판타지, 올리브영X산리오 IP 캠페인 참여",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3f58385e-40b9-40f5-9a0a-8c71be78bac9": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311130",
+      "original_headline": "The Next Frontier for K-Beauty? Children's Skincare Is Emerging as a Fast-Growing Opportunity",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5e966ee8-51ec-4c80-94a4-31cf32d5ac51": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311281",
+      "original_headline": "[2026 F/W 뷰티 트렌드 전망④] \"유행보다 지속 가능한 아름다움\"",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3520f1d8-aa8f-482a-b0e9-fd539c095b25": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOZjFidjdGaHR1UGp4bFFzSGVWRGg2d3NicEFPNUZPVjIzMkNGbW1mOXFJVUZSOENJc3RsdlpEQ0J1Z3EtZG1vOUExWFBBOVplRnpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "여의도 호텔 1박에 200만원?…세계불꽃축제 '바가지' 또 기승 - 네이트",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f6d1a44-cbde-4aa1-b957-1b4b1eb4ea9e": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQkxCNE1rNXdhaU5TQlpHdlRfWmxXcm4tTlRoNi1aWGZjQ3Juak5KTFRsc25GWHhQaWlIMXM4R2t5cU1qVG8xZWozZjJPTkc5ZmxmVUV2XzlWbklGSTBpWTUyZ1RjWXlaZlkzUTM4NF9WQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "영덕군, 메르센트리조트와 2,400억 관광호텔 개발 협약 - 웹이코노미",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fb0b6a81-adab-4b1e-bf93-b125871a131f": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "7af76a39-ce60-4ae5-b62f-0e34618880e1": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "f05db7e4-86e7-4912-a97a-89db27b43d5b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHZYYkRwazQ1THJDdlBKRjBUMkVtT2pLN0F2VjE3QWFQMEJaWFVLNUVpS1ZMdjhLYTNqbmhWNkF2TUtDcTV4bmstdGpVSm5zYUhLWDZ0YkljTW1LbjBQcWw0Z3Uzb01SN2QtTlVMaXVYSUhvaHo4Y1Z2NU9wVERmMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代消费多元而自由 - 新华网",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
