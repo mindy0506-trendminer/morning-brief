@@ -1,0 +1,172 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: '코어 뷰티' 부상과 K-뷰티 비건 브랜드의 글로벌 1000만 돌파로 본질 중심 재편 가속",
+    "라이프스타일: 불꽃축제 시즌 호텔 가격 600만 원까지 치솟아, 이벤트 연동 수요 극대화 구도 확인",
+    "소비트렌드: Z세대 무알콜 선호가 글로벌 동시 확산, 음료 시장 구조 변화 신호 본격화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "19f51d41-a73a-4863-bb37-002e88396b50",
+        "title_ko": "청년 식품 창업 생태계 구축",
+        "summary_ko": "식품진흥원이 예비창업자 20인을 대상으로 2박 3일 창업캠프를 마쳤다. 비즈니스 모델 구체화부터 MVP 테스트까지 실전 중심으로 운영됐으며, 공공기관 주도의 식품 창업 저변 확대 노력이 하반기에도 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f0cc38c4-7bc5-4940-a6cf-731c355ac42c",
+        "title_ko": "중국 '국민 외식 브랜드' 육성론 부상",
+        "summary_ko": "중국 인민망·환구망이 동시에 '국민 외식 톱 브랜드'를 더 많이 육성해야 한다는 논조를 내보냈다. '15·5' 소비 계획 기간 중 외식 브랜드 경쟁력을 국가 소비 전략의 축으로 삼으려는 흐름으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "291c3684-2d9c-417c-9031-a313215450ad",
+        "title_ko": "F/W 키워드는 '코어 뷰티'",
+        "summary_ko": "2026년 가을·겨울 뷰티 시장의 핵심 키워드로 '코어 뷰티'가 지목됐다. 물가 상승과 트렌드 피로감이 겹치면서 화려한 연출보다 건강한 피부·모발 본연의 상태를 유지하는 방향으로 소비자 수요가 이동하고 있다는 분석이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6aeba255-b28f-482b-84cf-78c50a7b8636",
+        "title_ko": "토코보 선케어, 글로벌 1000만 돌파",
+        "summary_ko": "비건 코스메틱 브랜드 토코보가 선케어 누적 판매 1000만 개를 달성했다. 2022년 출시 후 약 3년 만의 성과로, 사용감과 패키지 경쟁력을 앞세운 인디 K-뷰티 브랜드의 글로벌 확장 가능성을 재확인시켰다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6eeb4c6a-859b-4076-8d22-76d6d311a530",
+        "title_ko": "코스맥스, 인도네시아 R&D 생태계 구축",
+        "summary_ko": "코스맥스가 인도네시아 파자자란대학교 약학대학 내 화장품학 학사과정 개설에 산업계 파트너로 참여한다. 생산 거점 확보를 넘어 현지 인재 육성과 산학협력까지 주도함으로써 아세안 시장에서 장기 기술 경쟁력을 선점하는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "84bc2e75-8c1e-4c42-a04b-475fa3c4dd93",
+        "title_ko": "럭셔리 호텔, 주소 혼동 소비자 경험 논란",
+        "summary_ko": "예약한 럭셔리 호텔을 45분간 찾지 못한 소비자 사례가 온라인에서 확산됐다. 도심 복합 건물 내 호텔 입점이 늘면서 안내 체계 미흡에 따른 고객 불편이 새로운 서비스 품질 이슈로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "182ef7b4-c23c-4e7e-ae1e-1e616c2385dd",
+        "title_ko": "불꽃축제 시즌 호텔 가격 급등",
+        "summary_ko": "여의도 불꽃축제 당일 호텔 객실가가 최고 600만 원까지 치솟았다. 이벤트 연동 수요 급증이 숙박 요금 구조 자체를 흔드는 사례로, 소비자 가격 체감 피로도가 커지면서 역반응 가능성도 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "9972fb09-0c19-43c1-bf46-63cca67d493b",
+        "title_ko": "Z세대, 파티 자리서 무알콜 선택",
+        "summary_ko": "스페인을 비롯한 유럽에서 Z세대의 알콜 소비가 뚜렷이 감소하고, 무알콜·저알콜(0.0%) 음료 수요가 그 자리를 채우고 있다. 단순한 건강 트렌드를 넘어 사교 문화 자체가 재편되는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ca8f2307-5c99-4adc-92ed-4856e996cabc",
+        "title_ko": "중국 Z세대 소비 파워 재조명",
+        "summary_ko": "중국 증권계 소비 리포트가 Z세대를 '거스를 수 없는 소비 물결'로 규정하며 해당 세대의 구매력과 선호 변화를 심층 분석했다. 동 세대가 국내외 소비재 브랜드 전략의 최우선 타깃으로 부상하는 흐름을 재확인시킨다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 공통 축은 '본질 회귀'와 '가격 양극화'의 동시 진행이다. 뷰티 시장에서는 코어 뷰티·비건 성분처럼 과잉 연출을 걷어낸 제품이 부상하고, Z세대는 음주 문화마저 무알콜로 재정의하고 있다. 반면 이벤트 연동 호텔 요금이 600만 원까지 치솟는 현상은 경험 소비 고관여 구간에서 가격 저항이 사라지는 이중 구도를 보여준다. 코스맥스의 인도네시아 산학협력과 토코보의 1000만 판매는 K-뷰티가 단기 수출에서 벗어나 현지 생태계 구축으로 전환하고 있음을 동시에 확인시킨다.",
+  "cards_meta": {
+    "19f51d41-a73a-4863-bb37-002e88396b50": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68437",
+      "original_headline": "식품진흥원, ‘2026 하반기 청년식품 창업캠프’성료",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f0cc38c4-7bc5-4940-a6cf-731c355ac42c": {
+      "category": "식음료",
+      "source_name": "GN-ZH [식음료] 食品 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUEJud2xUaWM3VVNzRVQxNUNyOWltTUlaWmwxa0tfQmFtdFlTUkhRWTB0LVNvc3Q3S3hvWGppUGFvSFRPNUtDWC04dFVpYjlxbTc2b2xDeTdLcVh5ZVdLaVg1d1Y2M09Za1RWTGRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "期待更多“国民餐饮顶流”（“十五五”消费新图鉴⑤） - 人民网健康",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "291c3684-2d9c-417c-9031-a313215450ad": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311282",
+      "original_headline": "[2026 F/W 뷰티 트렌드 전망⑤] '코어 뷰티'가 뜬다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6aeba255-b28f-482b-84cf-78c50a7b8636": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99649",
+      "original_headline": "토코보 선케어, 누적 판매 1,000만 개 돌파",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6eeb4c6a-859b-4076-8d22-76d6d311a530": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311359",
+      "original_headline": "코스맥스, 인도네시아 뷰티산업 고도화 추진",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "84bc2e75-8c1e-4c42-a04b-475fa3c4dd93": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOGtaaF93bmFJMkxSXy1JUHF4T2VfMFVFY3dzdTlFREFVWG1McnF1R2dFS25XM0h1bU95WGs5TWpxN19zS1lyNy1ldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"예약한 럭셔리 호텔 못 찾아 45분 동안 헤맸다\"…전혀 딴 곳 들어갔더니 \"거기 맞아요\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "182ef7b4-c23c-4e7e-ae1e-1e616c2385dd": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wNmVrQ3dyN25nUGZjV2YxMFA1RGVBUExnbmNHX2owQ1N5aTVyazExZmRJaE9FbG05d0pLejRxbk1odDcyREY1bHkzZy1TTHUwX0JyWkpwcFFYV05fZ3p0ONIBeEFVX3lxTE5SRS1aYjM4Wkk0OXJQV3c0bFVWQkU1LXEyU3laMFkwcXJ1Y3NpaWx1MXVyY0JpVGtiUEZZdzZWQ3NWbGdvVWV3UWVzZExHT0ZsTXVlUVNCZmtKbmtOVzlYenp5SV9YellpbnlBcmhJNFlwbXE5NTQzNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"불꽃축제 하루 보려고 600만원?\"…여의도 호텔값 '헉', 명당도 40만원 - 뉴시스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9972fb09-0c19-43c1-bf46-63cca67d493b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "ca8f2307-5c99-4adc-92ed-4856e996cabc": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
