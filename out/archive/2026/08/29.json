@@ -1,77 +1,83 @@
 {
   "schema_version": "v2",
   "exec_summary_ko": [
-    "뷰티: '코어 뷰티' 부상과 K-뷰티 비건 브랜드의 글로벌 1000만 돌파로 본질 중심 재편 가속",
-    "라이프스타일: 불꽃축제 시즌 호텔 가격 600만 원까지 치솟아, 이벤트 연동 수요 극대화 구도 확인",
-    "소비트렌드: Z세대 무알콜 선호가 글로벌 동시 확산, 음료 시장 구조 변화 신호 본격화"
+    "K뷰티 인디 브랜드, 200개사 서울 집결로 글로벌 경쟁력 과시 본격화",
+    "올리브영, 캐릭터 협업 한정판으로 컬러 메이크업 충성 구매 유도",
+    "구독 경제, 보험·일상 지출까지 침투하며 소비 구조 재편 가속"
   ],
   "sections": {
     "식음료": [
       {
-        "cluster_id": "19f51d41-a73a-4863-bb37-002e88396b50",
-        "title_ko": "청년 식품 창업 생태계 구축",
-        "summary_ko": "식품진흥원이 예비창업자 20인을 대상으로 2박 3일 창업캠프를 마쳤다. 비즈니스 모델 구체화부터 MVP 테스트까지 실전 중심으로 운영됐으며, 공공기관 주도의 식품 창업 저변 확대 노력이 하반기에도 이어지고 있다.",
-        "is_paywalled": false
-      },
-      {
-        "cluster_id": "f0cc38c4-7bc5-4940-a6cf-731c355ac42c",
-        "title_ko": "중국 '국민 외식 브랜드' 육성론 부상",
-        "summary_ko": "중국 인민망·환구망이 동시에 '국민 외식 톱 브랜드'를 더 많이 육성해야 한다는 논조를 내보냈다. '15·5' 소비 계획 기간 중 외식 브랜드 경쟁력을 국가 소비 전략의 축으로 삼으려는 흐름으로 읽힌다.",
+        "cluster_id": "0bc88fa5-6f6f-45eb-a0d8-9b4066bcc6f7",
+        "title_ko": "청년 식품 창업, 실전 캠프로 고도화",
+        "summary_ko": "식품진흥원이 예비창업자 20인을 대상으로 비즈니스 모델 구체화부터 MVP 테스트까지 2박 3일 집중 캠프를 마쳤다. 공공 지원이 아이디어 단계를 넘어 실질적 사업화 단계로 심화되고 있다는 점에서, 식품 분야 스타트업 생태계의 저변 확대 신호로 읽힌다.",
         "is_paywalled": false
       }
     ],
     "뷰티": [
       {
-        "cluster_id": "291c3684-2d9c-417c-9031-a313215450ad",
-        "title_ko": "F/W 키워드는 '코어 뷰티'",
-        "summary_ko": "2026년 가을·겨울 뷰티 시장의 핵심 키워드로 '코어 뷰티'가 지목됐다. 물가 상승과 트렌드 피로감이 겹치면서 화려한 연출보다 건강한 피부·모발 본연의 상태를 유지하는 방향으로 소비자 수요가 이동하고 있다는 분석이다.",
+        "cluster_id": "fab43832-9967-43d1-8131-bfc15199d819",
+        "title_ko": "K뷰티 인디 200개사, 서울 총집결",
+        "summary_ko": "K뷰티 성장의 새 축으로 부상한 인디 브랜드 200개사가 서울에 한자리에 모인다. 대형 로드숍 중심 구도에서 인디 브랜드 군집으로의 주도권 이동이 가시화되는 장면으로, 해외 바이어 접점 확대에도 직결될 전망이다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "6aeba255-b28f-482b-84cf-78c50a7b8636",
-        "title_ko": "토코보 선케어, 글로벌 1000만 돌파",
-        "summary_ko": "비건 코스메틱 브랜드 토코보가 선케어 누적 판매 1000만 개를 달성했다. 2022년 출시 후 약 3년 만의 성과로, 사용감과 패키지 경쟁력을 앞세운 인디 K-뷰티 브랜드의 글로벌 확장 가능성을 재확인시켰다.",
+        "cluster_id": "2b3ebc62-f5bb-4df0-8e69-60257b259b9a",
+        "title_ko": "토코보 선케어, 누적 1,000만 개 돌파",
+        "summary_ko": "비건 코스메틱 브랜드 토코보가 선케어 제품 누적 판매 1,000만 개를 달성했다. 2022년 출시 후 약 3년 만의 성과로, 보송한 마무리감과 감각적 패키지가 입소문을 타며 K뷰티 인디 브랜드의 글로벌 통용 공식을 다시 입증했다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "6eeb4c6a-859b-4076-8d22-76d6d311a530",
-        "title_ko": "코스맥스, 인도네시아 R&D 생태계 구축",
-        "summary_ko": "코스맥스가 인도네시아 파자자란대학교 약학대학 내 화장품학 학사과정 개설에 산업계 파트너로 참여한다. 생산 거점 확보를 넘어 현지 인재 육성과 산학협력까지 주도함으로써 아세안 시장에서 장기 기술 경쟁력을 선점하는 전략이다.",
+        "cluster_id": "371d524f-8ef0-48ce-be2d-48b14a9c7d63",
+        "title_ko": "올리브영 X 산리오, 한정판 메이크업",
+        "summary_ko": "컬러 메이크업 브랜드 투에이엔과 비비랩이 각각 산리오캐릭터즈와 협업한 한정 에디션을 올리브영 단독으로 출시한다. 캐릭터 지식재산권을 활용한 패키지 차별화가 올리브영 채널 내 단기 구매 유발의 정석으로 굳어지는 모습이다.",
         "is_paywalled": false
       }
     ],
     "라이프스타일": [
       {
-        "cluster_id": "84bc2e75-8c1e-4c42-a04b-475fa3c4dd93",
-        "title_ko": "럭셔리 호텔, 주소 혼동 소비자 경험 논란",
-        "summary_ko": "예약한 럭셔리 호텔을 45분간 찾지 못한 소비자 사례가 온라인에서 확산됐다. 도심 복합 건물 내 호텔 입점이 늘면서 안내 체계 미흡에 따른 고객 불편이 새로운 서비스 품질 이슈로 떠오르고 있다.",
+        "cluster_id": "199f7d15-42de-4253-a2bb-a660d965d24b",
+        "title_ko": "불꽃축제 호텔 요금, 당국 점검 착수",
+        "summary_ko": "세계불꽃축제 시즌을 앞두고 당국이 명당 호텔의 요금 급등 여부를 직접 점검하기로 했다. 이벤트 연계 숙박 가격 관리가 소비자 보호 의제로 부상하면서, 계절 수요 편승 요금 책정에 대한 규제 시선이 강해지고 있다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "182ef7b4-c23c-4e7e-ae1e-1e616c2385dd",
-        "title_ko": "불꽃축제 시즌 호텔 가격 급등",
-        "summary_ko": "여의도 불꽃축제 당일 호텔 객실가가 최고 600만 원까지 치솟았다. 이벤트 연동 수요 급증이 숙박 요금 구조 자체를 흔드는 사례로, 소비자 가격 체감 피로도가 커지면서 역반응 가능성도 주목된다.",
+        "cluster_id": "db8635f6-e8c6-499b-9784-31c183c5eb47",
+        "title_ko": "럭셔리 호텔, 기본 안내 서비스 도마 위",
+        "summary_ko": "예약한 럭셔리 호텔을 45분간 찾지 못한 소비자 사례가 주요 매체에 소개되며 화제가 됐다. 프리미엄 가격을 지불한 소비자의 기대 수준이 높아진 만큼, 물리적 접근성과 기초 안내 품질이 럭셔리 숙박 경험의 평판 리스크 요인으로 부각되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "506e950b-6ac7-4f40-9583-9ac8fe2b748e",
+        "title_ko": "자동차 업계도 비건 소재로 전환",
+        "summary_ko": "자동차 산업에서 동물성 가죽을 대체하는 비건 소재 적용이 확산되고 있다. 뷰티·식품에 국한됐던 비건 가치관이 내구 소비재까지 영역을 넓히며, 소재 선택이 브랜드 윤리 이미지와 직결되는 흐름이 자리잡고 있다.",
         "is_paywalled": false
       }
     ],
     "소비트렌드": [
       {
-        "cluster_id": "9972fb09-0c19-43c1-bf46-63cca67d493b",
-        "title_ko": "Z세대, 파티 자리서 무알콜 선택",
-        "summary_ko": "스페인을 비롯한 유럽에서 Z세대의 알콜 소비가 뚜렷이 감소하고, 무알콜·저알콜(0.0%) 음료 수요가 그 자리를 채우고 있다. 단순한 건강 트렌드를 넘어 사교 문화 자체가 재편되는 신호로 읽힌다.",
+        "cluster_id": "23376fc6-cf51-47bd-b375-58e17f45f3a3",
+        "title_ko": "중국 Z세대, 국풍 문화로 정체성 소비",
+        "summary_ko": "중국 Z세대가 한푸(漢服) 등 전통 문화를 현대적으로 재해석한 국풍 소비를 통해 문화적 자신감을 표출하고 있다. 단순 복고가 아닌 정체성 기반 소비로 진화한 이 흐름은 K뷰티·K콘텐츠와 경쟁하는 자국 브랜드 선호 심리와 맞닿아 있다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "ca8f2307-5c99-4adc-92ed-4856e996cabc",
-        "title_ko": "중국 Z세대 소비 파워 재조명",
-        "summary_ko": "중국 증권계 소비 리포트가 Z세대를 '거스를 수 없는 소비 물결'로 규정하며 해당 세대의 구매력과 선호 변화를 심층 분석했다. 동 세대가 국내외 소비재 브랜드 전략의 최우선 타깃으로 부상하는 흐름을 재확인시킨다.",
+        "cluster_id": "bb67d5c6-d12e-45b9-b126-1c1805771d3b",
+        "title_ko": "구독형 보험, 국내 시장 진입 예고",
+        "summary_ko": "필요할 때만 가입하고 해지하는 구독형 보험이 국내 보험 시장에 본격 도입될 것으로 전망된다. 월정액 모델에 익숙해진 소비자 행동이 금융 상품 설계까지 바꾸기 시작했다는 점에서 구독 경제 확장의 새 국면으로 볼 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5a535d42-65bc-4334-89a3-d331716539f3",
+        "title_ko": "잊혀진 구독료, 새는 가계 지출",
+        "summary_ko": "소비자가 인지하지 못한 채 지속 결제 중인 구독 서비스가 10가지 이상이라는 분석이 나왔다. 구독 피로감이 쌓이면서 '구독 감사(audit)' 수요가 늘고 있으며, 이는 역설적으로 구독 관리 앱·서비스의 신시장을 열고 있다.",
         "is_paywalled": false
       }
     ]
   },
-  "insight_box_ko": "오늘 클러스터를 관통하는 공통 축은 '본질 회귀'와 '가격 양극화'의 동시 진행이다. 뷰티 시장에서는 코어 뷰티·비건 성분처럼 과잉 연출을 걷어낸 제품이 부상하고, Z세대는 음주 문화마저 무알콜로 재정의하고 있다. 반면 이벤트 연동 호텔 요금이 600만 원까지 치솟는 현상은 경험 소비 고관여 구간에서 가격 저항이 사라지는 이중 구도를 보여준다. 코스맥스의 인도네시아 산학협력과 토코보의 1000만 판매는 K-뷰티가 단기 수출에서 벗어나 현지 생태계 구축으로 전환하고 있음을 동시에 확인시킨다.",
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '소비자 기대 수준의 정교화'다. K뷰티 인디 브랜드의 군집화, 토코보의 1,000만 개 돌파, 캐릭터 협업 한정판 모두 단일 제품력보다 브랜드 서사와 채널 전략의 정밀도가 성패를 가르고 있다. 숙박 시장에서는 프리미엄 가격에 걸맞은 기초 서비스 품질이 도마에 오르고, 구독 경제에서는 소비자가 스스로 지출을 감사하기 시작했다. 기업이 상품·서비스를 설계할 때 '기대 대비 실제 경험의 갭'을 좁히는 것이 곧 브랜드 신뢰의 핵심 변수로 부상하고 있다.",
   "cards_meta": {
-    "19f51d41-a73a-4863-bb37-002e88396b50": {
+    "0bc88fa5-6f6f-45eb-a0d8-9b4066bcc6f7": {
       "category": "식음료",
       "source_name": "식품외식경제",
       "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68437",
@@ -82,29 +88,19 @@
       ],
       "sceep_dimensions": []
     },
-    "f0cc38c4-7bc5-4940-a6cf-731c355ac42c": {
-      "category": "식음료",
-      "source_name": "GN-ZH [식음료] 食品 消费",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUEJud2xUaWM3VVNzRVQxNUNyOWltTUlaWmwxa0tfQmFtdFlTUkhRWTB0LVNvc3Q3S3hvWGppUGFvSFRPNUtDWC04dFVpYjlxbTc2b2xDeTdLcVh5ZVdLaVg1d1Y2M09Za1RWTGRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "期待更多“国民餐饮顶流”（“十五五”消费新图鉴⑤） - 人民网健康",
-      "languages": [
-        "zh",
-        "zh"
-      ],
-      "sceep_dimensions": []
-    },
-    "291c3684-2d9c-417c-9031-a313215450ad": {
+    "fab43832-9967-43d1-8131-bfc15199d819": {
       "category": "뷰티",
-      "source_name": "뷰티경제",
-      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311282",
-      "original_headline": "[2026 F/W 뷰티 트렌드 전망⑤] '코어 뷰티'가 뜬다",
+      "source_name": "GN-KO [뷰티] 인디 뷰티",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbzhjaDZlTDh2SnNmcUY2bWloX2p2bURtd1JYd1JtZnF0R1hGbFhhQldmdE1CcWJvLURTSTJDXzNtUWhDbThFU3ZIQUZaTk5POE82MXZIdUstMEtDekxmYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K뷰티 성장축 '인디 브랜드'…200개사 서울에 모인다 - 네이트",
       "languages": [
+        "ko",
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "6aeba255-b28f-482b-84cf-78c50a7b8636": {
+    "2b3ebc62-f5bb-4df0-8e69-60257b259b9a": {
       "category": "뷰티",
       "source_name": "장업신문",
       "source_url": "https://www.jangup.com/news/articleView.html?idxno=99649",
@@ -115,21 +111,32 @@
       ],
       "sceep_dimensions": []
     },
-    "6eeb4c6a-859b-4076-8d22-76d6d311a530": {
+    "371d524f-8ef0-48ce-be2d-48b14a9c7d63": {
       "category": "뷰티",
-      "source_name": "뷰티경제",
-      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311359",
-      "original_headline": "코스맥스, 인도네시아 뷰티산업 고도화 추진",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99647",
+      "original_headline": "투에이엔(2aN), 올리브영 한정 기획 산리오캐릭터즈 에디션",
       "languages": [
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "84bc2e75-8c1e-4c42-a04b-475fa3c4dd93": {
+    "199f7d15-42de-4253-a2bb-a660d965d24b": {
       "category": "라이프스타일",
       "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fOGtaaF93bmFJMkxSXy1JUHF4T2VfMFVFY3dzdTlFREFVWG1McnF1R2dFS25XM0h1bU95WGs5TWpxN19zS1lyNy1ldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1ZWpKUFE3UG8xTWFtbGRVR2ltVkNzRm5JYmtSZUtGNGVTSlhBbmhyN05LUlZOU2MwblFHSHJJVmJVekNIQlRDOGt2UXg0ZEhDLTg1NG9qY2tjLVZGOWhEa9IBYEFVX3lxTFB1ZWpKUFE3UG8xTWFtbGRVR2ltVkNzRm5JYmtSZUtGNGVTSlhBbmhyN05LUlZOU2MwblFHSHJJVmJVekNIQlRDOGt2UXg0ZEhDLTg1NG9qY2tjLVZGOWhEaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[시티&로컬] 세계불꽃축제 '명당 호텔' 점검…'바가지 요금' 없나 살핀다 外 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "db8635f6-e8c6-499b-9784-31c183c5eb47": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiaUZKTnRSbG8xNGdfQzdyY3NuWXVUYUZDdjZRcjNZVUZlYmQ2YnVwVGhmeko4ZDVkWmc3ckxTRHZ6QVdOOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "original_headline": "\"예약한 럭셔리 호텔 못 찾아 45분 동안 헤맸다\"…전혀 딴 곳 들어갔더니 \"거기 맞아요\" - v.daum.net",
       "languages": [
         "ko",
@@ -137,34 +144,44 @@
       ],
       "sceep_dimensions": []
     },
-    "182ef7b4-c23c-4e7e-ae1e-1e616c2385dd": {
+    "506e950b-6ac7-4f40-9583-9ac8fe2b748e": {
       "category": "라이프스타일",
-      "source_name": "Google News KR Hospitality",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wNmVrQ3dyN25nUGZjV2YxMFA1RGVBUExnbmNHX2owQ1N5aTVyazExZmRJaE9FbG05d0pLejRxbk1odDcyREY1bHkzZy1TTHUwX0JyWkpwcFFYV05fZ3p0ONIBeEFVX3lxTE5SRS1aYjM4Wkk0OXJQV3c0bFVWQkU1LXEyU3laMFkwcXJ1Y3NpaWx1MXVyY0JpVGtiUEZZdzZWQ3NWbGdvVWV3UWVzZExHT0ZsTXVlUVNCZmtKbmtOVzlYenp5SV9YellpbnlBcmhJNFlwbXE5NTQzNQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "\"불꽃축제 하루 보려고 600만원?\"…여의도 호텔값 '헉', 명당도 40만원 - 뉴시스",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - 디자인플러스",
       "languages": [
-        "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "9972fb09-0c19-43c1-bf46-63cca67d493b": {
+    "23376fc6-cf51-47bd-b375-58e17f45f3a3": {
       "category": "소비트렌드",
-      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
-      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
       "languages": [
-        "es"
+        "zh",
+        "zh"
       ],
       "sceep_dimensions": []
     },
-    "ca8f2307-5c99-4adc-92ed-4856e996cabc": {
+    "bb67d5c6-d12e-45b9-b126-1c1805771d3b": {
       "category": "소비트렌드",
-      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
       "languages": [
-        "zh"
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "5a535d42-65bc-4334-89a3-d331716539f3": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
       ],
       "sceep_dimensions": []
     }
