@@ -1,0 +1,239 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미주·국내 동시 공세로 브랜드 외연 확장 본격화",
+    "구독 경제의 그늘: 소비자 '잊혀진 지출' 문제가 글로벌 화두로 부상",
+    "셀프 인테리어·호텔 인프라 확대, 공간 소비 양극화 흐름 뚜렷"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "52bacef4-8558-440c-82b4-3f96136dc05c",
+        "title_ko": "비건, 다양성 렌즈로 재조명",
+        "summary_ko": "대학 매체가 한국 비건 문화를 다양성 존중의 잣대로 분석했다. 식단 선택을 개인 신념의 표현으로 보는 시각이 확산되면서, 비건 소비는 식품 카테고리를 넘어 사회적 태도 지표로 읽히기 시작했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0d2b02bf-6912-44aa-a372-77d8df294030",
+        "title_ko": "대체육, 미래 식탁의 현실 선택지",
+        "summary_ko": "대체육이 환경·건강 담론을 넘어 실제 소비 대안으로 자리를 굳혀가고 있다는 기고 분석이 나왔다. 식품 업계로서는 프리미엄화와 대중화 사이의 포지셔닝 전략이 관건이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "acb1bbdb-5f64-41a3-847f-3840dca92476",
+        "title_ko": "자동차에 번진 비건 트렌드",
+        "summary_ko": "비건 가치관이 식음료를 넘어 자동차 소재·내장재 영역으로 번지고 있다. 동물성 가죽 대신 대체 소재를 채택하는 브랜드가 늘면서, '비건'이 라이프스타일 전반의 구매 기준으로 확장되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "0e614450-29e0-4c09-a3c2-b5520d28b669",
+        "title_ko": "K-뷰티 140개사, 미주 시장 총공세",
+        "summary_ko": "중소기업중앙회 주도로 140여 개 한국 중소기업이 라스베이거스 ASD Market Week에 집결해 미주 소비재 시장을 공략했다. 뷰티·라이프스타일 품목 중심의 150여 부스 운영으로, K-뷰티의 중소 브랜드 해외 진출이 조직화·대형화하는 흐름이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "41702c68-2a6b-4e04-aca1-fdd653c111cf",
+        "title_ko": "K-뷰티킹 페스티벌 2026 개막",
+        "summary_ko": "한국메이크업전문가직업교류협회가 제19회 K-뷰티킹 메이크업 페스티벌 어워즈를 온·오프라인 동시 개최했다. 고용노동부·한국산업인력공단이 인정한 민간 기능경기대회로, 뷰티 기능 인력 발굴과 산업 위상 제고를 동시에 겨냥한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1bd1efff-0506-44b3-b3e2-448f23ec9771",
+        "title_ko": "화장품의 날, 정부가 K-뷰티 홍보 전면에",
+        "summary_ko": "식약처가 2년 차 법정기념일 '화장품의 날'(9월 7일)을 앞두고 SNS 이벤트를 통해 국민 참여형 홍보에 나섰다. 정부가 K-뷰티 성과를 공식 의제로 끌어올리며 제도적 지원 신호를 강화하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "82095508-84f4-4c03-88a2-60361a36f0df",
+        "title_ko": "현대백화점, K패션 유럽 진출 지원",
+        "summary_ko": "현대백화점이 한국콘텐츠진흥원과 손잡고 K패션 브랜드의 유럽 진출을 체계적으로 지원하기로 했다. 유통 대기업이 직접 해외 진출 창구 역할을 맡으면서 K패션의 글로벌 공략이 단순 전시 참가 수준을 넘어 구조화되는 단계에 진입했다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "f639a97e-abcd-4562-b966-a8e353a98880",
+        "title_ko": "영덕 관광호텔 150실, 동해안 거점 노린다",
+        "summary_ko": "경북 영덕군이 병곡면에 150실 규모 관광호텔 건립을 추진하며 북부권 관광 인프라 확충에 나선다. 지방 소도시의 숙박 공급 투자가 확대되는 흐름으로, 수도권 집중에서 벗어난 분산형 호캉스 수요 공략으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b95f9cbf-b784-4313-8f35-460ec86b9904",
+        "title_ko": "2026년 인테리어 트렌드 총정리",
+        "summary_ko": "브런치 미디어를 통해 정리된 2026년 실내 인테리어 최신 트렌드가 주목받고 있다. 개인 취향 중심의 공간 연출 수요가 높아지면서, 인테리어 콘텐츠 소비 자체가 구매 의사결정의 첫 단계로 자리잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "190d6096-d17c-4fc9-8dee-bcfe8c695509",
+        "title_ko": "셀프 인테리어 붐, 나만의 공간 욕구 반영",
+        "summary_ko": "전문 시공 없이 직접 꾸미는 셀프 인테리어 열풍이 지속되고 있다. 비용 절감 동기에서 시작된 트렌드가 개성 표현 수단으로 진화하며, 관련 자재·소품 소비 시장을 동시에 키우고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "1ab1d945-589d-402d-8fae-5fceb8b227b8",
+        "title_ko": "중국 Z세대, 한푸로 문화 자신감 표출",
+        "summary_ko": "중국 Z세대가 전통 복식 한푸를 일상 패션으로 재해석하며 '국조(國潮)' 소비 흐름을 주도하고 있다. 문화적 자긍심을 소비로 연결하는 이 흐름은 K-콘텐츠와 경쟁하는 중국 내수 문화 소비의 성장 신호이기도 하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1e139cf7-d982-4703-b1c4-36c4431d1066",
+        "title_ko": "구독형 보험, 금융 소비 지형 바꾸나",
+        "summary_ko": "국내 보험 시장에서 구독 방식의 가입·해지 모델이 현실화될 것이라는 전망이 제기됐다. 소비자의 유연성 선호가 보험 같은 장기 금융 상품에까지 침투하면서, 구독 경제의 영역이 콘텐츠·커머스를 넘어 금융으로 확장되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fb2521bf-7c06-4246-979e-e95cfbeafc95",
+        "title_ko": "잊혀진 구독료, 숨은 지출의 덫",
+        "summary_ko": "글로벌 미디어가 소비자가 인지하지 못한 채 지불 중인 구독 비용 10가지를 조명했다. 구독 경제의 편의성 이면에서 비자발적 지출이 누적되는 문제가 부각되며, 구독 피로와 해지 수요가 새로운 소비 반응으로 나타나고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '가치 기반 소비의 경계 확장'이다. 비건 철학이 식품을 넘어 자동차 소재까지, 중국 Z세대의 문화 자긍심이 복식 소비로, K-뷰티·K-패션이 중소 브랜드 단위로 해외 시장을 체계적으로 두드리고 있다. 동시에 구독 경제의 그늘인 '무의식 지출' 문제가 글로벌 소비자 의제로 부상하면서, 편의성에 대한 역풍이 본격화될 조짐이다. 브랜드 입장에서는 소비자의 가치 지향을 명확히 설계하는 동시에, 구독·멤버십 구조의 투명성을 높이는 것이 신뢰 경쟁의 핵심 변수가 될 것이다.",
+  "cards_meta": {
+    "52bacef4-8558-440c-82b4-3f96136dc05c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0d2b02bf-6912-44aa-a372-77d8df294030": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdE9oSnllUWdaYXExRWtFOThvV1ctd011amZja3hYRVV5MGtPblFua0RNeFZQYTkwUl91cWwwWXdkOHI0MGdWeFlHMmRfdFVkdWZfakhyLU5DbjQ5VW9SSU5nNTFERGY3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[기고] 대체육, 미래식탁의 새로운 선택지 - 충청타임즈",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "acb1bbdb-5f64-41a3-847f-3840dca92476": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - 디자인플러스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e614450-29e0-4c09-a3c2-b5520d28b669": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99614",
+      "original_headline": "140개 中企, 라스베이거스로 집결... 美소비재시장 공략",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "41702c68-2a6b-4e04-aca1-fdd653c111cf": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pMEs0anRNRTI4WDB4eTlQakRaZW1vb0RZQlkwVFRaNmJkdWgxUTB2cVdzdzVjVnVKSERQX1RUT0w2SWJ3c0RCLVJFcTRQQ2ZDQXNJMzhpYW80NTY4NHRiVWNLWThmbXE1Skk2UFRlaEZ1WGlFb0xN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘K-뷰티킹메이크업페스티벌어워즈 2026’ 개최 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1bd1efff-0506-44b3-b3e2-448f23ec9771": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99654",
+      "original_headline": "식약처, 9월 7일 ‘화장품의 날’ 기념 행사 실시",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82095508-84f4-4c03-88a2-60361a36f0df": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MT2JqSXRBejJwWUI5cFJIMFd3dTE2cDJzb2cxeUoyV1lLeTBEbWNacjc2UDN4YWhMa1Ezc0pEeDFBVWppOXRRbXpKcm1uNTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대백화점, 유럽까지…콘진원과 K패션 해외진출 지원 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f639a97e-abcd-4562-b966-a8e353a98880": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hejl3R1JTa3o0VTM0NDdkMGVSSzNxblAxNzRXV2t4OTlrUmlObWZMMlhmcTI5VG1DY1RGQlRwX18xUzJGeXJhNi1NMENBMVJYb0NHcFZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "영덕군, 병곡면에 150실 규모 관광호텔 건립 - 헤럴드경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b95f9cbf-b784-4313-8f35-460ec86b9904": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "190d6096-d17c-4fc9-8dee-bcfe8c695509": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1ab1d945-589d-402d-8fae-5fceb8b227b8": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDbEp4dGkybHo0MzBjRWxUYlZpZnBYd09vRkI1NHZvZDNZdWRRUWxJVkFGQURWcGlMdUVyR1Y1UVNXUHlobjJrUmFBcmpNVWxjd2tLZjktR3M3MW9jdUpYdWxBMW5Kdzhuc0N6UkN0T1lxd0dQNWZGdnhTcjhPMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信丨汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e139cf7-d982-4703-b1c4-36c4431d1066": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "fb2521bf-7c06-4246-979e-e95cfbeafc95": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
