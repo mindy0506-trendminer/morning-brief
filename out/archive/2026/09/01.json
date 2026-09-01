@@ -1,0 +1,176 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 성분 경쟁에서 사용감 차별화로 경쟁 축 이동 본격화",
+    "1인 여행·호텔 맞춤 서비스, 단일 트렌드에서 산업 구조 변화로 확대",
+    "인디뷰티 중소기업 화장품 수출 30%대 성장, 전용 B2B 플랫폼 구축 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "2173d0ad-38cd-4741-94f6-64c0a2b99cfd",
+        "title_ko": "쓰리핏 유산균, 코스트코 전점 입점",
+        "summary_ko": "CJ웰케어의 '바이오코어 쓰리핏 유산균 다이어트'가 코스트코 전 점포에 입점했다. 다이어트 기능성을 내세운 유산균 제품이 대형 창고형 유통망으로 진입한 것은 건기식 대중화 흐름의 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "dec1daf2-57e6-4705-b6e8-0502125a7364",
+        "title_ko": "인디뷰티 전용 B2B 플랫폼 내년 봄 개막",
+        "summary_ko": "2027 인디뷰티 서울이 내년 4월 코엑스마곡에서 열린다. 2026년 상반기 중소기업 화장품 수출이 전년 대비 30.7% 증가하며 수출 1위 품목에 오른 가운데, 이번 전시는 단순 쇼케이스를 넘어 인디 브랜드의 글로벌 바이어 연결 창구를 자처한다는 점이 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5854ab86-4050-46e3-ad9c-6e3ba832a90f",
+        "title_ko": "올리브영X산리오, 캐릭터 협업 한정판 출시",
+        "summary_ko": "라보에이치, 미쟝센, 한율이 올리브영과 산리오캐릭터즈 협업에 참여해 한정 기획상품을 선보였다. 캐릭터 IP를 활용한 굿즈 연계 판매가 헤어·스킨케어 카테고리로 확산되고 있으며, 올리브영이 협업 플랫폼 역할을 강화하는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e8ba816a-4467-41f2-9f77-6d728a98c0d7",
+        "title_ko": "K-뷰티, 성분보다 사용감 경쟁으로 전환",
+        "summary_ko": "히알루론산·세라마이드 등 주요 보습 성분이 시장 전반에 보편화되면서, 브랜드 경쟁력이 흡수력·발림성·텍스처 같은 실제 사용 경험 쪽으로 무게 중심을 옮기고 있다. 바이오더마는 '에어리 로션' 텍스처를 전면에 내세우며 이 전환을 선제적으로 포착했다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "c2356b26-9b23-4558-9915-56840e4d9b11",
+        "title_ko": "폐기물을 패션으로, 더티 패션 부상",
+        "summary_ko": "버려진 소재를 재가공해 새 제품을 만드는 '더티 패션' 현상이 글로벌 매체의 분석 대상으로 떠올랐다. 지속가능성 담론이 하이패션에서 일상 소비재로 내려오는 과정에서 리사이클 미학이 하나의 트렌드 코드로 자리잡는 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "1ebb503b-0ca3-49f5-82a3-83ba8ec60c2b",
+        "title_ko": "1인 맞춤 여행·호텔, 시장 구조 재편",
+        "summary_ko": "여행·숙박 업계가 1인 고객 전용 상품과 서비스를 본격적으로 확대하고 있다. 혼행이 일시적 유행을 넘어 지속 성장하는 수요층으로 인정받으면서, 객실 구성·가격 체계·부대 서비스 전반에 걸친 구조적 대응이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "1444d256-58cd-4ae1-b51c-041d05832084",
+        "title_ko": "Z세대, 전통 문화 소비로 정체성 표현",
+        "summary_ko": "중국 Z세대를 중심으로 한복·국풍(國潮) 등 전통 문화 콘텐츠 소비가 자기 정체성 표현의 수단으로 자리잡고 있다. 천 년의 문화유산을 현대 감각으로 재해석하는 이 흐름은 K-전통문화 콘텐츠의 해외 수용 가능성과도 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7ce22cc8-014d-4a3b-9e2a-04a516609674",
+        "title_ko": "구독형 보험, 국내 시장 진입 예고",
+        "summary_ko": "구독 경제 모델이 보험업으로 확산될 것이라는 전망이 나왔다. 소비자가 필요에 따라 구독·해지할 수 있는 유연한 보험 상품은 기존 장기 계약 중심 구조를 흔들 변수로 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a42d2d79-94d0-430e-8f8e-7eb430482715",
+        "title_ko": "잊힌 구독료, 지갑을 조용히 갉는다",
+        "summary_ko": "소비자가 인지하지 못한 채 지속 결제되는 구독 서비스가 가계 지출의 숨은 항목으로 부각되고 있다. 구독 피로감이 누적되면서 구독 관리·해지 수요도 새로운 서비스 시장을 열고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 흐름은 '보편화된 것의 재정의'다. 뷰티에서는 성분이 평준화되자 사용감이 새로운 경쟁 기준으로 올라섰고, 구독 시장에서는 편의성이 보편화되자 소비자가 비용 통제력을 되찾으려는 반작용이 나타나고 있다. 1인 여행·호캉스 역시 혼행이 보편화된 이후 서비스 세분화 단계로 진입한 사례다. 브랜드 전략의 시사점은 하나다. 진입 장벽이 낮아진 기능·채널에서 머물지 말고, 소비자가 실제로 체감하는 경험의 질을 다음 차별화 지점으로 삼아야 할 시점이다.",
+  "cards_meta": {
+    "2173d0ad-38cd-4741-94f6-64c0a2b99cfd": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjZjZfVjItSkYwa2pVRFlObzBfMzlRX0owX2p5SXpZYnhKSnYzX1diWGNPWlMxRHo2SUNiYlQyQkhZX01EQkpfNmdtZV9hUnNXTDdCMlB6bE9KS1RjdlZxS05DODVCTFBVdnZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ웰케어, ‘바이오코어 쓰리핏 유산균 다이어트’ - 한국의약통신",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dec1daf2-57e6-4705-b6e8-0502125a7364": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OMDQ1TVFsOGI3ZW16MHZpekwxcUZrblNaZFE0NWdCdXRzMS1xSTc1eDFsc0Z5aUVmYTNDR3RBbmttMGpRTkZ6VmFOYkMyV1JKVjY5SVdYMXV1clM4V0RR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"전시 넘어 성장으로\"…'2027 인디뷰티 서울', 내년 4월 코엑스마곡 개최 - beautynury.com",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5854ab86-4050-46e3-ad9c-6e3ba832a90f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99644",
+      "original_headline": "라보에이치∙미쟝센∙한율, 올리브영X산리오캐릭터즈 협업 기획상품",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e8ba816a-4467-41f2-9f77-6d728a98c0d7": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311340",
+      "original_headline": "화장품 성분보다 텍스처...바이오더마가 읽은 K뷰티 소비자 변화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c2356b26-9b23-4558-9915-56840e4d9b11": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQjFiN3VsOC0xc2E4cGJlLWItanJUcDc4blNaT0dLMXZIWk9ES0t0SEsyVWx3Ylg2ZHNkUXAtZ0d1bnN3VFNUbE1CMC1fdmh6Uk9UaFFMQWRhYVQwbEFMR1lldnhpNU01UzJHcTRiamtTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La basura de una persona es el tesoro de otra: analizamos el fenómeno de la moda sucia - vogue.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "1ebb503b-0ca3-49f5-82a3-83ba8ec60c2b": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GVXdMVUx6OHRUUDU2SHdnVEs5YV9MUFBqd1ZqeUV3anFvWUlXMngtbXlEaGk0NE0ydFpYWV93SXQyQVJtMTZ0Y19XdVVlZDBPM2YwWFNHMXkyZTVCQUV3b3doc0c3TE5jdFRFelNaZGF6YWtzbHJwTVRaZ9IBgAFBVV95cUxQQjdqZ0JmelF3UjVnUUNUMzRtaFl0NnZjQnBvRHZsQUZyY1l0VDJ0Q281WDBzbVptX3BwYnR5b0lWanp2TDJ1dUJvck9nUHR0bktacHlPRGVXSzNyWFpScGpJTzZGNWtaaXk5ZFFzbER3dmtxUWR4UWtmcU00RHk0OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "혼자 떠나고 혼자 머문다 … 여행·호텔도 ‘1인 맞춤’ 시대 - 뉴데일리",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1444d256-58cd-4ae1-b51c-041d05832084": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "7ce22cc8-014d-4a3b-9e2a-04a516609674": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "a42d2d79-94d0-430e-8f8e-7eb430482715": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
