@@ -1,0 +1,242 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영, 외국인 매출 1조 돌파·GS25 유통 확대로 K뷰티 구심점 역할 강화",
+    "LG전자-메리어트 스마트 호텔 동맹, 가전사의 공간 플랫폼 전환 본격화",
+    "K뷰티, 중국 시장 입지 약화 속 미국·유럽 중심 재편 흐름 가속"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "dccf3577-1fac-4622-9357-f41916317409",
+        "title_ko": "한국 비건 문화와 다양성 인식",
+        "summary_ko": "비건 식문화 확산이 단순한 식단 선택을 넘어 사회적 다양성 존중 담론과 맞닿아 있다는 시각이 부각되고 있다. 소비재 관점에서는 비건 친화 라인업 확대가 브랜드 포용성 지표로 작용할 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a21b2d51-7bae-450b-b5d3-988829d4869e",
+        "title_ko": "아시아 첫 비건 미쉐린, 시장 신호탄",
+        "summary_ko": "성시우 셰프의 레귬이 아시아 최초 미쉐린 스타 비건 레스토랑으로 선정됐다. 파인다이닝 영역에서 비건이 공식 권위를 획득한 것으로, 프리미엄 식물성 식품 시장의 상징적 전환점으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a7e57296-ddf5-417b-83e7-6f43bf933426",
+        "title_ko": "비비고 비건 김치, 호주 상륙",
+        "summary_ko": "CJ 비비고가 액젓을 제거하고 풍미를 유지한 비건 김치를 호주에 출시했다. 전통 발효 식품의 비건화는 K푸드의 글로벌 확장 공식에 새 경로를 더한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5f46d6d0-3e3a-4c13-812e-bc91f06bd9d5",
+        "title_ko": "K뷰티, 중국서 밀리고 서방서 뜬다",
+        "summary_ko": "8월 티몰 데이터 기준 중국 내 한국 뷰티 브랜드 점유율이 현지 브랜드에 밀려 축소되는 추세다. 반면 미국·유럽 시장에서의 확장은 지속되며, K뷰티의 지리적 무게 중심이 이동하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6b23d62c-8b12-487b-9ecf-8e2d9d4e1cb9",
+        "title_ko": "올리브영 기프트카드, GS25 전국 유통",
+        "summary_ko": "올리브영 기프트카드가 처음으로 외부 오프라인 채널인 전국 GS25 약 1만 8천 개 매장에서 판매된다. 자사 매장 밖으로 접점을 넓히는 이번 조치는 비올리브영 고객층 유입을 겨냥한 채널 전략으로 볼 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0dce008d-a3f2-46e5-b029-59b5c86d761e",
+        "title_ko": "외국인 매출 1조, 올리브영의 위상",
+        "summary_ko": "올리브영의 1~8월 외국인 매출이 1조 원을 돌파했다. K뷰티 관광 수요를 단일 채널이 흡수하는 구조가 굳어지며, 올리브영의 플랫폼 협상력은 한층 강화될 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "036148ba-52f1-477e-9c0a-f9804ec20812",
+        "title_ko": "K패션, 호주 팝업으로 현장 검증",
+        "summary_ko": "계명대 패션마케팅학과가 호주 시드니에서 K패션 팝업스토어를 운영하며 현지 시장 반응을 직접 타진하고 있다. 학계가 주도하는 소규모 해외 팝업이 K패션 브랜드의 시장 탐색 방식으로 자리잡는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "459643f6-f709-41b6-b394-12a3e376b5d1",
+        "title_ko": "LG전자-메리어트, 스마트 호텔 플랫폼",
+        "summary_ko": "LG전자가 메리어트와 손잡고 북미 40개 호텔에 스마트 호텔 통합 플랫폼을 도입한다. TV 공급사에서 공간 운영 플랫폼 사업자로의 전환을 선언한 것으로, 가전-호스피탈리티 경계가 허물어지는 신호탄이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9befe890-4a23-4a01-b8e6-a06384edf165",
+        "title_ko": "청주 엔포드호텔 카지노 소송 항소 기각",
+        "summary_ko": "청주 엔포드호텔이 외국인 전용 카지노 입점 불허 처분에 반발해 제기한 소송이 항소심에서도 기각됐다. 지방 호텔의 복합 리조트 전환 전략에 규제 장벽이 여전함을 확인한 사례다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f070447b-6575-4bf6-bf71-a12183767778",
+        "title_ko": "화이트 벗어난 따뜻한 톤 인테리어",
+        "summary_ko": "무채색 위주의 미니멀 인테리어에서 벗어나 베이지·테라코타 등 따뜻한 색조 중심의 홈 인테리어가 주목받고 있다. 팬데믹 이후 지속되는 집 중심 생활이 공간 감성 소비를 고도화하는 방향으로 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "f9ee9b8e-ad55-46cf-8605-63247aa5b7ee",
+        "title_ko": "보험도 구독형으로 재편 예고",
+        "summary_ko": "국내 보험업계에서 구독형 보험 모델 도입이 검토되고 있다. 소비자가 필요한 시기에만 보장을 켜고 끄는 방식으로, 구독 경제 논리가 전통 금융 상품 구조까지 파고드는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "23d55e7f-0e4d-4184-b01c-2b6fac74899e",
+        "title_ko": "잊혀진 구독료, 새는 지출의 사각지대",
+        "summary_ko": "소비자가 인식하지 못한 채 지출하는 구독 비용이 가계 지출의 숨은 누수 요인으로 지목되고 있다. 구독 서비스 포화 시대에 '구독 피로'와 비용 재검토 수요가 동반 상승하는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4636b98f-36b1-4a37-84c4-0dadd42ca647",
+        "title_ko": "Z세대가 바꾸는 커피 소비 문법",
+        "summary_ko": "Z세대가 커피 선택 기준과 소비 방식을 전통적 충성 고객과 다르게 재정의하고 있다. 브랜드로서는 기존 고객을 유지하면서 Z세대를 끌어안아야 하는 이중 전략의 부담이 커지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘의 흐름을 하나로 꿰면 '채널·공간·카테고리의 경계 해체'다. 올리브영은 GS25를 통해 자사 매장 밖으로 뻗고, LG전자는 가전을 넘어 호텔 공간 플랫폼으로 진입하며, 비비고는 전통 발효 식품을 비건 채널로 확장했다. K뷰티가 중국에서 밀리는 구조적 변화도 결국 새로운 지리적 채널을 찾아 나선 재편으로 읽힌다. 구독 피로와 Z세대 커피 문법의 변화가 겹치면서, 소비자 충성도를 당연시하던 기존 공식은 전 카테고리에서 동시에 도전받고 있다.",
+  "cards_meta": {
+    "dccf3577-1fac-4622-9357-f41916317409": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - snunews.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a21b2d51-7bae-450b-b5d3-988829d4869e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRENmRmtKajBBQXFuZnVJWlB1U1ZVQVB1MVA3emQwMTBDVTU1SkVNT3Z4UlNSWGFtV0R0Z3B1Y0VTWmdzMHZ4Qm4tT3pxaUhpQ3JHQ0tEYmZXYkUyeUQ1b2pwYmt6TlFSV0ZEeVJHMTNKaEFFNHF2MlU2bC16Ump1aExYM29yOG81TFhVekptQmdLdXJzZ1VKbnJ3enB3T29IbW9WcnVXcWFCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성시우 셰프의 레귬, 아시아 최초 미쉐린 스타 비건 레스토랑 - guide.michelin.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a7e57296-ddf5-417b-83e7-6f43bf933426": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5f46d6d0-3e3a-4c13-812e-bc91f06bd9d5": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311450",
+      "original_headline": "K-Beauty Faces Growing Pressure in China as Local Brands Tighten Their Grip",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6b23d62c-8b12-487b-9ecf-8e2d9d4e1cb9": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99680",
+      "original_headline": "‘올리브영 기프트카드’ 이제 전국 GS25서도 만난다",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0dce008d-a3f2-46e5-b029-59b5c86d761e": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1a3VKQ1VuMGhScGxMM1dhcTVYWERuMld5N0tiU2twTHNfZ1RjMTJBUEwzNGxaaUpRRlJua3AwT0M3Y0RDY2tiTlQtUUN6WEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "올리브영, K뷰티 쇼핑 성지 입증 올 1∼8월 ‘외국인 매출’ 1조 돌파 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "036148ba-52f1-477e-9c0a-f9804ec20812": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jU1dhN1lUMFliaThhakwzXzFKRTdtZ3BDT25mRGNwclpRMHRRLUw5RTVQV1U1WFg5UWJQaDk1eGlQNDQ5RXBESlM2X0pMa1I0R1hKc2hlaGtRS1ppNjBsWUxqVDM4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "계명대학교 패션마케팅학과. 호주 시드니에서 K-패션 팝업스토어 운영 - 데일리대구경북뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "459643f6-f709-41b6-b394-12a3e376b5d1": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UYXp2eGpzTDRyLWFQWmhOZDd1bXlFTEExbmMzT2RpN2xHcHB0NVA5QVcyaWxuXzNRdmI1Z3FpY2Z5a21GM0tJSnJVZS05SjIzZl82Umhjc0JaYmE5aVdjNXZrdTZNODZMYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[경제 단신] LG전자, 메리어트와 스마트 호텔 구축 외 - 네이트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9befe890-4a23-4a01-b8e6-a06384edf165": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGdXVxZG8xUUhGaW9SamxOLVg4anVDdHRJZld1OGZ3VXNWNG41dTFtY0djQngzb3JGNmNjNk9HZWRpci1TenVETnBrcENibUFWeDFTNnUtaWlyYTFaTk5OZGpQTW5KRjdMMVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "법원, 엔포드호텔 카지노 입점 소송 항소 기각 - 충청매일",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f070447b-6575-4bf6-bf71-a12183767778": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwOTJSd0lPUTRIcS1ONWM5WjlKU2RzYUJPUnRXV2MyR2R4SWNqVnVoc2d5Nk5wZUVhZjhXVDFzZ0dUUHpydFZQei12azduUlFEcmJ2SUE3eHlJZ9IBX0FVX3lxTE9EdDBCd0txYzNLX0FrRUhkdk9wVzJ2bXJSUXJ5Z2psZU9idWpaTUhKaWZZY0EwbjJ3dWo3QlJxMWl2MTFNUkRjaDFMTGJNSWp0cDJNQy10ZU5vS3FWT1Br?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "언제까지 화이트 인테리어만 고수할래? 따뜻하고 부드러운 ‘올해의 집’ - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f9ee9b8e-ad55-46cf-8605-63247aa5b7ee": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "23d55e7f-0e4d-4184-b01c-2b6fac74899e": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "4636b98f-36b1-4a37-84c4-0dadd42ca647": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzhPUHdJeGZtTlRlZFN0RjF4WkhsZk52LUMzWm81dzVKQm5HX0tOUnF1c2lhczBBQmxUaUdQRU1YVklVdm5jWXI3djhfNDlQTnFFYlNaRVpxcTRYeWF1RGhuak9WNDlkQlVva2YyZ05jR2tsOXRramc3bmFtMVc1RkZVVFllVnFhMG1HV2xPNnZpaldTNVhRMVZQVGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z está transformando el café, pero las marcas no pueden arriesgarse a perder clientes leales - perfectdailygrind.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
