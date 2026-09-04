@@ -1,0 +1,157 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 주가 조정 속 외국인 매수 확대, 중장기 수출 성장 기대 여전히 유효",
+    "패션 리세일 시장 주도권 경쟁 격화, 브랜드 직접 진출 본격화",
+    "건기식 이상사례 보고 체계 정비, 안전 관리 실효성 제고 흐름"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "1be6de04-65bc-482d-90c8-55d1778c29f1",
+        "title_ko": "건기식 안전 보고 체계 정비",
+        "summary_ko": "식품안전정보원이 건강기능식품 영업자와의 소통 채널을 강화해 이상사례 보고의 정확성과 실효성을 높이겠다고 밝혔다. 소비자 신뢰 기반이 되는 안전 관리 체계가 제도적으로 촘촘해지는 방향이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0adbd6b3-ac6e-43af-b6f0-3f53fd5d5323",
+        "title_ko": "비비고 비건 김치, 호주 공략",
+        "summary_ko": "CJ 비비고가 액젓을 빼고도 기존 풍미를 구현했다는 '비건 김치'를 호주에 출시했다. K-푸드의 글로벌 확장이 비건·할랄 시장 친화 제품군으로 넓어지는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "8fad6b75-d8b4-40d8-a76b-914def4ed9c5",
+        "title_ko": "주가 하락 속 외국인 K-뷰티 매수",
+        "summary_ko": "아모레퍼시픽·LG생활건강·코스맥스 등 주요 7개 종목이 9월 첫째 주 일제히 내렸지만, 외국인 투자자는 오히려 지분을 늘렸다. 단기 조정을 수출 성장 기대를 앞세운 저가 매수 기회로 보고 있다는 해석이 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d3220247-9e7b-48aa-acaf-d7bee353f723",
+        "title_ko": "K-뷰티 선크림, 중국 티몰서 선전",
+        "summary_ko": "2026년 8월 중국 티몰 한국관에서 기능성 선크림 상위 10개 제품 합산 판매량이 2만 500개를 넘어섰다. 뷰티 전반의 수요 둔화 속에서도 기능성 자외선 차단 카테고리만큼은 K-뷰티가 상대적 강세를 유지하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "d6055bdb-cac5-42f8-ad81-45ad0b7f2f75",
+        "title_ko": "브랜드, 리세일 시장 직접 진출",
+        "summary_ko": "패션 브랜드들이 중고 거래 플랫폼에 주도권을 빼앗기지 않으려 자체 리세일 채널 구축에 나서며 경쟁이 격화되고 있다. 스페인 중고 시장에서도 인기 브랜드 순위가 가시화되는 등 리세일이 글로벌 주류 채널로 자리잡는 추세다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "68440e0d-d5f4-48f2-a20a-33f552ef04df",
+        "title_ko": "제주 호텔 원하청 격차 해소 투자",
+        "summary_ko": "고용노동부가 제주 호텔·리조트업 원·하청 간 처우 격차를 줄이기 위해 12억 원 이상을 투입한다고 밝혔다. 관광 성수기 서비스 품질이 하청 노동 조건과 직결된다는 점에서 숙박업 소비 경험에도 영향이 예상된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "83dea0d7-ead8-4374-97c5-c8d4bd2ebac7",
+        "title_ko": "Z세대, 전통 복식 소비로 정체성 표현",
+        "summary_ko": "중국 Z세대 사이에서 한복·한푸 등 전통 복식이 국조(國潮) 문화 소비의 핵심으로 부상하고 있다. 단순한 복고 취향을 넘어 문화적 자긍심을 소비 행동으로 표현하는 방식으로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ae0cbac7-e157-4542-9262-c7eeec0029cd",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험업계에 월정액 방식의 구독형 보험 모델이 도입될 것으로 전망된다. 고정 지출에 민감해진 소비자 구조 속에서 구독 경제가 금융 서비스 영역으로 확장되는 신호다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 가로지르는 공통 축은 '소비자 신뢰 자산의 재정의'다. K-뷰티는 주가 조정에도 외국인이 매수를 늘리고, 중국 선크림 시장에서도 기능성으로 차별화하며 신뢰를 수익화하고 있다. 패션 리세일과 비건 김치는 각각 브랜드 진정성과 성분 투명성이 구매 동기가 되는 구조를 보여주고, 건기식 안전 관리 강화와 구독형 보험 등장은 소비자가 '지속 관계'에 기꺼이 대가를 지불하는 시대임을 확인시켜 준다. 신뢰를 선점한 브랜드·제도가 시장을 재편하는 흐름이 동시 다발로 진행 중이다.",
+  "cards_meta": {
+    "1be6de04-65bc-482d-90c8-55d1778c29f1": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9icWpVQ2ZlaWxmcWlGaU9DdXctVlN6QTBfRHIzekVLblAzWUZ1WFRqQ0FzbG9TSFJteHg0YWZWUzBDbjN6azh3amlxRHFiaV9FZjJRbkdrWVJfZnBOX2oyU3hSLTBTX0FqVkVKMg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식품안전정보원, 건강기능식품 영업자와 소통…이상사례 보고 정확성ㆍ실효성 제고 - 식품저널 foodnews",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0adbd6b3-ac6e-43af-b6f0-3f53fd5d5323": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8fad6b75-d8b4-40d8-a76b-914def4ed9c5": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311508",
+      "original_headline": "주간 주가로 읽는 K-뷰티: 주가는 내렸지만 외국인은 샀다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d3220247-9e7b-48aa-acaf-d7bee353f723": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311498",
+      "original_headline": "Functional K-Beauty Sunscreen Brands Gain Momentum on China's Tmall Korea Pavilion",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d6055bdb-cac5-42f8-ad81-45ad0b7f2f75": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZUM5SVM1dExpV1I2VFJzU0JGajJ6bmlXV29JR0RPR0ZUUmtWMk1EdzdienNjS0h0aDR3bWdYQi12ajU0UnRkZ2pybk8tcTZpNkMwYWx4X1I5VlhDdllKMjdiUTBDYXFQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "패션 브랜드도 ‘리세일 시장’ 군침…주도권 경쟁 격화 - ebn.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "68440e0d-d5f4-48f2-a20a-33f552ef04df": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTzBnVEEwSFZDMDBiVXUySWNxWmtWd05HNll4cThZX1NNeHhQYkw4eWVhUUJWLWwyZFN4eUhBSmtsZlpMRkhaRXk5N1o5VEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주 호텔·리조트 원·하청 격차 줄인다…12억2000만원 투입 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "83dea0d7-ead8-4374-97c5-c8d4bd2ebac7": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "ae0cbac7-e157-4542-9262-c7eeec0029cd": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pU1JJZmxMUXkxcURtY2FWT1FEQm5QajJCY1BxV01VQ2JPSkRWbnR4cVlqRGFKa2xmNDlmRTFFcEFQWEN4TGtGUnVkM0lmRnBraEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - mk.co.kr",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
