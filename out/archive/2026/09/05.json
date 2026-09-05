@@ -1,0 +1,171 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 주가 조정 속 외국인 매수 확대, 중장기 성장 기대 여전히 유효",
+    "Z세대, 무알콜·진정성 소비로 기성 시장 구도 흔들기 본격화",
+    "LG전자·메리어트 스마트 호텔 협업, 가전-숙박 경계 해체 신호"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "d3fcfd2a-b857-479f-ae5b-c1f146735ded",
+        "title_ko": "Z세대, 무알콜 음료로 이동",
+        "summary_ko": "Z세대를 중심으로 주류 소비가 줄고 무알콜·0.0% 음료가 파티 문화의 주류로 자리 잡고 있다. 음료 업계에는 저도주·무알콜 라인 확장 압력이 커지는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a49ed872-1929-4a65-ab35-02fb2e52e83c",
+        "title_ko": "비건 레스토랑, 미쉐린 별 첫 수상",
+        "summary_ko": "성시우 셰프의 레귬이 아시아 최초로 미쉐린 스타를 받은 비건 레스토랑이 됐다. 고급 외식 시장에서 비건이 '대안 식단'을 넘어 정통 미식으로 인정받는 전환점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "70284925-ec43-4d32-bedd-8fcc5ed5e07e",
+        "title_ko": "비비고 비건 김치, 호주 공략",
+        "summary_ko": "CJ 비비고가 액젓 없이도 본래 풍미를 구현한 비건 김치를 호주에 출시했다. K-푸드의 비건 버전이 현지화 전략의 핵심 카드로 부상하고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "28819bdc-2f8e-43b6-b39e-8fc393c71e32",
+        "title_ko": "주가 하락에도 외국인은 K-뷰티 매수",
+        "summary_ko": "아모레퍼시픽·LG생활건강 등 주요 7개 종목이 9월 첫째 주 일제히 하락했음에도 외국인 투자자들은 오히려 지분을 확대했다. 단기 조정을 중장기 수출 성장 기회로 보는 글로벌 자금의 시각이 반영된 결과로, K-뷰티 펀더멘털에 대한 신뢰가 유지되고 있다는 해석이 가능하다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a3de0934-ab20-4345-8c3b-72eeaef0103b",
+        "title_ko": "'더티 패션' 현상 해부",
+        "summary_ko": "한 사람의 쓰레기가 다른 사람의 보물이 되는 '더티 패션' 현상이 주목받고 있다. 중고·업사이클링 소비가 단순 절약을 넘어 개성 표현의 수단으로 격상되며 패스트패션 소비 구조를 압박하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "36c60061-e39d-4663-bc94-b23cc7bb4d79",
+        "title_ko": "민주주의 가치, 스트릿웨어로 재탄생",
+        "summary_ko": "스페인 민주주의 정신을 담은 스트릿웨어 컬렉션이 MZ 세대와의 접점을 노리며 출시됐다. 정치·역사적 서사를 패션 언어로 번역하는 시도가 브랜드 스토리텔링의 새 방식으로 자리 잡고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "5002026c-97a6-48aa-913d-1aa86a20d866",
+        "title_ko": "LG·메리어트, 스마트 호텔 동맹",
+        "summary_ko": "LG전자가 메리어트와 손잡고 차세대 스마트 호텔 구축에 나섰다. 가전 기술이 객실 경험 전반을 설계하는 방향으로 확장되며, 호텔 공간이 가전 플랫폼 경쟁의 새 전장으로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "38bdfd9f-c1e2-44d2-ab1c-ace7ce5be355",
+        "title_ko": "잊혀진 구독료, 소비자 반격 시작",
+        "summary_ko": "인지하지 못한 채 매달 빠져나가는 구독 비용이 소비자 관심사로 떠오르고 있다. 구독 서비스 피로감이 쌓이면서 해지·통합 수요가 늘고, 업계의 가격 투명성 압박도 커질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a5c2ac71-dd40-4409-8b00-424ea00e8f22",
+        "title_ko": "Z세대 소비 기준, 진정성으로 재편",
+        "summary_ko": "Z세대는 창의성·진정성·가치 일관성을 소비 선택의 핵심 기준으로 삼고 있다. 단순 가격 경쟁력이나 기능 우위만으로는 이 세대를 붙잡기 어렵다는 메시지로, 브랜드의 서사 전략 재검토가 필요하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '가치 기반 소비의 전방위 확산'이다. Z세대는 무알콜 음료·진정성 브랜드를 선택하고, 더티 패션으로 패스트패션을 우회하며, 구독 비용 재점검으로 지출 주도권을 되찾으려 한다. 동시에 K-뷰티에 대한 외국인 자금의 역행 매수, 레귬의 미쉐린 수상, LG·메리어트 협업은 '가치 있는 경험과 품질'에 프리미엄을 기꺼이 지불하는 양극화된 소비 지형을 보여준다. 가격 압박과 프리미엄 추구가 동시에 강화되는 이 구조 속에서, 브랜드의 서사와 진정성이 가격 이상의 변수로 작동하고 있다.",
+  "cards_meta": {
+    "d3fcfd2a-b857-479f-ae5b-c1f146735ded": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a49ed872-1929-4a65-ab35-02fb2e52e83c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRENmRmtKajBBQXFuZnVJWlB1U1ZVQVB1MVA3emQwMTBDVTU1SkVNT3Z4UlNSWGFtV0R0Z3B1Y0VTWmdzMHZ4Qm4tT3pxaUhpQ3JHQ0tEYmZXYkUyeUQ1b2pwYmt6TlFSV0ZEeVJHMTNKaEFFNHF2MlU2bC16Ump1aExYM29yOG81TFhVekptQmdLdXJzZ1VKbnJ3enB3T29IbW9WcnVXcWFCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성시우 셰프의 레귬, 아시아 최초 미쉐린 스타 비건 레스토랑 - guide.michelin.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "70284925-ec43-4d32-bedd-8fcc5ed5e07e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaX3g2bXoxR2dYT3ppQ3F6amh6c3lmT1RBLWRYV3A1Z0s2MWpvbUlMU3VzSFJXUTRiV0hrVkRFMTFTdFNRZTgtWHlSamNadnRwYlVQb1FTQ1pFMlZu?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ 비비고, '비건 김치' 호주 출시…\"액젓 없이 풍미 그대로\" - 더구루",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "28819bdc-2f8e-43b6-b39e-8fc393c71e32": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311509",
+      "original_headline": "Global Investors Increase Bets on K-Beauty Despite Market Correction",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a3de0934-ab20-4345-8c3b-72eeaef0103b": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQjFiN3VsOC0xc2E4cGJlLWItanJUcDc4blNaT0dLMXZIWk9ES0t0SEsyVWx3Ylg2ZHNkUXAtZ0d1bnN3VFNUbE1CMC1fdmh6Uk9UaFFMQWRhYVQwbEFMR1lldnhpNU01UzJHcTRiamtTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La basura de una persona es el tesoro de otra: analizamos el fenómeno de la moda sucia - vogue.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "36c60061-e39d-4663-bc94-b23cc7bb4d79": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZQTmFlMmxCZ1U5bnoyTVRXblRmOXQ2MENUZjFfamxoSzMyYy1VRkhJMjFIV0FpQ1dQaXJTUVFJQnFzRkNEOFRRODlVR0VmLVJ1Q2tyeXRTRDUtdjVxYTBaQWhScEdnSmwzdlpBODlZOGVPWEtrNXF6MTNaeFdkazJlZElkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La democracia española se convierte en una colección de streetwear para conectar con las nuevas generaciones - reasonwhy.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "5002026c-97a6-48aa-913d-1aa86a20d866": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85R3UzaTVuc1BMRkdZTjN5WXN1M3VKTHZqczdZeGJudnBqVkhNcFZmcVBiYVV5eEl2TGl2cHpOaUZWTC1VWlM2b0IyLVNQXzEz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LG전자, 메리어트와 손잡고 차세대 스마트 호텔 구축 外 - 톱데일리",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "38bdfd9f-c1e2-44d2-ab1c-ace7ce5be355": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "a5c2ac71-dd40-4409-8b00-424ea00e8f22": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlhRdy1ELTZlNFliT09VOWthNjVhT0tWNDBtcWw1QzlfdmhzOEpaM0pVUGNlbzZFU3ZQSWxXZ0pOb0FuLVA5cXBpLVN3dlFMX3dURlYzSXFUWGFnYXBXZUM3Y09MVDB1WUtqaXRVZDFQRGU2clB5RUpseWZUVXk5OEJTcVhZNXY0NzVFWXM2OXNFaUd1NDlzNkF3WWxnVXZMWnVpRHNyNnpzdERka1NrU2JFUHhFeWFrQTg2RUM1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z redefine el consumo: creatividad, autenticidad y coherencia como moneda de cambio - puromarketing.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
