@@ -1,0 +1,219 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영 세일 데이터, '홈스파·IP 컬래버'로 뷰티 취향 소비 세분화 본격화",
+    "화장품 지재권 허위표시 634건 적발, 온라인 채널 신뢰 구조 흔들릴 우려",
+    "Z세대, 2030년 전 세계 소비의 40% 담당 전망…커피·패션 등 전 카테고리 재편 예고"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3a0754ed-71ec-4eb6-a62b-1b3b17fe11f9",
+        "title_ko": "Z세대, 커피 시장 판도 바꾼다",
+        "summary_ko": "Z세대의 취향이 커피 소비 방식을 재정의하고 있다. 브랜드들은 기존 충성 고객 이탈 없이 Z세대를 흡수해야 하는 이중 과제를 안고 있으며, 제품 라인업과 마케팅 전략의 동시 조정이 불가피하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a9b04385-ecfb-4258-a846-14fa37e9e237",
+        "title_ko": "한국 비건 문화와 다양성 수용",
+        "summary_ko": "국내 비건 문화의 확산이 단순한 식이 선택을 넘어 다양성 존중의 사회적 척도로 논의되고 있다. 소비재 시장에서는 비건 전용 상품 라인 확대와 함께 포용적 브랜딩이 차별 요소로 부상 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9d6ac8b0-96ba-4833-8b4c-93808247ff33",
+        "title_ko": "아시아 첫 비건 미쉐린 스타 레스토랑",
+        "summary_ko": "성시우 셰프의 레귬이 아시아 최초 미쉐린 스타 비건 레스토랑으로 선정됐다. 비건 식문화가 고급 외식 시장에서도 주류 편입을 공식화한 이정표로, 국내 프리미엄 식품·외식 업계의 비건 포지셔닝 경쟁을 자극할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ac160987-0112-4d11-ae16-907819ebd4ef",
+        "title_ko": "올리브영 세일, 취향 세분화 확인",
+        "summary_ko": "9월 올영세일 구매 데이터에서 홈스파 전용 팩과 IP 컬래버 상품이 두드러졌다. 얼굴 중심 스킨케어에서 부위별 집중 관리로 수요가 분산되는 흐름이 수치로 확인됐으며, 취향 세분화가 세일 기간 매출 구조에도 실질적 영향을 미치고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "dbcee0bd-0ff5-41cd-b647-e90f9f49bd9f",
+        "title_ko": "화장품 특허 허위표시 634건 적발",
+        "summary_ko": "한국소비자원과 지식재산처가 온라인 판매 화장품을 합동 조사한 결과, 소멸 권리를 유효한 것처럼 표기한 사례 등 634건이 적발됐다. 전체의 98.7%가 특허권 허위표시로, '특허 성분' 강조가 구매 결정에 큰 영향을 미치는 뷰티 카테고리 특성상 소비자 신뢰 훼손이 우려된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d31a07c1-ff20-4fd9-8ae3-8ac62116a74e",
+        "title_ko": "추석 화장품 선물세트 경쟁 개막",
+        "summary_ko": "LG생활건강과 애경산업이 2026 추석 화장품·생활용품 선물세트를 잇달아 공개했다. 애경산업은 별도 쇼핑백 대신 일체형 패키지를 도입해 지류 사용을 줄이는 등 친환경 포장이 선물세트 설계의 새 기준으로 자리 잡는 모습이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "5a08c9cf-1dfc-4589-9ff6-7ddd3374c108",
+        "title_ko": "중고 패션, 빈티지 너머 주류로",
+        "summary_ko": "한 사람의 폐기물이 다른 사람의 보물이 되는 '더티 패션' 현상이 유럽 매체에서 본격 분석되고 있다. 중고 패션 시장의 성장이 단순 절약 소비를 넘어 개성·지속가능성 두 가지 가치를 동시에 충족하는 새로운 소비 문법으로 진화 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "ed972ecc-a896-40d9-8314-fd72822143b9",
+        "title_ko": "2026 인테리어, 새 기준 제시",
+        "summary_ko": "2026년 실내 인테리어 트렌드를 정리한 콘텐츠가 국내 플랫폼에서 꾸준히 소비되고 있다. 소재·색상·공간 활용 방식 전반에 걸친 방향 전환이 예고되며, 관련 소재·마감재 업계의 제품 전략 재정비를 촉구하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3f556b04-8796-4ce3-84c8-7a81257aedb3",
+        "title_ko": "인테리어 트렌드 2026 조망",
+        "summary_ko": "2026 인테리어 디자인 트렌드를 조망한 브런치 콘텐츠가 확산되며 소비자들의 셀프 인테리어 의사결정에 영향을 주고 있다. 미적 기준이 고급 시공에서 개인 취향 기반 DIY로 이동하는 흐름이 감지된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "10ff6136-2032-4d89-8d66-65614de4dfd5",
+        "title_ko": "무광 타일 코팅, 매트 트렌드 대응",
+        "summary_ko": "스트락스가 매트톤 인테리어 수요에 맞춰 포세린 타일 코팅제 무광 버전을 출시했다. 마감재 시장이 트렌드 변화에 빠르게 반응하는 소품종 다양화 경쟁으로 진입하고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "470c7f88-fbf7-4b21-a8e8-7438ea8647f6",
+        "title_ko": "잊혀진 구독료, 지갑 구멍 된다",
+        "summary_ko": "소비자들이 인지하지 못한 채 납부 중인 구독 서비스가 평균 10개 이상이라는 분석이 제기됐다. 구독 경제의 확산이 개인 지출 관리 피로와 맞물리며, 구독 해지·통합 관리 서비스에 대한 수요가 새로운 시장으로 부상할 가능성이 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "923fb3f4-a363-427a-8d4c-c1805d0e5b07",
+        "title_ko": "Z세대, 2030년 글로벌 소비 40% 장악",
+        "summary_ko": "Z세대가 2030년까지 전 세계 소비의 40% 이상을 담당할 것이라는 전망이 나왔다. 커피·패션·뷰티 등 전 카테고리에 걸쳐 Z세대 취향을 중심으로 제품·채널·커뮤니케이션 전략을 재설계해야 하는 시간표가 사실상 시작된 셈이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 '세분화'와 '신뢰'의 동시 부상이다. 올리브영 세일 데이터는 취향이 카테고리 내부에서 더 잘게 쪼개지고 있음을 실증했고, 화장품 지재권 허위표시 적발은 세분화된 선택 환경에서 정보 신뢰가 얼마나 취약한지를 드러냈다. Z세대의 소비 영향력 확대는 이 두 흐름을 가속할 변수다. 그들은 취향 세분화의 주체이자, 허위 정보에 가장 민감하게 반응하는 세대이기 때문이다. 브랜드 입장에서는 초세분화 상품 설계와 투명한 성분·인증 커뮤니케이션을 동시에 강화해야 하는 이중 압박이 본격화되고 있다.",
+  "cards_meta": {
+    "3a0754ed-71ec-4eb6-a62b-1b3b17fe11f9": {
+      "category": "식음료",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzhPUHdJeGZtTlRlZFN0RjF4WkhsZk52LUMzWm81dzVKQm5HX0tOUnF1c2lhczBBQmxUaUdQRU1YVklVdm5jWXI3djhfNDlQTnFFYlNaRVpxcTRYeWF1RGhuak9WNDlkQlVva2YyZ05jR2tsOXRramc3bmFtMVc1RkZVVFllVnFhMG1HV2xPNnZpaldTNVhRMVZQVGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z está transformando el café, pero las marcas no pueden arriesgarse a perder clientes leales - perfectdailygrind.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a9b04385-ecfb-4258-a846-14fa37e9e237": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9d6ac8b0-96ba-4833-8b4c-93808247ff33": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRENmRmtKajBBQXFuZnVJWlB1U1ZVQVB1MVA3emQwMTBDVTU1SkVNT3Z4UlNSWGFtV0R0Z3B1Y0VTWmdzMHZ4Qm4tT3pxaUhpQ3JHQ0tEYmZXYkUyeUQ1b2pwYmt6TlFSV0ZEeVJHMTNKaEFFNHF2MlU2bC16Ump1aExYM29yOG81TFhVekptQmdLdXJzZ1VKbnJ3enB3T29IbW9WcnVXcWFCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성시우 셰프의 레귬, 아시아 최초 미쉐린 스타 비건 레스토랑 - guide.michelin.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ac160987-0112-4d11-ae16-907819ebd4ef": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99753",
+      "original_headline": "CJ올리브영, 9월 올영세일서 ‘취향 소비’ 두드러져",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dbcee0bd-0ff5-41cd-b647-e90f9f49bd9f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kTmI4a0hwcXMwVDUzbEVXLUl2T2hwRjJVaGtLRXlBWHZKMnNnbEduTzlVRXplWldtR0R2d1ZXa0RIa3BDU0JPRmkyNHBlTms1WUhsczNDcFdyOXEwUnZCN1VWQS1ZcjZvWF9N?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "화장품, 지식재산권 허위표시 634건 적발 - knongnews.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d31a07c1-ff20-4fd9-8ae3-8ac62116a74e": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53UzFfZVREdmlwcTduTXc4UEhCZk96dUVXQnRjUFVFQzJJcUdjdDRydmpmemJXRmc2dGlOVFpZUjNURWtrUUFtZ2xTTVVncFdJUHpmTTloSllhMUI5bHRiNmRmQTBKOEpKZFVMNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "LG생활건강, 2026 추석 화장품 및 생활용품 선물세트 출시 - 미디어데일",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5a08c9cf-1dfc-4589-9ff6-7ddd3374c108": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] moda Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VQjFiN3VsOC0xc2E4cGJlLWItanJUcDc4blNaT0dLMXZIWk9ES0t0SEsyVWx3Ylg2ZHNkUXAtZ0d1bnN3VFNUbE1CMC1fdmh6Uk9UaFFMQWRhYVQwbEFMR1lldnhpNU01UzJHcTRiamtTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La basura de una persona es el tesoro de otra: analizamos el fenómeno de la moda sucia - vogue.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "ed972ecc-a896-40d9-8314-fd72822143b9": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3f556b04-8796-4ce3-84c8-7a81257aedb3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tYVpERTd3SWUtbEI1cm0yeWE4ZWJlTFlRdG1nTVRRemVCa2Y4U0pkdnVrN2VfQmltcnpsclpURTlmcjR2Rng3YnlXSktqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026 인테리어 디자인 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "10ff6136-2032-4d89-8d66-65614de4dfd5": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVndVOXRJS3g4elV1ZnV1QmhVVnN3Tjg5aGhvRnRyRTRzNHlzcThCTFVuWG9CUElsSWlmSWhFXzk5YjFtOVBHcno4anZkdTZWd1JsT3N3VkhOQjhTRkhOTE1LNEJoSWJl?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스트락스, 매트톤 인테리어 트렌드 반영 ‘포세린 타일 코팅제’ 무광 버전 출시 - 공감신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "470c7f88-fbf7-4b21-a8e8-7438ea8647f6": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "923fb3f4-a363-427a-8d4c-c1805d0e5b07": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1R6SXMxSUF6NG1XZXhwZWlqOGdMaGxxY3pSMnkzczhoYmhPZTQ1eEl3TDkybnpOaDBUVGM3bFlCNDVWUU5FdEpEY1lwaHgwN0ktYS12RkVOdjdNcFpaZFhMekI0czNLSkQteTQ4SmFNT2I0M3dNWS1IVFh2RUNUc1ppYml0UUJid09mM1BnQXFXZUZwTkFrUWFyQ3NwM19lVGp1aXFpell1bkpSczNDYk1oV0dvSXBvMGxsa25fUjBlRV9ZZEFQOVQyLVVEOVVFWUx5YjkyMzlNRERGZEtJR09acW9CQlJrbmFNbEQyLULSAfYBQVVfeXFMTXRnNk8wZ3lMLWxrRkVSbXJwbmlrY2pBRUlhLXpTZ2ZCRE5zdVhoRThQcHFBQXc3R3ItbnRFaFlUbmhpWEZYd0M0RXU3RWNsQmtkbmd4SnF2YmV3emQxOFh6N19LT1dCRWZFUHp2dDhXbnNJRFdjTjloUV9KTGh1WEY1dHR4U0U4VnlkNWp4NFExOUtnSTFBRFpYc2RjZ21yWWgtVVdlS3lTckVHaEszYVZfcTEtV3o2OVd6MzRZUUVxbENGczBBZDZVcDF4cXVzaGhPb0k2Qks4UnVIRElRMWRtbGprVkVNeENONkZPLWRLQVZzUmdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z será responsable de más del 40% del consumo mundial en 2030 - telemadrid.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
