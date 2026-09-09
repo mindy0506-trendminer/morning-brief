@@ -1,0 +1,212 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 2년 연속 수출 100억 달러 돌파하며 글로벌 위상 본격 확인",
+    "W컨셉, 뉴욕패션위크 맞춰 소호 팝업 개점—K-패션 해외 직접 공략 가속",
+    "Z세대가 2030년 세계 소비의 40% 이상 담당, 구독 비용 피로감도 동반 부상"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "2c987853-3dd6-4b33-97f5-b747cde3d19f",
+        "title_ko": "K-뷰티 수출 100억 달러 시대",
+        "summary_ko": "한국 화장품 산업이 2년 연속 연간 수출 100억 달러를 넘어섰고, 올 상반기에만 70억 달러를 기록했다. 식약처 주최 '화장품의 날' 기념식이 이를 공식화하며 정책·산업계 모두 수출 성장세에 확신을 더하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a9ab7689-9952-448b-aa3b-7c6293da692a",
+        "title_ko": "더마비, 산리오 한정판으로 올리브영 공략",
+        "summary_ko": "네오팜 더마비가 올리브영·산리오캐릭터즈 협업 캠페인에 참여해 '포차코' 디자인 바디케어 기획 제품을 선보인다. 81개 브랜드가 동시 참여하는 대규모 IP 협업 캠페인으로, 캐릭터 감성을 앞세운 한정판 전략이 올리브영 채널 내 차별화 수단으로 굳어지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "37963c61-ed92-4b45-b323-b53223b3cf71",
+        "title_ko": "올영세일, 취향 세분화가 구매를 이끈다",
+        "summary_ko": "9월 올영세일 구매 데이터에서 홈스파 제품과 IP 컬래버 상품이 두드러졌다. 팩 하나도 부위별로 따로 고르는 초세분화 소비가 일반화되고 있어, 브랜드 입장에서는 카테고리 확장보다 용도 특화가 더 유효한 전략으로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "061c884a-3040-4b0c-9c15-cf259e4f33ed",
+        "title_ko": "W컨셉, 뉴욕 소호서 K-패션 팝업",
+        "summary_ko": "W컨셉이 뉴욕패션위크에 맞춰 소호에 팝업 매장을 열고 K-패션 브랜드를 현지에 직접 소개한다. 패션위크 일정에 맞춘 팝업 전략은 현지 바이어와 미디어 노출을 동시에 노리는 방식으로, K-패션의 글로벌 진출 방식이 온라인 유통에서 오프라인 경험 마케팅으로 옮겨가고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3009f2e9-b8b9-4b25-afa0-665d6a776abd",
+        "title_ko": "한세실업-홍익대, K-패션 실무 인재 육성",
+        "summary_ko": "한세실업이 홍익대와 공동 운영하는 '넥스트 디자인 스쿨' 2학기가 개강했다. 제조 기반 대형 의류기업이 대학과 손잡고 실무형 디자인 인재 파이프라인을 직접 구축하는 방식으로, 산업계 주도의 K-패션 인재 생태계 형성이 본격화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "22edb336-30e4-4221-bb1e-c4242c5a2f35",
+        "title_ko": "쉐라톤 제주, 이달 중 공식 개장",
+        "summary_ko": "쉐라톤 제주 호텔이 9월 14일 그랜드 오프닝 행사를 개최한다. 글로벌 브랜드 호텔의 제주 진입으로 섬 내 고급 숙박 경쟁이 한층 치열해질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "16c967da-d8de-45c3-8675-6843d70a50c6",
+        "title_ko": "파르나스 양양, 강원 최고층 오션뷰 호텔",
+        "summary_ko": "파르나스가 39층 규모로 양양에 짓는 호텔이 12월 개관한다. 객실 90% 이상이 오션뷰로 설계돼 있어, 수도권 접근성과 자연 경관을 동시에 내세우는 프리미엄 국내 여행 수요를 정조준한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "73bdbf84-ebaa-4757-b3cc-9769423ccdd3",
+        "title_ko": "영동대로에 도심 숲·호텔 복합 개발",
+        "summary_ko": "서울시가 영동대로 일대에 도심 숲과 역삼 호텔을 결합한 비즈니스·관광·휴식 복합 거점을 조성한다. 도심 내 자연 요소를 호텔 개발과 연계하는 방식은 '도심 호캉스' 수요를 제도적으로 뒷받침하는 흐름으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "53729e24-85f4-44b5-81bb-5efeb070c9e3",
+        "title_ko": "구독료 누수, 소비자 피로 임계점",
+        "summary_ko": "인지하지 못한 채 결제되는 구독 비용이 10가지 이상에 달한다는 분석이 나왔다. 구독 경제의 외형 성장 이면에 소비자 피로와 이탈 리스크가 누적되고 있어, 구독 모델에 의존하는 소비재 브랜드에게는 가치 재증명 요구가 거세질 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f230df96-8af4-4e58-b7ba-1141e547e152",
+        "title_ko": "Z세대, 2030년 세계 소비 40% 주도",
+        "summary_ko": "Z세대가 2030년까지 전 세계 소비의 40% 이상을 담당할 것이라는 전망이 제시됐다. 이들의 구매력이 이미 시장을 재편하기 시작한 만큼, 브랜드의 Z세대 대응 전략이 선택이 아닌 생존 과제로 전환되는 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9e85dbdf-93eb-4b06-b6a3-266545d69983",
+        "title_ko": "Z세대 소비 동인: 가치와 경험",
+        "summary_ko": "Z세대의 소비를 움직이는 핵심 동인으로 가치 정렬, 진정성, 경험 중심 지출이 꼽혔다. 가격이나 기능보다 브랜드가 무엇을 지지하는지를 먼저 따지는 소비 태도는 마케팅 메시지와 제품 기획 모두에 구조적 변화를 요구한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑 전반을 관통하는 흐름은 'K-콘텐츠에서 K-소비재로'의 무게 이동이다. K-뷰티는 수출 수치로, W컨셉은 뉴욕 현장 팝업으로, 한세실업은 인재 생태계 구축으로 각각 다른 방식이지만 동일한 방향—해외 시장에서의 실체적 존재감 확보—을 향하고 있다. 동시에 국내에서는 올리브영 세일 데이터가 보여주듯 소비자 취향이 카테고리 단위가 아니라 용도·감성 단위로 쪼개지고 있다. Z세대 소비 비중 40% 전망과 구독 피로 누적은 이 초세분화 흐름에 구조적 근거를 더한다. 브랜드가 대응해야 할 과제는 단순한 글로벌화나 MZ 마케팅이 아니라, 세분화된 취향에 실제로 맞닿는 제품과 경험을 설계하는 역량이다.",
+  "cards_meta": {
+    "2c987853-3dd6-4b33-97f5-b747cde3d19f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99764",
+      "original_headline": "화장품의 날 '확신의 K-뷰티, 꽃을 피우다'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a9ab7689-9952-448b-aa3b-7c6293da692a": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99757",
+      "original_headline": "네오팜 더마비, 올리브영X산리오캐릭터즈 협업",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "37963c61-ed92-4b45-b323-b53223b3cf71": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99753",
+      "original_headline": "CJ올리브영, 9월 올영세일서 ‘취향 소비’ 두드러져",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "061c884a-3040-4b0c-9c15-cf259e4f33ed": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95aVdZWlBEdzZmeHFwdnNVQWJwZXREX1AwUURLY0t1WG9IUTdWOHNJTlBEaGc1VkFhaEozajMzYlVjYXU4RkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "美 뉴욕 상륙한 W컨셉…팝업 열고 K-패션 소개 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3009f2e9-b8b9-4b25-afa0-665d6a776abd": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05NzVNMFV0bU5IclQtamU3SXhyYUFtcGFvZ2JfbG16bVMzQ1ZSUl83ZFlITDN6Z0MzakVYMjI2Mlp6RUNlbTlXYjc0NVlraU84VjZxNGpxZjdzdEhIYkHSAWNBVV95cUxOTk5UUGtvM2NPUWJHclY1cFJaTk1aUW1vMjBuckFOQnpsajhEcTJDRTltbXJUaWY0X3pBNnp4Y3kyRl81MkJhSVFYZ0JNTUZxZ3J0aERkVDh0Mm1ZQW1LZ29yZ0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한세실업-홍익대 ‘넥스트 디자인 스쿨’ 2학기 개강···김익환 부회장 특강 “실무형 K-패션 인재 키운다” - 스포츠경향",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "22edb336-30e4-4221-bb1e-c4242c5a2f35": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zUUhVekk1bGZpazRaSWNPSklIQ2MwZ3RNMFMta09YRUpnWW9UaWhvVzUxUVJFODgxQTRndmtVOG9WQU85YnYzMS1ja2s1RFFMZEJhc0RYMXBrRUZ6VDJPWUxpNEF6SEVRbzgteFdYVjk3cEhua2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "쉐라톤 제주 호텔, 9월 14일 그랜드 오프닝 세리머니 개최 - 호텔앤레스토랑",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "16c967da-d8de-45c3-8675-6843d70a50c6": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wSW5zMDlnbUY4eXlPMmw3Y0ZuM0oxZnZjaXFxeEtvdktXQlJfZWF6bVBfSUl1TUVldXEwSlU3OW1PSGFKVTBKeTVYY2xDQURyUXlzV2FvbXNSQ2VnbG5WdUE1T3V4X1ZaakUxY0UwRzAwdjJiZmfSAWZBVV95cUxNa1M0SU4yWWxoaEY1Vngzd0sxeGwxN0VvZ0VWQlg2aVdCQmpxYjZRU1BudWlfRy1oUjBDLUhwRm9WSlVtSUpweWpLZ0MzMklfZzFOMXJPeDBILXdqM2NGWnkzU0J6N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "파르나스, 양양에 강원 최고층 호텔 12월 개관…39층·객실 90% 이상 오션뷰 - 동아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "73bdbf84-ebaa-4757-b3cc-9769423ccdd3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1meHRLVllCYUpYV2ZsNVg5SEN6RVFGTTh4WnhmNkw1czh4TG5RVDBIQjQ2NU40cjViWTR2c0YtQkxrRm5TT0dsXzRyUFk3RjlTUmtBVWt0dk42WXFDaWtHRnIybFFqV1NlcV9Lb0dYYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서울시, 영동대로 '도심 숲'·역삼 호텔… 비즈니스·관광·휴식 중심지 탄생 - 서울시티",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53729e24-85f4-44b5-81bb-5efeb070c9e3": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "f230df96-8af4-4e58-b7ba-1141e547e152": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1R6SXMxSUF6NG1XZXhwZWlqOGdMaGxxY3pSMnkzczhoYmhPZTQ1eEl3TDkybnpOaDBUVGM3bFlCNDVWUU5FdEpEY1lwaHgwN0ktYS12RkVOdjdNcFpaZFhMekI0czNLSkQteTQ4SmFNT2I0M3dNWS1IVFh2RUNUc1ppYml0UUJid09mM1BnQXFXZUZwTkFrUWFyQ3NwM19lVGp1aXFpell1bkpSczNDYk1oV0dvSXBvMGxsa25fUjBlRV9ZZEFQOVQyLVVEOVVFWUx5YjkyMzlNRERGZEtJR09acW9CQlJrbmFNbEQyLULSAfYBQVVfeXFMTXRnNk8wZ3lMLWxrRkVSbXJwbmlrY2pBRUlhLXpTZ2ZCRE5zdVhoRThQcHFBQXc3R3ItbnRFaFlUbmhpWEZYd0M0RXU3RWNsQmtkbmd4SnF2YmV3emQxOFh6N19LT1dCRWZFUHp2dDhXbnNJRFdjTjloUV9KTGh1WEY1dHR4U0U4VnlkNWp4NFExOUtnSTFBRFpYc2RjZ21yWWgtVVdlS3lTckVHaEszYVZfcTEtV3o2OVd6MzRZUUVxbENGczBBZDZVcDF4cXVzaGhPb0k2Qks4UnVIRElRMWRtbGprVkVNeENONkZPLWRLQVZzUmdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z será responsable de más del 40% del consumo mundial en 2030 - telemadrid.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "9e85dbdf-93eb-4b06-b6a3-266545d69983": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hmbWpHSU5JMEZpZXFELS10dG5GM29DeGVlcXoxNnM1dVFGMVBxaDhoZ1FETk9raWZhMi15UmU1czZFamNQMFUzSG90NFNhQzRSaDhDVkhkV3A1b0JlRkRYZnFVb0ktOFFRWGUwLTNlVHRPT01jUk5OSF9nYzdBcnNoQnRfSWtnYTRLckVJbGYzY1ZlcVh6WHdB0gGfAUFVX3lxTE5ncWNnLTdnMV8xR1lRckw3Y1NuM016UW1yYlVzTWpVTkNHeWFITkdnSmxOb0RiZkZoemRMdkFoZGc1b2VmMUNtSnE0Z1VlemlUU3Ytd0QxYnhCLW9ZMDVEWks5ckM3c21ZWWVlWW04RTJ6bVRmZ1FMUF9rdUltanlRNHRUcmc4UENleE9VbXVka0o2SmFCb3FxOFlJczVXRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué mueve a la generación Z en el consumo? - marketingdirecto.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
