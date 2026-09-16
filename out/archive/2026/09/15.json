@@ -1,0 +1,196 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 미국 오프라인 유통 진입 가속·국내선 올리브영 대항마 등장으로 구도 재편",
+    "롱제비티 뷰티, 글로벌·K·C뷰티 3파전으로 하반기 핵심 각축전 본격화",
+    "구독 지출 증가·소유 감각 상실 경보, 미국발 소비 피로가 글로벌 신호로 확산"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "56f67aaa-80d7-4e24-a4ed-4332d5740ece",
+        "title_ko": "비건·건기식, 브랜드 공신력 경쟁",
+        "summary_ko": "잇라피(비건 뷰티)와 뉴트리 디데이(건강기능식품)가 나란히 2026 대한민국 고객만족브랜드대상을 받았다. 소비자 신뢰를 수상 실적으로 가시화하려는 브랜드 간 공신력 경쟁이 심화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f327fdf-5225-4095-a36e-9f2df6875c72",
+        "title_ko": "편의점·무인점 3600곳 위생 집중 점검",
+        "summary_ko": "당국이 편의점과 무인판매점 3,600곳을 대상으로 조리식품까지 포함한 집중 위생 점검에 나섰다. 무인 채널 확장 속도에 비해 품질 관리 체계가 뒤처진다는 우려가 정책으로 구체화된 것으로, 운영 기준 강화가 불가피해 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "1b5d3c8e-b17f-4c1b-81f6-9d79a9b7c94d",
+        "title_ko": "롱제비티 뷰티, 3파전 개막",
+        "summary_ko": "글로벌 대형 뷰티사·K-뷰티·C뷰티가 각자 다른 과학적 근거를 내세우며 롱제비티 시장에 진입하고 있다. 미토콘드리아·NAD·후생유전학 등 접근법이 제각각이라 아직 시장 정의 자체가 유동적이며, 하반기 브랜드 간 메시지 차별화가 본격 경쟁 변수가 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2393bf73-e1a7-4efd-b0c4-1e4ac72e6dd4",
+        "title_ko": "K-뷰티, 미국 마트·국내 특화 매장 동시 공략",
+        "summary_ko": "아마존을 발판 삼은 K-뷰티 브랜드들이 미국 오프라인 마트 입점으로 채널을 확대하는 한편, 국내에서는 올리브영에 맞서는 K-뷰티 특화 매장이 잇따라 도전장을 내밀고 있다. 온·오프라인 양 전선에서 동시에 경쟁 구도가 재편되는 국면이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2bf38ae6-14a9-43b1-b986-13169dd97519",
+        "title_ko": "아이유 사복이 던진 럭셔리 논쟁",
+        "summary_ko": "아이유의 고가 사복 패션이 온라인에서 화제가 되며 '명품 착용이 곧 호감'이라는 공식에 대한 엇갈린 반응이 쏟아졌다. 셀럽 패션이 럭셔리 소비 욕구를 자극하면서도 동시에 피로감을 유발하는 이중 효과가 뚜렷해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "37ad3048-66b7-4222-a30f-8df09d383f1c",
+        "title_ko": "쉐라톤 제주, 전면 리모델링 후 재개관",
+        "summary_ko": "한국교직원공제회가 전면 리모델링을 완료한 쉐라톤 제주 호텔이 공식 개관했다. 제주 프리미엄 호텔 시장에 대형 브랜드 호텔이 새 단장을 마치고 복귀함으로써 호캉스 수요 경쟁이 한층 치열해질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8ab15dd8-4174-473b-8f0a-3c7bdee9932d",
+        "title_ko": "부산 송도, 바다여행 호텔 식음 결합 상품",
+        "summary_ko": "부산 송도 일대에서 호텔 식사와 해양 체험을 묶은 여행 상품이 주목받고 있다. 단순 숙박에서 식음료 경험과 로컬 관광을 결합한 패키지형 호캉스로 상품 구조가 진화하는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "2595580b-50bf-4cde-a0ae-c0075d523548",
+        "title_ko": "미국 소비자, 구독 지출 또 늘었다",
+        "summary_ko": "최신 보고서에 따르면 미국 소비자의 구독 서비스 지출이 재차 증가했다. 지출 규모보다 더 주목할 점은 소비자 스스로 지출 항목을 정확히 파악하지 못하는 '구독 맹점'이 확대되고 있다는 것이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a82cd4d6-3d65-4412-ab90-ff7f4535869d",
+        "title_ko": "잊고 있던 구독료 10가지",
+        "summary_ko": "소비자가 인지하지 못한 채 매달 빠져나가는 구독료 유형 10가지가 정리됐다. 구독 경제가 성숙할수록 비가시적 지출이 늘어나며, 이는 향후 구독 피로 해지(churn) 파동의 전조 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d5f6f7af-39b3-4d47-bca9-37dd42b7494b",
+        "title_ko": "'소유'에서 '접속'으로, 되돌릴 수 없나",
+        "summary_ko": "구독·렌탈·스트리밍 구조가 일상화되면서 소비자가 재화를 실질적으로 소유하지 않는 시대가 됐다는 진단이 나왔다. 소유 감각의 소멸은 단순한 결제 방식 변화를 넘어 브랜드 충성도와 자산 인식 자체를 바꾸는 구조적 전환이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 공통 축은 '소비자가 무엇을 얼마나 쓰는지 스스로 파악하기 어려워지는 구조'다. 구독 경제에서는 지출 항목이 비가시화되고, 롱제비티·비건 뷰티에서는 과학적 근거가 브랜드마다 달라 소비자 판단 기준이 흐려진다. K-뷰티의 오프라인 확장과 제주·부산 호텔 경쟁은 반대급부, 즉 '직접 경험으로 신뢰를 확인하려는' 소비 심리가 동시에 강해지고 있음을 시사한다. 불확실성이 높아질수록 브랜드의 투명성과 체험 접점이 결정적 차별 요소가 된다.",
+  "cards_meta": {
+    "56f67aaa-80d7-4e24-a4ed-4332d5740ece": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UUU0NzIwZG43bUphQUpSSTJUNlFFN01fTDlzUXo5TGxpUFRNaDdRcV85cU9QSHFmbnNlOHNWeDlfUUNWemJ6cU9ULWtOOGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[2026 대한민국 고객만족브랜드대상] 건강기능식품 브랜드, 뉴트리 디데이 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f327fdf-5225-4095-a36e-9f2df6875c72": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcXRaRkpKa2ZWRi1IaVdqNUdxQXh2N2EwZVRLYkFLQW1vQmxfeVczYlFlTjFPcFhQMEppdXo1SUZFaXlTQ1lLTlFpajBxcnUwZGZyclZEZUdsU3laeGEzLXR1YWdJbE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "편의점·무인판매점 3,600곳 집중 점검…조리식품도 검사 - 연합뉴스TV",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1b5d3c8e-b17f-4c1b-81f6-9d79a9b7c94d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311642",
+      "original_headline": "[롱제비티 뷰티 전쟁①] 글로벌 뷰티·K뷰티·C뷰티…롱제비티를 바라보는 세 가지 시선",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2393bf73-e1a7-4efd-b0c4-1e4ac72e6dd4": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uampsbkhfQzFCSVh6d3hPclMtcHdsT3pFMDBhbjdpRmpmcGNnOVlYYTZXRkcydUIxZi1RUDRBTHA3NUlyS0ZUZV9SRjN1Sjl6QjdTS1MwOXVnSWtOTGl3eWJYR3czU1RjV2ZYcTVKcmFmTkdmZUFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "아마존 찍고 미국 마트도 점령…K-뷰티, 숨은 강자 나온다 - wowtv.co.kr",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2bf38ae6-14a9-43b1-b986-13169dd97519": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBObGZJMEJmZHVwNm50MzhaZVo4MEdpZC1CT3FiS0ZfSGFxa2pNUUlRZTBFT2hhcUFsUEYzZFUyUEFTQVdRZUM4U1d2aVdlRDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "아이유, 충격의 사복 패션 어떻길래?…\"비싼 옷에 명품 백이긴 한데\" - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "37ad3048-66b7-4222-a30f-8df09d383f1c": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYzNsZVB3MHhRb1QyM29xbzlUcWVvV2JNMkNNYi00bzdiS3N0X0xSRm5wWXJHYndvRHBWMGxXYVdoTlRxekdMNEs5Y2ZFa3R0VkdSSFlSdjhNMTNQbHkwb0dJa1pPam11X3d0ZNIBcEFVX3lxTE8tZ1RLeVRGZ1JsTWtFZ2djUzBHQ0N2ZnVYQU9QemJVUHRZendSTEViclJQWUJ5TUNqNFhPSWRYQlRPaXZCaEVvQVlkWllqdVRFSTlFR0E5T29yU1BtRWFrU2RHRGdkY1JzN0xjOFZFOXA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국교직원공제회, '쉐라톤 제주 호텔' 전면 리모델링 마치고 그랜드 오프닝 - 내외뉴스통신",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ab15dd8-4174-473b-8f0a-3c7bdee9932d": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NX3RZRS1JMVFHVU5rV0RNbFpnWVhwRm50MzRWWm11cExMdW1KeHgzUnBTUHZ5ZEQ1Y3RyOVBuY2FXclI3cmZxOS1zS3ZCT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "부산 송도서 떠난 특별한 바다여행…호텔 식사 후원 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2595580b-50bf-4cde-a0ae-c0075d523548": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGxrajRNelZ2Tjc5UUlPUGxZR0hHWVUwUFlXX3N3VGpnXzlCTjhJcnZEOFNGX0VnXzNIWDhQU0haZlY5YldWQWhQQzJuTkdPZjFqUzMzX0hQSHU4M0FpZFVYNGNUbHA1aGI2ZWcxdjMtRFhYLVUyd1BPc3daUHA2bmxrbC1HQ3BFUUJpWWRGa3RCa2JHMWtTd0RzUkt1MVBBZVEzbXZjQdIBuwFBVV95cUxOZ0I4UmxrbTUxMEw0OXN5RnJkR3FLNXc0MUZ1dHU5cVdNeC1hNGNja2Jock1CVTJiTGhIckt5eXQwOHZTNVBDMDdYYjdNOXRTNEtlaEUyVC12SWQwQjdUOHVvTURMaTZ0U0ItVzJoUDBjUGlKWmlzMXRuQVhkcXJnNGRUem94eGIwRUJxM1V4YVppcHRzYWRLZlFHRFdELWxjcmRLZmVoeWpLbHNFc1FxcDU4OUdEVDBXN2xz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "U.S. shoppers spending even more on subscriptions, report finds - cleveland.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "a82cd4d6-3d65-4412-ab90-ff7f4535869d": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "d5f6f7af-39b3-4d47-bca9-37dd42b7494b": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
