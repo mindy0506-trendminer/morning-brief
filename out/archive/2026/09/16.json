@@ -1,0 +1,209 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영, 매장 체험 피부 진단을 앱으로 옮기며 옴니채널 뷰티 경쟁 선제 대응",
+    "무신사, 오사카 대형 팝업으로 K패션 70개 브랜드 일본 시장 집중 공략",
+    "구독 경제 피로감 확산 속 '소유 없는 소비' 구조 재점검 요구 커져"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c458da15-8244-4790-9e4d-9b2b8b3143d8",
+        "title_ko": "한국 비건 문화의 다양성 민낯",
+        "summary_ko": "대학신문이 한국 비건 문화를 통해 일상 속 다양성 존중 실태를 점검했다. 채식 선택권이 식당·급식 현장에서 얼마나 보장되는지 여전히 논란이며, 소비재 업계의 대응 속도도 함께 도마에 오른다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e2c54420-084b-4cf9-bb9c-06852d8cfdf8",
+        "title_ko": "아시아 첫 비건 미쉐린 스타",
+        "summary_ko": "성시우 셰프의 서울 레스토랑 레귬이 아시아 최초 미쉐린 스타 비건 레스토랑으로 선정됐다. 고급 외식 시장에서 비건이 '대안'이 아닌 '정점'으로 자리잡는 전환점으로 평가된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "8b28bd92-f280-40d8-ac47-55959c58016f",
+        "title_ko": "올리브영 피부 진단, 앱으로 확장",
+        "summary_ko": "올리브영이 매장 전용 기기 서비스 '스킨스캔'을 앱으로 구현한 모바일 피부 진단 서비스를 출시했다. 체험형 뷰티를 디지털로 연장해 매장 방문 빈도와 무관하게 구매 여정을 유지하려는 옴니채널 전략의 핵심 수로 꼽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "129de26d-b854-4a11-9712-dd300c72031d",
+        "title_ko": "K-뷰티 해외 진출 원데이 집중 세미나",
+        "summary_ko": "10월 2일 광주에서 열리는 '전남광주뷰티산업전'에서 K-뷰티 글로벌 진출 실전 세미나가 개최된다. AI 마케팅, 환경 규제 대응, 국가별 결제 등 해외 진입 장벽을 하루에 압축한 구성으로 중소 브랜드의 수출 채비를 돕는다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c66c5417-e8f7-4b76-84fd-c3cf14b615f3",
+        "title_ko": "비레디, 남성 커버로션 기능 고도화",
+        "summary_ko": "아모레퍼시픽의 남성 브랜드 비레디가 기존 3 in 1 커버로션에 파우더 기능을 더한 4 in 1 신제품을 선보였다. 남성 색조 시장을 스킨케어 연장선으로 자연스럽게 넓히는 전략이 유효함을 재확인하는 행보다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "4d4b3b52-a973-4cab-9ba0-34573f4c2902",
+        "title_ko": "무신사, 오사카서 K패션 대규모 팝업",
+        "summary_ko": "무신사가 일본 오사카에서 첫 대형 팝업을 열고 K패션 브랜드 70여 곳을 한자리에 집결시켰다. 단일 플랫폼이 일본 소비자에게 K패션 전체를 큐레이션하는 관문 역할을 자처하는 것으로, 현지 유통 주도권 선점 의도가 뚜렷하다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c2dd188b-c3a6-4843-9a0d-416a3570a5c3",
+        "title_ko": "영종구, 호텔 인재 지역 양성 본격화",
+        "summary_ko": "영종구가 제3기 호텔객실관리사 11명을 배출하며 지역 관광 인력 양성 체계를 이어가고 있다. 인천공항 인근 호텔 수요 증가에 대응하는 지역 밀착형 고용 모델로 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4bbef374-48ab-4637-801e-97665f9be541",
+        "title_ko": "패밀리 웰니스 호텔 브랜드 '더 감로' 출시",
+        "summary_ko": "지냄이 가족 단위 고객을 겨냥한 웰니스 호텔 브랜드 '더 감로'를 신규 론칭했다. 개인 중심이던 웰니스 숙박 시장이 가족 단위로 확장되는 신호로, 관련 소비재·서비스 연계 기회가 함께 열린다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "2b25e30e-f7a0-4eb5-b048-2984cc6215d9",
+        "title_ko": "육아 브랜드, MZ 부모 겨냥 전면 개편",
+        "summary_ko": "미국 아동복 대표 브랜드 Carter's가 2000년 이후 첫 브랜드 전면 쇄신을 단행했다. 새 로고와 소셜미디어 전략을 앞세워 Z세대·밀레니얼 부모의 자기 표현 욕구를 정면으로 공략하는 방향으로 마케팅 무게 중심을 이동했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5aba3ba5-a023-4a54-ae03-578774601340",
+        "title_ko": "잊고 있던 구독료, 지갑 속 유령 비용",
+        "summary_ko": "소비자가 인지하지 못한 채 납부하는 구독 서비스 비용이 10개 항목 이상에 달한다는 분석이 나왔다. 구독 피로가 누적되면서 소비자의 정기 지출 재검토 움직임이 소비재 업계 수익 구조에도 영향을 미칠 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "473380e2-8504-4dfc-b529-ca8c7b1144c5",
+        "title_ko": "소유 없는 소비, 시대 구조 재점검",
+        "summary_ko": "구독·임대·라이선스 기반 경제의 확산으로 소비자가 사실상 아무것도 소유하지 못하는 구조가 일상화됐다는 진단이 제기됐다. 소유권 개념의 약화는 브랜드 충성도와 제품 경험 설계 방식 전반을 다시 쓰게 만드는 변수다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '경험의 디지털 이전'과 '정체성 기반 소비'의 동시 가속이다. 올리브영의 모바일 피부 진단, 무신사의 오사카 팝업, Carter's의 브랜드 전면 개편은 모두 소비자의 자기 표현 욕구를 채널·장소·세대에 맞게 재설계하는 시도다. 반면 구독 경제 피로감과 '소유 없는 소비' 논쟁은 이 확장의 이면에 쌓이는 저항을 드러낸다. 브랜드가 경험과 접근성을 앞세울수록, 소비자는 통제권과 소유감에 더 민감해지는 역설을 함께 읽어야 한다.",
+  "cards_meta": {
+    "c458da15-8244-4790-9e4d-9b2b8b3143d8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbkJmR0kyN0Z5aWQtTDh0UzJVQ2JFTzIxNWtFbG84Yi1rNHpWM194SWQ4djV6cGhZSHhmM21rVW5uNUFpNkx3QlRoOThRSktjWHBfTUc5TzZ3RmhnNjFiUDY4RWFDb1nSAWtBVV95cUxPRWZMM0hFckNwSEMxSnBOQUxBazRjaWlxOVNTa05adm9lTjlKbnI1bm5hRjdsQ0ZmVUdDZ1IzRXdCOEtaNF9WWmVVbFRhbV9WRDRQVUNzVGhMOEpDZnJvSGdvRV96RGRmVHZGRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국의 비건 문화로 보는 다양성 존중 실태 - 대학신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e2c54420-084b-4cf9-bb9c-06852d8cfdf8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRENmRmtKajBBQXFuZnVJWlB1U1ZVQVB1MVA3emQwMTBDVTU1SkVNT3Z4UlNSWGFtV0R0Z3B1Y0VTWmdzMHZ4Qm4tT3pxaUhpQ3JHQ0tEYmZXYkUyeUQ1b2pwYmt6TlFSV0ZEeVJHMTNKaEFFNHF2MlU2bC16Ump1aExYM29yOG81TFhVekptQmdLdXJzZ1VKbnJ3enB3T29IbW9WcnVXcWFCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성시우 셰프의 레귬, 아시아 최초 미쉐린 스타 비건 레스토랑 - guide.michelin.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8b28bd92-f280-40d8-ac47-55959c58016f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99829",
+      "original_headline": "“매장 밖으로 나온 체험형 뷰티”",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "129de26d-b854-4a11-9712-dd300c72031d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99845",
+      "original_headline": "'K-뷰티 글로벌 패스트트랙' 세미나 열린다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c66c5417-e8f7-4b76-84fd-c3cf14b615f3": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99832",
+      "original_headline": "비레디, ‘트루 톤 커버로션 24H 롱웨어’",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4d4b3b52-a973-4cab-9ba0-34573f4c2902": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9icnk2dmNaSnFfRWExd0RrUDV0cllrSVE3RGhJYU1JUWhzczhsQ3ZHTHV4TjVPLWxORkVNV1R1aGV0Y0YwMHJkOFVYbVo1dUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "무신사, 오사카서 첫 대형 팝업…K패션 70여개 브랜드 집결 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c2dd188b-c3a6-4843-9a0d-416a3570a5c3": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05eDB0VVZFa2h3RFJzTHdidlREd3Z3VE0wQWFRVG41WjJySFVkMkNQUHFwTi1INGU5V2tuQmlhQ3Vzb29KZlVqVDdfdy1TU1hrT25lRXQwc3MxLXJUMDVGbWJ2M1hkbWdlYjR5cEloUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "영종구, ‘제3기 호텔객실관리사’ 11명 배출‥지역 관광 인재 키운다 - 미디어생활",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4bbef374-48ab-4637-801e-97665f9be541": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRjlfY2lyZDRrUTJ1T1pBNkRDbDF0RWpzM2ZRV3owVHRiS1pHZUNjemVDZy1RaG9Fb1JHNkN1YkxJVEhfa1RxTWsxLWlLVTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "지냄, 패밀리 웰니스 호텔 브랜드 ‘더 감로’ 신규 론칭 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2b25e30e-f7a0-4eb5-b048-2984cc6215d9": {
+      "category": "소비트렌드",
+      "source_name": "Retail Dive",
+      "source_url": "https://www.retaildive.com/news/carters-refreshing-brand-gen-z-millennial-parents/830443/",
+      "original_headline": "How Carter’s is refreshing its brand to reach Gen Z, millennial parents",
+      "languages": [
+        "en",
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "5aba3ba5-a023-4a54-ae03-578774601340": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "473380e2-8504-4dfc-b529-ca8c7b1144c5": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
