@@ -1,0 +1,175 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "추석 차례상 비용 조사: 가락몰이 대형마트 대비 21.6% 저렴, 명절 물가 부담 구체화",
+    "중국산 위조 화장품 온라인 유통 브로커 적발, 오픈마켓 정품 신뢰 흔들려",
+    "구독 경제 피로감 확산, 소비자 '소유 없는 지출' 구조 재점검 움직임"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "b0fc711d-58c1-466c-a96b-ba87b0ea5c58",
+        "title_ko": "추석 차례상 비용, 가락몰이 최저",
+        "summary_ko": "서울시농수산식품공사 조사 결과 2026년 추석 차례상 비용은 가락몰 기준 22만 8천 원으로, 대형마트보다 21.6%, 전통시장보다 7.0% 낮았다. 명절 물가 부담이 가시화되면서 유통 채널별 가격 격차가 소비자 선택에 직접 영향을 미치는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "cd56ecba-7db8-4ced-9c2d-3aaf60353b06",
+        "title_ko": "쏘이마루, 비건 시장 42억 베팅",
+        "summary_ko": "대체육 브랜드 쏘이마루가 춘천 이전과 함께 42억 원을 투자해 비건 시장 공략을 본격화한다. 국내 비건 식품 수요가 틈새를 넘어 주류 카테고리로 진입하는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "9ce8fea9-4ae8-492c-8704-5b4303aa5501",
+        "title_ko": "위조 화장품, 쿠팡·네이버 뚫었다",
+        "summary_ko": "식약처와 지식재산처가 중국 심천산 위조 화장품과 건강기능식품을 쿠팡·네이버 등 오픈마켓에서 정품으로 속여 판매한 브로커를 적발, 검찰에 송치했다. 국내 대형 플랫폼의 입점 상품 진위 검증 체계가 취약하다는 점이 재확인됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "67f8cf3f-5cde-4f78-9739-3a66aa72ebb8",
+        "title_ko": "미샤, 밀라노서 유럽 전략 공개",
+        "summary_ko": "에이블씨엔씨 신유정 대표가 밀라노 뷰티 위크 연사로 나서 K-뷰티 성장 배경과 유럽 시장 진출 전략을 제시했다. 유럽 뷰티 업계 관계자 400여 명이 참석한 자리에서 미샤를 K-뷰티 대표 브랜드로 포지셔닝하는 행보로, 글로벌 채널 다변화 의지가 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "11e5cc82-043e-4b2e-a26c-4e6ef5005df6",
+        "title_ko": "비레디, 남성 커버로션 4 in 1로 진화",
+        "summary_ko": "아모레퍼시픽의 남성 화장품 브랜드 비레디가 기존 3 in 1에 파우더 기능을 추가한 '트루 톤 커버로션 24H 롱웨어'를 출시했다. 간편함과 지속력을 동시에 요구하는 남성 소비자 니즈를 겨냥하며 남성 색조 시장의 카테고리 확장이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "4b65bda9-d9a6-4c11-8731-4a7b01cb0fc2",
+        "title_ko": "집 안에 호텔을, GS샵 리빙 확장",
+        "summary_ko": "GS샵이 '호텔 라이크 홈' 트렌드에 맞춰 금고·조명 등 프리미엄 리빙 상품군을 확대하고 있다. 호텔 감성을 일상 주거로 끌어들이려는 수요가 홈쇼핑 채널 상품 구성까지 재편하는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b843108e-5f70-4f1b-b7c5-d434b1e19fb9",
+        "title_ko": "잊혀진 구독료, 새는 지갑",
+        "summary_ko": "소비자가 인지하지 못한 채 납부 중인 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 피로가 누적되면서 지출 구조 점검과 해지 수요가 동시에 높아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4c8f470a-7c82-430c-8d8f-d60ec13027c9",
+        "title_ko": "'소유 없는 소비' 시대의 반론",
+        "summary_ko": "스트리밍·구독·렌탈로 대표되는 비소유 경제에 대한 소비자 피로감이 커지고 있다. '소유'의 가치를 재평가하는 역반응이 일부 카테고리에서 실물 구매 회귀로 이어질 가능성이 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "440f0d5e-5cd2-4b74-b4e8-c6160d151a8d",
+        "title_ko": "Z세대, 진정성 없으면 지갑 닫는다",
+        "summary_ko": "Z세대는 창의성·진정성·일관성을 소비 기준으로 삼으며 기존 마케팅 공식을 거부하고 있다는 분석이 나왔다. 브랜드 메시지와 실제 행동 사이의 괴리가 클수록 이탈 속도도 빨라지는 흐름이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '신뢰 비용의 상승'이다. 위조 화장품의 오픈마켓 침투는 플랫폼 정품 보증에 대한 소비자 불신을 키우고, 구독 경제 피로감은 '보이지 않는 지출'에 대한 경계심으로 이어진다. Z세대의 진정성 소비와 추석 물가 비교 구매 행동도 같은 맥락이다. 소비자는 가격보다 '내가 무엇에, 왜 돈을 쓰는가'를 더 따지기 시작했다. 브랜드와 유통 채널 모두 투명성과 검증 가능성을 핵심 경쟁력으로 재정의해야 할 시점이다.",
+  "cards_meta": {
+    "b0fc711d-58c1-466c-a96b-ba87b0ea5c58": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16Z1prRktJTGdKbTB3RlM0Ym5PLVZxZ2IzRkJWMlRfYTMxRHB0NldqUjBLQ2tVRFk3em43M3ptX2w1VktlSUNzX1ZDQWczQjdyUFNrbW82MVd2eTAtS0NlSVJlTdIBZ0FVX3lxTFBNQjBuSUdjOFRhb3JpT3UzY1p6Q0puVDJqcDF0SWVXcHR2VGVyVTV0S3BvaU1nYVlWdUthRkYtdk96WmRrc21nQ2hrTmd3M3J1bF9hTElFQUM2QmgtaEpZWTVuLW5HWGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서울시농수산식품공사, '2026년 추석 차례상 차림 비용' 조사 결과 발표 - 국민기자뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "cd56ecba-7db8-4ced-9c2d-3aaf60353b06": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjZ20yM0Z1VkFmUXpDV3RHbTZtVVJCX2hXd25zQ1dlZnJ5Yk93T1JxcTlmNWh6Y3djODQ3MEU2a0h0bjZBeF9MSzU1NFlqNFRZYnoxVHRCUlg3ZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“비건 시장 잡는다”…쏘이마루, 춘천 이전 ‘42억’ 투자 - 에너지경제신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9ce8fea9-4ae8-492c-8704-5b4303aa5501": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99868",
+      "original_headline": "식약처, 중국산 가짜 화장품 적발",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "67f8cf3f-5cde-4f78-9739-3a66aa72ebb8": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LS1lFYXhSMUw5QnVuSTVCaE9FZjV6RXI3MEJfZHQ4S2dJbEVfeTVaT3NzUUNpRUk3ampmMHo5LWkxSjNlVGNvZ19GN00wbEdpR0hpVUxOdWMtWHhLZG9sZ2RIcm5lMHdiellwTk9aTm43Z9IBdkFVX3lxTE84ajJiLVNPeUFGQldYUndEYmgtTERNQWVSeHBobnZTNFFjU1VlZ1c3WUY2RmV3eTBVRE9DWV9KR2ZPWVI2emxiVi0xOXN1LW9TeFh4LW5kWlJ6emhBTEUzV0hXajFQWUl6VnBpOWtSOFozcXg4WlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "신유정 에이블씨엔씨 대표, 밀라노 뷰티 위크서 미샤 성장 전략 밝혔다 - 포춘코리아",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "11e5cc82-043e-4b2e-a26c-4e6ef5005df6": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99832",
+      "original_headline": "비레디, ‘트루 톤 커버로션 24H 롱웨어’",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4b65bda9-d9a6-4c11-8731-4a7b01cb0fc2": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52VG54cmVPdGtiN2E3WTZiX3BhZkJ0MGdVT0IxMWpSMzJWVlVwZlpxVklXRlRLWURZb2NXRGlad3VFYjRLZW1scHpKOTBSd3U5eFBZNGkyd3FPTDg4ZDk3NjhJdm9tNGFkOHNv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "GS샵 '호텔 라이크 홈' 트렌드에 금고∙조명 등 프리미엄 리빙 상품 확대 - 마일드경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b843108e-5f70-4f1b-b7c5-d434b1e19fb9": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "4c8f470a-7c82-430c-8d8f-d60ec13027c9": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "440f0d5e-5cd2-4b74-b4e8-c6160d151a8d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlhRdy1ELTZlNFliT09VOWthNjVhT0tWNDBtcWw1QzlfdmhzOEpaM0pVUGNlbzZFU3ZQSWxXZ0pOb0FuLVA5cXBpLVN3dlFMX3dURlYzSXFUWGFnYXBXZUM3Y09MVDB1WUtqaXRVZDFQRGU2clB5RUpseWZUVXk5OEJTcVhZNXY0NzVFWXM2OXNFaUd1NDlzNkF3WWxnVXZMWnVpRHNyNnpzdERka1NrU2JFUHhFeWFrQTg2RUM1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z redefine el consumo: creatividad, autenticidad y coherencia como moneda de cambio - puromarketing.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
