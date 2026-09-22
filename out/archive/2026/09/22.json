@@ -1,0 +1,225 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티 일본 수출 8월 역대 최대 경신, 기초화장품 단가도 동반 급등",
+    "불황 속 대체육 열기 급랭, 가치소비보다 실속 우선 심리 확산",
+    "중고명품 시장서 주얼리·시계 강세, 까르띠에 거래액 23% 성장"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "136101a6-4ae5-44fa-a676-996c8c532222",
+        "title_ko": "불황이 꺾은 대체육 열풍",
+        "summary_ko": "경기 침체가 길어지면서 대체육 소비 의욕이 눈에 띄게 꺾이고 있다. 환경·윤리 가치를 앞세운 구매보다 가격 실속을 따지는 심리가 앞서기 시작했다는 분석이 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3e370916-9c99-41d1-aa62-57a52906e544",
+        "title_ko": "강원 비건 푸드 페스타 개막",
+        "summary_ko": "강원 지역 농·특산물과 비건 식문화를 결합한 미식 관광 행사가 열렸다. 대체육 시장 침체 속에서도 지역 관광 콘텐츠로서 비건 페스타는 꾸준히 자리를 이어가고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3fe6eace-28f8-471d-9724-e26210e5b986",
+        "title_ko": "베지노믹스-비건페어 서울 개막",
+        "summary_ko": "'2026 베지노믹스-비건페어 인 서울'이 개막했다. 소비 둔화 흐름 속에서도 B2B 전시·유통 중심의 비건 페어는 시장 접점 확보 창구로 기능하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "a755caf9-e74e-4be1-8c08-e03b98444e7a",
+        "title_ko": "K뷰티 일본 수출 역대 최대",
+        "summary_ko": "2026년 8월 화장품 수출이 전년 동기 대비 52.1% 증가하며 역대 8월 최대치를 기록했다. 일본 시장에서는 기초화장품 수출액과 단가가 동시에 급상승해, 단순 물량 확대가 아닌 고부가가치 구조로의 이행이 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9187caa7-5ec8-43fb-b1d8-02582514a71f",
+        "title_ko": "중국산 위조 화장품 온라인 유통 적발",
+        "summary_ko": "식약처와 지식재산처가 중국 심천산 가짜 화장품을 쿠팡·네이버 등 온라인 오픈마켓에서 유통한 브로커를 적발해 검찰에 넘겼다. K뷰티 수출 호조 속에서 위조품 유입 리스크도 동시에 커지고 있다는 점에서 주목할 필요가 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f6aad633-b6e0-4a70-b3ef-47e7ad72ca1a",
+        "title_ko": "올리브영, 역대 최대 규모 공채",
+        "summary_ko": "올리브영이 하반기 신입 공채를 역대 최대 규모로 진행하며, 글로벌 전형을 '글로벌 인사이트 전형'으로 확대 개편했다. 해외 사업 가속화에 발맞춰 글로벌 역량 중심의 인재 확보 경쟁에 본격 나선 것으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "778f0e8c-33b0-4296-aab4-82066a20f145",
+        "title_ko": "중고명품, 주얼리·시계로 무게 이동",
+        "summary_ko": "중고명품 시장에서 핸드백 중심의 거래 구도가 흔들리고, 주얼리와 시계가 새로운 강세 품목으로 부상하고 있다. 까르띠에 거래액은 전년 대비 23% 증가해 내구·희소 자산에 대한 수요 이동이 뚜렷하다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b38b7a03-c937-4405-a035-a8f00b303d42",
+        "title_ko": "시몬스, 쉐라톤 제주 전 객실 공급",
+        "summary_ko": "시몬스가 쉐라톤 제주 호텔 402개 전 객실에 매트리스를 공급했다. 프리미엄 호텔 침구 시장에서 브랜드 레퍼런스를 쌓는 전략이 지속되고 있으며, 호캉스 수요와 맞물려 '호텔 침대 대명사' 이미지를 공고히 하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e83fcc2e-1e74-45c0-977e-5141d8167d1a",
+        "title_ko": "지방 빈집, 마을호텔로 재탄생",
+        "summary_ko": "진안군이 용담호 인근 유휴 공간과 빈집을 활용한 마을호텔 조성에 나섰다. 지방소멸 대응과 소규모 체류형 관광 수요를 동시에 겨냥한 사업으로, 지역 생활 인프라의 숙박 콘텐츠화 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "8065023d-af42-4b99-85aa-9d54965c8b51",
+        "title_ko": "중국 Z세대, 한복 문화소비 열풍",
+        "summary_ko": "중국 Z세대 사이에서 한복(汉服) 착용이 문화적 자긍심 표현으로 자리잡고 있다. 국조(國潮) 흐름과 결합해 전통 의복이 패션·라이프스타일 소비로 확장되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4bbc0def-e075-45d0-ba4a-5ef44117329f",
+        "title_ko": "잊힌 구독료, 새는 가계부",
+        "summary_ko": "인지하지 못한 채 결제되는 구독 서비스 비용이 소비자 지출 관리의 맹점으로 부각되고 있다. 구독 피로감이 누적되면서 정리·통합 수요가 커지고 있어, 구독 기반 비즈니스의 이탈률 관리가 과제로 떠오른다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "638e5017-d85f-4003-87fb-270923fb3fe2",
+        "title_ko": "Z세대, 술 대신 무알콜 음료 선택",
+        "summary_ko": "스페인을 비롯한 주요 시장에서 Z세대의 알콜 소비가 감소하고 무알콜 음료 인기가 급등하고 있다. 건강과 자기관리 중심의 가치관이 음주 문화 자체를 바꾸는 신호로, 음료·주류 업계의 포트폴리오 전환 압력이 높아지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 구도는 '가치소비의 분화'다. 한쪽에서는 K뷰티 수출 급등과 중고명품 주얼리 강세처럼 프리미엄·희소 자산 수요가 견고하게 유지되고 있다. 반대편에서는 대체육 열풍 냉각과 잊힌 구독료 문제처럼 불황이 실속 우선 심리를 강화하고 있다. Z세대의 무알콜 선호와 중국 한복 소비는 경제적 합리성보다 문화적 정체성이 소비 결정을 이끄는 제3의 축이 형성되고 있음을 시사한다. 프리미엄·실속·정체성 세 가지 소비 동인이 동시에 강화되는 구조로, 단일 타깃 전략의 유효성이 급속히 약해지고 있다.",
+  "cards_meta": {
+    "136101a6-4ae5-44fa-a676-996c8c532222": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LRHlFYUVDdEpydFI5UXZEWlRUc1UtU2MzcXdORVA2dGtTZzh0Xy1UeFQwdVVvTlk5dHZyVno2WHNjSkVTS2NVOUpkMUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“먹고 살아야 환경도 생각”…불황에 식은 대체육 열풍 - etnews.com",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e370916-9c99-41d1-aa62-57a52906e544": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3fe6eace-28f8-471d-9724-e26210e5b986": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MFBNUHVJNWVQMWUzVHNzZmp2TmE5b1ZlMDZnWW5kTU9ueTAtRkZGZTl1UFVpMVVvMnRqMVltVG1TOGpzMzJmYnk2Y2hEaVdyTFk0QnNUZlQ0Z1HSAWBBVV95cUxPa2NJZzVxdTQ1SWc3anNtLTlrQjI4T0tWN0NfLXpzY2RvMDI0QWl2Ylp6eV9QVUVmTW5PV3JFajlhLURCcTFHS1B1ei1UTzNwN2ZwMEp0dW5XaXFqdF9tZVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'2026 베지노믹스-비건페어 인 서울' 개막 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a755caf9-e74e-4be1-8c08-e03b98444e7a": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311742",
+      "original_headline": "[K-뷰티 수출 3강 시장 분석③ 일본] 기초화장품, 수출액·단가 급상승",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9187caa7-5ec8-43fb-b1d8-02582514a71f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99868",
+      "original_headline": "식약처, 중국산 가짜 화장품 적발",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f6aad633-b6e0-4a70-b3ef-47e7ad72ca1a": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99856",
+      "original_headline": "CJ올리브영, ’26 하반기 신입사원 채용",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "778f0e8c-33b0-4296-aab4-82066a20f145": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qZEZ2R3dOc1k0ZzV2OGFMMkNpMUxJRU9GSEpJaS1OYkdtb3hfQW9wMlBYU21SeERxNVN3Tmpmb0daWUtZTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 시장에서도 주얼리·시계 강세…까르띠에 거래액 23%↑ - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b38b7a03-c937-4405-a035-a8f00b303d42": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaNHVnTVpqeGt1WXJxRmlrTktkb2JjUG5DVVAtZVl4U2UyUHhkNXU1ZDRwXzRmZWxjVEI4U2pFYXh5b21memx6VTFFeXNWaklZeUxBRkhFaG9wUjhobHhYV1lBQkJkMmM5cU1Ua0JrOXk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "시몬스, ‘쉐라톤 제주 호텔’ 402개 전 객실에 매트리스 공급 - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e83fcc2e-1e74-45c0-977e-5141d8167d1a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZkNObFFES1RxLWdRRG1Wa2VjTEtkNFJxbDY1SkZWSVJlWDZEV1h2QjA3Z1MxQzRNell2NEtvU255ekdBMU14SXFZWGtjYlFFWjFjT0gzRWpQUmZT?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "진안군, 용담호 유휴공간 활용 '마을호텔' 조성 추진 - 뉴스핌",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8065023d-af42-4b99-85aa-9d54965c8b51": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jMGNuTXlkZ0NTWlBVS2s0NFo5Wld4QnQ4NDNQemRFcXdBM3V2MmhLSVNGbXlVTE9seW9IOElFWkNMTW5MVnF0d2ZnR1JITGxVUVZCS1owMXR3T09vRWFCemRlZHlKcXdfM1k0bFFoQm9XbFNjR1FTYnB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "文化中国行·国潮里的“Z世代”自信｜汉服新风尚：文化消费的千年回响 - 新华网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "4bbc0def-e075-45d0-ba4a-5ef44117329f": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "638e5017-d85f-4003-87fb-270923fb3fe2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
