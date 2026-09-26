@@ -1,0 +1,192 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 중국 의존 탈피하고 북유럽·미주 등 글로벌 지도 재편 본격화",
+    "건기식 시장, 규제혁신 기회와 오인 광고 역대 최대라는 과제 동시 직면",
+    "명절 외식·호텔 소비 일상화, 전통 명절 소비 구조가 빠르게 해체 중"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3b994fd2-cdf0-4f23-9fe2-62e1fbf5f4ac",
+        "title_ko": "익산, 기능성식품 규제 완화 가속",
+        "summary_ko": "익산시가 기능성식품 산업 육성을 위한 규제혁신을 본격 추진한다. 지자체 주도의 규제 개선이 현실화되면, 중소 건기식 제조사의 시장 진입 장벽이 낮아지고 지역 클러스터 경쟁력도 강화될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ad451772-229c-4372-9140-dc1ce7130281",
+        "title_ko": "뉴트리 디데이, 고객만족 1위 등극",
+        "summary_ko": "뉴트리 디데이가 2026 대한민국 고객만족브랜드대상 건강기능식품 부문을 수상했다. 같은 시상식에서 비건 뷰티 브랜드 잇라피도 선정돼, 건강·비건 키워드가 소비자 신뢰 평가 기준의 중심으로 자리잡고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b3d3a6f7-8646-412e-b30b-d93584ffcd2f",
+        "title_ko": "건기식 오인 광고, 역대 최다",
+        "summary_ko": "일반식품을 건강기능식품으로 오인하게 만드는 광고가 역대 최대 건수를 기록했다. 규제혁신 논의와 맞물려, 소비자 보호 장치 강화 없이는 시장 신뢰가 훼손될 수 있다는 우려가 커지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "aeb9f6e7-42f8-4c8e-87cc-1f1e3fa62f39",
+        "title_ko": "오송 K뷰티 엑스포 10월 개막",
+        "summary_ko": "245개사가 참여하는 2026 오송화장품뷰티엑스포가 10월 22일 청주에서 개막한다. 올해는 수출상담·투자 유치 기능을 대폭 강화해, 단순 전시를 넘어 중소 브랜드의 해외 판로 개척 플랫폼으로 도약하는 모습이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f8001786-82e9-41d1-a4f4-d928217c07e4",
+        "title_ko": "아모레·LG생건, 탈중국 글로벌 재편",
+        "summary_ko": "아모레퍼시픽과 LG생활건강이 중국 의존에서 벗어나 미주·유럽·동남아로 포트폴리오를 다변화하고 있다. K뷰티의 지리적 무게 중심이 이동하며, 글로벌 브랜드로의 체질 전환이 본격 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7c79b443-ed3e-4bb5-b983-a306b5484a2f",
+        "title_ko": "성남시, 북유럽 K뷰티 개척단 파견",
+        "summary_ko": "성남시가 북유럽 시장 공략을 위한 K뷰티 해외시장개척단을 파견한다. 대기업 주도의 탈중국 전략과 발맞춰 지자체 차원에서도 새 수출 거점 다변화가 동시에 진행되고 있다는 점이 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "31dd3239-6b2f-4df7-ac8d-57033139fb3d",
+        "title_ko": "H&M, 3분기 수익 27% 반등",
+        "summary_ko": "H&M이 3분기 매출 50억 유로를 회복하며 순이익을 27% 끌어올렸다. 연간 누적 매출은 여전히 4.4% 감소하지만, 비용 통제를 통한 수익성 개선이 패스트패션 재건의 단서로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "ee33cef6-9718-4ce3-bd1b-63c2f7dbba72",
+        "title_ko": "명절이 '반나절 호캉스'로 바뀐다",
+        "summary_ko": "추석 명절을 외식과 호텔 숙박으로 보내는 이른바 '반나절 명절' 문화가 확산되고 있다. 전통적 가족 집결 소비가 개인 단위의 프리미엄 여가 소비로 대체되는 흐름이 뚜렷해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "d8f3a8a6-0d69-4494-a78e-19c9f89a110e",
+        "title_ko": "Z세대, 무알코올 음료로 파티 문화 재정의",
+        "summary_ko": "Z세대 사이에서 알코올 소비가 줄고 무알코올·제로 음료가 파티 문화의 주류로 떠오르고 있다. 스페인을 포함한 유럽 시장에서 확인된 이 흐름은 주류 브랜드의 제품 전략 재편 압력으로 이어질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "34a8673b-b10e-4f85-b7d7-f7b6e8d11d69",
+        "title_ko": "세대별 소비 행동, 무엇이 결정하나",
+        "summary_ko": "세대별 소비 행동 결정 요인을 분석한 보고가 나왔다. 단순 연령 구분을 넘어, 가치관·디지털 접근성·경제 경험이 구매 판단에 복합적으로 작용한다는 점에서 단일 마케팅 전략의 한계가 재확인된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 핵심 흐름은 '익숙한 시장과 방식에서의 이탈'이다. K뷰티는 중국 중심 구도를 벗어나 유럽·미주로 무게 중심을 옮기고, 건기식 시장은 규제 완화와 소비자 신뢰 훼손이라는 모순적 과제를 동시에 마주하고 있다. Z세대의 무알코올 전환과 명절 호캉스 확산은 '전통적 소비 의례'가 개인화·프리미엄화로 해체되고 있음을 보여준다. 카테고리를 막론하고 기존 구도를 당연시한 전략은 재검토가 필요한 시점이다.",
+  "cards_meta": {
+    "3b994fd2-cdf0-4f23-9fe2-62e1fbf5f4ac": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xWUMtMG0xX0lZM1doSUVBTThrMXo4T1RmWmM2YkFpRnFJaWxGSk5KWjB4eVl4RjZMNVdDTjI0NldNemx2dU56RmtRRjMzdTctdElJOFpxdkNZaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "익산, 기능성식품 규제혁신 본격…산업 성장 기반 강화 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ad451772-229c-4372-9140-dc1ce7130281": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hdDY5T3JuMGRxaGowekVfRmJjeXpzMWczeVdYOVJ6alFFMlhiS2daeDRuSmdPXzJZeWJtVkJYQnhxdXY0ZXp5MkotejEzMXFrSTFtbzRsbVdiX25ETHc0NjlKbU1PMVZ1aTVoWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[2026 대한민국 고객만족브랜드대상] 건강기능식품 브랜드, 뉴트리 디데이 - 한경매거진&북",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b3d3a6f7-8646-412e-b30b-d93584ffcd2f": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41RFdTUEFiOGJDdk84QmpHM1d6bkRLQnlfdWFtODBIUFZJSENmNmpXNEJqOXh2UmE1eEFrOUFadnRPMW54SHhXd1VvamRvM1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"건기식인 줄 알고 샀는데\"…일반식품 오인 광고 역대 최대 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aeb9f6e7-42f8-4c8e-87cc-1f1e3fa62f39": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dlFWWlZQei1HTHdtbEtRbzFra2RZQVhrMTNHUThJLXZybDFaY0RVeFRJdFZxMXE5bXJzVnZwdG9adFdBd1o3Y1V5SjduS1F6QnhJRzBEeWZtV2xCVWV2S1JMQnNJX3UyZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "오송화장품뷰티엑스포, 10월 22일 청주오스코 개막 - THE K BEAUTY SCIENCE",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f8001786-82e9-41d1-a4f4-d928217c07e4": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ha2FDQVJPNzNScHhLUExwSUp4OExzSk5tWEdzVVpreDNuOHBubWU3aWk1T3F4Z1RNSXE2djd0aUMtdmJGMnhNaUp5VjRmM3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[글로벌 홀린 K뷰티③] 중국만 보던 시대 끝…아모레·LG생건, '글로벌 지도' 다시 그린다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7c79b443-ed3e-4bb5-b983-a306b5484a2f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1od3A2Q0NXSlA5UlFHeFlEVFBMdm5fMGItQVVUQ21fWTJPS085RmwwR3Q0OHU4NGR6NTV4OGt1M2Y3WDRWQ3F6TkdVd21oYW1tODY2N194T0dCN2tLNG9rNERTZkVUSHFvRXVRaFRJTE1IOEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "성남시, 북유럽에 K-뷰티 알린다…해외시장개척단 파견 - 동방일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "31dd3239-6b2f-4df7-ac8d-57033139fb3d": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/hm-amortigua-la-caida-de-ventas-y-dispara-sus-ganancias-un-27-en-el-tercer-trimestre",
+      "original_headline": "H&M amortigua la caída de ventas y dispara sus ganancias un 27% en el tercer trimestre",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "ee33cef6-9718-4ce3-bd1b-63c2f7dbba72": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jYW11LWs2LWd6c3VReDhOWm5aQ1Nabmo1a192dm9fVGVDS1g5dV9xTUlLVXo1RGFiR1BERHFKMk5XS0NEeHZyLVNVOS1zalE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[달라진 명절 풍속도]외식하고 호텔서 자고…‘반나절 명절’로 변화 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d8f3a8a6-0d69-4494-a78e-19c9f89a110e": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "34a8673b-b10e-4f85-b7d7-f7b6e8d11d69": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbG8tRDlmZUlIdVdDemlONl9DZWJieEpabDBlUFJ0b0NISFFxaUV2Z2Zva1I5WXdxRU9mdU9ZdDk5cy1Ec1dPVU45bzRZRnRkcXZpT280ektIc1NHcnFDdVRTbjhMSUVtem45ajZlcGFrUFJ5dHUyT2R3eG5WSnl2MVA0UHJQcDI3RHBWLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Cómo consumen y qué determina sus acciones las diferentes generaciones de edades? - larepublica.co",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
