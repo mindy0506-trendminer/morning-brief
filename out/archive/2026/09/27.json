@@ -1,0 +1,236 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "건기식 오인 광고가 역대 최대로 적발되며 소비자 신뢰 훼손 우려 고조",
+    "아모레·LG생건, 중국 의존 탈피하고 글로벌 다각화 전략으로 구도 재편",
+    "인테리어 시장, 절제미·자연친화 코드로 프리미엄 소비 흡수 본격화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "a4e35475-2617-4160-977f-f6f605e2a5e3",
+        "title_ko": "뉴트리디데이, 건기식 만족도 1위",
+        "summary_ko": "뉴트리디데이가 2026 대한민국 고객만족브랜드대상 건강기능식품 부문을 수상했다. 비건 뷰티 브랜드 잇라피도 같은 시상에서 선정되며, 건강·비건 연계 카테고리가 소비자 신뢰도 경쟁의 핵심 축으로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fc90a264-c34c-4972-884d-3dfe04259147",
+        "title_ko": "하이브리드 육류, 대체육 빈틈 파고들다",
+        "summary_ko": "유럽에서 식물성 단백질과 동물성 육류를 혼합한 하이브리드 육류가 주목받고 있다. 순수 대체육의 맛·식감 한계를 보완한 절충형 제품으로, 일반 육류 소비자를 단계적으로 전환시키는 전략이 유효하다는 평가다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "35515075-9a07-4700-beca-3cdeb89a3d24",
+        "title_ko": "건기식 위장 광고, 역대 최대 적발",
+        "summary_ko": "일반식품을 건강기능식품으로 오인하게 만드는 광고 적발 건수가 사상 최고치를 기록했다. 시장 팽창에 따른 규제 사각지대가 커지고 있으며, 소비자 혼란이 정품 건기식 브랜드의 신뢰 자산마저 잠식할 수 있다는 점이 업계의 핵심 위협이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "1001fc32-4a76-4e3b-99b5-9b0795c046fb",
+        "title_ko": "오송 뷰티엑스포, B2B 플랫폼 강화",
+        "summary_ko": "2026 오송화장품뷰티엑스포가 10월 22~24일 청주오스코에서 열린다. 올해는 수출상담과 투자 유치 기능을 대폭 강화한 기업 성장 지원형 행사로 전환, K뷰티 중소 브랜드의 글로벌 판로 개척 거점으로 자리잡을 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6827f63d-2557-44c4-a023-86c0dee9d664",
+        "title_ko": "K뷰티, 탈중국 다각화 가속",
+        "summary_ko": "아모레퍼시픽과 LG생활건강이 중국 중심의 해외 전략을 전면 수정하고 북미·동남아·유럽으로 시장을 분산하고 있다. 단일 시장 의존에서 벗어나 글로벌 포트폴리오를 재구성하는 흐름은 K뷰티 산업 전반의 체질 변화 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a6f5d6e3-4475-45a9-81b5-8d8836f01ac5",
+        "title_ko": "H&M, 매출 감소에도 수익성 반등",
+        "summary_ko": "H&M이 3분기 순이익을 전년 대비 27% 끌어올렸다. 누적 매출은 4.4% 감소했으나 비용 구조 개선과 마진 관리로 수익성을 회복하며, 외형 성장보다 효율 중심의 패스트패션 경영 전환이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "969e2e72-9b61-40c3-a7f2-8a5263f6cde1",
+        "title_ko": "럭셔리, 현행 모델 지속 가능한가",
+        "summary_ko": "럭셔리 패션의 현재 사업 모델이 장기적으로 지속 가능한지에 대한 업계 논의가 심화되고 있다. 가격 인상과 희소성 전략만으로는 밀레니얼·Z세대 수요를 유지하기 어렵다는 우려가 핵심이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "eed7c6f7-7d78-4d39-9045-db3fae5aa0d8",
+        "title_ko": "드뮤어 인테리어, 절제미 코드 확산",
+        "summary_ko": "과잉 장식을 걷어내고 차분한 톤과 미니멀 구성을 앞세운 '드뮤어' 인테리어가 주거 트렌드로 자리잡고 있다. 소비 피로감이 인테리어 취향에도 반영된 흐름으로, 고가 단품보다 전체 공간의 조화를 우선하는 구매 패턴 변화와 맞닿아 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3e191016-fab1-4f13-bcec-28fa1bb698c9",
+        "title_ko": "2026 인테리어 트렌드 총정리",
+        "summary_ko": "2026년 실내 인테리어 주요 트렌드로 자연 소재, 중성 색조, 다기능 공간 구성이 꼽힌다. 재택·재실 시간이 늘어난 라이프스타일 변화가 주거 공간의 품질 수요를 프리미엄 방향으로 이끌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c83ddf05-342e-4b10-ac33-0f0eadecab64",
+        "title_ko": "AI 인테리어 툴, 자연친화 유행 포착",
+        "summary_ko": "AI 기반 프롭테크 기업 아키스케치가 자연친화 인테리어의 부상을 데이터로 분석해 공개했다. AI 설계 툴이 소비자 취향 변화를 실시간으로 감지하고 디자인 추천에 반영하는 흐름이 빨라지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "859cc07b-99b7-47b7-962c-135b4d681234",
+        "title_ko": "잊힌 구독료, 가계 누수 주범",
+        "summary_ko": "인지하지 못한 채 자동 결제되는 구독 서비스가 가계 지출을 잠식하고 있다는 분석이 나왔다. 구독 경제의 성장과 함께 소비자의 비용 인식 격차도 커지고 있어, 구독 관리 서비스와 해지 간소화 요구가 함께 높아질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "68a131a6-6d61-4ff4-8063-a12d1c002d6d",
+        "title_ko": "가구·인테리어 이커머스 9대 트렌드",
+        "summary_ko": "2026년 가구·홈데코 이커머스 시장에서 AR 가상 배치, 맞춤 제작(커스터마이징), 지속가능성 인증이 핵심 구매 유인으로 부상하고 있다. 온라인 채널이 고관여 품목인 가구 구매 결정까지 주도하는 구조 전환이 가속 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "876136b5-485b-45d4-a08d-44d197b04cc2",
+        "title_ko": "Z세대 외식 소비, 통념과 다르다",
+        "summary_ko": "Z세대가 외식에 무관심하거나 저가만 선호한다는 통념을 반박하는 연구 결과가 스페인에서 나왔다. 경험 중심 소비와 SNS 공유 가치를 중시하는 Z세대는 품질과 스토리가 있는 외식에 기꺼이 지출하는 것으로 나타났다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 공통 축은 '신뢰와 진정성'이다. 건기식 위장 광고 급증은 소비자가 라벨을 더 이상 신뢰하지 않는 시장의 민낯을 드러내고, K뷰티의 탈중국 다각화는 단일 시장 의존에서 오는 취약성을 인식한 결과다. 드뮤어 인테리어와 Z세대 외식 행동 역시 '과장된 마케팅보다 실질적 가치'를 택하는 소비자 피로감의 연장선에 있다. 브랜드가 진정성을 증명하지 못하면 규제와 소비자 이탈이 동시에 작동하는 국면이 이미 시작됐다.",
+  "cards_meta": {
+    "a4e35475-2617-4160-977f-f6f605e2a5e3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hdDY5T3JuMGRxaGowekVfRmJjeXpzMWczeVdYOVJ6alFFMlhiS2daeDRuSmdPXzJZeWJtVkJYQnhxdXY0ZXp5MkotejEzMXFrSTFtbzRsbVdiX25ETHc0NjlKbU1PMVZ1aTVoWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[2026 대한민국 고객만족브랜드대상] 건강기능식품 브랜드, 뉴트리 디데이 - 한경매거진&북",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fc90a264-c34c-4972-884d-3dfe04259147": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zbVVmbUlnd2laSEZJeVZlSmxfNHZhWXBvWEIweDZNTDJZWXAyX3FqSmYzTHJHdS1DdXVzR0hyX3piaFpGTVdSamZPR0RVSjE5S0JfQ2xaTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "대체육 한계 보완한다…유럽, 하이브리드 육류 부상 - realfoods.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "35515075-9a07-4700-beca-3cdeb89a3d24": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaWVpGQ3VncG9kbmtNUW1KODlfMTNFZ185dzJKeU5ENER0UGlJekx1eHNZYXNMZGJSOXJJQ09FUVNYX3BkcWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"건기식인 줄 알고 샀는데\"…일반식품 오인 광고 역대 최대 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1001fc32-4a76-4e3b-99b5-9b0795c046fb": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80dlFWWlZQei1HTHdtbEtRbzFra2RZQVhrMTNHUThJLXZybDFaY0RVeFRJdFZxMXE5bXJzVnZwdG9adFdBd1o3Y1V5SjduS1F6QnhJRzBEeWZtV2xCVWV2S1JMQnNJX3UyZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "오송화장품뷰티엑스포, 10월 22일 청주오스코 개막 - THE K BEAUTY SCIENCE",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6827f63d-2557-44c4-a023-86c0dee9d664": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ha2FDQVJPNzNScHhLUExwSUp4OExzSk5tWEdzVVpreDNuOHBubWU3aWk1T3F4Z1RNSXE2djd0aUMtdmJGMnhNaUp5VjRmM3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[글로벌 홀린 K뷰티③] 중국만 보던 시대 끝…아모레·LG생건, '글로벌 지도' 다시 그린다 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a6f5d6e3-4475-45a9-81b5-8d8836f01ac5": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/hm-amortigua-la-caida-de-ventas-y-dispara-sus-ganancias-un-27-en-el-tercer-trimestre",
+      "original_headline": "H&M amortigua la caída de ventas y dispara sus ganancias un 27% en el tercer trimestre",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "969e2e72-9b61-40c3-a7f2-8a5263f6cde1": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3lDSXM1czV3WTdQbnV1VkZYZG55dkJfbWNQelplOU0wUTZrVzBaSjl1MlpxT2tnVEVTMnpqMUVwVGhoMGF5MDhGQWxNc2hiUVBldV9NVDgxSFVmanA2TEhLXzdJc1NIdU4xV2I3ck5pZG5JUWJRbFlRa20wQW5NUmtoM1hkSm03clZEd1N2UW5xQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "El futuro del lujo: ¿el modelo actual sigue siendo sostenible? - nssmag.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "eed7c6f7-7d78-4d39-9045-db3fae5aa0d8": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmNE1SWkVPbE5Da3hCNDFFLWo0SkNiVmlMWWlaNWFIeEUwMURFMGlHd1Zya0VBbkZuWFR2cTZkdjFqdXBKRUNKUi1Vc3VsZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "차분한 절제미, 드뮤어(demure) 인테리어 트렌드 - elle.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e191016-fab1-4f13-bcec-28fa1bb698c9": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c83ddf05-342e-4b10-ac33-0f0eadecab64": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSzNLYlY3Z2xJZlNkdVEwdjZlV0pLb19RcFhfa3lMRy04VXVQNDVRSTk4SnY4REV3ZTZzdlZmVGMzRkg0a1lkd3N1RXMzXzJSUHRYLUFqbU4zaVBvcnB5bGZNbXBreXRMa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "AI 프롭테크 아키스케치, 자연친화 인테리어 유행 공개 - AI타임스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "859cc07b-99b7-47b7-962c-135b4d681234": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "68a131a6-6d61-4ff4-8063-a12d1c002d6d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "876136b5-485b-45d4-a08d-44d197b04cc2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDc5bWplRGdrVHZCdHYydUNkX3lvSVdnQmV6Mi1aMF9ZT04wdUR0ZmVlRXpRdXBSVUp3QkdFQ2RaWUt2S3pRWXo3d1IxUFV1alhWNmVTOUFJQXN1cWVUdWU3OUNxY0JIUjN5bHdmbW1yQXRvb25OTDRheGEtSEg3X1lwVG1mcVZwRXVDODlEUjlZWEJkWEZRUHpvM0l5Z0lpdjZTOEw3SUx3RGtTRG9mT2lJbVNNeTJjM2xVQlJMUG5UbG05dHfSAdoBQVVfeXFMTmRYYllpbUtod0xLNXJjTUpNRlI4MU9VdjdyM3VrekQ2a0lRVTl3QVMzZ0tMMzlJWVVVR0VmdkxxTE9KNG9Ra1ZXMFZjb1ktV2V4NTBHUXNzWTBfX3IxUEo0dUpWRmJrdERZM1FBVzNDSVloRzZvbXRYN2cxZjBMc3J2S0lWTmhrWlFLMTlqNnlUbFh1X2hnN3JjOWNFN3NPRXRZakdIQk1VWnFPVlVNY1JvUTZvNDRUQ1JEd2l6RGpzcWUzdTVkMDk2bk5Ma0FOWEg5VE9JT045aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "El estudio que responde a los falsos mitos y etiquetas de la gen Z en la gastronomía - larazon.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
