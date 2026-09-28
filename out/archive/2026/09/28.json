@@ -1,0 +1,197 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "식품업계, 콩 단백질부터 비건 치킨까지 대체식품 개발 경쟁 본격화",
+    "H&M, 3분기 매출 반등·이익 27% 급증으로 패스트패션 수익성 재확인",
+    "구독 경제 피로감 확산, Z세대 중심 '비용 점검' 소비 행태 두드러져"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "0ea9a3d8-085b-4f44-8b3a-c93874051cb9",
+        "title_ko": "대체식품 개발 러시 본격화",
+        "summary_ko": "콩으로 만든 지단 등 전통 식재료를 대체하는 비건 식품 개발이 잇따르고 있다. 단순 육류 대체를 넘어 계란·해산물까지 영역이 확대되며, 국내 식품 기업들의 제품군 재편이 가속되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "54d73686-d779-4290-b209-148db039f923",
+        "title_ko": "비건 치킨 특허, 기술 경쟁 신호",
+        "summary_ko": "엠디에스코리아가 식물성 비건 치킨 제조 기술 특허를 등록했다. 맛과 식감 구현 기술의 지식재산권 확보 경쟁이 시작됐다는 점에서, 대체육 시장이 상품화 단계를 넘어 기술 차별화 국면으로 진입했음을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6241ca44-d678-4b41-8b41-153c06b1c194",
+        "title_ko": "자동차 소재도 비건화 확산",
+        "summary_ko": "자동차 내장재·시트 소재에서 동물성 가죽을 배제하는 비건 흐름이 두드러지고 있다. 식음료를 넘어 내구 소비재 전반으로 비건 가치관이 구매 기준으로 자리잡고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "b2401e9e-4ae6-485e-a5db-34f0f3c61de6",
+        "title_ko": "H&M, 이익 급증으로 반등 확인",
+        "summary_ko": "H&M은 3분기 매출이 5,000억 원대를 회복하며 감소세를 멈췄고, 순이익은 전년 동기 대비 27% 급증했다. 매출 누계는 여전히 4.4% 감소했지만, 수익성 개선 속도가 빠른 점에서 구조조정 효과가 실적으로 나타나기 시작했다는 평가가 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "437d7a97-c59a-4531-96fe-1a8a973fbf5e",
+        "title_ko": "럭셔리의 정의, 다시 쓰이는 중",
+        "summary_ko": "스페인 매체를 중심으로 '럭셔리란 무엇인가'를 재정의하는 논의가 이어지고 있다. 브랜드 로고보다 희소 경험·지속 가능성을 럭셔리의 기준으로 보는 관점이 부상하며, 고가 소비재 포지셔닝 전략에도 영향을 미칠 것으로 보인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "65def56d-0b53-4fbe-8023-9d547f960754",
+        "title_ko": "주거도 럭셔리재로 편입",
+        "summary_ko": "스페인에서 주택이 사실상 럭셔리 재화로 전환됐다는 논의가 공영방송까지 확산됐다. 부동산 접근성 문제가 소비자 지출 우선순위를 재배치하고 있으며, 프리미엄 소비재 수요 구조에도 간접적 압력이 될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "4ec7da9b-f71e-4e79-bd46-9ce3aaddbc8a",
+        "title_ko": "가구·데코 이커머스 9대 트렌드",
+        "summary_ko": "2026년 가구·인테리어 이커머스에서는 AR 배치 시뮬레이션, 맞춤 제작, 지속 가능 소재 필터링이 핵심 기능으로 부상하고 있다. 오프라인 쇼룸 경험을 온라인으로 구현하려는 경쟁이 플랫폼 차별화의 새 축이 되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0f9c19ed-8beb-487f-aaff-0decea8f95b5",
+        "title_ko": "2026 인테리어 트렌드 총정리",
+        "summary_ko": "바이오필릭 디자인, 뉴트럴 팔레트, 멀티 기능 공간이 2026년 실내 인테리어의 3대 흐름으로 꼽힌다. 팬데믹 이후 '집을 오래 쓸 공간'으로 보는 시각이 정착되면서 내구성·심미성 동시 충족 제품의 수요가 지속되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ee0c235c-0a4b-4079-ae09-df50d55883c3",
+        "title_ko": "매트톤 타일 코팅제 출시",
+        "summary_ko": "스트락스가 무광 포세린 타일 코팅제를 출시하며 매트톤 인테리어 수요에 대응했다. 광택 마감 중심이던 타일 코팅 시장이 무광·자연 질감 방향으로 이동하고 있음을 보여주는 제품 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "c115a385-cb40-4cad-a4c2-536ef9757892",
+        "title_ko": "잊혀진 구독료, 지출 맹점 부상",
+        "summary_ko": "인지하지 못한 채 유지되는 구독 서비스가 가계 지출의 숨은 누수로 주목받고 있다. 소비자들이 구독 목록을 점검하고 정리하는 행동이 늘면서, 구독 서비스 플랫폼의 재가입율·해지율 관리가 핵심 과제로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "98e343da-893f-46f5-8fd2-8610e5744573",
+        "title_ko": "Z세대 소비 동인: 가치·경험·진정성",
+        "summary_ko": "Z세대의 구매 결정에는 가격보다 브랜드 가치관 일치, 오프라인 경험, 진정성 있는 커뮤니케이션이 더 강하게 작용한다는 분석이 나왔다. 마케팅 예산을 퍼포먼스 광고보다 커뮤니티 구축 쪽으로 배분해야 한다는 시사점이 따라온다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '기준의 재정의'다. 비건 가치관은 식품을 넘어 자동차 소재까지 확산되며 구매 기준 자체를 바꾸고 있고, 럭셔리의 개념은 로고에서 희소 경험·지속 가능성으로 이동하고 있다. 동시에 구독 피로와 Z세대의 진정성 요구는 소비자가 '무엇에 돈을 쓸 것인가'를 더 엄밀하게 따지기 시작했음을 보여준다. H&M의 이익 급증과 매트톤 인테리어 제품의 잇따른 출시는, 이 같은 선택적 지출 환경에서 원가 효율과 감성 포지셔닝을 동시에 잡은 플레이어가 수혜를 누리고 있다는 사실을 확인시킨다.",
+  "cards_meta": {
+    "0ea9a3d8-085b-4f44-8b3a-c93874051cb9": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6Q2hQWU1zNDh1bm5xSEh1NFdZSy1fZnF4TVNLRzdzWWZyQllGU0tNbGxNVmxJaXNfWjhnc2NaeDdrMnpmWUhtbTYtWWxxcm5HeXhqVDc3Q0NwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "콩으로 만든 지단…비건 겨냥한 대체식품 개발 러시 - 한국경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "54d73686-d779-4290-b209-148db039f923": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9naHZaWHNhaUh5STZsTkFhY2h2YVlMdFlUZThkX1VCVG1hQUFxZ3lud19FWm1EdU5PR0E2SDM0NC1rZktoZUFobDdnLUNlUFh0c2JyMmZzdkZpOUZ3SmVkeWxnR0VQemJXWUI2V1AzVmtLUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "엠디에스코리아, 비건 치킨용 식물성 대체육 제조 기술 특허 등록 - 마켓인",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6241ca44-d678-4b41-8b41-153c06b1c194": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - design.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b2401e9e-4ae6-485e-a5db-34f0f3c61de6": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/hm-amortigua-la-caida-de-ventas-y-dispara-sus-ganancias-un-27-en-el-tercer-trimestre",
+      "original_headline": "H&M amortigua la caída de ventas y dispara sus ganancias un 27% en el tercer trimestre",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "437d7a97-c59a-4531-96fe-1a8a973fbf5e": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWU42YkRKWG16czlSTmNpRVhGNnh6SkcwYUZuelFzRGlsTGpoNjJFUFVPQ0RnY05KUnpyMWpJdmJ0VENscktXcmdmeHU3VmJGMGtwWkd5Ymt1b1hlZTJ6Y2hDTXBuRFEyQWJxZlBOM3Q0Q3JibDVIUGFJVDRxVXlhcU5tRVhNR283NVhXWnRHd9IBjwFBVV95cUxQS21jQW9zYmQzSElfb0dMTkFMQlpBcDBrekRKUUFaUWo0VGVZOFIySzl1cFV0ZVA2MVAtOENPU3hLQ2NOZVdqLU1iWHRDVDV0VDBpQVMtYkNuU05Mcl9qN09vd3ZyUldPSkVuSnBWRWZmMm1WcUpfM0hVMFVLTzNNTExlRnc2S09BQUJRVmFyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué es el lujo? - expansion.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "65def56d-0b53-4fbe-8023-9d547f960754": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2RsYlhiUWJob2RNMVBXOVZLWXlhQ055YW4yUUVENEJUZUh6LTFnd1FxQ093SGktdWw1RnRVTEo3VXlCT2xwMjRVZUI0c2ZNLWo1MHkzUzZqU1dZd3RncXEta3dXdXUwVWh0N3gxbElBeG9PcGVoekRzLU5zVmtqblZjSk9DbThXenF4OFJMcnNRdU1xT2VZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La jungla de la vivienda: ¿Se ha convertido en un bien de lujo? - rtve.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "4ec7da9b-f71e-4e79-bd46-9ce3aaddbc8a": {
+      "category": "라이프스타일",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "0f9c19ed-8beb-487f-aaff-0decea8f95b5": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ee0c235c-0a4b-4079-ae09-df50d55883c3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVndVOXRJS3g4elV1ZnV1QmhVVnN3Tjg5aGhvRnRyRTRzNHlzcThCTFVuWG9CUElsSWlmSWhFXzk5YjFtOVBHcno4anZkdTZWd1JsT3N3VkhOQjhTRkhOTE1LNEJoSWJl?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스트락스, 매트톤 인테리어 트렌드 반영 ‘포세린 타일 코팅제’ 무광 버전 출시 - 공감신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c115a385-cb40-4cad-a4c2-536ef9757892": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "98e343da-893f-46f5-8fd2-8610e5744573": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hmbWpHSU5JMEZpZXFELS10dG5GM29DeGVlcXoxNnM1dVFGMVBxaDhoZ1FETk9raWZhMi15UmU1czZFamNQMFUzSG90NFNhQzRSaDhDVkhkV3A1b0JlRkRYZnFVb0ktOFFRWGUwLTNlVHRPT01jUk5OSF9nYzdBcnNoQnRfSWtnYTRLckVJbGYzY1ZlcVh6WHdB0gGfAUFVX3lxTE5ncWNnLTdnMV8xR1lRckw3Y1NuM016UW1yYlVzTWpVTkNHeWFITkdnSmxOb0RiZkZoemRMdkFoZGc1b2VmMUNtSnE0Z1VlemlUU3Ytd0QxYnhCLW9ZMDVEWks5ckM3c21ZWWVlWW04RTJ6bVRmZ1FMUF9rdUltanlRNHRUcmc4UENleE9VbXVka0o2SmFCb3FxOFlJczVXRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué mueve a la generación Z en el consumo? - marketingdirecto.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
