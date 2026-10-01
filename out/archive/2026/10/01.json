@@ -1,0 +1,206 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티·K패션, 미국 군 교역처·파리까지 유통망 확장 본격화",
+    "Z세대의 무알콜 전환과 구독 비용 피로감이 소비 구조를 재편 중",
+    "국내 인디 뷰티·ODM 기업, 뉴욕 B2B 전시서 북미 공략 속도"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "9f62e58e-72cc-4190-90f9-c1ba6d0795ef",
+        "title_ko": "비건·농특산물 관광 페스타 개막",
+        "summary_ko": "강원도 농·특산물과 비건 문화를 결합한 '2026 강원 비건 푸드 페스타'가 6월 개막했다. 지역 먹거리와 채식 문화를 잇는 미식 관광 모델로, 비건 소비층의 여행 수요를 지역 경제와 연결하려는 시도다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "72b9550d-531b-4dbf-8690-4f5e9cfc8400",
+        "title_ko": "K뷰티, 미 군 교역처 첫 입점",
+        "summary_ko": "랜딩인터내셔널이 'K뷰티 월드' 콘셉트로 미국 3대 군 교역처 시스템 전체에 K뷰티 전용관을 처음 도입했다. 현역 장병·가족·참전용사까지 포괄하는 안정적 구매층을 확보한 것으로, 기존 뷰티 리테일과 차별화된 유통 채널 개척이라는 점에서 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0fd30831-6ef9-496a-be05-0418b878b2a7",
+        "title_ko": "인디 뷰티·ODM, 뉴욕 전시 총출동",
+        "summary_ko": "잉글우드랩과 유씨엘이 '메이크업 인 뉴욕 2026'에 동반 참가해 북미 인디 뷰티 시장을 겨냥한 기술력을 선보였다. 유씨엘은 OTC 선케어·다기능 제형을, 잉글우드랩은 인디 뷰티 브랜드와의 협업 가능성을 앞세워 현지 바이어와의 접점을 넓혔다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "67717196-824e-4c20-9831-f0b4b46fb1cf",
+        "title_ko": "센카×쿵야, 대용량 콜라보 올리브영 단독",
+        "summary_ko": "클렌징 브랜드 센카가 넷마블의 '쿵야 레스토랑즈' IP와 협업한 대용량 에디션을 올리브영 단독으로 출시했다. '거품 맛집'이라는 밈 감성의 스토리텔링을 내세워 브랜드 인지도와 젊은 소비층 유입을 동시에 노리는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "fbda2af7-58cf-4e8d-a6cc-bd7969eeb253",
+        "title_ko": "W컨셉, 뉴욕 잇따라 파리 공략",
+        "summary_ko": "W컨셉이 뉴욕에 이어 파리에서 K패션 75개 브랜드를 앞세운 해외 공략에 나섰다. 복수의 패션 수도를 연속 공략하는 방식은 K패션의 글로벌 확산이 단발성 이벤트를 넘어 지속 전략으로 전환되고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3688f6f8-cb72-4c8d-a94e-16c8705e1674",
+        "title_ko": "콘텐츠진흥원, K패션 해외 진출 지원",
+        "summary_ko": "콘텐츠진흥원이 K패션 브랜드의 글로벌 진출을 공식 지원하기로 했다. 민간 플랫폼의 자체 해외 공략과 정부 기관의 제도적 뒷받침이 맞물리며, K패션 해외 확산의 속도와 규모가 한 단계 커질 구도다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "40d19810-a1f0-4e9b-aae3-c3adbe8914ec",
+        "title_ko": "2026 실내 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어의 주요 흐름이 브런치를 통해 소개됐다. 소비자의 공간 취향이 다양화되면서 인테리어 정보를 큐레이션하는 콘텐츠 수요 자체가 소비 트렌드로 자리잡고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0e0716ad-08a4-48e1-b1c7-180ebf1758fa",
+        "title_ko": "AI 프롭테크가 본 자연친화 인테리어",
+        "summary_ko": "AI 기반 인테리어 플랫폼 아키스케치가 자연친화 스타일을 2026년 주목 유행으로 꼽았다. AI가 축적한 설계 데이터를 근거로 트렌드를 예측·제시하는 방식이 인테리어 업계에 정착하는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "f0a4284a-08a1-435b-ae73-53c2e4a40600",
+        "title_ko": "잊힌 구독료, 지출 피로의 복병",
+        "summary_ko": "소비자가 인지하지 못한 채 납부 중인 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 경제가 성숙 단계에 접어들면서 '구독 정리' 수요가 새로운 핀테크·가계 관리 시장을 만들고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a74575e3-1843-479e-becb-e2a83716a409",
+        "title_ko": "가구·인테리어 이커머스 9대 트렌드",
+        "summary_ko": "Shopify가 2026년 가구·장식 이커머스의 9대 트렌드를 공개했다. 개인화 추천, 증강현실(AR) 미리보기, 구독형 렌털 모델 등이 핵심으로, 오프라인 강세였던 가구 소비가 온라인 중심으로 빠르게 재편되는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "57a72a3b-1d20-4302-881d-462fc25dea1b",
+        "title_ko": "Z세대, 술자리를 무알콜로 대체",
+        "summary_ko": "스페인을 포함한 유럽 Z세대 사이에서 알코올 소비가 급감하고 무알콜 음료가 파티 문화의 중심으로 떠올랐다. 건강·절약·SNS 이미지 관리가 복합적으로 작용한 결과로, 글로벌 주류 브랜드의 무알콜 라인업 경쟁이 더욱 가속될 전망이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K콘텐츠의 유통 경로 다변화'와 '소비자의 지출 재정의'가 동시에 진행되고 있다는 점이다. K뷰티는 군 교역처, K패션은 파리·뉴욕으로 유통 전선을 넓히고, 국내 ODM·인디 기업은 뉴욕 B2B 전시를 통해 제조 역량을 직접 팔기 시작했다. 반면 소비자 쪽에서는 구독 피로, Z세대의 무알콜 전환, 자연친화 인테리어 선호가 겹치며 '덜 쓰고 더 의미 있게'라는 소비 재편이 뚜렷해지고 있다. 브랜드가 공급을 늘리는 방향과 소비자가 지출을 줄이는 방향이 교차하는 지점에서 어떤 포지셔닝을 취하느냐가 2026년 4분기의 핵심 변수가 될 것이다.",
+  "cards_meta": {
+    "9f62e58e-72cc-4190-90f9-c1ba6d0795ef": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "72b9550d-531b-4dbf-8690-4f5e9cfc8400": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GWTZLXzNodG5RaHY2QnhHcWtYWUp1UHFfSFc0eFFnOXU2U2ZaSkhzVWxHdTJyTUFlc0F4X09WczVUemJBTWhFLWFGYTluY0JBVFRXZ0RTUklIVDdSUWxSSFJ1YkVLa2Q0Q2hz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "랜딩인터내셔널, 미국 3대 군 교역처에 K뷰티 입점 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0fd30831-6ef9-496a-be05-0418b878b2a7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=99980",
+      "original_headline": "유씨엘, ‘메이크업 인 뉴욕 2026’ 성료",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "67717196-824e-4c20-9831-f0b4b46fb1cf": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeEQzbHg4ZTZfQTZrZG9rVU1yc2tRTHpndmZqYnFlYXdDNVNpZ2dPQWQwN1JXbm0xU19kWmtNdWdKbGFjMWx6MnJPTVdZX1Ixd0hTR3VKN1g1Uy0yOEU0cmlqa1A3TzJBQVBBZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[뷰티 트렌드] 센카 양파쿵야 대용량 에디션 올리브영 단독 출시 外 - ibabynews.com",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fbda2af7-58cf-4e8d-a6cc-bd7969eeb253": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oR0NUN3F2cTlQLTFyNjRoekRUT2llUUl1Z3NMRDJZelIxaUFvNktNVnNaWWJSVmZkQlJIZVM1dEszM1U5aTc2N1RzS295c3RwNmY4WWJnUnFsM1hhTGRtaTlCOExtQkdlbDRnaHN1RFpxNElL0gF0QVVfeXFMTmhHQ1Q3cXZxOVAtMXI2NGh6RFRPaWVRSXVnc0xEMll6UjFpQW82S01Wc1pZYlJWZmRCUkhlUzV0SzMzVTlpNzY3VHNLb3lzdHA2ZjhZYmdScWwzWGFMZG1pOUI4TG1CR2VsNGdoc3VEWnE0SUs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "W컨셉, 뉴욕 이어 파리 공략…K-패션 75개 브랜드 출격 - 주간한국",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3688f6f8-cb72-4c8d-a94e-16c8705e1674": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yWVM3UWtmSDJvYUxhcnJJR190b0xtcGtYUkJuVW9QT21tazg0NURUNjFKdXRPLUVkam1mWEZwbWNsSnY1UTBtSzFQTFpRWXZrQzNIc1EwMXBoRHhCd0tzVUZMTS14dTd6cmF2Snd30gFzQVVfeXFMUGpRd0VBNENzU09aZ1h5Y25MZmNuQ2ctZmNMTkdIMENYYU9UVVNWbUVOVjZkVk9PdUg4LTd6bGJVaW5aZnVVN3dYc3Y4ZlFuczNYNjJuUFpZbUZpLVZzV0pINkg0dDdPS2dlbVdQX0RGNng4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "콘텐츠진흥원과 손잡고 K-패션 글로벌 진출 지원 - 한국일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "40d19810-a1f0-4e9b-aae3-c3adbe8914ec": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0e0716ad-08a4-48e1-b1c7-180ebf1758fa": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSzNLYlY3Z2xJZlNkdVEwdjZlV0pLb19RcFhfa3lMRy04VXVQNDVRSTk4SnY4REV3ZTZzdlZmVGMzRkg0a1lkd3N1RXMzXzJSUHRYLUFqbU4zaVBvcnB5bGZNbXBreXRMa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "AI 프롭테크 아키스케치, 자연친화 인테리어 유행 공개 - AI타임스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f0a4284a-08a1-435b-ae73-53c2e4a40600": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "a74575e3-1843-479e-becb-e2a83716a409": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] DTC Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xcW1GRlZnMTNrMEFQWTg2R1ZDNEpqLVRvWE9FZG1LdjM1Ty1BbncxZGZFejlDVVd0Sm9abHRFMnVmc0RrVFktTFE2R3c1Q2pzNWNBSlpTYzY5REE4ZkpZNG9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "9 tendencias de ecommerce en la industria del mueble y decoración para 2026 - shopify.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "57a72a3b-1d20-4302-881d-462fc25dea1b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
