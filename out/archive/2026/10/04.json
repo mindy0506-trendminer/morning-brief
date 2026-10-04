@@ -1,0 +1,203 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티: 올리브영, 한·영·일 뉴스룸 직접 운영하며 글로벌 서사 주도권 확보",
+    "소비트렌드: Z세대, 음주 대신 무알코올 선택…외식·음료 시장 지형 재편 가속",
+    "라이프스타일: 제주 5성급 호텔 집단 식중독, 고급 숙박 위생 신뢰에 균열"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "28b834bb-9620-405f-897b-d4055d869f07",
+        "title_ko": "춘천 비건 푸드 페스타 수도권 공략",
+        "summary_ko": "강원관광재단이 6월 춘천에서 비건 푸드 페스타를 열고 수도권 방문객 유치에 나선다. 지역 농·특산물과 비건 문화를 접목한 미식 관광 모델로, 비건 소비층을 지역 경제로 연결하는 시도가 본격화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f640abd3-c980-4801-929b-6d006ebd6361",
+        "title_ko": "강원 비건 페스타, 6월 13일 개막",
+        "summary_ko": "2026 강원 비건 푸드 페스타가 6월 13일 공식 개막한다. 농·특산물과 비건 식문화를 연계한 행사로, 지역 차원에서 비건 트렌드를 관광 자원으로 제도화하는 흐름이 가시화됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e034815b-6fea-4db6-8506-26b5aecbabc0",
+        "title_ko": "자동차 업계도 비건 소재 도입",
+        "summary_ko": "자동차 업계가 내장재와 부품에 비건 소재를 도입하는 흐름이 확산되고 있다. 비건이 식음료 영역을 넘어 제조업 전반의 소재 기준으로 자리 잡는 추세를 보여 주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "1d08b3b0-4ae9-4abf-8c52-d9136b9f989f",
+        "title_ko": "에스쁘아, 오트 라떼 전 라인 확장",
+        "summary_ko": "에스쁘아가 단종 후 재출시 요청이 끊이지 않았던 '오트 라떼' 무드를 베이스·아이·치크·립 전 카테고리로 확장한 한정 컬렉션을 올리브영에 출시했다. 뉴트럴 톤 수요가 지속되는 가운데, 브랜드 헤리티지를 에디션 마케팅으로 전환하는 전략이 주효하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "04a76865-ef23-4161-938f-ccede1f0401c",
+        "title_ko": "올리브영, K뷰티 뉴스룸 직접 운영",
+        "summary_ko": "CJ올리브영이 한국어·영어·일본어 3개 언어로 공식 뉴스룸을 열었다. 미디어 중개를 거치지 않고 브랜드 스스로 글로벌 서사를 생산하겠다는 선언이며, K뷰티 정보 유통 구조에서 플랫폼의 영향력이 더 커질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "21c12a5d-5bd8-447d-a08d-91bcfa19c3d8",
+        "title_ko": "화서자, 중국 화장품 박람회 신제품 공개",
+        "summary_ko": "중국 대표 뷰티 브랜드 화서자(花西子)가 2026 중국 향료·향정·화장품 박람회에 신제품을 들고 나섰다. 국내 제품과의 경합이 심화되는 시점에 중국 브랜드의 전시 전략이 다시 주목을 받고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "5d66fc93-5295-4925-8cbb-9b17fc8d561e",
+        "title_ko": "스페인, 럭셔리를 국가 전략 산업으로",
+        "summary_ko": "스페인이 럭셔리 섹터를 국가 경제 전략 산업으로 공식 위치시키는 논의를 본격화하고 있다. 럭셔리가 단순 소비재를 넘어 국가 브랜드 자산으로 편입되는 유럽형 모델이 확산 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "718d569a-e103-4007-bca5-80415646f41a",
+        "title_ko": "제주 5성급 호텔, 집단 식중독 발생",
+        "summary_ko": "제주 소재 5성급 호텔에서 투숙객 59명이 집단으로 병원을 찾는 식중독 사건이 발생했다. 고급 숙박 시설에 대한 위생 신뢰가 흔들리는 사건으로, 호캉스 수요가 높은 시기에 브랜드 이미지 관리의 취약성을 드러냈다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "46df6870-18f4-4d89-b6be-26b0ade994f7",
+        "title_ko": "잊고 있던 구독료, 숨은 비용 경고",
+        "summary_ko": "소비자가 인지하지 못한 채 매월 지출하는 구독 서비스 비용이 재조명받고 있다. 구독 경제 성장 이면에서 '비용 피로' 현상이 쌓이고 있으며, 이탈률 상승을 우려한 플랫폼들의 번들링 전략 재검토가 예상된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6cf3f706-92f7-48ea-9cc1-c595a1dc6932",
+        "title_ko": "Z세대 외식 소비, 편견과 다르다",
+        "summary_ko": "Z세대의 외식 소비 행태가 기성 세대가 붙인 편견과 실제로 다르다는 연구 결과가 나왔다. 가성비 집착, 배달 선호 등의 고정 관념이 과장됐으며, 경험 중심의 식문화 소비가 병행되고 있다는 점이 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "84ea5925-63c8-4251-97bf-77b2ff4a0ea2",
+        "title_ko": "Z세대, 무알코올로 음주 문화 대체",
+        "summary_ko": "Z세대를 중심으로 알코올 소비가 줄고 무알코올·저도수 음료가 자리를 채우는 추세가 유럽에서도 확인됐다. 음료 업계의 무알코올 라인업 확대가 트렌드를 넘어 구조적 수요 전환으로 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 클러스터를 관통하는 핵심 흐름은 '소비자 신뢰의 재구성'이다. 올리브영의 뉴스룸 직접 운영은 플랫폼이 외부 미디어 의존 없이 서사를 통제하려는 움직임이고, 제주 호텔 식중독은 프리미엄 경험에 대한 신뢰가 얼마나 쉽게 무너지는지를 보여 준다. Z세대의 무알코올 전환과 구독 비용 피로는 같은 맥락—'당연히 소비해야 한다는 전제'에 대한 거부—으로 묶인다. 브랜드와 플랫폼 모두, 소비자가 신뢰를 주는 조건이 더 까다로워졌다는 점을 전략의 출발점으로 삼아야 할 시점이다.",
+  "cards_meta": {
+    "28b834bb-9620-405f-897b-d4055d869f07": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TOFczMEc0QzZxS2VkWmhUR2k4MUlXeWJubVh6TkF4Rk45Mk9ubXpQNmRCMXFRQ0F2aUJsUmlZWW5GLTZWU3N1UXRFWTRkV0lwY2hFWV9vS2JOdTdCNENKRm51dmdKd1lP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "6월 춘천 ‘비건 푸드 페스타’…강원관광재단, 수도권 공략 나선다 - 강원도민일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f640abd3-c980-4801-929b-6d006ebd6361": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e034815b-6fea-4db6-8506-26b5aecbabc0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - design.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1d08b3b0-4ae9-4abf-8c52-d9136b9f989f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100039",
+      "original_headline": "에스쁘아, ‘오트 라떼 컬렉션’",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "04a76865-ef23-4161-938f-ccede1f0401c": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RUzhHaTNQNXJHS3lCczB1TnRTNEFtaDQtX0w1QnBmTW9QWGMyRHd3TWVoUkJLZ0lpWkJpcFhiVWxsaHoxYlB6Ujg0THduT2otTlBBVXZIZkk5aFpuVWlvQTFmX0tueE1LYmZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, K뷰티 직접 알린다…한·영·일 공식 뉴스룸 론칭 - 뉴스저널리즘",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "21c12a5d-5bd8-447d-a08d-91bcfa19c3d8": {
+      "category": "뷰티",
+      "source_name": "GN-ZH [뷰티] 美妆 新品",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6RGtSSXpqQ0NPOG1mWlg4NDh2X0VuUXFYZEZwTDN2TlNsRGZ0SVoxbVZMWmhsNWZocWxxRDB6U0xEdHc3OUR6d2pSY0UzcUNVY3hpRS1HT2dac1NHNElLdUZJZWxEcm9uV21GZWZEUW9oUk9vUlN1Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "花西子携新品亮相2026中国香料香精化妆品精品博览会 - 新浪财经",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d66fc93-5295-4925-8cbb-9b17fc8d561e": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRm1ZUjllUXBKTmNEVC1mTWZJT1VjVTdtRGdXejlEQWtlNGJfRjc4UnZ2U3ZwX1RlTTlZcklFTEtVM0s5NWVnTW50SDhOZmFUVU1iTVVIZG91TlhLQ2M1T2ZmZDZ4WkJKYzdMYTNvTzhqb1BlMjNvekhJMGRoV09UTWNVck0yeTlCOHo5NDA1djQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "El lujo como sector estratégico de la economía española - economia3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "718d569a-e103-4007-bca5-80415646f41a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRC1qSzdreF9FdFhWTEdjX29CSE1HbjZBR0QyUFZwY1g1TjE3bUlRcldFaTV5OFdHbjdidTQ0LUZJS0t2Q09hQzRYMjVKbTZ4dkg4dVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주 5성급 호텔 발칵…투숙객 59명 무더기 병원행, 무슨 일 - 중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "46df6870-18f4-4d89-b6be-26b0ade994f7": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "6cf3f706-92f7-48ea-9cc1-c595a1dc6932": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDc5bWplRGdrVHZCdHYydUNkX3lvSVdnQmV6Mi1aMF9ZT04wdUR0ZmVlRXpRdXBSVUp3QkdFQ2RaWUt2S3pRWXo3d1IxUFV1alhWNmVTOUFJQXN1cWVUdWU3OUNxY0JIUjN5bHdmbW1yQXRvb25OTDRheGEtSEg3X1lwVG1mcVZwRXVDODlEUjlZWEJkWEZRUHpvM0l5Z0lpdjZTOEw3SUx3RGtTRG9mT2lJbVNNeTJjM2xVQlJMUG5UbG05dHfSAdoBQVVfeXFMTmRYYllpbUtod0xLNXJjTUpNRlI4MU9VdjdyM3VrekQ2a0lRVTl3QVMzZ0tMMzlJWVVVR0VmdkxxTE9KNG9Ra1ZXMFZjb1ktV2V4NTBHUXNzWTBfX3IxUEo0dUpWRmJrdERZM1FBVzNDSVloRzZvbXRYN2cxZjBMc3J2S0lWTmhrWlFLMTlqNnlUbFh1X2hnN3JjOWNFN3NPRXRZakdIQk1VWnFPVlVNY1JvUTZvNDRUQ1JEd2l6RGpzcWUzdTVkMDk2bk5Ma0FOWEg5VE9JT045aWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "El estudio que responde a los falsos mitos y etiquetas de la gen Z en la gastronomía - larazon.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "84ea5925-63c8-4251-97bf-77b2ff4a0ea2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
