@@ -1,0 +1,240 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영, 중기부 연계 중소 브랜드 해외 진출 지원 3기로 본격화",
+    "식음료: 가공식품 가격 급등, 소비자 장바구니 부담 가중 국면 지속",
+    "소비트렌드: Z세대 금주 흐름 확산, 무알코올 음료 시장 수혜 구조 형성"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "d4e44f78-86c2-4fbc-9005-17b3de03a7e2",
+        "title_ko": "가공식품 가격 급등, 장바구니 압박",
+        "summary_ko": "가공식품 가격이 가파르게 오르며 소비자 실질 구매력이 줄고 있다. 편의점·대형마트 채널 모두 체감 물가 상승이 이어지고 있어, 자체 브랜드(PB) 상품이나 할인 상품으로의 이동이 가속화될 가능성이 높다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e9899cd5-c830-4284-a53c-fe030dcf1ca9",
+        "title_ko": "식물성 대체육 기술 특허화",
+        "summary_ko": "엠디에스코리아가 비건 치킨용 식물성 대체육 제조 기술을 특허 등록했다. 대체육 시장이 소비 단계를 넘어 기술 특허 경쟁 구도로 진입하고 있음을 보여주는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6a7bd721-a43d-4db1-be92-73cffb612f2e",
+        "title_ko": "자동차 업계까지 번진 비건 흐름",
+        "summary_ko": "비건 가치관이 식품을 넘어 자동차 인테리어 소재 선택까지 영향을 미치고 있다. 소비재 전 영역에서 비건을 라이프스타일 정체성으로 내세우는 흐름이 확산 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "f09db35f-cfd8-49bf-8697-56b1e12e35d0",
+        "title_ko": "올리브영, K-뷰티 중소 브랜드 해외 문 열다",
+        "summary_ko": "올리브영이 중기부와 협력해 'K-슈퍼루키 위드 영' 3기를 운영한다. 성과 우수 10개 브랜드에 해외 판매 지원까지 연계해, 단순 입점을 넘어 글로벌 진출 사다리 역할로 프로그램이 진화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d3f3ebdf-dfbb-4aaf-a8c4-6bed146b520f",
+        "title_ko": "에스쁘아 오트 라떼, 한정판으로 귀환",
+        "summary_ko": "에스쁘아가 단종 후에도 재출시 요청이 잇따랐던 '오트 라떼' 무드를 5종 베스트 아이템으로 확장해 한정 컬렉션으로 선보인다. 팬덤 기반 한정판 전략이 메이크업 시장에서 구매 동기를 높이는 유효한 공식임을 재확인한 사례다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9f1d8864-e7c5-4ea1-858f-5d6935131082",
+        "title_ko": "해양 미세조류, 화장품 원료로 상용화",
+        "summary_ko": "대봉엘에스가 해양 미세조류 유글레나 유래 베타글루칸을 활용한 고기능성 원료 개발·제품화에 성공했다. 해수부 국책과제 결과물로, 국산 원료의 기술 자립도를 높이는 동시에 차세대 성분 경쟁에서 차별화 포인트가 생긴다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "64a615c8-2fb6-48ee-9436-5752cf7706d3",
+        "title_ko": "럭셔리의 재정의, 스페인발 논의",
+        "summary_ko": "스페인 매체를 중심으로 럭셔리 패션의 본질적 정의에 대한 논의가 이어지고 있다. 가격·희소성 중심의 전통적 정의가 경험·가치 중심으로 무게축을 옮기는 흐름의 연장선으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "2681e43e-bffd-4cae-9db2-bd6d6e17cca1",
+        "title_ko": "인테리어 수요 증가, 가구업계 실적 견인",
+        "summary_ko": "인테리어 관련 수요가 늘면서 가구업계가 외부 경기 부진 속에서도 실적을 방어하고 있다. 집에 머무는 시간이 늘고 주거 공간에 대한 투자 의식이 높아진 결과로, 홈 인테리어가 주요 소비 카테고리로 안착하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ec87fc8d-d17d-4377-81c6-35b509bd372a",
+        "title_ko": "제주 5성급 호텔 식중독 집단 발생",
+        "summary_ko": "제주 5성급 호텔에서 투숙객 59명이 식중독 의심 증상으로 병원을 찾는 사건이 발생했다. 호캉스 수요가 정점에 달한 연휴 시즌에 터진 사건인 만큼, 프리미엄 숙박 브랜드의 위생 관리 신뢰도가 소비 선택에 영향을 미칠 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "026c8519-060f-4823-9f97-a7ce2aa57a9c",
+        "title_ko": "2026년 실내 인테리어 트렌드 정리",
+        "summary_ko": "2026년을 관통하는 실내 인테리어 디자인 트렌드가 정리되며 소비자 관심을 끌고 있다. 홈 인테리어가 선택이 아닌 생활 필수 소비로 자리잡는 흐름 속에서, 트렌드 정보에 대한 수요 자체가 구매 전 탐색 행동의 일부가 됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "195f29fe-e56c-4578-ac34-4c165c34ef30",
+        "title_ko": "구독 비용, 소비자가 잊고 있는 지출",
+        "summary_ko": "소비자가 인지하지 못한 채 유지 중인 구독 서비스 비용이 가계 지출의 숨은 누수로 지목되고 있다. 경기 압박이 가중되는 시점에 구독 서비스 정리·재검토 행동이 확산될 가능성이 있으며, 이는 구독 모델 기반 소비재 브랜드에 직접적 위협이 된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ed48f005-bbfd-4848-a315-fa2862f6cb51",
+        "title_ko": "Z세대, 술자리 대신 무알코올 선택",
+        "summary_ko": "스페인 Z세대를 중심으로 음주 소비가 줄고 무알코올 음료가 파티 문화의 대안으로 자리잡는 흐름이 포착됐다. 건강·절제 가치관이 음주 문화 전반을 바꾸고 있으며, 이는 한국 시장에서도 이미 진행 중인 소비 전환과 궤를 같이한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "efe4ca86-9f8b-4a3b-96d4-fe9f2aeb2f94",
+        "title_ko": "청년 음주 급감, 구조적 전환 신호",
+        "summary_ko": "스페인 카디스 지역 청년층의 음주량이 급격히 줄었다는 보고가 나왔다. 앞선 Z세대 음주 감소 트렌드와 맞물려, 일시적 현상이 아닌 구조적 소비 행태 전환으로 해석할 근거가 쌓이고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '소비자가 지갑을 더 엄격하게 관리하기 시작했다'는 점이다. 가공식품 가격 급등과 구독 비용 누수 이슈는 실질 구매력 압박을 보여주고, Z세대의 금주 전환은 단순 절약이 아니라 소비 정체성의 변화를 반영한다. 반면 뷰티 섹션에서는 올리브영의 중소 브랜드 해외 진출 지원과 국산 원료 기술 고도화가 동시에 진행되며, 가성비 압박 속에서도 K-뷰티의 기술·유통 경쟁력이 강화되는 이중 구도가 선명해지고 있다. 소비 긴축 국면일수록 '왜 이 브랜드여야 하는가'에 대한 설득력이 소비재 브랜드의 생존 조건이 될 것이다.",
+  "cards_meta": {
+    "d4e44f78-86c2-4fbc-9005-17b3de03a7e2": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qX2RrbFlkYlpRYldZU2NrMml0bVM5TkpSRW9PQzViczg5cWQxSm5WSzlrazdRWkpWd20yRjluZWhOWW1TdUxaTmNZTTZIUXZfR0lROW9vaWZSRko5UFNvSG5nNTBPd241clFZT2s4S29qdDBiT2lTNkhIaE4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "가공식품 가격 급등에 장바구니 ‘휘청’ - 부산일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e9899cd5-c830-4284-a53c-fe030dcf1ca9": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9naHZaWHNhaUh5STZsTkFhY2h2YVlMdFlUZThkX1VCVG1hQUFxZ3lud19FWm1EdU5PR0E2SDM0NC1rZktoZUFobDdnLUNlUFh0c2JyMmZzdkZpOUZ3SmVkeWxnR0VQemJXWUI2V1AzVmtLUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "엠디에스코리아, 비건 치킨용 식물성 대체육 제조 기술 특허 등록 - marketin.edaily.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6a7bd721-a43d-4db1-be92-73cffb612f2e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - 디자인플러스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f09db35f-cfd8-49bf-8697-56b1e12e35d0": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100011",
+      "original_headline": "CJ올리브영, ‘K-슈퍼루키 위드 영’ 3기 가동",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d3f3ebdf-dfbb-4aaf-a8c4-6bed146b520f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100039",
+      "original_headline": "에스쁘아, ‘오트 라떼 컬렉션’",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9f1d8864-e7c5-4ea1-858f-5d6935131082": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aMkZYTmwwTERJVF9QTG9ZRkNZLWdWN3RxNnNQN0FEWU83d0lVckFLWVR1Ml9xSzEtVGFMeHNKeFlMel8wMlNRZmlyY0FXT2hpN2JYbkZtVVJZNDRiOTUzN25xOHcyLVJwWmk4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "해양 미세조류 고기능 화장품 원료 개발 성과 가시화 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "64a615c8-2fb6-48ee-9436-5752cf7706d3": {
+      "category": "패션",
+      "source_name": "GN-ES [패션] lujo Espana",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWU42YkRKWG16czlSTmNpRVhGNnh6SkcwYUZuelFzRGlsTGpoNjJFUFVPQ0RnY05KUnpyMWpJdmJ0VENscktXcmdmeHU3VmJGMGtwWkd5Ymt1b1hlZTJ6Y2hDTXBuRFEyQWJxZlBOM3Q0Q3JibDVIUGFJVDRxVXlhcU5tRVhNR283NVhXWnRHd9IBjwFBVV95cUxQS21jQW9zYmQzSElfb0dMTkFMQlpBcDBrekRKUUFaUWo0VGVZOFIySzl1cFV0ZVA2MVAtOENPU3hLQ2NOZVdqLU1iWHRDVDV0VDBpQVMtYkNuU05Mcl9qN09vd3ZyUldPSkVuSnBWRWZmMm1WcUpfM0hVMFVLTzNNTExlRnc2S09BQUJRVmFyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "¿Qué es el lujo? - expansion.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "2681e43e-bffd-4cae-9db2-bd6d6e17cca1": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Living",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bDhfVHRFYk15VEs0b2dkUXhGcDdOcHFIZ0dYT0NzR3FFME9xSVpEeTRFdkhWWTlTbVk2VGRrWVlkbkY3Wk1GWWRnMU5KQWw5NWZSdTFLcDZMZFRkZ3lqRWQwMnY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "인테리어 수요 증가에 가구업계 실적 선방 - news.mtn.co.kr",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ec87fc8d-d17d-4377-81c6-35b509bd372a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRC1qSzdreF9FdFhWTEdjX29CSE1HbjZBR0QyUFZwY1g1TjE3bUlRcldFaTV5OFdHbjdidTQ0LUZJS0t2Q09hQzRYMjVKbTZ4dkg4dVdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주 5성급 호텔 발칵…투숙객 59명 무더기 병원행, 무슨 일 - 중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "026c8519-060f-4823-9f97-a7ce2aa57a9c": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "195f29fe-e56c-4578-ac34-4c165c34ef30": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "ed48f005-bbfd-4848-a315-fa2862f6cb51": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLS1ZSXN5M3N4YVBlVWktRGZ3ZzhCbzR5Y3V1QXNLa0o1UlE1LU1URFVzRzRwSlFyUFBBc0tBTWtWY3F5b0J4VUZ0UUZTUGdqM1RjYzFJcnJKdnRWWlkwaXBDZXdCVHF4Y2thQWgwWGlvSTJoRWlELXd5NUtWZ0pXMm9PNmF5UTBULUpaaG5qN1RoWUdlT3hRSEhWd0lzQWlvNUNrejk1Zl9rR0dFMzRhYnZDOExJaF90X0F3bGRoMHk4Q2F0Ulp3U1p3RkV5RnF2VWJISGoyZ2ZPWlU2eV9IRXBiYW9PMGYwb3RHWUlQakpHU1h5aEQxLUhzQlfSAfwBQVVfeXFMTzZLdVh6R3dwUEtzeGxXeXBXTVBfV3FmNWduZG9mZHNTRmZvQlViS3V6ZHdIZmNKTWRBcTBDVTE4dlJLdGo0S0VfZzZMRTN1LXI0Z3IxTGQxbXJWaGlRbFFjYlJYTFNraFhuY3ZxaElfZ1czRmxWRVVuT1A1MWxGc3F3MEN5Rlp0RGROd0lQc2hiVVdLUHYyVTRrd25lY0trQzczTURZdVhXU1MybWFXT0gwRWxDV3cwU0I4cVhhQzBONkVLb3R2UTdXd2hnUXg3bXhFb1dRcVNDd2VDRk50RFl4bDRjLUFvTU1EdmJURmttQ21KdXpJSEZ5d19T?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z cambia la fiesta: cae el consumo de alcohol entre los jóvenes y triunfan las bebidas 0,0 - antena3.com",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "efe4ca86-9f8b-4a3b-96d4-fe9f2aeb2f94": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGJjVVIxck5aSXRsTV9pOVhnWmxHY09QSmtXbFVTZ1U3QjJMeXFLQkVJd3FZSk5sQzJkQkhsNzVhQzF6am1UTjJIT3JmbjNUTVRzS1JIMUFncDRpb2JLX1lxNEJnalJ0U3R5V0ZwVnN6eVZCcGRXSUJ3RzBBLS1wOVhOSzc4S2VQam5zcUxkc05UVVdpbXhDXzYwS1NDaDg3aEZ0a21nX0gwT1RhelHSAbMBQVVfeXFMTVZaOUw1QW1JNldyQmlnTDNKbm0tVGdTSzBnYnJRZkxsWDZ5ZHVZRm56V192ODZxR1VTalZsVHAxZTFkNTVETlh2Y1FrVW10a21paG5zaEFXd2JrVlc3T2xRbWh4RXd6cU9WQjJHZmE2VGVmN0dVWERaSlRNUTdLNEtoWHlQVktxcUhJX3FjRXNCYzhERXpuRUphem5WTnNvN1VhRDdyY3hfU04zLWsyQnpwdzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "El consumo de alcohol entre los jóvenes gaditanos cae en picado - diariodecadiz.es",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
