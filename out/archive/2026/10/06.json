@@ -1,0 +1,220 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티 수출 올해 31% 성장으로 역대 최대치 경신, 중국 티몰에서는 마스크팩 판매 2년 새 74% 급감으로 시장 양극화 심화",
+    "구독경제 피로감 확산, 미국 정부 규제 착수로 소비자 주권 회복 흐름 본격화",
+    "올리브영 공식 뉴스룸 개설로 K뷰티 유통 플랫폼의 미디어 기능 강화 가속"
+  ],
+  "sections": {
+    "MacroTrends": [
+      {
+        "cluster_id": "c7614fe9-a2b2-4ee9-8d7a-bb91e796d971",
+        "title_ko": "오키나와 미군 호텔 범죄, 관광 경계심 자극",
+        "summary_ko": "오키나와 주둔 미군이 호텔에서 30대 일본 여성을 상대로 강도살인을 저지른 혐의로 체포됐다. 일본 내 미군 관련 치안 우려가 재점화되며 오키나와 방문 관광객의 안전 인식에 영향을 줄 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "식음료": [
+      {
+        "cluster_id": "8d970f87-1fe1-4ea2-a3e6-49f34850c880",
+        "title_ko": "건기식·비건 브랜드 인지도 경쟁",
+        "summary_ko": "뉴트리 디데이가 2026 대한민국 고객만족브랜드대상 건강기능식품 부문을 수상했고, 비건 뷰티 브랜드 잇라피도 같은 시상식에서 수상했다. 건기식과 비건 카테고리가 독립적 브랜드 경쟁 축으로 자리잡고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1f647f40-708b-4e44-94ae-40f46dd6d842",
+        "title_ko": "춘천 비건 푸드 페스타, 수도권 공략",
+        "summary_ko": "강원관광재단이 6월 춘천에서 비건 푸드 페스타를 개최하며 수도권 소비자를 겨냥한다. 비건 식문화가 수도권 외 지역에서도 관광 자원으로 활용되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "93f6ec56-6072-4858-86d2-d6f77fb7a106",
+        "title_ko": "자동차 업계도 비건 소재 채택",
+        "summary_ko": "자동차 업계가 동물성 가죽 대신 비건 소재를 내장재에 도입하는 흐름이 확산 중이다. 비건 가치관이 식품을 넘어 내구재 선택 기준으로까지 번지고 있다는 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "9fe3c264-b4ae-4350-89a5-aba540fe3eb8",
+        "title_ko": "K뷰티 수출 역대 최대 경신",
+        "summary_ko": "올해 1~9월 국내 화장품 수출이 전년 대비 31% 증가하며 역대 최대치를 기록했다. 글로벌 K뷰티 수요가 구조적 성장 국면에 접어들었다는 평가가 나온다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "97166917-3ca0-4897-a9ab-7ef9f999e968",
+        "title_ko": "중국 티몰 마스크팩, 2년 새 74% 급감",
+        "summary_ko": "2026년 3분기 중국 티몰 한국관 마스크팩 판매량이 2년 전 대비 74% 감소했다. 수출 전체 호조 속에서도 중국 채널의 특정 품목 수요는 장기 둔화 국면에 접어든 것으로 진단되며, 카테고리·채널별 전략 분리가 시급하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fde46f3b-e5fd-456b-a0b5-26dc934854a1",
+        "title_ko": "올리브영, 미디어 플랫폼으로 진화",
+        "summary_ko": "CJ올리브영이 공식 뉴스룸을 신설하고 K뷰티 브랜드 스토리 콘텐츠를 직접 생산·배포하기로 했다. 유통 채널이 편집 미디어 기능을 내재화함으로써 브랜드 입점사에 대한 영향력을 한층 강화하는 수순이다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "277fb41a-591a-4516-8ddb-2700b41ebee5",
+        "title_ko": "2026년 인테리어 트렌드 총정리",
+        "summary_ko": "2026년 실내 디자인은 소재의 자연성과 기능적 미니멀리즘을 축으로 전개된다는 분석이 나온다. 과잉 장식보다 내구성과 정서적 안정감을 우선하는 소비자 선호가 반영된 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d78f4280-0c4d-46f4-9422-c2be82dcfe29",
+        "title_ko": "절제미 '드뮤어' 인테리어 부상",
+        "summary_ko": "'드뮤어(demure)' 키워드가 패션을 넘어 인테리어 영역으로 확장됐다. 과시보다 차분한 절제미를 강조하는 공간 연출이 MZ 세대를 중심으로 확산 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "3c0e7167-e25d-4243-bc66-75bb5d23cbb5",
+        "title_ko": "소유에서 구독으로, 그 역풍",
+        "summary_ko": "'우리는 더 이상 아무것도 소유하지 않는다'는 담론이 확산되며 구독 모델의 구조적 문제가 공론화되고 있다. 소비자가 지불하는 비용 대비 실질 권리가 축소된다는 인식이 커지는 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2e1bf9ba-7943-4cfb-9017-7bfe2d7b5726",
+        "title_ko": "미 정부, 구독경제 규제 착수",
+        "summary_ko": "미국 정부가 통제 불능 상태의 구독경제를 규제하려는 시도에 나섰다. 해지 장벽 제거와 자동갱신 투명화 요구가 핵심으로, 구독 기반 수익 모델을 운영하는 소비재 기업에 직접적 영향이 예상된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8344563f-a64c-405b-8f1b-ab943e8d3eb6",
+        "title_ko": "잊고 있던 구독료의 함정",
+        "summary_ko": "소비자가 인지하지 못한 채 지속 결제되는 구독 비용이 평균 10개 이상이라는 분석이 나왔다. 구독 피로감이 단순 불만을 넘어 실질 가계 부담으로 측정되기 시작했다는 점에서 브랜드의 구독 설계 재검토가 필요하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '신뢰와 소유의 재정의'다. K뷰티는 글로벌 수출 호조에도 중국 채널에서 특정 품목이 급락하며 시장 다변화 압박을 받고 있고, 구독경제는 소비자와 정부 양측의 저항에 직면해 수익 모델 재설계가 불가피해졌다. 올리브영의 뉴스룸 개설과 비건 가치관의 자동차·인테리어 영역 확장은 브랜드가 단순 제품 판매를 넘어 라이프스타일 서사를 직접 장악하려는 공통된 움직임으로 읽힌다. 카테고리별 개별 사건처럼 보이지만, 소비자가 무엇을 믿고 무엇을 실제로 손에 쥐는지를 다시 묻는 시대적 전환 신호다.",
+  "cards_meta": {
+    "c7614fe9-a2b2-4ee9-8d7a-bb91e796d971": {
+      "category": "MacroTrends",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nc3kzRkpzT2o5VVF2d0V0cmRRWDU2NW0yVWVXbXlpV3NhLW9YTWhhdkVSWTZ0c29tTTBYOU52bXZHbDIxV3ptVFliaXpuNHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔서 30대 日 여성 강도살인 혐의…오키나와 주둔 미군 체포 - v.daum.net",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d970f87-1fe1-4ea2-a3e6-49f34850c880": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hdDY5T3JuMGRxaGowekVfRmJjeXpzMWczeVdYOVJ6alFFMlhiS2daeDRuSmdPXzJZeWJtVkJYQnhxdXY0ZXp5MkotejEzMXFrSTFtbzRsbVdiX25ETHc0NjlKbU1PMVZ1aTVoWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[2026 대한민국 고객만족브랜드대상] 건강기능식품 브랜드, 뉴트리 디데이 - 한경매거진&북",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1f647f40-708b-4e44-94ae-40f46dd6d842": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TOFczMEc0QzZxS2VkWmhUR2k4MUlXeWJubVh6TkF4Rk45Mk9ubXpQNmRCMXFRQ0F2aUJsUmlZWW5GLTZWU3N1UXRFWTRkV0lwY2hFWV9vS2JOdTdCNENKRm51dmdKd1lP?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "6월 춘천 ‘비건 푸드 페스타’…강원관광재단, 수도권 공략 나선다 - 강원도민일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "93f6ec56-6072-4858-86d2-d6f77fb7a106": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ubFhUaEtzQnhsUXZpb0pBNXA5MWFKR2ZJc0ZlUGI3UnJ6cWJTVlRpMExqWjVJeXgzWjFidFNubXFpWm91R2ZXS0wwb2I?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "자동차 업계에 부는 ‘비건’ 흐름 - 디자인플러스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9fe3c264-b4ae-4350-89a5-aba540fe3eb8": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KV0NhU2JhYURVckpPMlRma0hhN21WdHh3d24wbjZuX09hU2FONmQzaEJyOUtYUDduemQtSlVGaFMtSXE1UjFsb3BFbWpBZVNteUZXam1qdUJCSjjSAWBBVV95cUxPYmF3V2ZrMkhIbkZNLU9jY0FzdFZtWWRqVk9wc01zbU5rNzMxS01hVnJOX2R6dWNrUnJWUnVJX3lydVNHR1I4YmJ2cExpNmhzSzdyZ1VVM0RmZG5uSjJDOUI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K뷰티 질주 가속…9월까지 화장품 수출 31%↑ '역대 최대' - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "97166917-3ca0-4897-a9ab-7ef9f999e968": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312029",
+      "original_headline": "3분기 티몰 K-뷰티 마스크팩 분석①: 판매량 2년 새 74% 감소...수요 둔화 장기화 우려",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fde46f3b-e5fd-456b-a0b5-26dc934854a1": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5haDlyWlBQeVdqWWR4U3drNFkydEdDRjVBZVBfbmxVckF4V2R1Uk9xbEpKbTRvQXdaV3lHXzlwb0FrR2VNMHJpX2pqQTRfbUtMRzEwYkV5YW1HSENlNXBYTVUybTR1MHpfNW96QUh30gFzQVVfeXFMT3cyRmtwWmpBYmJfYTBESzN5eVMtNDA5UlA5VjlCaFVfREZOTG9CdWdhUW5pRGk2SVR5LXJVc1l6LUNrbnFlVVByNGhZa3lfRGZlQ0E3NTFJU1NjWllZZUVnaW54YW1Ib2pDa0lvNlB6LVRGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 공식 뉴스룸 신설… K뷰티·브랜드 스토리 콘텐츠 전한다 - 한국일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "277fb41a-591a-4516-8ddb-2700b41ebee5": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d78f4280-0c4d-46f4-9422-c2be82dcfe29": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmNE1SWkVPbE5Da3hCNDFFLWo0SkNiVmlMWWlaNWFIeEUwMURFMGlHd1Zya0VBbkZuWFR2cTZkdjFqdXBKRUNKUi1Vc3VsZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "차분한 절제미, 드뮤어(demure) 인테리어 트렌드 - elle.co.kr",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3c0e7167-e25d-4243-bc66-75bb5d23cbb5": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "2e1bf9ba-7943-4cfb-9017-7bfe2d7b5726": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnpyYzJmZW5HTDZKNVU3d0I3OVh3MW0xUjFYSHp5c1JRSnpzMlkyYjl6MmhIRXpGQjBIbXF5MFRZYzhrTnpkMVo2aEd6aEtuWks0RVNhbTVHa1pkM01zU1NjUEp0WXJRc19BOWJUMUFManFBcUROaWFQMURNUEpqblhReTFKLWo5NWs1S3BfREl6TFpsczJRVDJ5MnpuUHdGX3pvY3VsYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "US government tries to rein in an out-of-control subscription economy - theconversation.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "8344563f-a64c-405b-8f1b-ab943e8d3eb6": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
