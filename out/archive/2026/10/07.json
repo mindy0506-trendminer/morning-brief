@@ -1,0 +1,211 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "더현대 글로벌의 파리 팝업으로 K-패션의 유럽 거점 확보 본격화",
+    "올리브영, '풀케어 샤워' 프로모션으로 바디케어 루틴 시장 선점 나서",
+    "구독 경제 피로감 확산 속 Z세대의 탈음주 흐름이 소비 지형 재편 신호"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "5702f84c-994b-443d-bf68-58cbd70d3e65",
+        "title_ko": "체코-한국 크래프트 협업 맥주 출시",
+        "summary_ko": "체코 국영 브루어리 부드바르가 서울브루어리와 손잡고 한국산 흑미를 접목한 다크 라거를 출시했다. 전통 디콕션 매싱 공법에 현지 원료를 더한 이 협업은 수입 맥주 브랜드의 로컬 밀착 전략이 크래프트 영역으로 확장되고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "ff29fb27-5ffb-4380-a989-97873d4f8aa2",
+        "title_ko": "궁중비책, 170개국 K-뷰티 채널 진입",
+        "summary_ko": "영유아·민감성 피부 전문 브랜드 궁중비책이 실리콘투 운영의 글로벌 플랫폼 스타일코리안에 입점해 170여 개국 소비자와 접점을 넓혔다. K-영유아 스킨케어 카테고리가 성인 뷰티에 이어 해외 확장의 새 축으로 부상하는 흐름을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8bdcc4d1-2717-4d1e-ab02-446839dc06f0",
+        "title_ko": "정샘물 BB, 올리브영 선공개",
+        "summary_ko": "정샘물이 다크닝 현상을 개선한 신형 BB를 올리브영 단독 선출시했다. 국내 1위 헬스앤뷰티 채널을 신제품 론칭의 첫 번째 창구로 활용하는 전략이 프리미엄 메이크업 브랜드에서도 굳어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8558aec2-715b-4c82-925f-ce256affc493",
+        "title_ko": "올리브영, 샤워를 '루틴 케어'로 재정의",
+        "summary_ko": "올리브영이 10월 한 달간 헤어·바디케어 풀케어 샤워 프로모션을 전개한다. 세정을 자기 관리 루틴으로 격상시키는 메시지를 전면에 내세우며, 바디케어 카테고리의 객단가 상향과 맞춤형 구매를 동시에 유도하는 구조다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "4a601659-b313-4203-9827-6e0379224257",
+        "title_ko": "더현대 글로벌, K-패션 들고 파리 상륙",
+        "summary_ko": "현대백화점의 해외 유통 법인 더현대 글로벌이 파리에 처음 진출해 K-패션 5개 브랜드를 팝업 형태로 선보인다. 백화점이 직접 해외 팝업을 기획·운영하며 K-패션 수출의 중간자 역할을 자임한다는 점에서 기존 브랜드 단독 진출과 다른 구조적 변화다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0f78a868-e933-4d66-8f63-28e467770a02",
+        "title_ko": "홈 퍼니싱, 취향 소비의 중심으로",
+        "summary_ko": "홈 퍼니싱이 단순 인테리어 지출을 넘어 개인 취향을 표현하는 일상 소비로 자리잡고 있다. 가성비보다 개성과 감도를 우선하는 소비자 행동이 가구·소품 시장의 프리미엄화를 견인하는 동력이 되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d4516a6c-eb4d-4fcb-a8b7-80ec7b2c6825",
+        "title_ko": "셀프 인테리어 붐, 개인화 공간 수요 반영",
+        "summary_ko": "나만의 공간을 직접 꾸미려는 셀프 인테리어 수요가 뚜렷하게 늘고 있다. DIY 콘텐츠 확산과 소형 주거 증가가 맞물리며, 저비용 고감도 공간 연출을 원하는 소비자층이 두꺼워지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7ab10292-8d78-42ae-9521-a0e8988f7dc1",
+        "title_ko": "일본 MZ, K-인테리어에 주목",
+        "summary_ko": "일본 MZ세대 사이에서 한국식 인테리어에 대한 관심이 높아지고 있다. 미니멀하면서도 감각적인 K-인테리어 스타일이 SNS를 통해 확산되며, 가구·소품 한류의 새 시장으로 일본이 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "bb55ad8b-c8a1-4bca-ab22-530365573dc2",
+        "title_ko": "잊혀진 구독료, 소비자 피로 임계점",
+        "summary_ko": "인지하지 못한 채 지속 결제되는 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 경제의 외형적 성장 이면에서 소비자 피로와 자동 이탈이 동시에 누적되고 있는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7b07db51-f1a6-4a73-a144-a79060a75ca6",
+        "title_ko": "'소유'의 종말, 구독이 대체하는 시대",
+        "summary_ko": "제품 구매 대신 이용권을 확보하는 구조가 전 카테고리로 확대되면서, 소유 기반 소비 모델 자체가 흔들리고 있다는 논의가 주류 미디어에서 본격화됐다. 소비재 기업에게는 수익 구조뿐 아니라 브랜드 충성도 설계 방식의 재점검이 요구되는 시점이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "242cf4cc-2adb-449d-8689-489c7b456794",
+        "title_ko": "Z세대, 음주 문화에서 이탈 가속",
+        "summary_ko": "Z세대의 음주 기피 경향이 단순 절주를 넘어 음주 문화 자체를 거부하는 '탈프로그래밍' 단계로 접어들고 있다는 분석이 나왔다. 무알코올·저알코올 음료 수요 증가와 맞물려 주류 소비재 시장의 타깃 재설정이 불가피해지고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터들을 관통하는 흐름은 '자기 정의형 소비'의 전방위 확산이다. K-패션의 파리 진출과 K-인테리어의 일본 침투는 한국발 라이프스타일이 특정 카테고리를 넘어 공간·옷·피부로 이어지는 총체적 취향 패키지로 수출되고 있음을 보여준다. 동시에 구독 피로와 Z세대의 탈음주는 '제공되는 것을 소비하던' 시대의 균열을 알리는 신호다. 브랜드 입장에서는 표준화된 제안보다 소비자 각자의 루틴과 정체성에 편입될 수 있는 맞춤 서사가 더 강력한 경쟁 무기가 되는 국면으로 보인다.",
+  "cards_meta": {
+    "5702f84c-994b-443d-bf68-58cbd70d3e65": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68618",
+      "original_headline": "부드바르, 서울브루어리와 ‘서울 메이트 체코 다크 라거’ 출시",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ff29fb27-5ffb-4380-a989-97873d4f8aa2": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yaVN1UkIyQjNMZGFhOEZxWXFMRFR1SkxXZ1RFS09VTERkQjVOZGJWZko4QTdOTnhiVUZMNURvV2pjTk9BVEQ4NHgwTnBHRl9CZklDbmFyb3ZrYzd2WjViOWNGUlBpclhmdHhNbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "궁중비책, 글로벌 K-뷰티 플랫폼 ‘스타일코리안’ 입점…170여 개국 소비자 만난다 - 뉴스탭",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8bdcc4d1-2717-4d1e-ab02-446839dc06f0": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100067",
+      "original_headline": "‘정샘물 에센셜 스킨 누더 리커버 BB’ 올리브영 선런칭",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8558aec2-715b-4c82-925f-ce256affc493": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100080",
+      "original_headline": "CJ올리브영, 10월 한 달간 헤어·바디케어 ‘풀케어 샤워’ 프로모션",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4a601659-b313-4203-9827-6e0379224257": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] K패션",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZ0pCdWd2TURWdnUwdHpXamF3VkJUY0ptRkFJNTRpOVJDcWo3WnNZUU9idmdXcDR3ZlpiRTZNX3dlU2JmcTVwTXFwZDR6MjNOS1EzUVloc21QRzlZV0tKWXlzUHA1aU1DbEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대백화점 ‘더현대 글로벌’, 파리 첫 진출…K패션 5개 브랜드 선봬 - 한국면세뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0f78a868-e933-4d66-8f63-28e467770a02": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d4516a6c-eb4d-4fcb-a8b7-80ec7b2c6825": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7ab10292-8d78-42ae-9521-a0e8988f7dc1": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETHFjT3hGVjV3M0NqZ2d4enpVZU93T2VyTW5fOHVpaTNsakFsSy1lYWMzcDh1ckJsUjJnUzdxTTZORG5HdlZaQWtGeE1rUEVDak1idVBPcmJvZ9IBX0FVX3lxTFA2TlhlRjJSTjlISHdfckFrQzRLUDVhUVl5bVprT1M4OXN2OXNiN1FIMkY1Y1NyV0NrWmRTZ3dCYXo0MzRsWjlDVklUUk9VSG15MUd0b21XcWFVY1NOcVVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“어라, 한국 집 같은데?” 일본 MZ는 왜 K인테리어에 끌렸나 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bb55ad8b-c8a1-4bca-ab22-530365573dc2": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "7b07db51-f1a6-4a73-a144-a79060a75ca6": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "242cf4cc-2adb-449d-8689-489c7b456794": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
