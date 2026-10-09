@@ -1,0 +1,157 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 중국 티몰 부진 속 할랄 시장 다각화로 활로 모색",
+    "식음료·주류, 문화예술 현장 밀착형 컬처 마케팅으로 접점 확대",
+    "구독 경제 피로감 누적, '소유 없는 소비' 구조에 대한 반성 본격화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "fb3996b7-83c6-4f19-aae1-97f0f947d702",
+        "title_ko": "식음료·주류, 문화 현장으로 브랜드 침투",
+        "summary_ko": "영화제·전시·음악 페스티벌 등 문화 소비 현장에 브랜드를 자연스럽게 녹여내는 컬처 마케팅이 식음료·주류 업계 전반으로 확산되고 있다. 올 상반기 공연 티켓 판매액이 전년 대비 8.9% 성장하는 등 문화 소비 수요가 늘면서 이 채널의 마케팅 효율성도 높아지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b26112ef-a12d-4682-8f68-fdd9090b157b",
+        "title_ko": "불황에 꺾인 대체육 열풍",
+        "summary_ko": "경기 침체가 길어지면서 가격 부담이 큰 대체육 소비가 뚜렷하게 위축되고 있다. '환경보다 생계'라는 소비자 심리가 확산되며, 국내 대체육 시장의 성장 모멘텀이 빠르게 식고 있다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "9f0b9e79-dd50-4e05-ae1c-b81d41604848",
+        "title_ko": "K-뷰티, 할랄 시장 개척 본격화",
+        "summary_ko": "식약처가 K-뷰티 기업을 대상으로 할랄 인증 세미나와 교육을 실시하며 중동·동남아 이슬람 시장 진출을 지원하고 나섰다. 중국 의존도를 낮추려는 업계 수요와 맞물려 할랄 인증이 새로운 수출 경로로 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8949521e-fd0e-4764-bd4d-0ba0ef0f03b7",
+        "title_ko": "티몰 K-뷰티, 2년 새 반토막",
+        "summary_ko": "중국 티몰 내 K-뷰티 베이스 메이크업 판매량이 2년 만에 75% 급감했고, 크림 카테고리도 같은 기간 54% 줄었다. 하락 속도는 다소 완화됐지만 수요 구조 자체가 재편되고 있어 단기 반등보다는 포트폴리오 전환이 시급한 국면으로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "800d480c-fefd-4b6f-82d0-314acf2d5c02",
+        "title_ko": "중고명품 플랫폼 '김럭스' 공식 출시",
+        "summary_ko": "한국계 중고명품 거래 플랫폼 '김럭스'가 공식 서비스를 시작했다. 국내외 리세일 시장이 팽창하는 가운데, 한인 커뮤니티 특화 플랫폼이 새로운 틈새를 겨냥한 행보로 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "295f92d5-26f1-4ba8-b9e8-5fd767400575",
+        "title_ko": "홈 퍼니싱, 취향 소비의 중심으로",
+        "summary_ko": "홈 퍼니싱이 단순 인테리어를 넘어 개인 취향을 표현하는 일상 소비 영역으로 자리잡았다. 공간을 통해 자기 정체성을 드러내는 흐름이 강해지면서, 관련 시장의 소비층과 가격대 폭이 함께 넓어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "85ed9667-178f-4e06-be9d-0c2e4de46c92",
+        "title_ko": "소유 없는 삶, 구독 피로 누적",
+        "summary_ko": "스트리밍·소프트웨어·가전 구독까지 '모든 것을 빌려 쓰는' 구조가 일반화되면서, 소비자들 사이에서 소유권 상실에 대한 불만이 커지고 있다. 잊혀진 구독 비용이 월 지출을 조용히 잠식한다는 인식이 확산되며 구독 해지 검토가 늘고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1b987de2-8637-4403-9841-6e43c8f513a2",
+        "title_ko": "잊힌 구독료, 가계 지출 잠식",
+        "summary_ko": "미국 소비자들이 자신도 모르게 유지 중인 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 경제의 편의성 이면에 지출 가시성이 낮아지는 맹점이 있으며, 이는 소비 합리화 욕구를 자극하는 트리거로 작용할 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 '기존 성장 채널의 한계와 대안 탐색'이다. K-뷰티는 중국 티몰 의존에서 벗어나 할랄 시장으로 눈을 돌리고, 식음료 업계는 디지털 광고 대신 문화 현장으로 브랜드를 이식하고 있다. 소비자 측면에서는 구독 모델에 대한 피로감이 쌓이고 대체육 열풍도 경기 앞에 주춤하면서, 지금까지 당연시했던 소비 공식들이 재검토되는 국면이 동시에 펼쳐지고 있다.",
+  "cards_meta": {
+    "fb3996b7-83c6-4f19-aae1-97f0f947d702": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68627",
+      "original_headline": "식품·주류업계, 문화예술에 ‘브랜드’ 입혀 소비자 접점 확대",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b26112ef-a12d-4682-8f68-fdd9090b157b": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LRHlFYUVDdEpydFI5UXZEWlRUc1UtU2MzcXdORVA2dGtTZzh0Xy1UeFQwdVVvTlk5dHZyVno2WHNjSkVTS2NVOUpkMUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“먹고 살아야 환경도 생각”…불황에 식은 대체육 열풍 - 전자신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9f0b9e79-dd50-4e05-ae1c-b81d41604848": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDdVBLNER4b05HaHk4RVA2dk9RYi11RlByYlRPcnJwVElMTXlFRnZkR2k3UFpyWEg4Yi16bkRpMjBHeXFYLUhHbzJkdDE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "식약처, K-뷰티 할랄 인증 세미나 및 교육 실시 - 시사일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8949521e-fd0e-4764-bd4d-0ba0ef0f03b7": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312123",
+      "original_headline": "K-Beauty Base Makeup Sales on Tmall Plunge 75% in Two Years",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "800d480c-fefd-4b6f-82d0-314acf2d5c02": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 럭셔리 OR 명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZXRPVFJJQ2hYWWx4UFVoYkhwZ1pxVEhZVDVMY2RaZFV6WVFqd29ZeTFjZHZXUTRCVEVLVW9sV0NkamJ1cTBUMFlOQ18tb3haWHNzeVEyMVJYTmFaWDBieGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 플랫폼 ‘김럭스’ 공식 출시 - 미주중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "295f92d5-26f1-4ba8-b9e8-5fd767400575": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "85ed9667-178f-4e06-be9d-0c2e4de46c92": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "1b987de2-8637-4403-9841-6e43c8f513a2": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
