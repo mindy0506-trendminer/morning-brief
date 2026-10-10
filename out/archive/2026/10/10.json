@@ -1,0 +1,206 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 노드스트롬 입점으로 북미 프리미엄 채널 공략 본격화",
+    "불황 속 대체육 수요 냉각, 가치소비 피로감이 시장 재편 신호",
+    "중고명품 플랫폼 신규 출시·트렌드 분석 잇달아, 리세일 구도 재편 중"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "9536f083-8d62-4b43-b864-46e3b80eabcb",
+        "title_ko": "강원 비건 푸드 페스타 개막",
+        "summary_ko": "강원도가 지역 농·특산물과 비건 문화를 결합한 미식 관광 행사를 6월 13일 개막한다. 지역 경제와 비건 트렌드를 동시에 겨냥한 관 주도 행사로, 지방자치단체가 대체식품 수요를 관광 자원화하려는 시도가 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e1859eb4-3f29-46bd-ac0b-8b773f9b4fc3",
+        "title_ko": "불황에 식은 대체육 열풍",
+        "summary_ko": "경기 침체 속에서 대체육 소비가 뚜렷이 위축되고 있다. '환경보다 생계'라는 소비자 심리가 표면화되며, 프리미엄 가치소비 카테고리 전반의 수요 탄력성이 시험대에 올랐다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "c4fabe9e-0d1b-4039-8503-aeaf2cf3f261",
+        "title_ko": "K뷰티 12개 브랜드 노드스트롬 입점",
+        "summary_ko": "랜딩인터내셔널이 자사 플랫폼 'K뷰티 월드'를 통해 스킨케어·헤어케어·색조 등 12개 브랜드, 200개 이상 품목을 미국 노드스트롬에 공급한다. 온라인 중심이던 K뷰티 북미 유통이 프리미엄 오프라인 백화점으로 무게 중심을 옮기는 전환점으로 해석된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4bb3560f-02cc-4c35-8098-217707f6d572",
+        "title_ko": "궁중비책, 글로벌 플랫폼 스타일코리안 입점",
+        "summary_ko": "한방 기반 헤어케어 브랜드 궁중비책이 글로벌 K뷰티 플랫폼 스타일코리안에 입점했다. 전통 성분을 앞세운 브랜드의 해외 채널 확장이 이어지며, K뷰티 내에서도 한방·클린 성분 라인의 수출 경쟁력이 부각되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "1bb46978-ba59-4c2b-9e26-1e303b3ee283",
+        "title_ko": "중고명품 플랫폼 '김럭스' 공식 출시",
+        "summary_ko": "중고명품 거래 플랫폼 '김럭스'가 국내외에 공식 출시됐다. 중앙일보·미주중앙일보가 동시 보도하며 재미 교포 시장을 겨냥한 리세일 플랫폼으로 주목받고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "68134cf1-9f6c-4516-a74a-3a0d845ccbc4",
+        "title_ko": "구구스, 2025 중고명품 트렌드 공개",
+        "summary_ko": "중고명품 플랫폼 구구스가 2025년 거래 데이터를 바탕으로 트렌드 리포트를 발표했다. 김럭스 출시와 맞물려 리세일 시장 내 플랫폼 간 데이터 기반 경쟁이 가열될 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "65c0a1c3-a34a-4a2a-9592-d68d7d9385c3",
+        "title_ko": "셀프 인테리어, 취향 소비로 안착",
+        "summary_ko": "홈 퍼니싱과 셀프 인테리어가 일회성 유행을 넘어 일상 취향 소비로 정착하고 있다. 소비자가 시공업체 대신 직접 공간을 연출하는 DIY 수요가 늘며, 관련 자재·소품 카테고리의 구조적 성장이 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2fe3118a-798f-47ad-aa0e-6a6b340d67d8",
+        "title_ko": "일본 MZ, K인테리어에 끌리는 이유",
+        "summary_ko": "한국식 인테리어 스타일이 일본 MZ세대 사이에서 확산되고 있다. K팝·K푸드에 이어 K공간 미학이 수출 콘텐츠로 부상하며, 국내 홈퍼니싱 브랜드의 일본 시장 진출 여건이 무르익고 있다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "53da594f-a7c8-4367-ba31-175ee81a4463",
+        "title_ko": "잊고 내는 구독료, 10가지",
+        "summary_ko": "소비자가 인지하지 못한 채 자동 결제되는 구독 비용이 재정 누수의 주요 원인으로 재조명됐다. 구독 경제의 성숙과 함께 '구독 피로'가 글로벌 소비자 행동에 영향을 미치기 시작했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bdf3ba5c-7031-474a-9fcc-95d7cdb4ccbd",
+        "title_ko": "소유 없는 시대의 소비 구조",
+        "summary_ko": "스트리밍·구독·렌탈 중심으로 재편된 소비 환경에서 '소유'의 개념 자체가 흔들리고 있다는 분석이 나왔다. 소비재 브랜드 입장에서는 제품 판매보다 서비스 접근권 설계가 경쟁력의 축으로 이동하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "00cecc84-be23-45e1-9c5f-f5a75790d1a8",
+        "title_ko": "Z세대 구매 동인 데이터 분석",
+        "summary_ko": "중국 Z세대 소비 데이터 분석에 따르면, 이들의 구매 결정은 가격보다 정체성 표현과 경험 가치에 의해 좌우된다. 한·중·일 Z세대 소비 패턴의 유사성을 고려하면 국내 브랜드 전략 수립에도 시사점이 적지 않다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '채널과 소유 구조의 동시 재편'이다. K뷰티는 온라인 직구에서 프리미엄 오프라인 백화점으로, 명품 소비는 신품 구매에서 리세일 플랫폼으로 무게 중심이 이동하고 있다. 동시에 구독 경제 피로와 대체육 수요 냉각은 '가치 소비'의 한계를 보여준다. 소비자는 더 이상 이념적 선택보다 실질적 경험과 접근성을 우선하며, 브랜드는 제품 자체보다 '어디서, 어떻게 만날 수 있는가'를 재설계해야 하는 시점에 놓여 있다.",
+  "cards_meta": {
+    "9536f083-8d62-4b43-b864-46e3b80eabcb": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e1859eb4-3f29-46bd-ac0b-8b773f9b4fc3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LRHlFYUVDdEpydFI5UXZEWlRUc1UtU2MzcXdORVA2dGtTZzh0Xy1UeFQwdVVvTlk5dHZyVno2WHNjSkVTS2NVOUpkMUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“먹고 살아야 환경도 생각”…불황에 식은 대체육 열풍 - 전자신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c4fabe9e-0d1b-4039-8503-aeaf2cf3f261": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100092",
+      "original_headline": "랜딩인터내셔널, 美 백화점에 K뷰티 입점…프리미엄 시장 전격 공략",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4bb3560f-02cc-4c35-8098-217707f6d572": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzMUFtLU9BdFVfNGJQWnAzZXo0emRPZVQ2ZzgtSF83eTRITGZLbFRHNXptSTdOVVNjdkc3VHFBMU1zVFcxOXVQRk9JU2dWcW9PNDlsa2hVXzlJVXNjUlB2cUU0QUVZZEwwMDhJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "궁중비책, 글로벌 K-뷰티 플랫폼 ‘스타일코리안’ 입점 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1bb46978-ba59-4c2b-9e26-1e303b3ee283": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 럭셔리 OR 명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZXRPVFJJQ2hYWWx4UFVoYkhwZ1pxVEhZVDVMY2RaZFV6WVFqd29ZeTFjZHZXUTRCVEVLVW9sV0NkamJ1cTBUMFlOQ18tb3haWHNzeVEyMVJYTmFaWDBieGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 플랫폼 ‘김럭스’ 공식 출시 - 미주중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "68134cf1-9f6c-4516-a74a-3a0d845ccbc4": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BYXpyMFBhaFYyWmJFRFV4UkVySjlXdC05dktKdllxMnNVUEJrT25pSFlBaHBYcVN2N0dKVGxJMEZnWG5hbk9iaUZDMW1wVV9sX2R0Vzl2SDZndFBqb3fSAWNBVV95cUxNSmpUTTJvUVQ4SHBVM3E1YkRCRlkyYTZHQnI5cTdsdmNOMWl3UTdkbkJyRFlEVXlFcXlkU0NwWXY3b1BVTVF3bUZLSndNbDVtN1ZuMHdTTmNhRFZneDlXa2lyQWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구구스, ‘2025 중고명품 트렌드’ 공개 - 스포츠경향",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "65c0a1c3-a34a-4a2a-9592-d68d7d9385c3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2fe3118a-798f-47ad-aa0e-6a6b340d67d8": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETHFjT3hGVjV3M0NqZ2d4enpVZU93T2VyTW5fOHVpaTNsakFsSy1lYWMzcDh1ckJsUjJnUzdxTTZORG5HdlZaQWtGeE1rUEVDak1idVBPcmJvZ9IBX0FVX3lxTFA2TlhlRjJSTjlISHdfckFrQzRLUDVhUVl5bVprT1M4OXN2OXNiN1FIMkY1Y1NyV0NrWmRTZ3dCYXo0MzRsWjlDVklUUk9VSG15MUd0b21XcWFVY1NOcVVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“어라, 한국 집 같은데?” 일본 MZ는 왜 K인테리어에 끌렸나 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "53da594f-a7c8-4367-ba31-175ee81a4463": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "bdf3ba5c-7031-474a-9fcc-95d7cdb4ccbd": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "00cecc84-be23-45e1-9c5f-f5a75790d1a8": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
