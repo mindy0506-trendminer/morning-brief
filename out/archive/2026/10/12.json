@@ -1,0 +1,219 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "CJ올리브영, 동남아 세포라 48개 매장 입점으로 K-뷰티 해외 유통망 본격 확장",
+    "편의점 신선식품 구매액 20% 급증, 근거리 장보기 채널 재편 가속",
+    "구독 경제 피로 확산, '소유 없는 소비' 구조에 대한 소비자 반발 가시화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "4c4f15b2-acb2-4454-84df-c44eb38c4429",
+        "title_ko": "편의점, 신선식품 거점으로 부상",
+        "summary_ko": "편의점 신선식품 구매액이 전년 대비 20% 증가했으며, 과일·채소가 구매액 상위권을 차지했다. 대형마트 중심이던 신선 카테고리가 편의점으로 빠르게 이동하고 있으며, 근거리·소량 구매 패턴이 정착 단계에 접어든 것으로 해석된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4b101df0-da3f-446b-845c-497871227d8c",
+        "title_ko": "2026 건기식 트렌드, 저속노화 지속",
+        "summary_ko": "2026년 건강기능식품 시장의 핵심 키워드로 저속노화가 이어지고 있다. 노화 속도를 늦추는 성분·기능 중심의 제품군이 소비자 선택을 주도하며, 프리미엄 건기식 수요가 꾸준히 유지될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "64f0e2fb-6ed3-4f3a-9b10-a1ff5b29d410",
+        "title_ko": "'건기식 아님' 표시 의무화 추진",
+        "summary_ko": "정제·캡슐 형태의 일반 식품에 '건강기능식품이 아님' 문구 표시를 의무화하는 방안이 추진 중이다. 소비자 혼동을 줄이기 위한 조치이나, 관련 제품을 판매하는 중소 제조사와 유통업계의 라벨링 비용 부담이 예상된다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "3cb95a1a-77e7-4bce-8b74-662dee39153b",
+        "title_ko": "올리브영, 동남아 세포라로 유통망 확대",
+        "summary_ko": "CJ올리브영이 동남아시아 세포라 48개 매장 입점을 완료하며 K-뷰티 현지 유통 거점을 확보했다. 자체 브랜드 해외 직진출이 아닌 세포라 플랫폼 활용 전략으로, 초기 비용을 낮추면서 현지 소비자 접점을 빠르게 넓히는 방식이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7af75ebc-3f25-4403-9852-4cc3edd9d41d",
+        "title_ko": "티몰 K-뷰티 쿠션, 반등 조짐",
+        "summary_ko": "3분기 티몰 K-뷰티 쿠션 시장이 급락세를 멈추고 점진적 회복 국면에 진입했다. 다만 애경산업은 시장 내 입지가 위축되는 추세로, 브랜드별 명암이 갈리는 선택적 회복이 특징이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "46a8e03e-1e29-4106-a1dc-5fac0efea9b6",
+        "title_ko": "제주 K-뷰티 글로벌 라운지 입점사 공모",
+        "summary_ko": "제주 K-뷰티 글로벌 라운지가 신규 입점사 20곳을 공개 모집한다. 해외 관광객과의 접점을 확대하려는 지역 브랜드 및 중소 뷰티 기업에 수출 교두보 역할을 할 것으로 기대된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "86d2c4b5-9fc5-407b-aed5-f3a17f2c5919",
+        "title_ko": "중고명품 리세일, 2025 결산",
+        "summary_ko": "구구스가 공개한 2025년 중고명품 트렌드 분석에 따르면, 리세일 시장의 품목 다양화와 가격 합리화가 두드러졌다. 명품 소비의 진입 장벽이 낮아지면서 2030 세대의 유입이 가속화된 한 해로 평가된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "210fca4e-dc4c-49a8-9ea0-1e160950bcbd",
+        "title_ko": "셀프 인테리어 붐, 개성 소비로 정착",
+        "summary_ko": "직접 꾸미는 셀프 인테리어가 단순 절약 수단을 넘어 취향 표현의 수단으로 자리잡고 있다. 관련 자재·소품 시장과 온라인 콘텐츠 소비가 동반 성장하며 라이프스타일 카테고리의 핵심 수요로 부상했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b91e0cfa-ed69-4e65-85fa-484effdb7ae9",
+        "title_ko": "현대L&C, 인테리어 키워드 '굿 무드'",
+        "summary_ko": "현대L&C가 올해 인테리어 트렌드 키워드로 '굿 무드'를 제시했다. 기능보다 감성·분위기 중심의 공간 연출 수요가 커지면서 소재·색채 선택의 무게 중심이 바뀌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2f6aec02-3cf7-4764-b8d2-1f2263adb750",
+        "title_ko": "2026 인테리어 디자인 최신 흐름",
+        "summary_ko": "브런치 등 콘텐츠 플랫폼에서 2026년 인테리어 트렌드를 정리한 콘텐츠 소비가 늘고 있다. 자연 소재, 미니멀 구조, 멀티 기능 가구가 반복적으로 언급되며 공간 효율과 감성을 동시에 추구하는 방향이 뚜렷하다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "7eb73241-bf32-4d66-8749-d79f4547cc55",
+        "title_ko": "'소유 없는 소비' 피로감 확산",
+        "summary_ko": "구독 모델이 전 소비 영역으로 확산되면서 '우리는 이제 아무것도 소유하지 않는다'는 피로 담론이 미국 주류 매체에서 부상하고 있다. 구독 누적 비용에 대한 인식이 높아지면서 소비자의 해지·재검토 행동이 늘어나는 구조적 반전이 예고된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b8cbf179-ccc4-48b9-b7f9-f343eacad180",
+        "title_ko": "잊힌 구독료, 누적 지출 경보",
+        "summary_ko": "소비자가 인지하지 못한 채 지속 결제되는 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 소비자 지갑 점유 경쟁이 치열해질수록 인지도 낮은 구독 상품의 해지율 상승 리스크가 커진다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터들을 관통하는 흐름은 '채널과 소유 방식의 재정의'다. 편의점이 신선식품 유통의 새 거점으로 올라서고, 올리브영은 해외 세포라를 자사 유통망처럼 활용하는 방식으로 해외 진출 문법을 바꾸고 있다. 동시에 구독 경제에 대한 소비자 피로가 임계점에 다가서면서, 무형 서비스 중심의 지출 구조 자체를 재검토하는 움직임이 가시화되고 있다. '어디서 사고, 무엇을 소유할 것인가'라는 질문이 동시에 흔들리는 국면으로, 유통·상품 기획 모두에서 전제를 다시 짚을 시점이다.",
+  "cards_meta": {
+    "4c4f15b2-acb2-4454-84df-c44eb38c4429": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Wl9BS2U0QUt3SGVYMUVMVDBreEc0T1dQZDVubmplTF9UM2lERjRWcFJiWW5TbGFpMlo4U2xWZzR5dXJrUE56VVNxZnNuQ25PcU1mZ2hiRGZJY29nTGF4U9IBYEFVX3lxTE91Wl9BS2U0QUt3SGVYMUVMVDBreEc0T1dQZDVubmplTF9UM2lERjRWcFJiWW5TbGFpMlo4U2xWZzR5dXJrUE56VVNxZnNuQ25PcU1mZ2hiRGZJY29nTGF4Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\" - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4b101df0-da3f-446b-845c-497871227d8c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "64f0e2fb-6ed3-4f3a-9b10-a1ff5b29d410": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yTXk0QjYzNFBNSmRDVzFfNFNxTW12OFRVak9LbW1obDRsM0Juam9LUC1uRTRFM3k5MUJubGJ1dWpDVnpySmhNZ2tRZVRTMjBscXdqZWtYUkpOUXRWMmM3UUE1Mzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "정제·캡슐 식품에 '건기식 아님' 표시 의무화 추진 - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3cb95a1a-77e7-4bce-8b74-662dee39153b": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DbmdUV3FXSU8tSDhQaUpSTzBXd0g2RnpIMVlsTDZUWElqOUFGODdCblg1X0VZcU5YVk44a0Z4dW8tbDhGNFRWaWFTYVd3QzREWUxzbWhKNkEzcUhJd1VsT3RxcF90VUdqdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, 동남아 세포라 매장 입점 완료…K뷰티 유통망 확대 - 한국면세뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7af75ebc-3f25-4403-9852-4cc3edd9d41d": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312038",
+      "original_headline": "3분기 티몰 K-뷰티 쿠션 분석⑥: 급락 멈추고 반등 조짐...애경산업 '위축'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "46a8e03e-1e29-4106-a1dc-5fac0efea9b6": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByRms2LURpSE96eDlqX2NjUVBmNjRTcnZLRHVxRWhKTDVqQUU3TnVfSVpWTTk0N1d5OHVHVnhGTkEtaF9xOWxubUdkdmZ4QUF5dU5ROWFydGNFNG9EbnM0QlZkdUVfUjQ2TFUtbWFvbGdXaGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'제주 K-뷰티 글로벌 라운지' 신규 입점사 20곳 모집 - 헤드라인제주",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "86d2c4b5-9fc5-407b-aed5-f3a17f2c5919": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BYXpyMFBhaFYyWmJFRFV4UkVySjlXdC05dktKdllxMnNVUEJrT25pSFlBaHBYcVN2N0dKVGxJMEZnWG5hbk9iaUZDMW1wVV9sX2R0Vzl2SDZndFBqb3fSAWNBVV95cUxNSmpUTTJvUVQ4SHBVM3E1YkRCRlkyYTZHQnI5cTdsdmNOMWl3UTdkbkJyRFlEVXlFcXlkU0NwWXY3b1BVTVF3bUZLSndNbDVtN1ZuMHdTTmNhRFZneDlXa2lyQWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "구구스, ‘2025 중고명품 트렌드’ 공개 - 스포츠경향",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "210fca4e-dc4c-49a8-9ea0-1e160950bcbd": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b91e0cfa-ed69-4e65-85fa-484effdb7ae9": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbzhtWmtfR2NWNFhxNmN5Vm1FZ1Q5c2ZtX2RMMkxnVGZUaHRrMlN4VmlVa1NQUkJrUmpFMGhfOTlaOHZ6SUpyd2pmZUFKSEhNNHZrZlhGQ21QRm02X1BJTm1ZTlZSejhNY1Uwb3JSTjdSN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "현대L&C, 올해 인테리어 트렌드 '굿 무드' 제시 - 오늘경제",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2f6aec02-3cf7-4764-b8d2-1f2263adb750": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7eb73241-bf32-4d66-8749-d79f4547cc55": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "b8cbf179-ccc4-48b9-b7f9-f343eacad180": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
