@@ -1,0 +1,193 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 세포라 동남아와 프랑스 약국 동시 공략으로 오프라인 글로벌 유통 본격화",
+    "구독 경제 피로감 확산 — '소유 없는 소비'에 대한 역풍 신호 감지",
+    "홈 퍼니싱·호텔 경험 모두 취향 기반 프리미엄 소비로 수렴"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c4edeacc-c917-48b3-898f-61dd9ebd3ff3",
+        "title_ko": "약국, 건기식 온라인 판매 전선 확장",
+        "summary_ko": "약국이 건강기능식품 온라인 판매 채널로 부상하고 있다. 전문성과 신뢰도를 앞세운 약국 채널이 기존 이커머스·홈쇼핑과 경쟁 구도를 형성하면서, 건기식 유통 지형이 다원화되는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "829362ca-7382-4432-8fcb-38e341d105e4",
+        "title_ko": "올리브영, 동남아 세포라 전면 입점",
+        "summary_ko": "올리브영이 말레이시아·싱가포르·태국·홍콩 등 동남아 4개국 세포라 오프라인 매장 및 온라인몰 입점을 완료했다. 올해 1월 파트너십 체결 후 9개월 만의 성과로, 세포라의 검증된 유통망을 통해 K뷰티 소비 저변을 아시아 전역으로 확대하는 전략이 가시화됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8d38c5a0-8813-4413-828e-6e8105ae6e52",
+        "title_ko": "K뷰티 인디, 프랑스 약국으로 유럽 공략",
+        "summary_ko": "라누벨뽀·아이블 뷰티 등 K뷰티 인디 브랜드들이 시티파르마·몽주약국 등 프랑스 주요 약국 채널을 거점 삼아 유럽 진출을 가속화하고 있다. 온라인·수출 중심에서 현지 신뢰 채널 확보로 전략 축이 이동하는 흐름으로, 단순 입점을 넘어 현지화 전략의 심화로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "486c9d84-75c7-40b8-9e1e-6da328929191",
+        "title_ko": "럭셔리, 테니스 스타 영향력 쟁탈전",
+        "summary_ko": "정친원의 중국오픈 우승을 계기로 럭셔리 브랜드들이 프로 테니스 선수의 문화적 영향력 확보 경쟁을 가속화하고 있다. 스포츠 스타를 통한 아시아 소비자 접점 강화가 럭셔리 마케팅의 주요 전선으로 부상한 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "7fef3bbe-abc9-4bea-96f8-f61a5c35753a",
+        "title_ko": "서울신라호텔, 라 리스트 5년 연속 등재",
+        "summary_ko": "서울신라호텔이 파인 다이닝 4곳 모두 '라 리스트 2027'에 이름을 올리며 5년 연속 등재 기록을 이어갔다. 국내 최고급 호텔의 다이닝 경쟁력이 글로벌 평가 기준에서도 안정적으로 인정받고 있다는 확인이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c99ceda0-0c9f-4d82-96eb-6506ef35a6ec",
+        "title_ko": "홍대 호텔에 모션베드 영화관 개관",
+        "summary_ko": "모노플렉스가 홍대 라이즈 호텔에 베스트슬립과 협업한 '모션베드 영화관'을 열었다. 숙박·수면·엔터테인먼트를 결합한 이 공간은 호텔 부대시설이 단순 편의 기능을 넘어 차별화된 경험 자체를 상품화하는 흐름을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "540ab4d4-c43f-4e37-8472-0cd960ea480a",
+        "title_ko": "홈 퍼니싱, 취향 소비로 일상에 안착",
+        "summary_ko": "홈 퍼니싱이 인테리어 관심층을 넘어 일상의 취향 소비 영역으로 자리잡고 있다. 집을 자기표현의 공간으로 인식하는 소비자가 늘면서, 가구·소품 시장이 트렌드 민감도가 높은 카테고리로 진화하는 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "487fd139-1cee-4eac-8fd4-ee0f721d3dd2",
+        "title_ko": "구독형 보험 시대 예고",
+        "summary_ko": "국내 보험 시장에서 구독 방식의 보험 상품 도입이 예고되고 있다. 정기 결제 기반의 유연한 가입·해지 구조가 소비자 접근성을 높일 수 있는 반면, 구독 피로감과의 충돌 여부가 관건이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "105e9fee-3acd-477a-b7a4-c0c16fd0e013",
+        "title_ko": "잊고 있던 구독 지출의 경고",
+        "summary_ko": "소비자들이 인지하지 못한 채 유지 중인 구독 서비스 비용이 적지 않다는 분석이 나온다. 구독 경제의 외연 확장이 계속되는 가운데, 지출 인식 격차가 피로감과 이탈로 이어질 리스크가 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3e174203-b21c-41a5-a0cb-1195e5ac6b67",
+        "title_ko": "'소유 없는 소비'에 대한 역풍",
+        "summary_ko": "구독 경제의 확산으로 소비자들이 실질적으로 아무것도 '소유'하지 못하는 상황에 대한 피로감이 표면화되고 있다. 소유 기반 소비에 대한 재평가가 시작될 경우, 구독 모델 전반의 지속 가능성에 물음표가 붙을 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '신뢰 채널을 통한 프리미엄 경험의 오프라인 재확장'이다. K뷰티는 세포라와 프랑스 약국이라는 공신력 높은 오프라인 유통망을 동시에 공략하고, 호텔은 다이닝·수면·영화 경험을 결합해 공간 자체를 상품화하고 있다. 홈 퍼니싱의 취향 소비 안착도 같은 맥락이다. 반면 구독 경제 섹션에서는 '소유 없는 소비'에 대한 피로와 역풍 신호가 겹쳐 읽힌다. 디지털 편의 중심의 구독 모델이 소비자 신뢰를 잃기 시작할 때, 오프라인 경험과 실물 소유 가치가 반사 수혜를 받을 수 있다는 점에서 두 흐름은 서로 연결된다.",
+  "cards_meta": {
+    "c4edeacc-c917-48b3-898f-61dd9ebd3ff3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51WTRNUy1LdlRpbDZ6TEVlZ3lQTHpUbzBBSEplb1FkcmNrbVA2LWtSMWhmVndmVkRnVThNRjBrR1BCMHdMYVc1bF9VZ1hPQzlyN0UzclF0QnJNMk45U19RWV9uSVNWYWRwSTNZcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국의 건강기능식품 온라인 판매 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "829362ca-7382-4432-8fcb-38e341d105e4": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100125",
+      "original_headline": "CJ올리브영, 동남아 세포라 매장 입점 완료 K뷰티 소비 저변 확장",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d38c5a0-8813-4413-828e-6e8105ae6e52": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312185",
+      "original_headline": "French Pharmacy Chains Emerge as New Gateway for K-Beauty Brands in Europe",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "486c9d84-75c7-40b8-9e1e-6da328929191": {
+      "category": "패션",
+      "source_name": "GN-ZH [패션] 时尚 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTk1RdUJkVVk5anhvemtkbFVzX3FJZUh6eDdIdVpMZm43QlNUSmVBVlVwYjBZa2Z0eEo4Mk1TM2FrM0ZkS0FKS2R0Wk11SVpzNFAyRFVKeWdWWldQdkY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "郑钦文中网夺冠，奢侈品牌加速争夺职业网球运动员文化影响力 - 虎嗅网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "7fef3bbe-abc9-4bea-96f8-f61a5c35753a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Q1hJU0JTR25oSUpfbXRhTXJIUklyZnA3eWNtcEdZVE8xSUdCZlhlU2c2V0l1cHI4OHJBcFpqWXBYQ19uTjRwRVpvb1VCTV9hNUpnc3RrX2l4UlNE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "서울신라호텔, 5년째 파인 다이닝 4곳 '라 리스트' 등재 - 뉴스핌",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c99ceda0-0c9f-4d82-96eb-6506ef35a6ec": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wLWdmOW9GRmZNaVNmZ3pta3E5anRtMVpYLVVCWU14VVNoakp1TzctbnVKWWpMQVdqRkJPdjlJR003M1AwOG1YZi00RHU4azZaNkI3SDdoR2dBLUFIZlFPNWpCR3RrLWREUDYtaDVUZDk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "모노플렉스, 홍대 호텔 영화관 리뉴얼 오픈 - 숙박매거진",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "540ab4d4-c43f-4e37-8472-0cd960ea480a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "487fd139-1cee-4eac-8fd4-ee0f721d3dd2": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWFqNTFQMnpEYjNaalMtajd4WWZtUE9PWVlGTW9URTJzcnJmVEZFUEhpNGFfT3FwYkdFOFB4NXNpaGY1RkZTRUswRmVzQlpqWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "In the future, the era of \"subscription-type insurance\" is expected to open in the domestic insuranc.. - 매일경제",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "105e9fee-3acd-477a-b7a4-c0c16fd0e013": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "3e174203-b21c-41a5-a0cb-1195e5ac6b67": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
