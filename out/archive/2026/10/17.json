@@ -1,0 +1,224 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티엑스포 역대 최대 규모 개막, 15개국 679개사 참가로 수출 경쟁 본격화",
+    "무신사, J패션 플랫폼 조조타운 국내 첫 팝업 주선으로 패션 플랫폼 생태계 재편",
+    "Z세대 금주·구독 피로 확산, 소비 주도권이 '소유'에서 '선택적 경험'으로 이동"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c2cf8796-0f46-4b9d-8dae-c8f441b92f20",
+        "title_ko": "약국 건기식, 상담력으로 차별화",
+        "summary_ko": "약국 채널 건강기능식품 점유율이 4.5% 수준에 머물지만, 약사 상담이라는 전문성이 온라인·대형마트 채널과의 핵심 차별 요소로 부각되고 있다. 고령화와 셀프 메디케이션 확산 속에서 약국 채널의 역할 재정의가 필요한 시점이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "87f22617-31f3-4867-8652-52b42ad7772f",
+        "title_ko": "K-뷰티엑스포, 역대 최대 규모",
+        "summary_ko": "10월 15~17일 킨텍스에서 열린 '2026 K-뷰티엑스포 코리아'에 15개국 679개사가 1,088부스로 참가해 역대 최대 규모를 기록했다. 전시면적은 전년 대비 1.4배 확대됐고, 코트라 협력으로 60개국 바이어 초청 수출상담회도 진행돼 K-뷰티의 글로벌 수출 창구로서 위상이 한층 강화됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aa27ec66-66d0-4ffa-a5ad-a0547aa6c2c6",
+        "title_ko": "마데카 크림 1억 개 돌파 기념 세트",
+        "summary_ko": "동국제약 센텔리안24의 '마데카 크림'이 올해 7월 기준 누적 판매 1억 개를 넘어섰다. 창립 58주년을 맞아 스페셜 세트 2종을 출시하며 더마코스메틱 브랜드로서의 장기 충성 고객 기반을 재확인했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e150c635-67cc-486d-b0b9-144312831371",
+        "title_ko": "화장품주 반등, 달바글로벌 8% 급등",
+        "summary_ko": "16일 화장품 관련주가 반발매수세에 힘입어 일제히 강세를 보였고, 달바글로벌은 장중 8%대 상승을 기록했다. K-뷰티 수출 모멘텀과 엑스포 호재가 투자 심리 회복의 배경으로 작용한 것으로 분석된다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "e7c986f8-5201-40d7-a26b-13d62d573c92",
+        "title_ko": "럭셔리, 테니스 스타 후원 경쟁 가속",
+        "summary_ko": "정친원의 중국 오픈 우승을 계기로 럭셔리 브랜드들이 프로 테니스 선수 후원 확보에 속도를 높이고 있다. 골프 중심이던 스포츠 마케팅 무게추가 테니스로 이동하는 흐름이 중국 소비 시장과 맞물려 문화 영향력 경쟁으로 번지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "59701fef-df95-4ef9-bf25-e8dd45526d48",
+        "title_ko": "무신사, J패션 교두보 자처",
+        "summary_ko": "무신사가 일본 최대 패션 플랫폼 조조타운의 국내 첫 팝업을 성수동에서 주선했다. K패션의 해외 진출을 지원해온 무신사가 이번엔 J패션의 국내 상륙을 돕는 역할을 맡으며, 양방향 패션 교류 플랫폼으로 포지셔닝을 확장하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "2b25093f-d08b-4854-b4d6-363fd40aa705",
+        "title_ko": "홈 퍼니싱, 취향 소비로 정착",
+        "summary_ko": "홈 퍼니싱이 특별한 이벤트성 지출이 아닌 일상적 취향 소비의 하나로 자리잡고 있다. 공간을 정체성 표현 수단으로 삼는 소비자 증가가 관련 시장의 구조적 성장을 뒷받침하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0a910230-c351-4f0f-9047-018f2d6fa023",
+        "title_ko": "셀프 인테리어 붐, 개성 공간화",
+        "summary_ko": "직접 시공·디자인하는 셀프 인테리어 열풍이 '나만의 공간'에 대한 요구와 맞물려 확산 중이다. 관련 자재·도구 소비와 함께 유튜브·커뮤니티 기반 정보 생태계도 함께 성장하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b85f1421-2a10-4930-ade6-2d3e775a4d34",
+        "title_ko": "K인테리어, 일본 MZ 사로잡다",
+        "summary_ko": "한국식 인테리어 감성이 일본 MZ세대 사이에서 동경의 대상으로 부상했다. K-콘텐츠를 통해 형성된 한국 라이프스타일 이미지가 공간 소비로까지 확산되며 K-인테리어가 새로운 수출 문화 콘텐츠로 주목받고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "9701e4bf-d375-48f5-b8ed-c79feceed3b8",
+        "title_ko": "잊힌 구독료, 새는 지갑",
+        "summary_ko": "소비자들이 인지하지 못한 채 자동 갱신되는 구독 서비스 비용이 가계 지출의 맹점으로 떠오르고 있다. 구독 피로가 쌓이면서 정기 결제 관리 앱과 해지 대행 서비스에 대한 수요도 함께 증가하는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "678aba38-2fa4-4887-9325-c7f799212b3d",
+        "title_ko": "소유의 종말, 구독 경제의 역설",
+        "summary_ko": "음악·영상·소프트웨어를 넘어 가구·자동차·가전까지 구독 모델이 확산되며 '소유하지 않는 삶'이 보편화되고 있다. 편의성 이면에 통제권 상실에 대한 소비자 불안감도 커지면서 구독 경제의 지속 가능성에 의문이 제기되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fe9664b0-0ea4-4d93-ac64-294946d9c3bb",
+        "title_ko": "Z세대, 술 대신 경험을 선택",
+        "summary_ko": "Z세대 사이에서 음주 문화를 의도적으로 거부하는 '소버 큐리어스' 흐름이 확산되고 있다. 건강·비용·사회적 압박 탈피가 주요 동인으로 꼽히며, 무알코올 음료와 대안적 사교 공간 시장의 성장을 견인하고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '경계 해체'다. 무신사가 K패션과 J패션을 동시에 중개하고, K-인테리어가 일본 MZ의 공간 취향을 바꾸며, K-뷰티엑스포가 15개국 바이어를 한자리에 불러모으는 장면은 모두 국내외 소비 문화의 경계가 빠르게 허물어지고 있다는 방증이다. 동시에 구독 피로·금주 확산·취향 기반 공간 소비는 Z세대와 MZ세대가 '강요된 소비'에서 벗어나 '의도된 선택'으로 이동하고 있음을 보여준다. 브랜드 전략의 핵심 질문은 이제 '어디서 팔 것인가'가 아니라 '어떤 가치 경험을 설계할 것인가'로 바뀌고 있다.",
+  "cards_meta": {
+    "c2cf8796-0f46-4b9d-8dae-c8f441b92f20": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVHloS2V6Q1lxUF91S1hTazlBZ3VWU1ZINWRlc1k4ZWdvMHVLOE5pYjUyNTNXcWpYS3JlY3MwdWRwQnBQaXh4bXBvUWFpbENMOHpCTDBn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국 건기식 점유율 4.5%…\"약사 상담 장점을 살려라\" - 데일리팜",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "87f22617-31f3-4867-8652-52b42ad7772f": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WmRCeWVZV3BXS2MyRE5BM3lKQVRRRTdjYlViRkhaYkJmb3FKY3FzVDl5UnNrMGt6enJ5TVJFcE1helhEdWI5OXVENWlfcUVXWHZ1LUdDRTBwVUNlWFZVVUtiRmxsaFpvaF9KenBGODRlQV94Ty1N?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "역대 최대 ‘2026 K-뷰티엑스포 코리아’ 성황 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa27ec66-66d0-4ffa-a5ad-a0547aa6c2c6": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100171",
+      "original_headline": "동국제약, 센텔리안24 창립 58주년 기념 ‘마데카 크림 스페셜 세트’ 2종",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e150c635-67cc-486d-b0b9-144312831371": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtYkluREZDeUkxcGsyQTRLaWNYdHcwVXFfbmNPVWtDMWZtLU9VNGZFTkR6aXlJcDNLTGM5Q0x2T3BSUEIyOThtSXluZE9BZ3RzOHhOUk1CV1E5OEFTdDBaY9IBYEFVX3lxTFBtYkluREZDeUkxcGsyQTRLaWNYdHcwVXFfbmNPVWtDMWZtLU9VNGZFTkR6aXlJcDNLTGM5Q0x2T3BSUEIyOThtSXluZE9BZ3RzOHhOUk1CV1E5OEFTdDBaYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[특징주] 화장품주, 반발매수세에 강세…달바글로벌 8%대 상승(종합) - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e7c986f8-5201-40d7-a26b-13d62d573c92": {
+      "category": "패션",
+      "source_name": "GN-ZH [패션] 时尚 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTk1RdUJkVVk5anhvemtkbFVzX3FJZUh6eDdIdVpMZm43QlNUSmVBVlVwYjBZa2Z0eEo4Mk1TM2FrM0ZkS0FKS2R0Wk11SVpzNFAyRFVKeWdWWldQdkY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "郑钦文中网夺冠，奢侈品牌加速争夺职业网球运动员文化影响力 - 虎嗅网",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "59701fef-df95-4ef9-bf25-e8dd45526d48": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pUFNqZmlMd09lQ25MdEFnM25PX1hKbWV2amZ5ODBBTWdaQ21wRmJDdldFX1JmV1luaWlOdFIwTUdLOVVmaGxHLUtpc1I4NFZQYVhqbmxJUnc4NHRvam9EYkNxMGJJSC1mejJEcy1KREdNQk4taWfSAWZBVV95cUxPNXpOMFVwZVN1M2YweXFJeWhVYlFmOGdxMzk2eU1nMnJEUVFabUZIcXJaTUhhLXc5QTVtSE1zendJSUdKcG1Bb3d3MUFTZmgtM0prYlhfNDlzOWNGb3ZRUWo1M28wWFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K패션 키운 무신사, J패션 韓 진출 돕는다… 성수에 조조타운 첫 팝업 - 동아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2b25093f-d08b-4854-b4d6-363fd40aa705": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0a910230-c351-4f0f-9047-018f2d6fa023": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3pMd253Wk9mR3h3djIyTEVSeFY4Qm8zaDhYZjV3VzV5Vk5fSktZSmR2Qk1rTG40ekt0NmNQejE1a2xPVnhGX0hYUnBJRGdnNThDQkVybHFldkVPOHJMajBzYlJQLTNtbFHSAW5BVV95cUxNYlBEa3RqWUlzZ0c4WUpWZmE1dzJCUjhiQ0Y1MnNodVBQanhOVXhKYzBtUVhJVmxLM2d6M2ZxeHNKSjg3NmhHdEkyR2s5ZnYtTlh0MW8wMVMxM1h5bkZWTF9MTmlBeDdZV2pONmhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[트렌드 톡] 나만의 집, 나만의 스타일…셀프 인테리어 붐 - 뉴시안",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b85f1421-2a10-4930-ade6-2d3e775a4d34": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ETHFjT3hGVjV3M0NqZ2d4enpVZU93T2VyTW5fOHVpaTNsakFsSy1lYWMzcDh1ckJsUjJnUzdxTTZORG5HdlZaQWtGeE1rUEVDak1idVBPcmJvZ9IBX0FVX3lxTFA2TlhlRjJSTjlISHdfckFrQzRLUDVhUVl5bVprT1M4OXN2OXNiN1FIMkY1Y1NyV0NrWmRTZ3dCYXo0MzRsWjlDVklUUk9VSG15MUd0b21XcWFVY1NOcVVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“어라, 한국 집 같은데?” 일본 MZ는 왜 K인테리어에 끌렸나 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9701e4bf-d375-48f5-b8ed-c79feceed3b8": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "678aba38-2fa4-4887-9325-c7f799212b3d": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "fe9664b0-0ea4-4d93-ac64-294946d9c3bb": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
