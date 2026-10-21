@@ -1,0 +1,191 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영, 경주 한옥 외관 특화 매장으로 체류형 관광 소비 공략 본격화",
+    "건기식 시장, 저속노화·수면 보조 중심으로 기능성 세분화 흐름 가속",
+    "Z세대의 금욕적 소비와 구독 피로감이 맞물리며 소유 경제 재편 신호"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "14b34d88-3455-4386-b9bb-3ba879bf3a9c",
+        "title_ko": "저속노화 건기식, 올해도 주류",
+        "summary_ko": "2026년 건강기능식품 시장에서 저속노화 콘셉트가 상반기를 넘어 하반기까지 주요 구매 동인으로 자리잡고 있다. 노화 속도를 늦추는 성분·제형에 대한 소비자 관심이 트렌드를 넘어 카테고리 표준으로 굳어지는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a486c188-fc89-4180-97bf-12de843810d7",
+        "title_ko": "수면 건기식, 부작용 낮은 대안 부상",
+        "summary_ko": "수면제 부작용을 우려한 소비자들이 부작용이 적은 건기식 수면 보조제로 이동하는 흐름이 약국 채널에서 포착되고 있다. 수면 건기식이 의약품의 보완재에서 독립 카테고리로 격상되는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "6bd290aa-1555-4473-be38-2fdaf6560f18",
+        "title_ko": "올리브영, 경주에 한옥 특화 매장",
+        "summary_ko": "CJ올리브영이 경주 최대 규모(135평) 지역 특화 매장을 열었다. 한옥 외관에 신라 유물 모티프 인테리어를 접목해 체류형 관광지로 변모한 경주의 여행객 소비를 직접 겨냥한다. 올리브영의 지역 특화 전략이 관광 소비 채널로 진화하고 있다는 점에서 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3caea9b3-bbea-4bae-8395-f0beb24840e4",
+        "title_ko": "천연물 화장품, 규제기관도 주목",
+        "summary_ko": "식품의약품안전처가 한국생약학회와 공동 심포지엄을 열어 천연추출물 기반 화장품·건기식 연구동향을 공유한다. 규제기관이 천연물 소재를 제도적 논의 테이블에 올린 것은 소재 표준화와 허가 기준 정비가 임박했다는 신호로 볼 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a1a274a3-95ad-446b-915d-0052f7aa0bc4",
+        "title_ko": "마몽드 틴트 밤, 복고 재출시",
+        "summary_ko": "아모레퍼시픽 마몽드가 누적 1천만 개 판매를 기록한 '크리미 틴트 컬러 밤'을 출시 10주년에 맞춰 제형·성분·컬러를 업그레이드해 재출시한다. K-뷰티 시장에서 단종 제품의 팬덤 기반 복귀가 유효한 마케팅 공식으로 자리잡고 있음을 다시 확인시킨다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "e5354b67-eeb1-404e-accd-c9dcbd461e7c",
+        "title_ko": "중국 럭셔리 대행운영 시장 안정세",
+        "summary_ko": "중국 패션 기업 歌力思 산하 백추상미(百秋尚美)가 국내 럭셔리·고급 브랜드 대행운영 부문에서 전반적으로 안정적 경영을 유지하고 있다고 밝혔다. 중국 명품 소비 심리가 위축된 환경에서도 대행운영 모델의 수익 방어력이 확인되는 점이 주목된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "16e3d9bc-c4c8-4e38-aaef-31876e2cdd5a",
+        "title_ko": "2027년 여행 트렌드, 호텔스닷컴 전망",
+        "summary_ko": "호텔스닷컴이 '언팩 27'을 통해 2027년 주목 여행지와 트렌드를 발표했다. 소비자의 여행 계획이 더 이른 시점에 구체화되는 추세 속에서, 플랫폼이 선제적 트렌드 발신자 역할을 강화하며 예약 행동을 유도하는 전략이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "0d9f5134-b250-4c60-86fb-1113fcee3779",
+        "title_ko": "잊고 있던 구독료, 지갑 구멍 된다",
+        "summary_ko": "소비자들이 인지하지 못한 채 결제되는 구독 서비스 비용이 가계 지출 누수의 주요 원인으로 지목되고 있다. 구독 경제의 확산이 편의보다 관성적 지출 구조를 만들어낸다는 비판적 시각이 높아지는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2aee0071-457d-49c2-9fec-f5d08a6153dc",
+        "title_ko": "소유에서 이용으로, 역풍 시작",
+        "summary_ko": "구독·임대 중심의 '소유 없는 경제'에 대한 피로감이 소비자 담론에서 부상하고 있다. 편의성을 앞세워 확산된 구독 모델이 자산 형성 기회 박탈이라는 반론에 직면하며, 소유 선호 심리가 반등할 가능성을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fc1dbb66-f290-4f69-a039-7e76540d4d21",
+        "title_ko": "Z세대, 술·담배·탄수화물 줄인다",
+        "summary_ko": "유럽 Z세대가 탄수화물·담배·알코올 소비를 전방위로 줄이는 금욕적 소비 패턴을 보인다는 분석이 나왔다. 쾌락 소비의 주축으로 여겨졌던 젊은 세대의 절제 성향이 식품·주류 업계의 수요 예측을 근본부터 재검토하게 만든다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '절제와 선별'이다. Z세대의 금욕적 소비, 구독 피로감, 저속노화·수면 중심의 기능성 건기식 부상은 모두 같은 방향을 가리킨다. 소비자는 더 적게, 더 의미 있게 지출하려 한다. 반면 올리브영의 경주 특화 매장과 마몽드의 복고 재출시는 '경험·감성·서사'에 기꺼이 지갑을 여는 선별적 소비의 이면을 보여준다. 전면적 절약이 아니라 기준이 까다로워진 소비라는 점에서, 브랜드가 제공해야 할 것은 가격 경쟁력보다 명확한 맥락과 이야기다.",
+  "cards_meta": {
+    "14b34d88-3455-4386-b9bb-3ba879bf3a9c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a486c188-fc89-4180-97bf-12de843810d7": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6bd290aa-1555-4473-be38-2fdaf6560f18": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100196",
+      "original_headline": "CJ올리브영, 경주 최대 규모 지역 특화 매장 ‘경주신라점’ 오픈",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3caea9b3-bbea-4bae-8395-f0beb24840e4": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100203",
+      "original_headline": "천연물 기반 화장품 연구동향 함께 살핀다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a1a274a3-95ad-446b-915d-0052f7aa0bc4": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100197",
+      "original_headline": "마몽드, ‘크리미 틴트 컬러 밤’ 출시 10주년 맞아 새롭게 선보여",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e5354b67-eeb1-404e-accd-c9dcbd461e7c": {
+      "category": "패션",
+      "source_name": "GN-ZH [패션] 时尚 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSzdRX1hVS3NlN1NIa3hURDd2dHV2bWkyQ3RCVndfOXZsM28tZzJyVnJ1NXFzaTNfOVNzTmFybEZZOHBpM3FXX1RLSlFDTkNrTzU4MjZHY3FySUFWNDdJdGVTZ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "歌力思(603808.SH)：百秋尚美作为国内奢侈品、高端时尚品牌头部代运营商，经营整体保持稳健 - 证券之星",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "16e3d9bc-c4c8-4e38-aaef-31876e2cdd5a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZHlRaVNuYTN0UlI2ajN4VFJNVDV2Q1k4akZnYlRFckRUZjR0eE1rcW9OYzM4Mm5BaGZCOWlnbVFmTXN2ajR6NldwZkpuMGZKeU5nWlA5dXJoMnM1cGZrOTI5a1VqTURKOUU5TFhHQjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔스닷컴, 내년 여행 트렌드 전망 발표 - 트래블데일리",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0d9f5134-b250-4c60-86fb-1113fcee3779": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "2aee0071-457d-49c2-9fec-f5d08a6153dc": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "fc1dbb66-f290-4f69-a039-7e76540d4d21": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
