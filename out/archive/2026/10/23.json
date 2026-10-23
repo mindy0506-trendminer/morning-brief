@@ -1,0 +1,241 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 바이오 기술 접목으로 브랜드 중심에서 기술 경쟁 구도로 전환",
+    "건기식 시장, 저속노화·수면 보조 수요 맞물려 온라인 유통 확대 본격화",
+    "구독경제 피로감 확산, 소비자 소유권 인식 재편 흐름 글로벌 동시 진행"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f2a3b752-f76a-4c83-b249-d1b7dde3cb88",
+        "title_ko": "저속노화, 건기식 트렌드 주도",
+        "summary_ko": "2026년 건강기능식품 시장의 핵심 키워드는 저속노화다. 항노화 성분 수요가 꺾이지 않으며, 관련 제품군이 시장 성장을 견인하는 구도가 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5ab68944-bdce-48de-ad43-b9c936767135",
+        "title_ko": "수면 건기식, 부작용 우려 수요 흡수",
+        "summary_ko": "수면제 부작용을 피하려는 소비자들이 건기식 수면 보조 제품으로 이동하고 있다. 약국 채널에서 상담 수요가 늘며 관련 카테고리의 성장세가 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "90f2ebaf-3ec1-4ee1-8a9e-1f51ea8e5503",
+        "title_ko": "약국 건기식, 온라인 판로 열린다",
+        "summary_ko": "약국 전용으로 묶여 있던 건기식의 온라인 판매 논의가 본격화되고 있다. 유통 채널 다변화가 이뤄질 경우 시장 규모 확대와 함께 브랜드 간 경쟁 지형도 달라질 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "720afbcd-43b6-4dc7-8e00-a9191938b42a",
+        "title_ko": "바이오 기술, K뷰티 새 경쟁축",
+        "summary_ko": "엑소좀·줄기세포 배양액·마이크로바이옴 등 신약 개발에서 쌓인 바이오 기술이 스킨케어로 빠르게 이전되고 있다. K뷰티의 경쟁력이 브랜드 인지도에서 기술력으로 무게중심을 옮기는 구조적 전환이다. 제약·바이오 기업의 화장품 사업 진출도 가속화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a7775a5a-48b4-426e-a8d6-6bdb94b6e2a7",
+        "title_ko": "랜딩인터내셔널, 뉴욕서 K뷰티 유통 전략 공유",
+        "summary_ko": "글로벌 K뷰티 유통사 랜딩인터내셔널 정새라 대표가 뉴욕 '꿈 위크 2026'에 2년 연속 패널로 참석해 K뷰티의 다음 단계 성장 전략을 논의했다. 한인 창업 생태계와 K뷰티 글로벌 유통이 접점을 넓히고 있다는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "63b4c512-31d7-4fce-b44d-8328a4bc6321",
+        "title_ko": "모다모다, 1000만 개 돌파",
+        "summary_ko": "헤어케어 브랜드 모다모다가 누적 판매 1000만 개를 넘어섰다. 국내 가구 두 곳 중 한 곳이 사용한 셈으로, 올리브영·다이소·코스트코 등 다채널 유통 전략이 대중화의 속도를 높였다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "39ce64d1-ba81-41fe-b351-0bba975bb0f3",
+        "title_ko": "중국 럭셔리 대운영사 안정세 유지",
+        "summary_ko": "중국 패션 기업 가력스(歌力思) 산하 대운영사 바이추상메이(百秋尚美)가 중국 내 럭셔리·고급 패션 브랜드 위탁 운영에서 안정적인 실적을 이어가고 있다. 중국 명품 소비 둔화 속에서도 전문 대운영 모델의 유효성을 보여주는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "8ab9f934-3053-4385-9dc5-0e2e156e063c",
+        "title_ko": "삼성카드·메리어트 제휴, 호텔 혜택 경쟁 격화",
+        "summary_ko": "삼성카드가 메리어트와 손잡고 호텔·여행 특화 프리미엄 카드를 출시했다. 고물가 속에서도 프리미엄 여행 경험 수요는 견고하며, 카드사와 글로벌 호텔 체인 간 제휴 경쟁이 더욱 치열해질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9ade96c7-85c6-4a2d-9540-05a57a76fb5e",
+        "title_ko": "안동 경북도청 신도시, 5성급 호텔 추진",
+        "summary_ko": "경북도청 신도시가 있는 안동에 5성급 호텔 건립이 추진된다. 지역 균형 개발 과제와 맞물려 비수도권 프리미엄 숙박 인프라 확충 움직임이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e0ff381a-5741-4a04-8f18-9b560b8c09c0",
+        "title_ko": "섬 수험생 호텔 지원, 호텔의 공공재화",
+        "summary_ko": "인천시교육청이 섬 지역 수능 수험생 29명에게 육지 호텔 숙박을 지원한다. 호텔이 관광·여가를 넘어 사회 인프라로 기능하는 사례가 늘고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "f3df9ed4-b04d-4f3f-a5c6-bcbcac09b440",
+        "title_ko": "잊혀진 구독료의 누적 충격",
+        "summary_ko": "소비자들이 인지하지 못한 채 지속 결제되는 구독 서비스가 10개 이상에 달한다는 분석이 나왔다. 구독 피로감이 누적되면서 정기결제 서비스에 대한 소비자 감시가 강화되는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0497abb0-139e-451c-a2df-1c290a3ba617",
+        "title_ko": "소유에서 이용으로, 되돌릴 수 있나",
+        "summary_ko": "디지털 서비스와 구독 모델의 확산으로 소비자가 실질적으로 '소유'하는 것이 줄어들고 있다는 문제의식이 커지고 있다. 소유권 상실에 대한 반감이 구독 해지와 대안 소비로 이어질 가능성이 주목받는다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "28c3bbef-619e-47a6-9d8e-06680351fa3a",
+        "title_ko": "Z세대 소비 방식의 글로벌 확산",
+        "summary_ko": "중남미를 포함한 글로벌 시장에서 Z세대의 소비 패턴이 주요 분석 대상으로 부상했다. 경험 중심 소비와 가치 기반 선택이 세대를 초월해 시장 판도를 바꾸고 있다는 점이 공통적으로 지적된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '기능의 고도화'와 '소유 구조의 변화'다. K뷰티는 바이오 기술로, 건기식은 저속노화·수면 과학으로 제품의 기능적 근거를 강화하며 프리미엄화를 추진하고 있다. 반면 소비트렌드 섹션에서는 구독경제가 소비자의 소유권을 잠식하고 있다는 반발 심리가 글로벌 동시다발로 감지된다. 두 흐름이 교차하는 지점은 결국 '신뢰할 수 있는 가치'에 대한 소비자 수요다. 기능을 증명하지 못하거나 투명성이 부족한 브랜드·서비스는 이 피로감의 첫 번째 이탈 대상이 될 수 있다.",
+  "cards_meta": {
+    "f2a3b752-f76a-4c83-b249-d1b7dde3cb88": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5ab68944-bdce-48de-ad43-b9c936767135": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "90f2ebaf-3ec1-4ee1-8a9e-1f51ea8e5503": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51WTRNUy1LdlRpbDZ6TEVlZ3lQTHpUbzBBSEplb1FkcmNrbVA2LWtSMWhmVndmVkRnVThNRjBrR1BCMHdMYVc1bF9VZ1hPQzlyN0UzclF0QnJNMk45U19RWV9uSVNWYWRwSTNZcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국의 건강기능식품 온라인 판매 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "720afbcd-43b6-4dc7-8e00-a9191938b42a": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312390",
+      "original_headline": "신약에서 화장품으로…바이오 기술, K-뷰티 새 성장축 부상",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a7775a5a-48b4-426e-a8d6-6bdb94b6e2a7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100228",
+      "original_headline": "랜딩인터내셔널 정새라 대표, 뉴욕 ‘꿈 위크 2026’ K뷰티 패널 참석",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "63b4c512-31d7-4fce-b44d-8328a4bc6321": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByYWk2XzhlbFE2SUk2Z3RCVDFwMTZRNGdzVVpaQkV4RWFvZ2NGZmhQOS12QXZIb00yTGFYb1ZUMXFtZjhNSl9qSk5nLTFSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "모다모다, 누적 판매 1000만 개 기록…다이소·올리브영 유통 확대 견인 - 전자신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "39ce64d1-ba81-41fe-b351-0bba975bb0f3": {
+      "category": "패션",
+      "source_name": "GN-ZH [패션] 时尚 品牌",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSzdRX1hVS3NlN1NIa3hURDd2dHV2bWkyQ3RCVndfOXZsM28tZzJyVnJ1NXFzaTNfOVNzTmFybEZZOHBpM3FXX1RLSlFDTkNrTzU4MjZHY3FySUFWNDdJdGVTZ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "歌力思(603808.SH)：百秋尚美作为国内奢侈品、高端时尚品牌头部代运营商，经营整体保持稳健 - 证券之星",
+      "languages": [
+        "zh",
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "8ab9f934-3053-4385-9dc5-0e2e156e063c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xM3ExOXpYekVHT2Fxb1ZNb2NKdURMQlRsb1RjdnJ0YlVxU25XMkR2dEEwLTFYOVFrdHdwZS1OZkZkUEswZnl2Tm54Nzk3bGlic2s2TElSbkJ5QkpSWUNXZzNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "삼성카드-메리어트 제휴 프리미엄 카드 출시…\"호텔·여행 혜택\" - 아시아경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9ade96c7-85c6-4a2d-9540-05a57a76fb5e": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZaEw1Z3ZuVjRHYVJHMVlFbUZVWERoR0c3NmdId2Mwcm1rUVdFRmFHVkY4LW55ek9JejdEUWJhMEVVZ3ZKQnowdndsY3owNF9RTEluTkQ2U2h4Nm9yQUtTcNIBYEFVX3lxTE5ZaEw1Z3ZuVjRHYVJHMVlFbUZVWERoR0c3NmdId2Mwcm1rUVdFRmFHVkY4LW55ek9JejdEUWJhMEVVZ3ZKQnowdndsY3owNF9RTEluTkQ2U2h4Nm9yQUtTcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "안동 경북도청 신도시에 5성급 호텔 건립 추진 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e0ff381a-5741-4a04-8f18-9b560b8c09c0": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PNHNKWnV2SjBJdjFVWTY1RkRkQlJqb09wZ3BRck1VR01FdXVlTmZKM2N1elJuWlVLeGZka3E5WEkzY2JuaGp6ZlZBeFZLUnd5LXU5YWZZYW9nZlBlUTY2MFU1ZEJTa0tERDNZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "인천시교육청, 섬 지역 수험생 29명에 호텔 숙박 지원 - 애드뉴스인천",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f3df9ed4-b04d-4f3f-a5c6-bcbcac09b440": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "0497abb0-139e-451c-a2df-1c290a3ba617": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEREc2tETXEteklKa0lnQXAwZ2tpSWFzWEl3TnRtM19RMktuOEN6RUQ3ZzUxdHZtSjF3bE9wM1V1czBVTEJybVctTGRycHZKcFBaX015djRIdHVkR21aLVl0aVh2WXU3WTd6dWxvQlhycUJGZzdOdjlqWG56YlVpWkp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "We don't own anything anymore - marketplace.org",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "28c3bbef-619e-47a6-9d8e-06680351fa3a": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcWh4VE96ZFozTmJBYVVlcDF1SF9iNl9QSWFrWjhyQVY5MXpkUXpZbjFIeThBUGI4RDFYQnk4ajFuaTBSY2hKMy1TQjcxWlgzek9tZnNIQ2tMRGxBQW5DNEJuMkNVeVNyQjhpMmI2RGxQdVlfcVlwdXlfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y las tendencias de consumo - - | Página3 Huánuco|",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
