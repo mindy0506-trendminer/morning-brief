@@ -1,95 +1,105 @@
 {
   "schema_version": "v2",
   "exec_summary_ko": [
-    "K-뷰티, 중국 립 시장서 성능 경쟁에서 개인화·패키지 경쟁으로 전략 전환 시급",
-    "모다모다·리쥬란 등 국내 헤어·더마 브랜드, 올리브영·미국 코스트코로 유통 판로 확장 가속",
-    "식약처 건기식 원료 혼합 기준 강화, 제품 설계·마케팅 전반에 대응 요구"
+    "모다모다·리쥬란 등 K-뷰티, 다이소·미국 코스트코 통해 유통 외연 동시 확장",
+    "K-뷰티 주식, 대형주엔 외국인·기관 동반 매수, 성장주는 수급 엇갈려 차별화 본격화",
+    "건기식 시장, 저속노화 기조 이어지며 수면 보조 제품 수요까지 흡수"
   ],
   "sections": {
     "식음료": [
       {
-        "cluster_id": "e5c7ec5f-f3c2-4fe1-a5c7-effed8304264",
-        "title_ko": "건기식 원료 기준 강화 행정예고",
-        "summary_ko": "식약처가 건강기능식품 원료 혼합 기준을 강화하는 안전관리 개정안을 행정예고했다. 복합 기능성 원료를 전면에 내세운 제품이 늘어난 시장 상황에서, 원료 설계와 허가 전략을 새로 점검해야 하는 업계 부담이 커질 전망이다.",
+        "cluster_id": "de3f7973-900b-4e30-97ab-9c66a4911ab4",
+        "title_ko": "저속노화, 건기식 핵심 키워드 지속",
+        "summary_ko": "2026년에도 저속노화 개념이 건강기능식품 시장의 중심 키워드로 자리를 지키고 있다. 단순 영양 보충을 넘어 노화 속도 자체를 늦추는 제품군에 소비자 관심이 집중되는 흐름이 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c09015ec-ab08-4378-90ff-0ff00334574e",
+        "title_ko": "수면 건기식, 부작용 우려에 수요 확대",
+        "summary_ko": "수면제 부작용을 우려하는 소비자들이 수면유도 건강기능식품으로 대안을 찾는 추세다. 약국 채널을 중심으로 상담 수요가 늘고 있어, 수면 카테고리가 건기식 시장의 새 성장축으로 부상하고 있다.",
         "is_paywalled": false
       }
     ],
     "뷰티": [
       {
-        "cluster_id": "3337cccc-75ac-42b3-b47e-0670eb17a6d8",
-        "title_ko": "중국 립 시장, 개인화로 축 이동",
-        "summary_ko": "중국 립 메이크업 소비자의 60.5%가 맞춤형 제품을, 55.5%가 차별화된 패키지 디자인을 원한다고 답했다. 가격 경쟁력 기대치는 24.2%에 불과해, K-뷰티가 고수해 온 발색력·지속력 중심 전략만으로는 시장 주도권을 유지하기 어렵다는 신호다.",
+        "cluster_id": "15a9615b-80ad-4bc0-9f6f-0f183ecd571b",
+        "title_ko": "모다모다 1000만 개, 유통 다각화 결실",
+        "summary_ko": "모다모다가 전 제품 누적 판매 1000만 개를 돌파했다. 블랙 샴푸로 시작해 두피·볼륨 케어로 제품군을 넓히고, 올리브영·다이소·코스트코로 유통망을 확장한 전략이 주효했다. 국내 가구 두 곳 중 한 곳이 사용한 셈이라는 수치가 브랜드 침투율의 현실을 보여준다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "06763f44-2be9-4055-82de-3f9d26462d7c",
-        "title_ko": "모다모다, 1000만 개 돌파",
-        "summary_ko": "헤어케어 브랜드 모다모다가 누적 판매 1000만 개를 넘겼다. 블랙 샴푸를 기점으로 두피 관리·볼륨 케어로 제품군을 확장하고, 올리브영·다이소·코스트코 등 복수 채널에 걸쳐 소비자 접점을 넓힌 것이 성장 동력으로 작용했다.",
-        "is_paywalled": false
-      },
-      {
-        "cluster_id": "37788f1d-3ddb-4ea9-9c11-9296078e5d5c",
-        "title_ko": "리쥬란코스메틱, 미국 코스트코 입점",
-        "summary_ko": "파마리서치의 더마 코스메틱 브랜드 리쥬란코스메틱이 미국 코스트코 최초의 뷰티 전용 진열 프로그램 '뷰티 테이블'에 참여하며 현지 오프라인 유통망을 넓혔다. 코스트코 회원 기반의 대량 구매 성향을 고려할 때, 브랜드 인지도와 매출 양면에서 빠른 효과가 기대된다.",
+        "cluster_id": "bb913e56-0f23-4ad4-9d73-4d2e010121a6",
+        "title_ko": "리쥬란코스메틱, 미국 코스트코 오프라인 입점",
+        "summary_ko": "파마리서치의 리쥬란코스메틱이 미국 코스트코의 첫 뷰티 전용 진열 프로그램 '뷰티 테이블'에 참여하며 현지 오프라인 유통 기반을 구축했다. K-더마 브랜드가 회원제 대형 유통을 통해 미국 중산층 소비자에게 직접 접근하는 새 경로를 열었다는 점에서 주목된다.",
         "is_paywalled": false
       }
     ],
     "패션": [
       {
-        "cluster_id": "2cfb59d3-bc4d-46e9-ade0-925098d79229",
-        "title_ko": "스페인 패션, 성장보다 수익성 우선",
-        "summary_ko": "스페인 여성복 브랜드 Punt Roma의 2025년 순이익이 5.38% 감소했다. 스페인 패션 기업 바로미터에 따르면 업계의 53%가 이미 성장보다 수익성을 우선시하고 있어, 외형 확장 대신 내실 다지기로 전략 구도가 바뀌고 있다.",
+        "cluster_id": "d24ccad3-6d56-45e5-ba8c-badb4d2dca59",
+        "title_ko": "스페인 패션, 성장보다 수익성 우선으로",
+        "summary_ko": "스페인 여성복 브랜드 Punt Roma는 2025년 순이익이 5% 넘게 줄었다. 스페인 패션 기업 바로미터에서도 53%의 업체가 성장보다 수익성을 우선 과제로 꼽아, 확장보다 내실을 택하는 구조 재편이 뚜렷해지고 있다.",
         "is_paywalled": false
       },
       {
-        "cluster_id": "c1dd10fc-d89c-4439-b040-52a6edb5eed0",
-        "title_ko": "중국 럭셔리 대행 운영 구도 안정세",
-        "summary_ko": "중국 패션 기업 歌力思(603808.SH) 산하 백추상미가 국내 럭셔리·고급 패션 브랜드 대행 운영 1위 사업자로서 안정적인 실적을 유지하고 있다고 밝혔다. 외자 럭셔리 브랜드의 중국 내 위탁 운영 의존도가 굳어지는 흐름이 지속되고 있다.",
+        "cluster_id": "1a4f3e4a-dc90-4548-95f1-57946a7d0192",
+        "title_ko": "중국 고급 패션 대운영사, 경영 안정 유지",
+        "summary_ko": "중국 패션 기업 가력사(歌力思) 산하 대운영사 바이추상메이가 국내 명품·고급 패션 브랜드 대운영 사업에서 안정적인 경영 흐름을 이어가고 있다. 중국 내수 소비 둔화 속에서도 고급 패션 대운영 채널이 상대적 견고함을 유지하는 점이 눈에 띈다.",
         "is_paywalled": false
       }
     ],
     "라이프스타일": [
       {
-        "cluster_id": "583e0edf-77a1-4829-a111-71e76dc85dee",
-        "title_ko": "경북 도청 신도시에 5성급 호텔",
-        "summary_ko": "경북도가 조선호텔앤리조트와 협약을 맺고 도청 신도시에 5성급 호텔 건립을 추진한다. 수도권 외 지역의 럭셔리 숙박 수요와 지역 관광 인프라 고도화에 대한 기대가 맞물린 행보로, 지방 호텔 시장의 프리미엄화 움직임을 보여 준다.",
+        "cluster_id": "add7bb36-7575-445d-a58d-8915cd142595",
+        "title_ko": "경북 신도시, 5성급 호텔 유치 나서",
+        "summary_ko": "경상북도가 도청 신도시에 조선호텔과 협약을 맺고 5성급 호텔 건립을 추진한다. 200억 원 규모 투자가 예정된 이번 프로젝트는 지방 거점 도시들이 관광 인프라 고급화로 체류형 소비를 끌어들이려는 흐름의 연장선에 있다.",
         "is_paywalled": false
       }
     ],
     "소비트렌드": [
       {
-        "cluster_id": "f0ee86fc-c742-4483-95a4-ec963d8bcbac",
-        "title_ko": "Z세대, 술자리 문화 이탈 가속",
-        "summary_ko": "Z세대가 음주 중심의 사교 문화에서 벗어나는 '탈프로그래밍' 흐름이 확산되고 있다. 주류 소비 전반의 구조적 감소로 이어질 수 있어, 음료·외식·엔터테인먼트 업계의 비주류 중심 대안 상품 개발이 더욱 중요해지고 있다.",
+        "cluster_id": "63822c02-7181-455e-8cfd-378a35d9c837",
+        "title_ko": "K-뷰티 주식 수급, 종목별 차별화 심화",
+        "summary_ko": "최근 5거래일간 K-뷰티 주요 7개 종목이 일제히 조정을 받는 가운데, 아모레퍼시픽·LG생활건강 대형주엔 외국인·기관의 동반 매수가 이어진 반면 성장주에서는 수급 판단이 엇갈렸다. K-뷰티 섹터 내에서 안전자산 선호와 성장 기대 사이의 분화가 본격화되는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2316ab16-6437-45fa-a912-f7501caab561",
+        "title_ko": "잊힌 구독료, 가계 지출 누수로",
+        "summary_ko": "소비자들이 인지하지 못한 채 납부하는 구독 서비스 비용이 가계 지출 누수의 주요 요인으로 부각되고 있다. 구독 피로감이 쌓이면서 소비재 브랜드의 구독 모델 설계에도 재검토 압력이 커질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9a443f71-f0d5-4808-a60a-a2a36e04efcb",
+        "title_ko": "Z세대, 음주 문화에서 이탈 가속",
+        "summary_ko": "스페인을 포함한 해외 Z세대 사이에서 음주 문화 자체를 거부하거나 거리두는 흐름이 확산되고 있다. 무알코올·저도수 음료 시장의 구조적 성장 배경으로 작용하는 세대 가치관 변화다.",
         "is_paywalled": false
       }
     ]
   },
-  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '채널과 소비자 기대치의 동시 이동'이다. K-뷰티는 중국에서 성능 경쟁 시대를 벗어나 개인화·경험 경쟁으로 전장이 바뀌었고, 모다모다와 리쥬란코스메틱은 국내외 대형 유통 채널을 적극 공략하며 성장 경로를 새로 그리고 있다. Z세대의 음주 이탈과 구독 경제 피로감은 소비자가 '소유'와 '참여' 양면에서 선택을 정교화하고 있다는 신호다. 규제(건기식 기준 강화)와 인프라 투자(경북 5성급 호텔) 역시 시장 재편의 압력으로 동시에 작용하고 있어, 단일 카테고리 전략보다 복합적 대응이 요구되는 국면이다.",
+  "insight_box_ko": "오늘 브리핑을 관통하는 키워드는 '유통 확장'과 '선별 집중'의 동시 진행이다. K-뷰티 브랜드들이 다이소·미국 코스트코 같은 대중 유통망으로 접점을 넓히는 동안, 주식 시장에서는 동일 섹터 내 대형주와 성장주로 자금이 갈려 흐른다. 건기식에서 수면·저속노화 카테고리가 확대되고, 스페인 패션 업계가 성장 대신 수익성을 선택하는 흐름은 소비재 전반에서 '볼륨 확대'보다 '질적 최적화'로 무게중심이 이동하고 있음을 시사한다. Z세대의 음주 이탈과 구독 피로감 역시 같은 맥락에서 읽힌다. 소비자와 기업 모두 과잉 확장보다 핵심 가치에 집중하는 단계로 진입하는 중이다.",
   "cards_meta": {
-    "e5c7ec5f-f3c2-4fe1-a5c7-effed8304264": {
+    "de3f7973-900b-4e30-97ab-9c66a4911ab4": {
       "category": "식음료",
-      "source_name": "Google News KR Food",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySW54NDFya3N2bXNEbXk5UGlZSkJMbk5qRHJpLWhTOVBZcS1TeWlOWUNua3Y2VVdBeGF0R1ExV0xpRzRBUXA0ZnNkRWFieGxweElQaTdTV1A1bWhFWGdQMTJ4VmZNZTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "건강기능식품 원료 혼합 기준 강화…식약처, 안전관리 개정안 행정예고 - 씨원뉴스",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
       "languages": [
-        "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "3337cccc-75ac-42b3-b47e-0670eb17a6d8": {
-      "category": "뷰티",
-      "source_name": "뷰티경제",
-      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=311515",
-      "original_headline": "중국 립 메이크업 트렌드 변화…K-뷰티 전략 변화 필요",
+    "c09015ec-ab08-4378-90ff-0ff00334574e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
       "languages": [
-        "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "06763f44-2be9-4055-82de-3f9d26462d7c": {
+    "15a9615b-80ad-4bc0-9f6f-0f183ecd571b": {
       "category": "뷰티",
       "source_name": "GN-KO [뷰티] 올리브영",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByYWk2XzhlbFE2SUk2Z3RCVDFwMTZRNGdzVVpaQkV4RWFvZ2NGZmhQOS12QXZIb00yTGFYb1ZUMXFtZjhNSl9qSk5nLTFSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -100,18 +110,20 @@
       ],
       "sceep_dimensions": []
     },
-    "37788f1d-3ddb-4ea9-9c11-9296078e5d5c": {
+    "bb913e56-0f23-4ad4-9d73-4d2e010121a6": {
       "category": "뷰티",
-      "source_name": "장업신문",
-      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100237",
-      "original_headline": "파마리서치 리쥬란코스메틱, 美 코스트코 첫 ‘뷰티 테이블’ 참여",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3WERxMUxWZThGQm5Eck9NVDhFZUlYWkxxdUo5eEpNMUFnZmw3YjhaNWROb3l6TWlXNGpaUjVfbjEzb2N6RWJ3QzJIRHRBdlJJN1Y4M1hRRDFKaGNGanVuVW5OOVBPOGFJYmVj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "파마리서치 '리쥬란코스메틱' 美 코스트코 첫 '뷰티 테이블' 참여 - 마일드경제",
       "languages": [
+        "ko",
+        "ko",
         "ko",
         "ko"
       ],
       "sceep_dimensions": []
     },
-    "2cfb59d3-bc4d-46e9-ade0-925098d79229": {
+    "d24ccad3-6d56-45e5-ba8c-badb4d2dca59": {
       "category": "패션",
       "source_name": "Modaes.es",
       "source_url": "https://www.modaes.com/back-stage/resumen-de-la-semana-de-la-evolucion-de-punt-roma-al-nuevo-optimismo-de-la-moda-en-espana",
@@ -122,7 +134,7 @@
       ],
       "sceep_dimensions": []
     },
-    "c1dd10fc-d89c-4439-b040-52a6edb5eed0": {
+    "1a4f3e4a-dc90-4548-95f1-57946a7d0192": {
       "category": "패션",
       "source_name": "GN-ZH [패션] 时尚 品牌",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSzdRX1hVS3NlN1NIa3hURDd2dHV2bWkyQ3RCVndfOXZsM28tZzJyVnJ1NXFzaTNfOVNzTmFybEZZOHBpM3FXX1RLSlFDTkNrTzU4MjZHY3FySUFWNDdJdGVTZ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
@@ -133,11 +145,11 @@
       ],
       "sceep_dimensions": []
     },
-    "583e0edf-77a1-4829-a111-71e76dc85dee": {
+    "add7bb36-7575-445d-a58d-8915cd142595": {
       "category": "라이프스타일",
       "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yeTdaeXN1TmdqMTRNU2VzTERwMXJSVEQzSHJfVU00Z2l4LUYydEcwNlNTYzF3WmwyODFsX01uck9ieElIRkY2RWFBb21BVzFqa0swZVJ3VTlTNkRZakVTVlBEaUJERTE1bl9la0hFVXBEeU5sSlHSAXZBVV95cUxPcnk3WnlzdU5najE0TVNlc0xEcDFyUlREM0hyX1VNNGdpeC1GMnRHMDZTU2Mxd1psMjgxbF9NbnJPYnhJSEZGNkVhQW9tQVcxamtLMGVSd1U5UzZEWWpFU1ZQRGlCREUxNW5fZWtIRVVwRHlObEpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "original_headline": "경북도청신도시에 5성급 호텔 추진…조선호텔과 협약 - LG헬로비전",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fMnF5bzdTMWVoaUh6MzJwUTVWWmd2cjZRdlZMajlMU1F0dDRoN1VaQVB0Qzl2NGRoSlRfRFBPdUo2cXY4YmN0SVMwODVrRnJ3NHlTMHYwa2lveHlpcnJadGVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“‘출렁다리’로는 부족해”…저수지에 200억짜리 호텔도 짓는다 - 미주중앙일보",
       "languages": [
         "ko",
         "ko",
@@ -147,7 +159,28 @@
       ],
       "sceep_dimensions": []
     },
-    "f0ee86fc-c742-4483-95a4-ec963d8bcbac": {
+    "63822c02-7181-455e-8cfd-378a35d9c837": {
+      "category": "소비트렌드",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312425",
+      "original_headline": "K-뷰티 대표주 수급 점검…대형주는 동반 매수, 성장주는 엇갈린 시선",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2316ab16-6437-45fa-a912-f7501caab561": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "9a443f71-f0d5-4808-a60a-a2a36e04efcb": {
       "category": "소비트렌드",
       "source_name": "GN-ES [소비트렌드] consumo generacion Z",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
