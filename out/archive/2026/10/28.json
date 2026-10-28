@@ -1,0 +1,203 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티: 아마존이 글로벌 밀리언 셀러 육성 프로젝트를 가동, 유럽 진출까지 단계별 지원 확대",
+    "뷰티: 한의학 기반 더마 브랜드 레이시올로지, 6개월 만에 한의원 600곳 입점으로 새 유통 채널 개척",
+    "소비트렌드: 구독 서비스 비용 인식 강화와 Z세대 소비 특성이 글로벌 소비 구도 재편 신호로 부상"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "39713985-d23d-417f-ab7a-d174befb4d26",
+        "title_ko": "대체육 시장, 선택지 다양화",
+        "summary_ko": "식물성 대체육 시장이 빠르게 확대되며 비건 소비자의 선택 폭이 넓어지고 있다. 가격과 맛 경쟁력을 갖춘 제품군이 늘어나면서 주류 식품 카테고리로의 편입이 가속화하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "99c581dd-3a30-44ae-bfb0-00a239fcc961",
+        "title_ko": "식물성 대체육 블라인드 테스트",
+        "summary_ko": "중앙일보 블라인드 테스트 결과, 최신 식물성 대체육 제품 일부가 진짜 고기와 구별하기 어려운 수준에 도달한 것으로 나타났다. 맛·식감 격차 해소가 대체육 대중화의 핵심 변수임을 재확인시킨다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "352c8817-727b-4fa0-b545-b0addbce1ca9",
+        "title_ko": "대체육 맛 경쟁력 점검",
+        "summary_ko": "동아일보 리뷰는 현재 시판 식물성 대체육의 맛 완성도를 직접 검증했다. 제품 간 품질 편차가 여전히 크며, 소비자 선택 기준이 '건강·환경'에서 '맛'으로 빠르게 이동 중임을 시사한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "dc6e2c56-f06f-4270-8217-c849b95296cd",
+        "title_ko": "레이시올로지, 한의원 600곳 입점",
+        "summary_ko": "한의학 기반 더마 코스메틱 브랜드 레이시올로지가 출시 6개월 만에 전국 한의원 600곳에 입점했다. 피부과·약국 중심이던 메디컬 화장품 유통 공식에서 벗어나, 한의원을 새 판매 채널로 개척한 전략이 빠른 확산을 이끌고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "52dc7dfe-9b7a-41c8-864b-d99e85a0a805",
+        "title_ko": "BASF, 아시아 뷰티 소재 혁신 공개",
+        "summary_ko": "바스프가 인-코스메틱스 아시아 2026에서 감각 혁신·보이지 않는 보호·스마트 클렌징 등 과학 기반 원료 솔루션을 선보였다. 글로벌 화학 소재 기업이 K-뷰티 제형 경쟁에 직접 개입하며 원료 기술 차별화 경쟁이 심화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ed6325b8-bf2d-493d-839c-744b23585f73",
+        "title_ko": "아마존, K-뷰티 밀리언 셀러 육성",
+        "summary_ko": "아마존코리아가 신규 셀러 입점부터 유럽 시장 진출까지 4단계 지원 프로젝트를 공식 발표했다. K-뷰티를 단순 카테고리가 아닌 전략 성장 산업으로 분류한 것으로, 글로벌 플랫폼의 K-뷰티 투자 의지가 한층 구체화됐다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "b1182c66-8c11-442c-9025-92a0eccb219d",
+        "title_ko": "중고 명품 리세일 시장 구조",
+        "summary_ko": "중고 명품 시장에서 구매는 현금 거래, 판매는 위탁 방식이 관행으로 굳어진 구조적 배경이 다시 조명받고 있다. 리세일 플랫폼 확산과 함께 거래 방식의 투명성 요구도 높아지는 추세다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "46845ab2-7a73-40fd-a9c5-e07479d6625c",
+        "title_ko": "충주, 체류 관광 승부수",
+        "summary_ko": "충주시가 호텔 유치를 핵심 전략으로 삼아 단순 방문형에서 체류형 관광으로의 전환을 시도하고 있다. 수도권 외 지방 도시에서 호캉스·체류 관광 인프라 경쟁이 본격화되는 흐름의 일환이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "838f7f2a-406f-4e56-af07-d1051dcacb8c",
+        "title_ko": "구독 비용, 잊힌 지출의 귀환",
+        "summary_ko": "소비자들이 인지하지 못한 채 누적해온 구독 서비스 비용이 재조명되고 있다. 경기 불확실성 속에서 구독 지출 점검과 해지가 하나의 소비 행동 패턴으로 자리 잡을 가능성이 높아졌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b2cd416b-5749-46a9-a059-d66887c11a8c",
+        "title_ko": "Z세대, 소비 기준의 재정의",
+        "summary_ko": "중국 21재경의 Z세대 소비 데이터 분석은 이들이 가격보다 가치·경험·정체성 부합도를 우선시한다는 점을 재확인했다. 글로벌 브랜드의 Z세대 마케팅 전략 수정이 불가피한 배경 데이터로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d22b8aeb-fca8-46a8-8503-a5852f319288",
+        "title_ko": "Z세대 소비 파고, 중국 시장 진단",
+        "summary_ko": "신랑재경의 Z세대 소비 전문 보고서는 중국 내 Z세대 소비력이 시장 전반을 이끄는 주도 세력으로 확고히 자리 잡았음을 분석했다. 국내 브랜드의 중국 시장 전략 재검토 시 핵심 참고 지표가 될 만하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '채널과 플랫폼의 재정의'다. K-뷰티는 아마존을 통해 글로벌 유통망을 제도화하고, 레이시올로지는 한의원이라는 비전통 채널로 메디컬 뷰티 유통 공식을 깼다. 소비트렌드 쪽에서는 구독 경제의 비용 피로와 Z세대의 가치 중심 소비가 겹치며, 브랜드가 '어디서·왜 팔리는가'를 근본부터 다시 설계해야 한다는 압력이 커지고 있다. 채널 다변화와 소비자 가치 정렬, 두 축 모두에서 동시 전환이 요구되는 국면이다.",
+  "cards_meta": {
+    "39713985-d23d-417f-ab7a-d174befb4d26": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "99c581dd-3a30-44ae-bfb0-00a239fcc961": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "352c8817-727b-4fa0-b545-b0addbce1ca9": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQdIBZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요즘 뜨는 식물성 대체육, 맛있을까 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dc6e2c56-f06f-4270-8217-c849b95296cd": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQTZ1dzlYRXRGWlp6MFlKdklWMzduSmVFTWI4NkJLbm9NMldZUXlaeVNNNGc0aGVZb2s5cmdCVnBmdG1rUnY3Q1pGQXk2X1A0SmFNUlBQbnhIeUoxLUU5VXFORkllTEo1UW5Ieg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[뷰티 트렌드] 레이시올로지, 론칭 6개월 만에 전국 600개 한의원 입점 外 - 베이비뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "52dc7dfe-9b7a-41c8-864b-d99e85a0a805": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KRVItdFZtUTVFT0xrcVd1LS1DU1VmOExEVmF5eGd3VzV0MXAyakVWaXcwZGx3LWc4Uk5kNHFIUl9uU2JKcnFrSHR0SUc4SldscmxVbkFYamNIWUV2TE1LWGIydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "바스프, ‘인-코스메틱스 아시아 2026’에서 미래를 여는 뷰티 솔루션 공개 - 코스인코리아닷컴",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ed6325b8-bf2d-493d-839c-744b23585f73": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312486",
+      "original_headline": "아마존, K-뷰티 '밀리언 셀러' 육성 프로젝트 가동",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b1182c66-8c11-442c-9025-92a0eccb219d": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "46845ab2-7a73-40fd-a9c5-e07479d6625c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SVNxQkxFN1hESGRlc1JELTROczFNZzg5THZRdDA2TkxnTlhKY2hITUtBd0JqWVZvUUd0S3hwRzMxVHpTdnpQbUhQWnFrN1lCSVQwaFJiN2xLWGdvZmlpUNIBYEFVX3lxTE01SVNxQkxFN1hESGRlc1JELTROczFNZzg5THZRdDA2TkxnTlhKY2hITUtBd0JqWVZvUUd0S3hwRzMxVHpTdnpQbUhQWnFrN1lCSVQwaFJiN2xLWGdvZmlpUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[충북관광포커스] ① 호텔 유치 나선 충주, 체류 관광 승부수 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "838f7f2a-406f-4e56-af07-d1051dcacb8c": {
+      "category": "소비트렌드",
+      "source_name": "GN-EN [소비트렌드] subscription economy",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mSi1WMWczbXhpdlM4QWJtcTlVRDZaa1NKTHlrbGxLVjNqTkRpM1ozU2VfbXZJekJhWDZrSXZJbWg0VFRpMmhDeTVWSURjanBhLXEwNHFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "10 subscription costs you forgot you're paying for - qz.com",
+      "languages": [
+        "en"
+      ],
+      "sceep_dimensions": []
+    },
+    "b2cd416b-5749-46a9-a059-d66887c11a8c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "d22b8aeb-fca8-46a8-8503-a5852f319288": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
