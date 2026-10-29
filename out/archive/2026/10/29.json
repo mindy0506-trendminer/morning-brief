@@ -1,0 +1,124 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 중소기업 수출이 3분기 역대 최고치를 경신하며 북미·유럽 공략 본격화",
+    "편의점 조리식품 위생 불량 33곳 적발, 즉석조리 채널 신뢰 흔들려",
+    "K-뷰티 주가, 색조는 하락·용기 업체는 프리미엄으로 업종 내 구도 재편"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "93dc5597-79fa-4e53-a1b7-bf295c3e0c4e",
+        "title_ko": "편의점 즉석조리 위생 경보",
+        "summary_ko": "커피·치킨 즉석조리 편의점 33곳이 위생 불량으로 적발됐다. 편의점이 외식을 대체하는 채널로 성장하는 만큼, 위생 관리 수준이 브랜드 신뢰와 직결되는 구조가 됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "93bc10e3-6a20-41e6-88d6-53e2d2d06b11",
+        "title_ko": "K-뷰티 중소기업 수출 최고치",
+        "summary_ko": "2026년 3분기 중소기업 수출액이 전년 대비 8.8% 늘어난 334억 달러로 역대 최고치를 기록했다. K-뷰티가 북미·유럽뿐 아니라 신흥시장까지 견인하며 중소 브랜드의 글로벌 확장 여력을 넓히고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ebc0dced-5590-44ea-94c3-141003bb7dc9",
+        "title_ko": "색조 하락·용기 업체 강세 대비",
+        "summary_ko": "수출 호조에도 색조 브랜드 주가는 조정을 받은 반면, 화장품 용기 업체는 높은 프리미엄을 인정받았다. 원료·소재 기업은 종목별 희비가 엇갈려, K-뷰티 밸류체인 내부의 수혜 구도가 분화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f66f766c-a9c6-4ccc-a4e2-550df875ded8",
+        "title_ko": "서울뷰티페스티벌 첫 개최",
+        "summary_ko": "11월 25일 광화문광장에서 '서울뷰티페스티벌 2026'이 처음 열린다. 뷰티·모델·패션·예술을 결합한 국제 문화축제 형식으로, 국내 뷰티 아티스트의 글로벌 브랜딩 창구로 기능할 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "78ea814f-7235-4ec0-a627-62a2cf0f0287",
+        "title_ko": "에스팀, K-패션으로 중국 공략",
+        "summary_ko": "에스팀이 아이엠폼과 손잡고 K-패션·콘텐츠를 앞세워 중국 시장에 진출한다. 콘텐츠와 패션을 묶은 진입 전략으로, 단순 제품 수출을 넘어선 브랜드 경험 수출 모델이 시도되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "f1bd79b6-849d-49f8-bb02-4d1116a75fc4",
+        "title_ko": "명품 브랜드 주거 공간 일본 상륙",
+        "summary_ko": "FENDI Casa가 도쿄 히로오에 일본 첫 브랜디드 레지던스를 선보인다. 명품 브랜드가 패션·소품을 넘어 주거 공간으로 영역을 넓히는 흐름이 아시아 시장에서도 본격화되고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 흐름은 'K-콘텐츠의 외연 확장'이다. K-뷰티는 수출 최고치를 기록하면서도 밸류체인 내 수혜가 색조에서 용기·소재 쪽으로 이동하고 있고, K-패션은 콘텐츠와 결합해 중국 시장을 두드린다. 동시에 편의점 위생 이슈는 즉석조리 채널이 외식 대체재로 성장한 만큼 신뢰 관리가 새로운 경쟁 변수로 떠올랐음을 보여준다. 브랜드 파워가 제품을 넘어 공간·경험으로 번지는 명품 주거 트렌드까지 더하면, 소비재 전반에서 '카테고리 경계 해체'가 핵심 키워드로 자리잡고 있다.",
+  "cards_meta": {
+    "93dc5597-79fa-4e53-a1b7-bf295c3e0c4e": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWRmcVhRLU0wbWxNSFZGaUF3VHRsNTk2SEFQN0VqME05TDh1dWNMLWZiU1ZZLVdENGJaTk5PU19lSGdMSGE4WmdvakVUQ3pIalRfamZXUHRBdVJ4andxSHBTTHJfSE5XSmtyYXQ2VFdXRVR5Q3dRVmJVbU5tQ0swRzY0OFphRzFvRWVOcDVndw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "커피·치킨 조리 편의점 등 점검했더니…33곳 위생 불량 - news.sbs.co.kr",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "93bc10e3-6a20-41e6-88d6-53e2d2d06b11": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100286",
+      "original_headline": "K-뷰티 순풍 탄 중소기업 수출, 역대 3분기 최고치 경신",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ebc0dced-5590-44ea-94c3-141003bb7dc9": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312512",
+      "original_headline": "주가로 읽는 K-뷰티: 색조는 울고 용기는 웃었다",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f66f766c-a9c6-4ccc-a4e2-550df875ded8": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100300",
+      "original_headline": "K-뷰티 새로운 도전! ‘서울뷰티페스티벌 2026’ 11월 25일 첫 개최",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "78ea814f-7235-4ec0-a627-62a2cf0f0287": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIVWowb0p5MnFYOVpKeWtHLVpESm1WZC1qOFUyRGhjVXhFZlg3WU5fbW1tZXpoSTFxLWN2ZGtfaEZpc2otUF9Ha1plTEQxM3FYTkVvSFZrdzFtNUt6LVZsRlBVaEgyQjlNSGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "에스팀, 아이엠폼과 'K-패션·콘텐츠'로 중국 시장 두드린다 - 비즈월드",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f1bd79b6-849d-49f8-bb02-4d1116a75fc4": {
+      "category": "라이프스타일",
+      "source_name": "GN-JA [라이프스타일] ホテル ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xalgzYUwxZFRveXVTZWplSWI1SlpmMEwwMDVhNzk3MmZ3ZUpzVmllc3Rka1dGZWhoekhOcU90YWdDN0F3TTcwZG43UjFkQTdCbDdxS1VWLUZwR0ZfNFE5dlhOQV9BMnNWWmdjaDdtaFNsWHJfb0x0N3NLMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "都ホテル - ニコニコニュース",
+      "languages": [
+        "ja",
+        "ja"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
