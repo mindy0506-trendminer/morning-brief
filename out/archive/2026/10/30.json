@@ -1,0 +1,187 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, ODM 생태계 경쟁력 재확인 속 기업별 투자 온도차 뚜렷",
+    "무신사 뷰티, 성수 오프라인 거점 확장으로 인디 브랜드 유통 판도 재편",
+    "대체육·비건 소비, 경기 불황 압박에 확산세 둔화 조짐"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "c603b88b-fd8f-4fc3-ae3a-8a317bfa720c",
+        "title_ko": "불황에 식은 대체육 열기",
+        "summary_ko": "경기 침체가 길어지면서 가치 소비의 상징이던 대체육 수요가 뚜렷이 꺾이고 있다. '먹고 살기도 바쁜데 환경까지'라는 인식이 확산되며, 비건 소비가 일부 고관여 소비자층에 한정되는 구조로 재편될 가능성이 높아졌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "165c89d5-ef91-48d2-a661-39618084d829",
+        "title_ko": "강원 비건 푸드 페스타 개막",
+        "summary_ko": "강원 지역 농·특산물과 비건 문화를 접목한 '2026 강원 비건 푸드 페스타'가 6월 개막했다. 비건 수요 둔화 속에서도 지역 관광 자원과 결합한 미식 이벤트 형태로 틈새 시장을 공략하는 시도다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "482a4b2b-61ce-4120-86c5-68a586fd4ddc",
+        "title_ko": "베지노믹스-비건페어 서울 개막",
+        "summary_ko": "'2026 베지노믹스-비건페어 인 서울'이 개막하며 산업계 관심을 모았다. 소비 심리 위축에도 불구하고 B2B 중심의 비건 산업 행사는 꾸준히 이어지고 있어, 대중 소비와 산업 공급 간 온도차가 뚜렷해지는 양상이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "e626c9b1-b907-4d23-baec-c8144e3bdeda",
+        "title_ko": "콜마그룹, K-뷰티 성장 자신감",
+        "summary_ko": "콜마그룹 윤상현 부회장이 'K-뷰티 지속 성장 가능성'에 100% 확신을 표명했다. 신생 브랜드 발굴부터 ODM 제조·글로벌 유통까지 이어지는 산업 생태계가 핵심 경쟁력이라는 분석으로, 국내외 매체 다수가 동시 보도하며 신호 강도가 높다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "07c282af-a01f-4e3f-af81-229d80c17da3",
+        "title_ko": "ODM 주가, 기업별 극명히 갈려",
+        "summary_ko": "K-뷰티 ODM 기업들의 1년 주가 흐름이 극명히 엇갈렸다. 코스메카코리아에는 외국인 자금이 집중된 반면, 씨앤씨인터내셔널에서는 대규모 이탈이 발생했다. 업종 전반이 아닌 개별 기업 경쟁력에 따른 선별 투자가 본격화된 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "27657b00-08eb-4c2a-9127-504bb59e6100",
+        "title_ko": "무신사 뷰티, 성수로 영역 확장",
+        "summary_ko": "무신사 뷰티가 홍대에 이어 성수에 오프라인 거점을 추가했다. 인디 브랜드 큐레이션과 약국 서비스를 결합한 형태로, 온라인 플랫폼의 오프라인 전환이 뷰티 유통 구도를 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2addc9ba-0f50-405a-ae60-6c414d1456e9",
+        "title_ko": "중고 명품, 살 땐 현금·팔 땐 위탁",
+        "summary_ko": "중고 명품 거래에서 구매 시 현금 직거래, 판매 시 위탁을 선호하는 비대칭 패턴이 포착됐다. 이는 진품 확인 부담과 가격 협상력 차이에서 비롯된 소비자 행동으로, 리세일 플랫폼 설계 시 참고할 수 있는 구조적 특성이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4a600a66-b537-423c-8dd3-fbdbded3056a",
+        "title_ko": "중국 Z세대 소비 데이터 분석",
+        "summary_ko": "중국 Z세대의 소비 결정 요인을 데이터로 분석한 보고서다. 경험·개성·가성비를 동시에 추구하는 소비 성향이 두드러지며, 국내 수출 브랜드 전략에도 시사점을 제공한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c23a48f3-bb75-4f1c-a2a5-bf0c981fc1e9",
+        "title_ko": "Z세대 소비 물결, 중국 시장 재편",
+        "summary_ko": "중국 Z세대의 소비 파워가 시장 전반을 재편하고 있다는 분석이다. 기존 세대와 달리 브랜드 충성도보다 콘텐츠·커뮤니티 연결에 반응하는 특성이 강하며, 디지털 네이티브 채널 중심의 마케팅 전환이 가속화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5e658f1b-057f-417f-b33b-1bd7f339d35d",
+        "title_ko": "Z세대 지갑을 여는 소비 심리",
+        "summary_ko": "중국 Z세대 청년층의 소비 선호 트렌드를 심층 분석한 기사로, 감성·자기표현·소셜 가치가 구매 동기의 핵심으로 부상하고 있다. K-뷰티 및 K-패션 브랜드의 중국 진출 전략 수립에 직접적인 참고 자료가 된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 데이터를 관통하는 흐름은 '양극화'다. K-뷰티 ODM 섹터에서는 업종 전반이 아닌 개별 기업 경쟁력으로 투자 자금이 선별되고 있고, 비건·대체육 시장에서는 산업 행사는 이어지는 반면 대중 소비 의향은 경기 압박에 꺾이는 이중 구조가 나타난다. 무신사 뷰티의 성수 진출은 온라인 플랫폼이 오프라인 체험 거점을 통해 인디 브랜드 생태계를 직접 구축하는 전략의 연장선으로, 플랫폼-브랜드-유통의 경계가 흐려지는 속도가 빨라지고 있다. 중국 Z세대 소비 분석과 맞물려 보면, 브랜드 선택 기준이 품질·가격보다 '정체성과의 연결'로 무게 중심을 옮기는 흐름이 한·중 양쪽에서 동시에 진행 중임을 확인할 수 있다.",
+  "cards_meta": {
+    "c603b88b-fd8f-4fc3-ae3a-8a317bfa720c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LRHlFYUVDdEpydFI5UXZEWlRUc1UtU2MzcXdORVA2dGtTZzh0Xy1UeFQwdVVvTlk5dHZyVno2WHNjSkVTS2NVOUpkMUxxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“먹고 살아야 환경도 생각”…불황에 식은 대체육 열풍 - 전자신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "165c89d5-ef91-48d2-a661-39618084d829": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "482a4b2b-61ce-4120-86c5-68a586fd4ddc": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MFBNUHVJNWVQMWUzVHNzZmp2TmE5b1ZlMDZnWW5kTU9ueTAtRkZGZTl1UFVpMVVvMnRqMVltVG1TOGpzMzJmYnk2Y2hEaVdyTFk0QnNUZlQ0Z1HSAWBBVV95cUxPa2NJZzVxdTQ1SWc3anNtLTlrQjI4T0tWN0NfLXpzY2RvMDI0QWl2Ylp6eV9QVUVmTW5PV3JFajlhLURCcTFHS1B1ei1UTzNwN2ZwMEp0dW5XaXFqdF9tZVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "'2026 베지노믹스-비건페어 인 서울' 개막 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e626c9b1-b907-4d23-baec-c8144e3bdeda": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdlBELXdOMklrX1dXOHFaaEhSX1VhalRYNUJ6SjVTYV90QnZnSy1VSUoyU3MxUkN4QXVsaU85ZDhPUk9abGp1SnlXUlI5dUp6Q2FudTg0YmlJd0pvT0FFSTJpUmpwcFJUZXdrTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "윤상현 콜마그룹 부회장 \"K뷰티 지속성장, 100% 가능\" - 매경헬스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "07c282af-a01f-4e3f-af81-229d80c17da3": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312536",
+      "original_headline": "주가로 읽는 K-뷰티: 코스메카코리아 '질주'·씨앤씨인터내셔널 '이탈'",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "27657b00-08eb-4c2a-9127-504bb59e6100": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EcHpTVTc0TS1zM3Nmc3IwWjlXajRfT3AzNlFJQzd3NEpHbFFZcFRnYklZMkRkZG5xSDN3ZVFlYWI4UU5PYm1xVnlVajY5c2x2ZG5VdlpFcG5Mek9HTzk4Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "무신사 뷰티, 홍대 이어 성수 진출…인디 브랜드·약국 결합 - 아시아경제",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2addc9ba-0f50-405a-ae60-6c414d1456e9": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4a600a66-b537-423c-8dd3-fbdbded3056a": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "c23a48f3-bb75-4f1c-a2a5-bf0c981fc1e9": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "5e658f1b-057f-417f-b33b-1bd7f339d35d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTRyS0VQMDlMdkcxd0VoaGE0YVQ4Tlk4Q2pqYUxndnNWTzhSTTRMc2M1ckozU0JJc2RNLU5Fa1NiNnN6bldOd1dKQjVQaDlZalRqS3hxeEw3YnFmUXUzVHlqbjlKSExGQ1IzTGRnN29uQnJ0TTByNGQ2aHFoZXk0Q1ZpRzVoN1VKdTdPcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "谁动了Z世代的钱包？浅析Z世代青年消费偏好趋势 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
