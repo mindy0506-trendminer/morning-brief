@@ -1,0 +1,235 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 3분기 중소기업 수출 역대 최고치 경신하며 북미·유럽 공략 본격화",
+    "건기식 시장, 저속노화 트렌드 지속 속 온라인 판매 채널 확대로 구도 재편",
+    "홈 퍼니싱·인테리어 소비, 취향 기반 일상 지출로 자리잡으며 성장세 유지"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "227970a8-5530-4805-8b4b-c7864196bde0",
+        "title_ko": "건기식, 저속노화 트렌드 지속",
+        "summary_ko": "2026년 건강기능식품 시장의 핵심 키워드는 여전히 저속노화다. 항산화·세포 재생 관련 성분 제품 수요가 꾸준히 늘고 있으며, 단기 유행이 아닌 중장기 소비 패턴으로 굳어지는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d3b97ab4-9a13-4ede-a785-3feb3e8a4bc8",
+        "title_ko": "수면 건기식, 부작용 우려 속 수요 증가",
+        "summary_ko": "수면 장애를 겪는 소비자들이 처방 수면제 대신 부작용이 적은 건강기능식품으로 눈을 돌리고 있다. 약국 채널에서의 상담 수요가 늘며, 기능성 수면 제품군의 존재감이 커지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1d4c32af-c060-4c3c-99f8-a9b6a02290dc",
+        "title_ko": "약국 건기식, 온라인 판매로 확장",
+        "summary_ko": "약국의 건강기능식품 온라인 판매 논의가 구체화되고 있다. 전문성을 갖춘 약국 채널이 디지털 유통으로 확장될 경우, 기존 이커머스 중심 건기식 시장의 경쟁 구도에 변화가 불가피하다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "bcc92864-94d9-4acf-838a-d2c94f895ff9",
+        "title_ko": "K-뷰티, 중소기업 수출 신기록",
+        "summary_ko": "2026년 3분기 중소기업 수출액이 전년 동기 대비 8.8% 늘어난 334억 달러로 역대 최고치를 기록했다. K-뷰티가 북미·유럽과 신흥시장 동시 공략의 핵심 동력으로 작동하며, 수출 기업 수도 역대 최고인 9만여 개사에 달했다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a1108898-3e98-4adb-808d-fe9f0eb5fd76",
+        "title_ko": "K-뷰티, 미국 리테일 진출 전략화",
+        "summary_ko": "랜딩인터내셔널이 LA 코리아 엑스포에서 미국 리테일 진출 전략을 공개했다. 자사 플랫폼 'K-Beauty World'를 통해 현지 바이어와 직접 연결하는 방식으로, K-뷰티의 미국 오프라인 채널 침투가 본격화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bd36f4a3-7025-437d-9048-3a773ffef655",
+        "title_ko": "LG 프라엘, 피부과학 자문단 발족",
+        "summary_ko": "LG 프라엘이 10년 이상 경력의 피부과 전문의로 구성된 피부과학 자문단을 공식 출범시켰다. 홈 뷰티 기기 시장에서 '의학적 근거'를 내세운 신뢰도 경쟁이 본격화되고 있음을 보여주는 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "12ae9999-84bd-4eef-9210-1ba742c1efb2",
+        "title_ko": "화복·국조, 중국 문화 소비 상징으로",
+        "summary_ko": "중국 전통 복식인 화복이 국조(國潮) 트렌드의 문화적 상징으로 부상하며 세계 시장에 중국 미감을 알리는 창구 역할을 하고 있다. 소비재 관점에서는 자국 문화에 대한 자부심이 구매 동인으로 작동하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9a2f2fe3-5483-4f25-840a-d18b41aee9b0",
+        "title_ko": "중고명품, 구매·판매 방식 이원화",
+        "summary_ko": "중고명품 시장에서 구매 시 현금 직거래, 판매 시 위탁 방식이 선호되는 이원화 행태가 나타나고 있다. 거래 방식의 다양화는 시장 진입 장벽을 낮추며 중고명품 소비 저변을 넓히는 요인으로 작용한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "9e00b010-7c28-45f8-a64c-d324eee4722a",
+        "title_ko": "홈 퍼니싱, 취향 소비로 정착",
+        "summary_ko": "홈 퍼니싱 트렌드가 일시적 붐을 넘어 일상의 취향 소비로 안착했다. 개인 공간에 대한 투자를 아끼지 않는 소비자층이 두꺼워지면서, 관련 시장은 경기 변동에도 비교적 견고한 수요를 유지하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3401d5b8-b571-44c8-b3f2-f8263ee195b4",
+        "title_ko": "2026년 인테리어 트렌드 주목",
+        "summary_ko": "2026년 실내 인테리어 시장은 기능성과 미감을 동시에 추구하는 방향으로 트렌드가 수렴되고 있다. 소비자의 공간 연출 욕구가 세분화되면서 프리미엄 소재와 맞춤형 디자인 수요가 동반 성장하는 구조다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c9228d32-f7f5-4317-8252-145e053b99db",
+        "title_ko": "킨텍스 S2 호텔 부지 매각 확정",
+        "summary_ko": "고양시 킨텍스 S2 호텔 부지 매각안이 시의회를 통과했다. 전시·컨벤션 배후 숙박 인프라 확충 가능성이 열리며, 고양 일대 호텔·마이스 시장의 지형 변화가 예상된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "f8a9d773-7f88-4697-993c-da970a0aca21",
+        "title_ko": "Z세대 소비 데이터로 본 구매 동인",
+        "summary_ko": "중국 Z세대 소비 데이터 분석에 따르면, 이 세대는 가격보다 가치와 경험에 지갑을 열며 기존 세대와 뚜렷이 구별된다. 브랜드의 문화적 태도와 진정성이 구매 결정의 핵심 변수로 작용하는 것으로 나타났다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "90873a7d-dbea-4b65-be4f-0f5a3c017e0b",
+        "title_ko": "중국 Z세대 소비 물결, 거스를 수 없는 흐름",
+        "summary_ko": "중국 Z세대의 소비 영향력이 전 산업군으로 확산되며, 기업들의 제품·마케팅 전략 전환이 불가피해지고 있다. 국조 열풍과 맞물려 자국 브랜드 선호도가 높아지는 점도 주목할 변수다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 핵심 흐름은 '신뢰 기반 소비의 제도화'다. K-뷰티는 의학 자문단과 리테일 채널 전략으로 신뢰 체계를 구축하고, 건기식은 약국이라는 전문 채널을 온라인으로 확장하며 전문성을 담보하려 한다. 홈 퍼니싱과 중고명품 역시 충동 소비가 아닌 취향과 합리성에 근거한 의사결정으로 이동하고 있다. 소비자가 '왜 이 브랜드여야 하는가'를 더 까다롭게 묻는 시대에, 근거 있는 차별화가 생존 조건이 되고 있다.",
+  "cards_meta": {
+    "227970a8-5530-4805-8b4b-c7864196bde0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d3b97ab4-9a13-4ede-a785-3feb3e8a4bc8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1d4c32af-c060-4c3c-99f8-a9b6a02290dc": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51WTRNUy1LdlRpbDZ6TEVlZ3lQTHpUbzBBSEplb1FkcmNrbVA2LWtSMWhmVndmVkRnVThNRjBrR1BCMHdMYVc1bF9VZ1hPQzlyN0UzclF0QnJNMk45U19RWV9uSVNWYWRwSTNZcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약국의 건강기능식품 온라인 판매 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bcc92864-94d9-4acf-838a-d2c94f895ff9": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100286",
+      "original_headline": "K-뷰티 순풍 탄 중소기업 수출, 역대 3분기 최고치 경신",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a1108898-3e98-4adb-808d-fe9f0eb5fd76": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DMGZjU09ZYkxVVUFCN0xaN202cXpEeWFSOHprUzVrMGJreTZQZ29Nd3Q0dVo4b1NfWDQ3SkZHNXcwOU1lancyNDF2TlAzY2o5X19lNGtYU1lHVl9oVUFtd3U5b0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "랜딩인터내셔널, ‘코리아 엑스포 LA’서 K뷰티 美 리테일 진출 해법 제안 - 서울경제TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bd36f4a3-7025-437d-9048-3a773ffef655": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100318",
+      "original_headline": "LG 프라엘, 피부 전문의와 손잡고 ‘피부과학 자문단’ 공식 발족",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "12ae9999-84bd-4eef-9210-1ba742c1efb2": {
+      "category": "패션",
+      "source_name": "GN-ZH [소비트렌드] 国潮",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HUGx3bWZSZzcyS2NzWU1LdnM5Ykh3WVlkQVZ4SlIzNkE0SnBxR20tOW5uZG0yelppUG9NUG5SUXZDeHlaRjNhaXBNak5zUC12VUs0ajFoaEI1NTB0Qmo5ZG1OZTQ5UVg5c0RYeHNVNGVIWl9uYTRTa21R?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "向世界展示中国华服之美（新国潮） - 人民日报",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "9a2f2fe3-5483-4f25-840a-d18b41aee9b0": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9e00b010-7c28-45f8-a64c-d324eee4722a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3401d5b8-b571-44c8-b3f2-f8263ee195b4": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c9228d32-f7f5-4317-8252-145e053b99db": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZzVzNHZVd0o2YS1TS19zcWxfcUs2MnhnRU9aRGE3TUh3dTB0WFNQN2ZweUlXRTM0cHRsU1pRWkxPcS1OZ2JydEpxLVcxaXNqaVBxaTA0eG9RNlRtRldIVdIBYEFVX3lxTE4yZzVzNHZVd0o2YS1TS19zcWxfcUs2MnhnRU9aRGE3TUh3dTB0WFNQN2ZweUlXRTM0cHRsU1pRWkxPcS1OZ2JydEpxLVcxaXNqaVBxaTA0eG9RNlRtRldIVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "고양시, 킨텍스 S2 호텔 부지 매각안 시의회 통과 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f8a9d773-7f88-4697-993c-da970a0aca21": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "90873a7d-dbea-4b65-be4f-0f5a3c017e0b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
