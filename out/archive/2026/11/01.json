@@ -1,0 +1,200 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 홈 디바이스 의료 신뢰성 확보·미국 리테일 공략 두 갈래로 외연 확장",
+    "홈 퍼니싱·자연친화 인테리어, 취향 소비 정착 단계로 진입",
+    "Z세대 금주 문화 확산, 주류 소비 구조 재편 신호 다국적으로 포착"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f22a659d-5b03-4b88-a406-ce2327952ed8",
+        "title_ko": "대체육 시장, 선택지 확대",
+        "summary_ko": "식물성 대체육 시장이 빠르게 커지며 비건 소비자의 선택 폭이 넓어지고 있다. 공급 다양화가 가격 경쟁과 품질 경쟁을 동시에 촉진하는 구도다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7d6062b7-e3ac-4c1d-8d2f-bdf4056fbc07",
+        "title_ko": "블라인드 테스트로 본 대체육 완성도",
+        "summary_ko": "식물성 대체육과 실제 고기를 구별하지 못하는 소비자가 늘고 있다는 블라인드 테스트 결과가 주목받고 있다. 맛과 식감 격차가 줄면서 주류 소비자 진입 장벽이 낮아지는 신호로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "8d1e5f18-872f-4e5f-9d61-249eda7e45c0",
+        "title_ko": "서울뷰티페스티벌, 광화문 첫 개최",
+        "summary_ko": "한국 뷰티·메이크업 전문가단체가 공동 주최하는 '서울뷰티페스티벌 2026'이 11월 25일 광화문광장에서 처음 열린다. 뷰티·패션·모델이 결합된 국제 문화축제 형식으로, K-뷰티 아티스트의 글로벌 노출 기회를 넓히는 플랫폼으로 기능할 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0c37f68c-997c-4b14-8078-f617ded937ea",
+        "title_ko": "LG 프라엘, 피부과학 자문단 출범",
+        "summary_ko": "LG 프라엘이 평균 10년 이상 경력의 피부과 전문의로 구성된 자문단을 공식 출범시켰다. 홈 뷰티 기기 시장에서 의료 신뢰성을 전면에 내세우는 전략으로, 클리닉급 효능을 가정에서 구현한다는 메시지를 강화하려는 포석이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9eee56f3-19bc-4029-a8f6-1bfacd0236bc",
+        "title_ko": "K-뷰티, 미국 리테일 공략법 제시",
+        "summary_ko": "랜딩인터내셔널이 LA에서 열린 '코리아 엑스포 LA 2026' K-뷰티 데이에서 미국 리테일 진출 전략을 발표하고 자사 플랫폼 'K-뷰티 월드' 부스를 운영했다. 현지 바이어 접점 확대와 유통 채널 다각화가 핵심 과제로 부각됐다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "0078f3d7-0567-40bb-862a-139c0ee9d925",
+        "title_ko": "2026년 인테리어 트렌드 정리",
+        "summary_ko": "2026년 실내 인테리어는 기능성과 미감을 동시에 충족하는 방향으로 수렴하고 있다. 소재·색상 선택의 개인화가 심화되며 획일적 트렌드보다 취향 기반 공간 구성이 우선시되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4912216e-6a69-45a1-bef2-9f838d86d80e",
+        "title_ko": "AI가 포착한 자연친화 인테리어 유행",
+        "summary_ko": "AI 기반 인테리어 플랫폼 아키스케치가 자연 소재·식물 요소를 결합한 바이오필릭 디자인의 인기가 뚜렷하게 증가하고 있다고 발표했다. 데이터 기반 트렌드 탐지가 인테리어 기획·시공 방향을 바꾸기 시작하는 국면이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4de45aca-1828-432c-8fce-83d19fc4a82c",
+        "title_ko": "홈 퍼니싱, 취향 소비로 정착",
+        "summary_ko": "홈 퍼니싱이 일회성 유행을 넘어 일상적 취향 표현의 소비 범주로 자리잡았다. 가구·소품 구매가 개인 정체성 표현과 결부되며 교체 주기가 짧아지고 단가가 올라가는 추세다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4d859bb3-f57a-4d27-975c-6edf88285467",
+        "title_ko": "Z세대, 음주 문화 이탈 가속",
+        "summary_ko": "스페인어권 매체를 중심으로 Z세대의 금주·절주 경향이 다수 보도되고 있다. 알코올 소비를 사교 필수 요소로 보지 않는 세대 인식 전환이 주류 시장 축소의 구조적 압력으로 작용하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8041ae41-0071-47db-8c80-f585cedd3105",
+        "title_ko": "Z세대 소비 패턴 다각도 분석",
+        "summary_ko": "중남미 미디어에서 Z세대 소비 행태를 집중 분석하는 기사가 잇따르고 있다. 가성비보다 가치 소비, 브랜드 충성보다 경험 중심의 선택이 Z세대 소비를 특징짓는 공통 키워드로 부각된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "76226603-50fc-4d8f-bd0a-e56ee6c21954",
+        "title_ko": "중국 Z세대 소비 물결 분석",
+        "summary_ko": "중국 금융 미디어가 Z세대 소비 전문 리포트를 통해 이 세대가 주도하는 소비 파고를 '막을 수 없는 흐름'으로 규정했다. 글로벌 전역에서 Z세대 소비 분석이 동시다발로 쏟아지고 있어, 이 세대에 대한 브랜드의 전략적 대응이 더 이상 선택이 아닌 필수 과제임을 시사한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 공통 흐름은 '신뢰 기반 소비'의 강화다. LG 프라엘의 피부과학 자문단 출범, 건강기능식품 검증 요구, 명품 중고 정품 인증 경쟁은 모두 소비자가 효능과 진정성을 구매 판단의 우선 기준으로 삼기 시작했음을 보여준다. 동시에 Z세대의 금주 확산과 홈 퍼니싱의 취향 소비 정착은 '나다움'을 중심에 두는 소비 재편이 식음료·라이프스타일 전 카테고리로 번지고 있음을 시사한다. K-뷰티의 미국 리테일 진출 전략화와 서울뷰티페스티벌 출범은 이 흐름 위에서 한국 브랜드가 글로벌 신뢰 자산을 쌓으려는 적극적 움직임으로 읽힌다.",
+  "cards_meta": {
+    "f22a659d-5b03-4b88-a406-ce2327952ed8": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7d6062b7-e3ac-4c1d-8d2f-bdf4056fbc07": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8d1e5f18-872f-4e5f-9d61-249eda7e45c0": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZRzgtSFcwVjFYNktPUXFDZ2ZJc2owaXZoYUc4ZktYQ0ZzeFMxTGJVWDVFdDB6RFBMZWdsWnVJNy1pcDFYREY1Q0h2ZU4xMEdKcTllN2lhNXE5Z2NmcUdGMlAtSE03dG1IN3M0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘서울뷰티페스티벌 2026’ 11월 25일 광화문서 개최 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c37f68c-997c-4b14-8078-f617ded937ea": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100318",
+      "original_headline": "LG 프라엘, 피부 전문의와 손잡고 ‘피부과학 자문단’ 공식 발족",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9eee56f3-19bc-4029-a8f6-1bfacd0236bc": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DMGZjU09ZYkxVVUFCN0xaN202cXpEeWFSOHprUzVrMGJreTZQZ29Nd3Q0dVo4b1NfWDQ3SkZHNXcwOU1lancyNDF2TlAzY2o5X19lNGtYU1lHVl9oVUFtd3U5b0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "랜딩인터내셔널, ‘코리아 엑스포 LA’서 K뷰티 美 리테일 진출 해법 제안 - 서울경제TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0078f3d7-0567-40bb-862a-139c0ee9d925": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XeVhZN3BTanJkblBWcnJFVXo5LUMyQ1ZFWlRVcHNvb05SMWhvZTFzZDhlb2dlVm9tc1BNWDBOS3FJb0x0WVlGWmRqWDh6ZGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "실내 인테리어 디자인: 2026년 최신 트렌드 - 브런치",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4912216e-6a69-45a1-bef2-9f838d86d80e": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSzNLYlY3Z2xJZlNkdVEwdjZlV0pLb19RcFhfa3lMRy04VXVQNDVRSTk4SnY4REV3ZTZzdlZmVGMzRkg0a1lkd3N1RXMzXzJSUHRYLUFqbU4zaVBvcnB5bGZNbXBreXRMa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "AI 프롭테크 아키스케치, 자연친화 인테리어 유행 공개 - AI타임스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4de45aca-1828-432c-8fce-83d19fc4a82c": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIVFNzMU1OOTJpWG5nNVVzSkhYNkRuTkkzOFJYQ0o4YzQwTGp5My1hLUQ0U2pFeWxXRWRodkQyNXVsNmlZcTVwakZrRlYwTjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘홈 퍼니싱’ 트렌드, 일상의 ‘취향 소비’로 안착 - 아이보스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4d859bb3-f57a-4d27-975c-6edf88285467": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTlxZXJHa2pDbmlwZ1VYZ1JCMDlneWltZ19kT3Y0bnVyaXJEWkprVXdOSEZUR1ZUWFphMjNLQ1pNOFVmVEtxdW5aeWl3a1ZEbHl1MWg2eVpKaVB5VEF5YnJTQzlpV3VJcmxWcE8yQ3phTHBrRDNoYm5PaVRhamxoazcwTWFsREZyN1VyeF9jclA0WlpkaFZNSkNMVU7SAbABQVVfeXFMT1piVGNfSFQ0T0t5S21jOVVhNXNuWGZRSFg1d0htcDhFYlZ2Z28yOWV6Mkdmb2ZsOGI1MjM4Mk9mR2lrNmpNdUFUWkdZMXdld3o1WU8zdV8zQXBiM0taTmJWc2NUSUxXV3daZDhHNDdydUozZ19pZjdGeUdPY2loVFpvSnZfSnpHMkNfWHlTbXc3MEJJT2k3SHd3QjRvNzZDM2FPVDAxV0lWV0RVX0wyTzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y la desprogramación de la cultura etílica - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "8041ae41-0071-47db-8c80-f585cedd3105": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcWh4VE96ZFozTmJBYVVlcDF1SF9iNl9QSWFrWjhyQVY5MXpkUXpZbjFIeThBUGI4RDFYQnk4ajFuaTBSY2hKMy1TQjcxWlgzek9tZnNIQ2tMRGxBQW5DNEJuMkNVeVNyQjhpMmI2RGxQdVlfcVlwdXlfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y las tendencias de consumo - - | Página3 Huánuco|",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "76226603-50fc-4d8f-bd0a-e56ee6c21954": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
