@@ -1,0 +1,235 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티 수출, 10개월 연속 성장 끝에 연간 최고치 경신",
+    "중동·북아프리카가 K뷰티의 신흥 격전지로 빠르게 부상",
+    "Z세대, 가성비 넘어 '가치 대비 품질' 중심 소비 구조로 전환"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "8c03074b-4864-41f7-a748-cdcc620ee2d0",
+        "title_ko": "대체육 시장, 소비자 선택지 확대",
+        "summary_ko": "비건 소비층이 늘면서 식물성 대체육 시장이 빠르게 성장하고 있다. 단순한 윤리 소비를 넘어, 선택 폭이 넓어진 만큼 맛과 품질 경쟁이 본격화되는 단계로 접어들었다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "33f1fc96-d4c1-4093-bfe7-8f879ac935ea",
+        "title_ko": "블라인드 테스트로 본 대체육 완성도",
+        "summary_ko": "블라인드 테스트 결과 식물성 대체육이 실제 고기와 구별하기 어려운 수준에 근접했다는 평가가 나왔다. 맛의 유사성이 높아질수록 주류 소비자 진입 장벽도 낮아질 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "4d0a00a9-0364-400c-844a-ce2288f8f84c",
+        "title_ko": "식물성 대체육 맛 경쟁 본격화",
+        "summary_ko": "동아일보 보도에 따르면 다양한 식물성 대체육 제품의 맛 완성도가 주목받고 있다. 건강·환경 가치에서 출발한 대체육 트렌드가 이제 '맛'이라는 본질적 기준으로 평가받는 단계에 이르렀다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "5d2f3373-3394-4e2a-a60a-9f176f2d4016",
+        "title_ko": "K뷰티 수출, 역대 최고치 돌파",
+        "summary_ko": "2026년 국내 화장품 수출이 10개월 연속 성장을 이어가며 10월 기준으로 이미 전년 연간 총액을 넘어섰다. 글로벌 뷰티 시장에서 한국 화장품의 지위가 한층 견고해지고 있다는 신호다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ad18598f-6838-46c1-87cb-be1ab6f0c821",
+        "title_ko": "중동·북아프리카, K뷰티 새 격전지",
+        "summary_ko": "아랍에미리트로의 K뷰티 수출이 5년 새 9배 증가했다. 한국무역협회가 중동·북아프리카 현지 사절단을 파견하며 중소 뷰티 기업의 진출을 본격 지원하고 나서, 미국·중국 의존도를 낮추는 수출 다변화가 속도를 내고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e60a2312-aaad-4c64-9f7e-fb44217a321c",
+        "title_ko": "K뷰티, 미국 리테일 공략 전략 구체화",
+        "summary_ko": "랜딩인터내셔널이 '코리아 엑스포 LA 2026'에서 미국 리테일 유통 진입 전략을 공개했다. 자사 플랫폼을 통해 현지 바이어와 직접 연결하는 방식으로, 온라인 인지도를 오프라인 매대로 전환하려는 움직임이 구체화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "3c3e89d0-d8a5-44d0-ab7e-c9234460c6a4",
+        "title_ko": "라지크, 스트릿 신상 라인 공개",
+        "summary_ko": "스트릿 패션 브랜드 라지크가 여름 신상품을 출시했다. 국내 스트릿 씬에서 꾸준히 존재감을 유지하는 브랜드로, 시즌 컬렉션 출시로 주목을 받고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "714b20c4-cb7e-47f3-89d4-323c446f5f91",
+        "title_ko": "연말 호캉스 시장, 큐레이션 경쟁 가열",
+        "summary_ko": "호텔 큐레이션 플랫폼 프리즘이 7회째 '체크인 갈라'를 열고 8개 호텔의 연말 호캉스 패키지를 한자리에 선보였다. 호캉스가 단순 숙박을 넘어 기획형 경험 상품으로 정착하면서, 큐레이션 플랫폼의 역할이 커지는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "86a1f206-67b3-4ba2-a031-624b30500339",
+        "title_ko": "밀라노 박람회가 제시한 인테리어 방향",
+        "summary_ko": "밀라노 가구 박람회를 통해 글로벌 인테리어 트렌드의 방향이 제시됐다. 국내 리빙 업계가 이를 벤치마킹하며 고급화 및 개성화 추세가 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "65883bc8-591b-418d-9b21-c75215d5981e",
+        "title_ko": "인테리어 트렌드의 주기적 순환",
+        "summary_ko": "중앙일보가 한 해의 인테리어 트렌드를 돌아보며 소비자 취향의 변화를 짚었다. 리빙 시장에서 트렌드 순환 주기가 짧아지고 있다는 점이 확인된다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "289f21fd-343b-4db8-bc61-ffe055ff5239",
+        "title_ko": "Z세대 소비 패턴, 전 세계 주목",
+        "summary_ko": "중남미 매체까지 Z세대 소비 트렌드를 조명하고 있다. 가치 기반 소비와 디지털 채널 의존도가 세대적 특성으로 전 세계 소비재 업계의 공통 화두가 됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "217bcf08-ce5c-4c31-b592-721738a10329",
+        "title_ko": "중국 Z세대, 무엇에 지갑 여나",
+        "summary_ko": "중국 21재경이 Z세대 소비 데이터를 분석한 결과, 이 세대는 특정 가치와 정체성에 부합하는 제품에 지출을 집중하는 경향이 뚜렷했다. 단순 기능이나 가격보다 '나다움'이 구매 결정의 핵심 기준으로 작동한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b0a6bcb9-17fe-41f9-9b17-2e9218044908",
+        "title_ko": "중국 Z세대, 가성비 넘어 가치비로",
+        "summary_ko": "21재경 분석에 따르면 중국 Z세대는 단순 저가보다 '가격 대비 품질'인 질가비(質價比)를 추구하며, 쇼핑과 소셜미디어를 결합한 구매 행동이 일상화됐다. 이 흐름은 국내 온라인 유통 전략에도 시사점이 크다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑의 핵심 교차점은 '검증된 가치'에 대한 소비자의 요구다. K뷰티가 수출 최고치를 연달아 갱신하는 배경에는 품질로 검증된 신뢰가 있고, Z세대가 '질가비'를 앞세우는 것도 같은 맥락이다. 대체육 시장이 맛 완성도로 평가받기 시작한 것 역시 체험 기반 검증 단계로 진입했음을 보여준다. 지역을 막론하고 소비자는 가격이나 트렌드보다 실제 경험으로 입증된 제품에 지갑을 열고 있으며, 브랜드가 이 기준을 충족하지 못하면 시장 교체 속도도 빨라질 것이다.",
+  "cards_meta": {
+    "8c03074b-4864-41f7-a748-cdcc620ee2d0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "33f1fc96-d4c1-4093-bfe7-8f879ac935ea": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4d0a00a9-0364-400c-844a-ce2288f8f84c": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQdIBZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요즘 뜨는 식물성 대체육, 맛있을까 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5d2f3373-3394-4e2a-a60a-9f176f2d4016": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312609",
+      "original_headline": "K-Beauty Exports Hit Record High, Surpass Last Year’s Annual Total by October",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ad18598f-6838-46c1-87cb-be1ab6f0c821": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312537",
+      "original_headline": "UAE K-뷰티 수출 5년 새 9배 성장…무협, 중동·북아프리카 시장 공략 지원",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e60a2312-aaad-4c64-9f7e-fb44217a321c": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DMGZjU09ZYkxVVUFCN0xaN202cXpEeWFSOHprUzVrMGJreTZQZ29Nd3Q0dVo4b1NfWDQ3SkZHNXcwOU1lancyNDF2TlAzY2o5X19lNGtYU1lHVl9oVUFtd3U5b0g?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "랜딩인터내셔널, ‘코리아 엑스포 LA’서 K뷰티 美 리테일 진출 해법 제안 - 서울경제TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3c3e89d0-d8a5-44d0-ab7e-c9234460c6a4": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 스트리트패션 OR 스트릿",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KNGFNSzhmRlBVNGQzZ19SZk5Pdm0yLWRXTktWdUZGR21KTFd3WFJjLVlma0x4NE1iNW5sVHhPSzJNSHpiRXp3Qld3TXFfY01FYnRiNWNEVlZ2UTDSAWBBVV95cUxObm1sMTBqcUxtUnpRVldmVXFndHVOWXlJQXUxWlFVeDFHS0h1QU12WnA0d2FYM0lZOHA3aWJ3Q01Gamo5a1B6SGJBYmpsajdUZVYwNHRiOVhhSndySFBXZ2k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "스트릿 패션 브랜드 라지크 여름 신상품 출시 - 연합뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "714b20c4-cb7e-47f3-89d4-323c446f5f91": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZ1pkdkdjUXFVaVg1cmZicmt5UGJxdVZkQ2w5U1hQc1FFalZqTDZyY3ZSTWVyTVk2TzhibmE0NjF1ODRQSkVBT2NmUU1KSnQ4OUhSUmYzSTZQVl8yLU9odXZMRng1T3hoRy1XZWQ1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "프리즘(PRIZM), 제7회 ‘체크인 갈라’ 개최…8개 호텔의 풍경 담은 연말 호캉스 선보여 - 서울신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "86a1f206-67b3-4ba2-a031-624b30500339": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVWlLT0RHT0wyVFdiTnBVWFdFRHlpc1dRY3ludm83d3FJNXB5Y0d4Zm1hVURVUUxRanNPbW5Wcnk0RkxsTXpNX0JKQ3FtdlpqNWxGRmFDVklIUdIBX0FVX3lxTE9EZGV0YzJzM2gybS0yQkpDekRuejlNWjQzeWVrdVZYdE5OWTlYSTdZRUJTWHFTbWpWbkczYUtjSFlBUWRmWjZtSjJPc2pxSW1HTEhMRlVXVzRnelA2SzZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[스타일]밀라노 가구 박람회 인테리어 트렌드 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "65883bc8-591b-418d-9b21-c75215d5981e": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc29wVzZmdEdOSXc2cThKdHItZFdRNGpJNi1GdjFCRVF4YnNKNloyN1ltM2xpS0N4bFlQeFBHYzJ6ZzlVMXVxdWp0S21KSkd3MVAySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2007 인테리어 트렌드 다시보기 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "289f21fd-343b-4db8-bc61-ffe055ff5239": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcWh4VE96ZFozTmJBYVVlcDF1SF9iNl9QSWFrWjhyQVY5MXpkUXpZbjFIeThBUGI4RDFYQnk4ajFuaTBSY2hKMy1TQjcxWlgzek9tZnNIQ2tMRGxBQW5DNEJuMkNVeVNyQjhpMmI2RGxQdVlfcVlwdXlfdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La generación Z y las tendencias de consumo - - | Página3 Huánuco|",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "217bcf08-ce5c-4c31-b592-721738a10329": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "b0a6bcb9-17fe-41f9-9b17-2e9218044908": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUV1VUhpeXJGSFZ3aDZMTlV1ejNBM2pZTEFyWVVKaTBYcm9Md0VrWG5YRjgxM1BjSEtvWmxTMWItYjlZUW5DaTVjNmhKX3lzM2VZcHo0OWlzeEN4NTlzVFRsandTQ05sUUlYUVdPQjhOSjZUUVAzX2lUclpQVW5QQ25hUUhwR3dBaTBXaFh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Z世代青年线上消费洞察：追求“质价比”，购物与社交深度绑定 - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
