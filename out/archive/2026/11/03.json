@@ -1,0 +1,172 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "건기식 시장, 저속노화·수면 보조 두 축으로 수요 구조 재편 가속",
+    "조선호텔, 2030년까지 14개 체제 목표로 호남권 첫 진출 선언",
+    "Z세대 절제 소비 흐름, 한국·스페인·중국 동시 포착되며 글로벌 신호 강화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "788262b5-8cd3-4394-8e9b-1ae004aa1382",
+        "title_ko": "저속노화, 건기식 트렌드 주도",
+        "summary_ko": "2026년 건기식 시장에서 저속노화 관련 제품군의 성장세가 지속되고 있다. 항산화·세포 재생 성분 중심의 제품 기획이 약국 채널을 넘어 일반 소매로 확산되는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "9c3f3009-6620-47f0-8f10-fc8c0575d05a",
+        "title_ko": "수면 건기식, 부작용 우려가 수요 만든다",
+        "summary_ko": "수면제 부작용을 피하려는 소비자가 건기식 수면 보조 제품으로 이동 중이다. 약사 채널이 이 수요를 선점하고 있으며, 멜라토닌·마그네슘 복합 제품군이 주목받고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "af500774-2f12-458f-8ebc-6fd26d4a9e6d",
+        "title_ko": "이너랩, 캐릭터 협업으로 올리브영 공략",
+        "summary_ko": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩이 인기 캐릭터 와사비베어와 손잡고 올리브영 한정 컬렉션 4종을 출시했다. 이너뷰티 제품에 캐릭터 굿즈 감성을 접목해 소장 가치와 브랜드 경험을 동시에 공략하는 전략이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a5f9e593-e4db-4b1a-b442-f50309a486dd",
+        "title_ko": "에뛰드, 젤리광 립밤 출시",
+        "summary_ko": "에뛰드가 겨울 시즌을 겨냥해 탱글한 젤리 질감의 컬러 립밤 '글로이 구미 밤'을 올리브영에 출시했다. 보습과 발색·광을 동시에 구현한 제품으로, 립케어와 메이크업 경계를 허무는 기획이 눈길을 끈다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6b1af9b7-64b7-44ab-822b-c64056fd1393",
+        "title_ko": "화장품 점자 표시, 제도화 궤도 진입",
+        "summary_ko": "식약처가 화장품 용기에 점자와 QR코드를 자율 표시할 수 있도록 화장품법을 개정하고 가이드라인을 배포했다. 포용적 패키지 설계가 규제 요건으로 공식화되는 첫 단계로, 브랜드의 접근성 대응이 요구된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "400ed011-9b7e-48ca-b81c-e01a24af688c",
+        "title_ko": "조선호텔, 호남권 첫 깃발·14개 체제 선언",
+        "summary_ko": "창립 112주년을 맞은 조선호텔앤리조트가 내년 종로와 여수에 신규 호텔을 개점하며 호남권에 처음 진출한다. 2030년까지 14개 호텔 체제를 구축한다는 계획으로, 수도권 집중에서 전국 거점 확장으로 전략 축이 이동하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "82d8987c-de0d-438d-9693-8843f8489002",
+        "title_ko": "Z세대, 탄수화물·술·담배 모두 줄인다",
+        "summary_ko": "스페인 주요 매체 분석에서 Z세대가 음주, 흡연, 정제 탄수화물 소비를 이전 세대보다 뚜렷하게 줄이는 것으로 나타났다. 한국의 '저속노화' 트렌드와 맥락이 겹치며, 절제가 정체성 표현의 수단이 되는 흐름이 서구에서도 확인된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d593b05c-059a-4888-8534-d46e7d2dea9c",
+        "title_ko": "중국 Z세대, 낙관적 충동 구매 성향",
+        "summary_ko": "맥킨지 보고서에 따르면 중국 Z세대는 미래에 대한 낙관도가 높고 예산을 초과하는 충동 구매 빈도도 높다. 절제 소비를 선택하는 서구·한국 Z세대와 대조적인 소비 심리로, 시장별 접근 차별화가 필요하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "545388d6-72b7-44c8-bf4c-c45f86c7668b",
+        "title_ko": "중국 Z세대 소비 결정 요인 분석",
+        "summary_ko": "21재경 데이터 분석에서 중국 Z세대는 브랜드 스토리와 개성 표현 가치를 구매 결정의 핵심 기준으로 꼽았다. 가성비보다 자아 정체성과의 부합 여부가 지갑을 여는 열쇠로 작용하는 구조다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '몸과 브랜드 경험을 동시에 관리하는 소비자'의 부상이다. 저속노화·수면 건기식 수요는 건강 관리가 일상 루틴으로 내면화된 결과이고, Z세대의 절제 소비 역시 같은 자기관리 코드의 연장선이다. 뷰티 업계가 캐릭터 협업과 포용 패키징으로 감성·접근성 양면을 동시에 공략하는 것, 조선호텔이 전국 거점 확장에 속도를 내는 것도 이 소비자가 원하는 '퀄리티 경험의 일상화'에 맞닿아 있다. 한국·스페인·중국에서 Z세대 소비 심리가 각기 다른 방향으로 전개되고 있다는 점은, 글로벌 진출 전략을 단일 Z세대 프레임으로 설계하면 안 된다는 경고이기도 하다.",
+  "cards_meta": {
+    "788262b5-8cd3-4394-8e9b-1ae004aa1382": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9c3f3009-6620-47f0-8f10-fc8c0575d05a": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "af500774-2f12-458f-8ebc-6fd26d4a9e6d": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100342",
+      "original_headline": "이너랩, 인기 캐릭터 ‘와사비베어’ 협업 컬렉션 4종",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a5f9e593-e4db-4b1a-b442-f50309a486dd": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jTU9pMnpzU29icWpNX3pfQS1LUmhnNGNHU2hWTmFuVkJJaFdULThneDk5Sng5UWd0XzkxSlJKbnRwbnNoUlpTRWQyQzRLaVNaTzRQX2RmUmhYOWJuUkltdFBoenhXcmJOWmlz?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "에뛰드, 신제품 ‘글로이 구미 밤’ 11월 1일 올리브영 출시 - 퍼블릭뉴스통신",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6b1af9b7-64b7-44ab-822b-c64056fd1393": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100354",
+      "original_headline": "식약처, 화장품 점자·QR코드 자율표시 지원 행보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "400ed011-9b7e-48ca-b81c-e01a24af688c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Qa0dSS0hXQ0pHaWp0YVhXSzR4VVlZQVcwSXZlSXhnS3M0MXM1elpUOW5PbjVhWjF4aHZiZWc5LUhvVHpPLUx0NjE3QVhzLXJTYUlRYnplcWlobVFuRVZUWWdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘112돌’ 조선호텔앤리조트, 종로·여수에 새 호텔… “2030년까지 14개 호텔 체제 구축” - 스포츠월드",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "82d8987c-de0d-438d-9693-8843f8489002": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "d593b05c-059a-4888-8534-d46e7d2dea9c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "545388d6-72b7-44c8-bf4c-c45f86c7668b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
