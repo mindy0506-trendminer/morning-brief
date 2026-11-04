@@ -1,0 +1,153 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: K-뷰티 채널 다변화 가속—약국·캐릭터 협업이 新접점으로 부상",
+    "건기식: 저속노화·수면 카테고리 중심으로 기능성 식품 수요 본격 확대",
+    "소비트렌드: Z세대 절제 소비와 충동 구매 간 양극화, 글로벌 공통 과제로"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "a801425e-6bb9-4f5d-847b-850f83356aa6",
+        "title_ko": "건기식, 저속노화 흐름 지속",
+        "summary_ko": "2026년 건강기능식품 시장의 핵심 키워드로 '저속노화'가 자리를 굳히고 있다. 항노화 중심의 성분 개발과 제품 기획이 이어지며, 단순 영양 보충을 넘어 노화 속도를 늦추는 개념의 소비가 주류로 자리 잡는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bf952e60-e0da-465d-9f46-085369e21351",
+        "title_ko": "수면 건기식, 처방 대안으로 주목",
+        "summary_ko": "수면 장애를 가진 소비자들이 부작용 부담이 적은 건강기능식품을 대안으로 찾는 수요가 늘고 있다. 약사 채널 중심으로 수면 유도 성분 제품의 상담·판매가 증가 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "db1b48df-eb1b-4a1f-9dd0-74bf8b91c332",
+        "title_ko": "강원 비건 페스타, 미식 관광 접목",
+        "summary_ko": "강원 지역 농·특산물과 비건 문화를 결합한 '2026 강원 비건 푸드 페스타'가 6월 개막을 앞두고 있다. 지역 식재료와 비건 트렌드의 연계가 미식 관광 콘텐츠로 확장되는 사례다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "f53b8df6-4df1-4bbe-b6be-d4212db12ef7",
+        "title_ko": "토니모리, 뷰티 약국 채널 진출",
+        "summary_ko": "토니모리가 무신사 뷰티 홍대점 내 '뷰티온누리약국'에 세라마이드·NAD 등 고기능 성분 제품을 입점했다. 약사 상담이 가능한 헬스·뷰티 특화 약국 채널이 K-뷰티 브랜드의 新유통 접점으로 부상하고 있음을 보여준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1e3236c8-fdac-4be1-8185-b0bfafce7517",
+        "title_ko": "이너랩, 캐릭터 협업으로 소장 가치 공략",
+        "summary_ko": "셀트리온스킨큐어의 이너뷰티 브랜드 이너랩이 '와사비베어'와 협업한 올리브영 한정 컬렉션 4종을 출시했다. 건강 관리 루틴에 캐릭터 굿즈 감성을 더해 소장 욕구를 자극하는 방식이 이너뷰티 카테고리로 확산되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "c9e07626-bdf5-4543-9069-e6d8806e329e",
+        "title_ko": "뷰티썸 수원, K-뷰티 B2B 거점화",
+        "summary_ko": "'2026 뷰티썸 수원'이 11월 5~7일 수원컨벤션센터에서 개막한다. B2B·B2C 융합 전시에 중국·일본 바이어 수출상담회와 OEM·ODM 매칭까지 더해, 수도권 외곽에 K-뷰티 산업 거점을 형성하려는 시도로 읽힌다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "2d02827c-0605-4e8d-bf55-7578dd6f128a",
+        "title_ko": "중고명품, 거래 방식 이원화",
+        "summary_ko": "중고명품 시장에서 구매 시 현금 직거래, 판매 시 위탁 방식을 선호하는 소비 패턴이 관찰된다. 가격 협상력 확보와 판매 편의성을 동시에 추구하는 소비자 행동이 리세일 플랫폼의 서비스 설계에 시사점을 준다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "410c5e41-efaf-40eb-b8cd-2be52bddbb5c",
+        "title_ko": "Z세대 절제 소비, 글로벌 확산",
+        "summary_ko": "탄수화물·주류·담배를 줄이는 Z세대의 절제 소비 행동이 스페인 주요 매체에서도 주목받고 있다. 쾌락 소비보다 자기관리 중심의 지출 재편이 글로벌 Z세대 공통 흐름으로 굳어지는 양상이다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '건강'이 소비의 중심축으로 자리 잡으면서 채널·카테고리·세대를 가리지 않고 재편을 촉진하고 있다는 점이다. 뷰티는 약국 채널과 이너뷰티로 확장되고, 건기식은 저속노화·수면이라는 구체적 솔루션 단위로 세분화되며, Z세대는 절제와 자기관리를 소비의 기준으로 삼고 있다. 단순한 웰니스 유행이 아니라 유통 구조와 제품 기획, 소비자 가치관까지 동시에 바꾸는 구조적 전환 신호로 읽어야 한다.",
+  "cards_meta": {
+    "a801425e-6bb9-4f5d-847b-850f83356aa6": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbjR6SWdFZXk4eWU1MHEtVVFoNlpBVUp4MklLNmdZUGVONm9jd1lESVBOX2RiaE5GVUlVSjEwa3kxcllMcTdBRUlYRWUtd2g2dEl5emRwMkFZdzNFeC1wTXFpYXliMDJmVXFWRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2026년 건기식 트렌드…저속노화 계속 간다 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bf952e60-e0da-465d-9f46-085369e21351": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CXzE1aVh3aXpQU0lKSTYyS2dCN0g1LUVDQm1NcDk0eGRhc2xtSzg4TWprdFotdVRBbkVTc2NBZ0lKemVCOVdYRTV1alBzcGZmQXpiRG5QX3BNY3hOaHJZTkJUV01vb3RBR2xDZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품] 잠 못 드는 밤, 부작용 적은 대안 찾는 환자 - 약사공론",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "db1b48df-eb1b-4a1f-9dd0-74bf8b91c332": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTEotMGJDY2l2UzlqZGdiaG9OclRrZ3k0b3RqMTdNaW1TTmlINnAwVXRQbWR6dGUtaWVMWlNpSVgxYnVJMEtxcWhOZGhEVHUyXzl6Q1gzZXhtUdIBX0FVX3lxTE1LWGRHYkFjdDQ2bjdPTjlDSC1KYThoMEZtMkNCT2hLbC1FS2JLalV2bENMa09rLVBuWHo4OGIzMXc0RmtCTGhXa3JKVGFOdjljdEcwSW1fYWk0dGJfNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“농·특산물과 비건 문화 접목한 미식 관광 행사 열린다”···‘2026 강원 비건 푸드 페스타’ 6월 13일 개막 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f53b8df6-4df1-4bbe-b6be-d4212db12ef7": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100375",
+      "original_headline": "토니모리, 무신사 뷰티 ‘온누리약국 홍대점’ 입점",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e3236c8-fdac-4be1-8185-b0bfafce7517": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100342",
+      "original_headline": "이너랩, 인기 캐릭터 ‘와사비베어’ 협업 컬렉션 4종",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c9e07626-bdf5-4543-9069-e6d8806e329e": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mN00wUkgzemh2RW1QdE5XT2FuQ29zaUJoZHFKRkswMDZuZGdWVFJPdGN2anhqZkJ5eEhXUk1maWVhV29Zbm5rcDAxU2txWmxwcU91SGZQQmxQd3NJUDJpR25LOGNWbzNIZHEwcmhKYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "11월 5일 막 오르는 ‘2026 뷰티썸 수원’ - 기호일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2d02827c-0605-4e8d-bf55-7578dd6f128a": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "410c5e41-efaf-40eb-b8cd-2be52bddbb5c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
