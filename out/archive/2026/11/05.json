@@ -1,0 +1,129 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "식음료: 삼립호빵 편의점 매출 44% 급등, 겨울 성수기 간편식 수요 본격화",
+    "뷰티: K-뷰티 원료·전시 양면에서 동남아·글로벌 공략 채비 완료",
+    "라이프스타일: 파르나스호텔앤리조트 3분기 전 사업장 흑자 전환, 프리미엄 호텔 수요 견조 확인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "26373616-3592-4c3c-871a-17bcf61e33ff",
+        "title_ko": "호빵, 편의점 매출 44% 급등",
+        "summary_ko": "삼립호빵의 편의점 채널 매출이 전년 동기 대비 44% 증가했다. 기온 하강과 함께 간편 온열 간식 수요가 집중되는 전형적인 계절 소비 패턴이 올해도 반복되고 있으며, 편의점이 겨울 식품 성수기의 핵심 채널임을 재확인했다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "7e7a4bd5-510d-4f5a-bdbc-193ec3cc85fc",
+        "title_ko": "K-뷰티 전시회 수원서 개막",
+        "summary_ko": "'2026 뷰티썸 수원'이 130개 기업이 참여한 가운데 수원컨벤션센터에서 개막했다. B2B·B2C를 아우르는 융합 전시 형태로, 해외 바이어 수출상담회와 OEM·ODM 비즈니스 매칭을 동시에 운영해 K-뷰티의 세계시장 침투 거점 역할을 강화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a024b2d0-b9d5-4d36-a067-40d6ac28804f",
+        "title_ko": "비욘드 X 다마고치, 올리브영 한정판",
+        "summary_ko": "LG생활건강 비욘드가 반다이와 협업해 다마고치 한정 에디션을 올리브영 단독 출시했다. 올리브영 1위 핸드크림에 캐릭터 감성을 더한 이번 협업은 스키니피케이션 추세를 타고 바디 케어 라인 확장과 레트로 IP 마케팅을 동시에 겨냥한 전략이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7765dde5-b16a-43e9-8b01-4fe3e22c937d",
+        "title_ko": "한국 원료사, 동남아 박람회 총출동",
+        "summary_ko": "KCC실리콘·엑티브온·IBITA 등 국내 화장품 원료 기업들이 태국 방콕에서 열린 '인코스메틱스 아시아 2026'에 대거 참가했다. IBITA는 15년 연속 한국관을 운영하며 클린뷰티 소재와 바이오 원료 중심으로 동남아·아태 시장 수출 확대를 도모했다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "6c5f5707-f8e3-4e03-890f-fbac09f1f720",
+        "title_ko": "파르나스, 3분기 전 사업장 흑자",
+        "summary_ko": "파르나스호텔앤리조트가 3분기 호텔과 임대 사업 모두에서 실적 개선을 기록했다. 웨스틴 서울 파르나스의 영업이익이 47억 원으로 흑자 안착하며, 고급 호텔 수요가 여전히 견조함을 재확인했다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4dff18ee-4f9c-4308-8b66-037349bf5dee",
+        "title_ko": "Z세대, 절제 소비로 전환",
+        "summary_ko": "유럽 Z세대를 중심으로 탄수화물·음주·흡연을 줄이는 절제적 소비 행태가 확산되고 있다는 분석이 나왔다. 단순한 건강 의식을 넘어 과잉 소비 자체를 거부하는 가치관 변화로, 식음료·주류·담배 카테고리에 걸쳐 소비 구조 재편 압력으로 작용할 수 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 키워드는 '계절성과 감성의 결합'이다. 삼립호빵은 겨울 계절 수요를, 비욘드 X 다마고치는 레트로 감성 IP를 각각 판매 동력으로 삼았다. 두 사례 모두 제품 본질보다 소비자의 정서적 맥락을 공략한다는 점에서 같은 방향을 가리킨다. 한편 K-뷰티는 국내 전시와 해외 원료 박람회를 동시에 진행하며 완성품·소재 양면의 글로벌 거점을 동시에 확보하는 중이다. Z세대의 절제 소비 흐름은 아직 국내 시장에 직접 충격을 주지 않지만, 주류·간편식·건기식 카테고리의 중장기 수요 설계에 선제적으로 반영할 필요가 있다.",
+  "cards_meta": {
+    "26373616-3592-4c3c-871a-17bcf61e33ff": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 편의점 OR 대형마트",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sWmNveDZ3bFFUOUI5MWhKWXlnd3pfa2lJWDBJSlkzOGpUZEZiNUJiWTNkUFlKSFFzTkszemdrUnRiUTRkZjctMWMzVk9jVE9PSml4ODJlLVJNWTdNZUFWVFBQMmFCdllRYkpxY0dR0gFyQVVfeXFMTUpmYUlMWnNvV2pxeHNSWWhLTVhWM3ROX1BTZ21Ba2FMam9iZFpsTG9HWHE4b2dFbGlEbzZETGJSUll6VE5pWFhnNlFRZjlLdFQwbHVoVllTZ0p3alhvTmY4Nm1VbDgtUnI2Y2h5SUxCSnRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "삼립호빵, 겨울 성수기 맞아 판매 호조세...편의점 매출 44% 껑충 - 잡포스트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7e7a4bd5-510d-4f5a-bdbc-193ec3cc85fc": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GRWVxWng2RW9kSmVpTmUzYUVKSHl4cWVWa1ptbFpoalBUb19ZZU9EOGdfc0lPNEQ0U1cya2pvRWhtWVVCWS1oQnVqalNBY3Jvb0VCVEZjeF9pNVNTZlNKQ3JLU1pMZFowMVZQbHpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘2026 뷰티썸 수원’ 5일 개막…130개 기업 참여, K-뷰티 세계시장 공략 - 뉴스코리아",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a024b2d0-b9d5-4d36-a067-40d6ac28804f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100391",
+      "original_headline": "비욘드 X 다마고치, 올영 단독 콜라보 에디션 출시",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7765dde5-b16a-43e9-8b01-4fe3e22c937d": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82YUxMdWktUzlBMDlfa0pTenBLTmtWako1c0pPQXpoRXUwRGo1QmJaNjloYktZUTdxQVNrZzlmR3poNmlkc0Rhemp2YTN3NmsxVk5yVXRiRF9mZmkyXzh5Z2w3VlBaWXNXWG1FTmFoTzFxYlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "KCC실리콘, ‘인-코스메틱스 아시아 2026’ 참가…동남아 뷰티 소재 시장 공략 - 하우징헤럴드",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "6c5f5707-f8e3-4e03-890f-fbac09f1f720": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtQUNoNUV3MVBDV1ViM2doT0NFZ1ZEUi1QSFZJSDlyZG5NU3dwSzBrNy1CcEhOM0lRVG9MaTJNZVNKcVBOclhzY2k5MXlqN085alhOVEhROTlCd0JQanNaaEtwLXFkd2tENGJMSmxScUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "파르나스호텔앤리조트, 3분기 호텔·임대사업 동반 성장… 웨스틴 서울 파르나스 안착 - 비즈트리뷴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4dff18ee-4f9c-4308-8b66-037349bf5dee": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
