@@ -1,0 +1,236 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 수원 박람회·중국 샤오홍슈 채널 양축으로 글로벌 공략 가시화",
+    "Z세대 소비: 절제와 충동 사이 균열, 한·중·유럽 시장 모두 이중 신호",
+    "식물성 대체육, 블라인드 테스트까지 등장…비건 주류화 흐름 재확인"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "29e695e5-0f91-4ee1-8230-0abf2e59377d",
+        "title_ko": "대체육 시장, 선택지 확장",
+        "summary_ko": "식물성 대체육 브랜드가 늘면서 비건 소비자의 선택 폭이 본격적으로 넓어지고 있다. 틈새 수요에서 주류 카테고리로의 전환이 진행 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7eecb5a3-43f3-454b-a115-53ce0a46a5a3",
+        "title_ko": "대체육 블라인드 테스트 도마 위",
+        "summary_ko": "중앙일보가 식물성 대체육과 실제 고기를 블라인드 테스트한 결과, 맛 구별 가능성에 대한 소비자 인식이 갈렸다. 완성도 논쟁이 카테고리 성장의 다음 관문임을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fafb3f2c-48b8-4907-a35c-9b29621a5262",
+        "title_ko": "식물성 대체육, 맛 경쟁 본격화",
+        "summary_ko": "동아일보 소비자 체험 보도는 대체육이 '이념 소비'를 넘어 '맛 소비'로 경쟁 축을 옮기고 있음을 보여 준다. 맛 완성도가 카테고리 대중화를 가를 핵심 변수로 부상 중이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "b68b3acb-ce2c-4ebf-afb6-a2453e995e38",
+        "title_ko": "K-뷰티 거점, 수원으로",
+        "summary_ko": "수원컨벤션센터에서 열린 '2026 뷰티썸 수원'이 B2B·B2C를 아우르는 K-뷰티 복합 전시회로 개막했다. 중국·일본 바이어 수출상담회와 OEM·ODM 매칭까지 한 행사에 담아 지역 뷰티 산업의 글로벌 연결 거점 기능을 강화하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d6aceb65-b08e-4718-a384-021b4996f119",
+        "title_ko": "샤오홍슈가 중국 K-뷰티 구매 경로 장악",
+        "summary_ko": "중국 소비자의 K-뷰티 구매는 광고보다 샤오홍슈 실사용 후기 중심으로 재편되고 있다. 가성비와 신제형도 주요 구매 트리거로 꼽혀, 콘텐츠 플랫폼 전략 없이는 중국 시장 접근이 어려워지는 구도다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a0a86e60-b061-451b-9e25-5c345f56095f",
+        "title_ko": "중고명품 거래, 현금 vs. 위탁 셈법",
+        "summary_ko": "중고명품 구매 시 현금 거래와 판매 시 위탁 방식이 선호되는 이유에 대한 소비자 인식 보도다. 리세일 시장 성숙과 함께 거래 방식에 대한 소비자 학습이 쌓이고 있음을 보여 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0dfe8343-086f-40e0-8427-5f669e78207b",
+        "title_ko": "중고명품 제값 받기 전략",
+        "summary_ko": "중고명품을 제값에 처분하려면 감정 기준과 플랫폼 선택 요령을 먼저 파악해야 한다는 소비자 가이드다. 리세일 채널이 다양해질수록 정보 비대칭 해소가 소비자 행동의 선결 조건이 되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c21b0b1f-d548-467d-817a-2630adfe19e5",
+        "title_ko": "밀라노 가구 박람회발 인테리어 흐름",
+        "summary_ko": "밀라노 가구 박람회 트렌드를 짚은 보도로, 글로벌 인테리어 방향이 국내 소비 선택에 미치는 선도적 영향을 보여 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "38e1ffd1-b1f5-43c1-8dfe-3d8e4c51e028",
+        "title_ko": "2007 인테리어 트렌드 회고",
+        "summary_ko": "2007년 인테리어 트렌드를 돌아본 중앙일보 보도로, 당시 유행한 스타일이 현재 복고 감성과 어떻게 연결되는지 맥락을 제공한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "dcdfdf2d-37b8-45db-ad29-8a399b494ea3",
+        "title_ko": "감성 퍼즐, 2007년 인테리어 화두",
+        "summary_ko": "감성 중심의 개성 조합이 2007년 인테리어 핵심 키워드로 부상했다는 보도다. 오늘날 '나만의 공간' 트렌드와 맥이 닿아 있어 소비 심리의 연속성을 확인할 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "131a7ade-ccd1-4d58-a92a-1652c07f5cf1",
+        "title_ko": "Z세대, 절제 소비로 돌아서다",
+        "summary_ko": "유럽 Z세대 사이에서 탄수화물·술·담배 소비를 줄이는 절제 문화가 확산되고 있다. 이전 세대의 '파티 소비'와 결별하며 웰니스 지출로 무게 중심이 이동하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "65d226c8-daf4-4e2b-a748-3c18a7fc830f",
+        "title_ko": "중국 Z세대, 낙관적 충동 소비",
+        "summary_ko": "맥킨지 조사에 따르면 중국 Z세대는 미래에 낙관적이며 예산 초과 충동 구매 성향이 뚜렷하다. 유럽 Z세대의 절제 흐름과 대조적으로 시장별 세대 소비 양상이 갈리고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fd219359-7a2f-45df-9ddc-03ec2feedb22",
+        "title_ko": "중국 Z세대 구매 동기 해부",
+        "summary_ko": "21재경의 데이터 분석은 중국 Z세대가 경험·자기표현·사회적 공유를 위해 지갑을 연다는 점을 보여 준다. 가격보다 '의미'와 '공유 가능성'이 구매 결정의 우선 기준으로 작동한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 가로지르는 핵심 축은 '콘텐츠가 구매를 대체한다'는 흐름이다. K-뷰티의 중국 진입 경로가 광고에서 샤오홍슈 후기로 바뀌었듯, 대체육도 블라인드 테스트 콘텐츠가 카테고리 신뢰를 좌우하고 있다. Z세대 소비 역시 유럽의 절제·중국의 경험 과시 모두 '어떻게 소비를 이야기하느냐'는 서사 경쟁으로 수렴된다. 브랜드 입장에서는 제품 완성도만큼 소비 서사를 콘텐츠로 설계하는 역량이 시장 접근의 선결 조건이 되고 있다.",
+  "cards_meta": {
+    "29e695e5-0f91-4ee1-8230-0abf2e59377d": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7eecb5a3-43f3-454b-a115-53ce0a46a5a3": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fafb3f2c-48b8-4907-a35c-9b29621a5262": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQdIBZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요즘 뜨는 식물성 대체육, 맛있을까 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b68b3acb-ce2c-4ebf-afb6-a2453e995e38": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kbFFsRE9udFgxV1BHcjVnS2ZzMVdzSnktN1NrNjByZHI2SVc3X3ViWkJGMlIzcTF0S1NsQjFKLWRXVGJCR2p3YWZHc1p4SGhZanJwVXhXUUduejhxRVhfT1RlVXg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "수원특례시의회, '2026 뷰티썸 수원' 개막식서 지역 기업 응원 - 매일일보",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d6aceb65-b08e-4718-a384-021b4996f119": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=310318",
+      "original_headline": "[K-뷰티 중국 리포트 ②] 샤오홍슈·가성비·신제형…“중국 소비자를 움직이는 세 가지”",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a0a86e60-b061-451b-9e25-5c345f56095f": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0dfe8343-086f-40e0-8427-5f669e78207b": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4V2FmU1pScURFM3RqQ2lWaTVkV3JjY2dlRHF3Ul9QVlN6OWNyRXEweDRQNnZxSTZKX2dEcGNwUHVEaHpDRGtWUm93YS1KdnhSWU9aYkN6S1lWSllHNk1hUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "소비자들 중고명품 제값 받고 처분 하려면 이것부터 알아야 - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c21b0b1f-d548-467d-817a-2630adfe19e5": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVWlLT0RHT0wyVFdiTnBVWFdFRHlpc1dRY3ludm83d3FJNXB5Y0d4Zm1hVURVUUxRanNPbW5Wcnk0RkxsTXpNX0JKQ3FtdlpqNWxGRmFDVklIUdIBX0FVX3lxTE9EZGV0YzJzM2gybS0yQkpDekRuejlNWjQzeWVrdVZYdE5OWTlYSTdZRUJTWHFTbWpWbkczYUtjSFlBUWRmWjZtSjJPc2pxSW1HTEhMRlVXVzRnelA2SzZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[스타일]밀라노 가구 박람회 인테리어 트렌드 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "38e1ffd1-b1f5-43c1-8dfe-3d8e4c51e028": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc29wVzZmdEdOSXc2cThKdHItZFdRNGpJNi1GdjFCRVF4YnNKNloyN1ltM2xpS0N4bFlQeFBHYzJ6ZzlVMXVxdWp0S21KSkd3MVAySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2007 인테리어 트렌드 다시보기 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dcdfdf2d-37b8-45db-ad29-8a399b494ea3": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3R2ZEQkU2RkV1d09ua0NleWNjTVhMM2gzQ3NCMVQxUDlvcDZVUlltbGQxcWNRVlZkd2pQY25OOFlKNEtqT1dPdHpaMzBLVFFVZlJsVklRMk5HUdIBX0FVX3lxTE15WE02NXpXVmFhMUV6dE44cURPc3N0MERSRC1NOFpfSkl2VGtJYXVlMHBzSFhPaTZCbF95ejl6WEdRT0k3TXhka1VMOUNyVXFXTjRMV2toQ1BIOENHR2N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[그여자네]‘감성 퍼즐’…2007 인테리어 트렌드 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "131a7ade-ccd1-4d58-a92a-1652c07f5cf1": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "65d226c8-daf4-4e2b-a748-3c18a7fc830f": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "fd219359-7a2f-45df-9ddc-03ec2feedb22": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
