@@ -1,0 +1,205 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 열풍이 약국 유통 채널까지 재편, 외국인 수요가 판도 바꿔",
+    "수원시, 글로벌 전시·수출상담 복합 플랫폼으로 K-뷰티 거점 선언",
+    "Z세대 소비 양극화 — 서구권 절제, 중국권 충동 — 글로벌 전략 분화 불가피"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3ff3f47d-b25d-46a5-b4e8-1cf786b3a417",
+        "title_ko": "건기식 효과 의문, 소비자 경고",
+        "summary_ko": "연간 4조 원을 넘어선 건강기능식품 시장에서 실제 효능에 대한 회의론이 제기됐다. 소비자가 체감 효과 없이 지출을 늘리는 구조는 장기적으로 시장 신뢰를 갉아먹을 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "01f69e5f-70f5-4c77-a785-c73b5e739ae0",
+        "title_ko": "건기식 시장, 꾸준한 성장세",
+        "summary_ko": "국내 건강기능식품 시장이 4조 6000억 원 규모로 매년 확대되고 있다. 효능 논란과 성장세가 동시에 존재한다는 점에서, 소비자 신뢰 확보 여부가 향후 시장 지속성을 가를 핵심 변수다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "e996779c-9d8e-4b4f-a1b0-995b47932246",
+        "title_ko": "수원서 K-뷰티 복합 전시 개막",
+        "summary_ko": "수원컨벤션센터에서 열린 '뷰티썸 수원'은 제품 전시, 해외 바이어 수출상담, 제조사 매칭을 한 행사에 담은 산업형 플랫폼이다. 중국·일본과의 협력 세션도 첫날 진행돼 글로벌 연결 거점으로의 도약을 가늠할 자리가 됐다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "d15e3222-51ed-4f58-a07e-777123f2c57d",
+        "title_ko": "외국인이 약국을 화장품 매장으로",
+        "summary_ko": "K-뷰티 수요가 급증하면서 외국인 관광객이 약 대신 화장품을 사러 약국을 찾는 현상이 확산되고 있다. 뷰티 약국이 새로운 유통 채널로 자리잡으며 기존 편의점·면세점 중심 구도에 균열이 생겼다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ee555e5d-208d-4167-9a8a-ba1ab99a654b",
+        "title_ko": "수원시, K-뷰티 거점 도시 선언",
+        "summary_ko": "이재준 수원특례시장이 수원을 K-뷰티 산업 거점으로 육성하겠다고 공식화했다. 전시회 개최와 행정 지원을 결합한 전략은 지역 단위 산업 클러스터 모델의 선례가 될 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "f3cb9b32-2b6b-4ebe-8f1b-17070a28400a",
+        "title_ko": "중고명품, 살 때와 팔 때 다른 거래 관행",
+        "summary_ko": "중고명품 시장에서 구매 시 현금, 판매 시 위탁이라는 비대칭 거래 관행이 존재한다. 소비자와 플랫폼 간 정보 불균형이 지속되는 한 리세일 시장의 신뢰 구축은 과제로 남는다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "dbfd014b-ce3e-4f9c-bfbd-bd60099a6d0a",
+        "title_ko": "호텔 객실 전문인력 양성 완료",
+        "summary_ko": "부산 수영구가 호텔 전문인력 객실 코디 양성 과정을 마무리했다. 지역 단위 인력 양성이 호텔 서비스 품질 향상의 기반이 될지 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ddd6adb1-087f-4b76-94f1-f85bef8db92c",
+        "title_ko": "여주 웰니스 독서여행 상품 출시",
+        "summary_ko": "세종대왕의 사가독서 문화를 콘셉트로 삼은 웰니스 독서여행 '여주 웰리딩 트립'이 출시됐다. 힐링과 로컬 역사 체험을 결합한 방식으로, 고부가 소규모 여행 수요를 겨냥한 틈새 상품이다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "4ef44aee-2907-4742-814d-4771e529ae69",
+        "title_ko": "서구 Z세대, 절제 소비로 돌아서다",
+        "summary_ko": "탄수화물·담배·알코올을 멀리하는 서구권 Z세대의 절제 소비 경향이 뚜렷해지고 있다. 이 흐름은 식음료·주류 브랜드의 제품 포트폴리오 재편 압박으로 이어질 수 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a7fe55da-a12b-40cc-92cc-86a0f73ce2d3",
+        "title_ko": "중국 Z세대, 미래 낙관에 충동 지출",
+        "summary_ko": "맥킨지 조사에서 중국 Z세대는 미래에 대한 자신감을 바탕으로 예산을 초과하는 충동소비 경향을 보였다. 같은 세대라도 시장별 소비 심리가 정반대로 갈리고 있어, 단일 Z세대 전략은 유효하지 않다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b726033d-4ff4-4f70-b1d8-29d8cb01ad63",
+        "title_ko": "중국 Z세대 구매 동인 데이터 분석",
+        "summary_ko": "중국 Z세대가 무엇에 지갑을 여는지를 데이터로 분석한 결과, 개성 표현과 경험 중심 소비가 핵심 동인으로 확인됐다. 브랜드 충성도보다 콘텐츠와 커뮤니티 연계가 구매를 이끈다는 시사점이 나온다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심은 '신뢰와 채널의 재편'이다. K-뷰티는 약국이라는 전통 의약 채널을 새로운 뷰티 유통 창구로 바꿔놓고 있고, 건강기능식품은 성장세 속에서도 효능 불신이라는 근본적 취약점을 안고 있다. Z세대 소비 양극화 — 서구의 절제 대 중국의 충동 — 는 글로벌 단일 전략의 종말을 알리는 신호다. 채널·신뢰·세대 세 축이 동시에 흔들리는 국면에서, 브랜드가 선택해야 할 것은 메시지의 현지화가 아니라 소비자와의 관계 모델 자체를 다시 설계하는 일이다.",
+  "cards_meta": {
+    "3ff3f47d-b25d-46a5-b4e8-1cf786b3a417": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUFZPcWxRZy16R2JNQ1FDcVVmUW9NNXNLRnBXWmdGY01Za0prLXYtUUdfY0RwNVZRRDlHZmhwR0ktVGgzYVZ5NjQxc1VCLUtNb3otUkRWZzRfd9IBX0FVX3lxTFBWUE1obFhDXzZteWtQMVVJMU5EQXNGbVA5WkRVTTBwTkZzaXdUenNEVTRSei1rTlpkZjh3YUlad2tFRk5KZTBic0k5LWVRcVdyNkhFVEYyY2owRk9qTkdv?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[건강기능식품 불편한 진실]‘밥심’ 못 믿어 쓴 돈 4조6300억… 몸 좀 좋아졌습니까 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "01f69e5f-70f5-4c77-a785-c73b5e739ae0": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQW1yMkMxb3EtampFMjY5cmZQZU5IZno3cjJfVXdHTTEyakI4NWdGWHZ1UDE5MmNNdjY3SjBiN0xNR09LcmcwNzR2Sy1JbnBObzAzQ2x0aTZPaG9mQ2ZoNmJuNkxNdEpHWXRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "국내 건강기능식품 시장 4조6000억… 매년 거듭 성장 - 히트뉴스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e996779c-9d8e-4b4f-a1b0-995b47932246": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LYm9MeXp3OC1UX2ZZejQ2N0lZM0I5S0F1NXZvYUNHYk44NUo3MlNiWUpkTDJkTmw5cnRwU21kLXJVdURZdS1hNkxsY1VnalN3X0RPRnVpRXV6S19VV0RqajdIaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "수원특례시, K-뷰티 산업·글로벌 비즈니스 잇는 ‘2026 뷰티썸 수원’ 개막 - 코스인코리아닷컴",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d15e3222-51ed-4f58-a07e-777123f2c57d": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rSEpSdDIzTEtiTVdILUxQNG5rcDhwMU5SM05IZjZ6aldRbGNkTXZqcmhQc21PSTBpNHNPdS1XQXNNTVM3QndneUxYTzZuSFA4ODd6U1dFNlRCYU5kRldBNNIBYEFVX3lxTE9rSEpSdDIzTEtiTVdILUxQNG5rcDhwMU5SM05IZjZ6aldRbGNkTXZqcmhQc21PSTBpNHNPdS1XQXNNTVM3QndneUxYTzZuSFA4ODd6U1dFNlRCYU5kRldBNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "약보다 화장품 찾는 외국인들…K뷰티 열풍에 '뷰티 약국' 급증 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ee555e5d-208d-4167-9a8a-ba1ab99a654b": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] K뷰티 OR K-beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoREFaOFRCY0RaVUw1c1hMeV91OW41NGNqOFVscnlWS1hVU0RpVl9uSmYwYnplby0xYjB0b0tZSmFla3pMSjB2emktNC1nSFoyWkVBUkRVLWZtVjM2RUZxNkpJT0NnVHJy?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "이재준 수원특례시장, “수원을 케이-뷰티의 거점으로 만들겠다” - 광교신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f3cb9b32-2b6b-4ebe-8f1b-17070a28400a": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dbfd014b-ce3e-4f9c-bfbd-bd60099a6d0a": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 호캉스 OR 호텔",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QU1Z3ZlAtSlcxXzdndGt2Y21OSG1DR0lLZkVOWUxYQkwtNFJCdkhiYUI5MFJZZDRQSU1nQUZVdVhySEVWQUFDd2Y4S0o4N1Fnc3l5M05Fd0tPNkxSOXk1ZFlfaG5SWEpqYnZQaWgyQ1dRZk9Vb1Q2UXgxeGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "수영구, ‘호텔 전문인력 객실코디 양성사업’ 마무리 - 부산일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ddd6adb1-087f-4b76-94f1-f85bef8db92c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmNHUwclhzeXVDelZ2MXZhVE1TeGpOYjVzVEJiLXhoV1ZnSEhhb281Y1hEbmpoQjdJc29uRFpGdlJhZUozZER1QUNxNGp1RGhDZ3YwUEJ6WnJWZFZaQllxY3M2WUZNYk0zWFFPV3JR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘섬에어 타고 로컬여행’ 상품 선보여 - https://www.koreasprint.com/",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "4ef44aee-2907-4742-814d-4771e529ae69": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "a7fe55da-a12b-40cc-92cc-86a0f73ce2d3": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "b726033d-4ff4-4f70-b1d8-29d8cb01ad63": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
