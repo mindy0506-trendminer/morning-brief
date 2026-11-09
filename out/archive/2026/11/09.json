@@ -1,0 +1,158 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 브라질·호주 동시 공략…중남미·오세아니아 수출 전선 확대",
+    "K패션, 해외서 '반짝 인기' 경고…브랜드 고유 정체성 부재가 핵심 과제",
+    "Z세대 소비 양극화: 서구는 절제, 중국은 충동 구매 성향 대비"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "d1328188-b63e-44c0-ace9-39835d0d8ef1",
+        "title_ko": "K-뷰티, 중남미 거점 브라질 집중 공략",
+        "summary_ko": "식약처가 2027년 2월 브라질 현지 민·관 합동 진출지원단 파견을 추진한다. 브라질 화장품 시장은 세계 3위 규모이며, 한국의 대브라질 화장품 수출은 최근 3년 새 6배 증가했다. 중남미 공략의 교두보로 브라질이 본격 부상하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "63a854cb-df8f-4921-9b3b-b9d83995483c",
+        "title_ko": "한국콜마, 호주 한류박람회서 K-뷰티 확산",
+        "summary_ko": "한국콜마가 멜버른 한류박람회에 고객사를 동반 참가해 1만 5천 명 이상의 현지 방문객과 접점을 만들었다. 호주에서는 기초화장품 중심으로 K-뷰티 성장세가 뚜렷해 OEM·ODM 사업자의 시장 선점 경쟁도 빨라지는 모양새다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "073aef26-4dcc-4150-9b76-5b7efb57f874",
+        "title_ko": "TFIT, 무신사 뷰티 성수 입점으로 오프라인 확장",
+        "summary_ko": "글로벌 메이크업 브랜드 티핏(TFIT)이 11월 11일 개점하는 무신사 뷰티 성수에 입점한다. 홍대에 이어 성수까지 거점을 늘리며, 중국·일본 수출 경험을 발판으로 국내 오프라인 채널 존재감을 키우고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "9beb8ab9-b139-4f31-b2fc-e3eb4af48379",
+        "title_ko": "K패션, '반짝 인기' 넘을 정체성 부재 경고",
+        "summary_ko": "'K-'라는 수식어 외에 브랜드만의 고유 서사가 없다는 지적이 중앙일보·미주중앙일보를 통해 동시에 제기됐다. K-뷰티가 성분 차별화와 기능성으로 지속 성장하는 것과 달리, K패션은 문화 편승에 그쳐 장기 경쟁력이 취약하다는 평가다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d48856b0-d7d3-4f27-9d55-f360387fc55a",
+        "title_ko": "켄싱턴호텔, 올인클루시브 패키지 출시",
+        "summary_ko": "이랜드파크 켄싱턴·켄트호텔이 내년 1월까지 라운지 올인클루시브 패키지를 선보인다. 호캉스 수요가 계절을 타지 않고 꾸준해지면서, 호텔들이 체류 편의를 묶음으로 판매하는 패키지 경쟁을 강화하는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5e582c07-39e2-4c88-9ba3-506b429cb81a",
+        "title_ko": "조선호텔, 관광특성화고 장학금 지원",
+        "summary_ko": "조선호텔앤리조트가 관광특성화고 학생 60명에게 장학금을 지급했다. 호텔 업계가 전문 인력 파이프라인 확보를 위해 교육기관과의 협력을 강화하는 움직임이 이어지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3fff5462-fb0f-4334-897f-b32402ca1e62",
+        "title_ko": "부산 수영구, 객실코디 인력 양성 마무리",
+        "summary_ko": "수영구가 호텔 객실코디 전문 인력 양성사업을 올해 완료했다. 지역 단위에서 호텔 서비스직 전문화를 추진하는 사례로, 호텔 인력 고도화 수요가 지방으로도 확산되는 신호다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "bd4f359e-148c-4934-b7f9-4c0e20f1b3c2",
+        "title_ko": "서구 Z세대, 절제 소비로 가치관 전환",
+        "summary_ko": "탄수화물·담배·주류를 줄이는 서구 Z세대의 절제 지향 소비가 뚜렷해지고 있다. 쾌락 소비에서 건강·자기관리 중심으로의 전환은 식음료·주류 카테고리 전반의 수요 구조에 영향을 미칠 장기 변수다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K-브랜드의 양면성'이다. K-뷰티는 브라질·호주라는 신시장으로 수출 전선을 넓히며 성분·기능 경쟁력을 무기로 지속 성장하는 반면, K패션은 고유 정체성 없이 문화 편승에 머문다는 경고를 받고 있다. 같은 'K-' 프레임 안에서도 카테고리별 내구력의 차이가 벌어지는 국면이다. 여기에 서구 Z세대의 절제 소비 확산까지 더하면, 소비재 기업들이 단순 수출 확대보다 브랜드 서사와 카테고리 본질 경쟁력을 먼저 갖춰야 한다는 메시지가 뚜렷해진다.",
+  "cards_meta": {
+    "d1328188-b63e-44c0-ace9-39835d0d8ef1": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100396",
+      "original_headline": "식약처, K-뷰티 중남미 수출 확대 위한 지원 강화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "63a854cb-df8f-4921-9b3b-b9d83995483c": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100409",
+      "original_headline": "한국콜마, K-뷰티로 호주 멜버른 물들였다",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "073aef26-4dcc-4150-9b76-5b7efb57f874": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100399",
+      "original_headline": "티핏, 11월 11일 ‘무신사 뷰티’ 성수 지역 단독 매장 입점",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9beb8ab9-b139-4f31-b2fc-e3eb4af48379": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYnJLSDRlbHlWMVFpYy1zN0VJZGRHU0tiY1ROTTNPY0MtVzl6Z1dQSVNLT09mcUtDWS03MzN6aWVGWkZ3WTlkR0JRaFJvbGxueGhIaWdvZnMwemRId1AzdF9B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘K패션’ 말곤 정체성 없다…한국 브랜드 ‘반짝 인기’ 우려 - 미주중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d48856b0-d7d3-4f27-9d55-f360387fc55a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyU0oyY2tKbVNfRDdkcFhnaG9KZlRLaHMtSzNOUkZoOEdmZGJjby1RZnlhRldhSUFWc0xIb3lQdndhMklmOHZWM0loOVY0QTVkTXAwbjVUalZTc2U3MlowQkxfUlA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "이랜드파크 켄싱턴호텔, 내년 1월까지 ‘라운지 올인클루시브’ 패키지 출시 - 서울경제TV",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5e582c07-39e2-4c88-9ba3-506b429cb81a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTWNMWC1fMV9EWXpxaVU2cFdJb0xtbWVTZm53bEZ2TGlTMmxpRmdVRXRYdERaenVQQW9DMjRwTndFV0cwYUpIZmJBUm1vU3kzNEFrRTFrR0hWY2_SAWBBVV95cUxQYTkyZHd6SHVFdzNoUjctNHRnY2FMMVpzVHUwS3Vsd3kyMEVFTXhJQUNycFo0ekd3T2dscnN2bHFRdll1eHBiVVpSelYwdXR6ZzVKeTFNSTE1S2lWeFhwM2k?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[게시판] 조선호텔앤리조트, 관광특성화고 학생 60명에 장학금 - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3fff5462-fb0f-4334-897f-b32402ca1e62": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FVjJwVHZDWmR2ZzNCY01MTVR0aUdjaGFYbE9qMXJoT0dYVlg0cXI3R2MwbFhaTlVid0NpVGFWSDF3eFA1ZXRwd3oxT3NZc2k1enBhdUFyYVEtdWZpN2JfcU82cC1FOExpRVplNlo1UXFtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "수영구, 호텔 전문인력 객실코디 양성사업 마무리 > 뉴스 - 더코리아",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bd4f359e-148c-4934-b7f9-4c0e20f1b3c2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
