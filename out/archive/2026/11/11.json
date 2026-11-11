@@ -1,0 +1,134 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 자생 생물자원 기반 소재 개발로 원료 차별화 경쟁 본격화",
+    "다이소 뷰티 채널, 더마 코스메틱 브랜드 진입으로 가성비 고기능화 가속",
+    "On, 3분기 매출 17% 성장·순이익 36% 급증으로 스포츠용품 판도 재편 중"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "9dc89af4-9baf-4e94-93b2-2c7897b8dc70",
+        "title_ko": "K-뷰티, 자생 원료로 차별화",
+        "summary_ko": "국립생물자원관과 코스메카코리아가 협약을 체결하고 국내 자생 생물자원을 활용한 화장품 소재 개발에 착수했다. 수입 원료 의존도를 낮추고 K-뷰티 고유의 성분 경쟁력을 확보하려는 전략으로, 원료 단계부터의 차별화가 중장기 수출 경쟁력을 가를 변수가 될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1ed691ed-b85d-4c61-9c13-31e0d0762010",
+        "title_ko": "앰플엔, 다이소로 더마 확장",
+        "summary_ko": "코리아나화장품 브랜드 앰플엔이 50mL 대용량 앰플 4종을 5,000원에 다이소 전용 출시했다. 더마 코스메틱이 프리미엄 채널을 벗어나 초가성비 채널로 진입하는 흐름이 뚜렷해지고 있으며, 다이소 뷰티 코너의 기능성 품목 비중은 계속 높아질 것으로 보인다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "484eba19-913c-44e2-b7aa-d807ff367c50",
+        "title_ko": "식약처, 화장품 시험 광고 규제 강화",
+        "summary_ko": "식약처가 11월 19일 화장품 인체적용시험기관 대상 정책설명회를 개최한다. 광고 근거로 활용되는 인체적용시험 데이터의 신뢰성 요건이 강화되는 방향으로, 효능 주장 광고를 운영 중인 브랜드는 사전 대응이 필요하다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "49e8448a-0ea8-489d-83f4-b051fa8a6878",
+        "title_ko": "On, 3분기 두 자릿수 성장 지속",
+        "summary_ko": "스위스 스포츠용품 브랜드 On이 3분기 매출 9억 3,100만 스위스프랑(약 1조 4,000억 원)을 기록하며 전년 대비 17% 성장했고, 순이익은 36% 급증했다. 나이키·아디다스 등 전통 강자가 주춤한 사이 On이 프리미엄 퍼포먼스 구간을 빠르게 장악하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "63c29214-d9f4-415d-a565-3ed9d43e95bf",
+        "title_ko": "Z세대, 절제 소비로 전환",
+        "summary_ko": "유럽 Z세대를 중심으로 탄수화물·주류·담배 등 쾌락적 소비를 의식적으로 줄이는 흐름이 확산되고 있다. 건강과 자기관리 중심의 지출 재편은 식음료·주류 카테고리의 수요 구조에 직접적인 영향을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "6c0f9952-b35f-403f-b696-d8e1a680dabe",
+        "title_ko": "중국 Z세대, 충동 구매 성향 강해",
+        "summary_ko": "맥킨지 조사에 따르면 중국 Z세대는 미래에 대한 낙관적 전망을 바탕으로 예산 초과 충동 구매 비율이 타 세대 대비 높다. 유럽의 절제 소비 흐름과 대비되는 양상으로, 글로벌 Z세대 공략 전략은 시장별 분리 접근이 필수다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "835dcf2e-2241-4185-84c2-a8d4c937031b",
+        "title_ko": "중국 Z세대 구매 동인 분석",
+        "summary_ko": "중국 Z세대 소비 데이터를 분석한 결과, 이들이 지갑을 여는 핵심 동인은 개성 표현과 경험 중심 가치였다. 충동 구매 성향과 결합하면 단기 바이럴 마케팅에 취약하면서도 반응 속도가 빠른 세대로 해석된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 클러스터를 관통하는 핵심 축은 '가치 기준의 분화'다. 한국 뷰티 시장에서는 원료 고급화(자생 생물자원)와 채널 대중화(다이소 더마)가 동시에 진행되며 고가·저가 구간 모두에서 경쟁이 심화되고 있다. 한편 Z세대 소비 행동은 지역별로 정반대 방향을 보이는데, 유럽에서는 절제·건강 중심으로, 중국에서는 낙관적 충동 소비로 각각 수렴하고 있다. 글로벌 시장을 단일 Z세대 전략으로 접근하는 브랜드는 오판 위험이 크다. On의 급성장은 이 분화 국면에서 명확한 퍼포먼스 정체성을 유지한 브랜드가 얼마나 빠르게 점유율을 가져올 수 있는지를 보여주는 사례다.",
+  "cards_meta": {
+    "9dc89af4-9baf-4e94-93b2-2c7897b8dc70": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312765",
+      "original_headline": "자생 생물자원으로 한국형 화장품 소재 개발…K-뷰티 경쟁력 강화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1ed691ed-b85d-4c61-9c13-31e0d0762010": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100401",
+      "original_headline": "코리아나화장품 브랜드 앰플엔, 다이소 전용 ‘앰플 샷’ 4종",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "484eba19-913c-44e2-b7aa-d807ff367c50": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEaFFHd1lUSWtXQXp4NmtlMEsyeG9CMlAtTlp1dEpYaTdpWHpPaVFEdHZZOXZmalEyTHRnOWUzN2hBYWl4UUs2SWdQNU5CczNrLUtQR2FFZnMwTkpYTEJfZW9HMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "화장품 인체적용시험기관 대상 정책설명회... 11월 19일 개최 - 코스인코리아닷컴",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "49e8448a-0ea8-489d-83f4-b051fa8a6878": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/empresas/on-continua-creciendo-a-doble-digito-y-gana-un-36-mas-en-el-tercer-trimestre",
+      "original_headline": "On continúa creciendo a doble dígito y gana un 36% más en el tercer trimestre",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "63c29214-d9f4-415d-a565-3ed9d43e95bf": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "6c0f9952-b35f-403f-b696-d8e1a680dabe": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "835dcf2e-2241-4185-84c2-a8d4c937031b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
