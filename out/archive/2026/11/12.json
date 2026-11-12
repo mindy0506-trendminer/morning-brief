@@ -1,0 +1,159 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "올리브영, AI 쇼핑 어시스턴트 출시와 미국 오프라인 확장을 동시 가속",
+    "K패션·뷰티 유통기업, 자체 수출 플랫폼으로 글로벌 구도 재편 본격화",
+    "호텔신라·대한항공 제휴 할인, 프리미엄 여행 소비 수요 공략 강화"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "3de6f937-9922-44ff-b4ba-62b37083bf36",
+        "title_ko": "대체육 시장 확장, 비건 선택지 다양화",
+        "summary_ko": "식물성 대체육 시장이 빠르게 성장하며 비건 소비자의 선택 폭이 넓어지고 있다. 맛과 식감 면에서 진짜 고기와의 간격도 좁혀지는 추세로, 소비 저변 확대가 가속화될 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "03abd20c-5b9c-41f8-a6e0-4b6a011ad3e1",
+        "title_ko": "식물성 대체육 블라인드 테스트 결과",
+        "summary_ko": "중앙일보 블라인드 테스트 결과, 식물성 대체육이 진짜 고기와 구별하기 어려운 수준에 근접했다. 품질 개선이 소비자 수용도를 높이는 핵심 변수로 작용하고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f82f6c53-aa64-4239-8ca3-5c8a65869299",
+        "title_ko": "대체육 맛 경쟁력, 주류 시장 진입 가늠자",
+        "summary_ko": "식물성 대체육의 맛 완성도가 대중 시장 진입 여부를 가르는 기준으로 부상했다. 비건 전용 제품에서 일반 소비자 대상 제품으로 포지셔닝 전환이 이뤄지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "561aa803-121b-44ec-ac38-6abafd51c042",
+        "title_ko": "올리브영, AI 어시스턴트·미국 확장 동시 진행",
+        "summary_ko": "CJ올리브영이 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 앱 내 시범 운영하는 동시에, 2027년 상반기까지 미국 캘리포니아 매장을 7개점으로 확대한다. 디지털 경험 고도화와 오프라인 거점 확보를 병행하며 K뷰티 플랫폼으로서의 존재감을 강화하는 전략이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1d9f65e0-62d3-4354-a319-684fcd743d93",
+        "title_ko": "K뷰티 기능경기대회, 인재 발굴 무대로",
+        "summary_ko": "제19회 K-뷰티킹메이크업페스티벌어워즈가 명지대에서 열려 메이크업·헤어·네일 등 전 분야 인재들이 기량을 겨뤘다. K뷰티 산업 성장에 따라 전문 인력 양성과 산학 연계 수요가 높아지는 흐름을 반영한다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b2444088-5f4c-4aeb-a321-5adcc1cc915c",
+        "title_ko": "호텔신라·대한항공, 여행 소비 연계 할인",
+        "summary_ko": "호텔신라가 대한항공과 제휴해 국내외 호텔 최대 20% 할인 프로모션을 선보였다. 항공·숙박 묶음 혜택으로 프리미엄 여행 수요를 직접 공략하는 구조로, 고관여 소비자의 충성도를 겨냥한 행보다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "7bfe41c7-99de-4aa9-89f0-8cf9cc7f0adf",
+        "title_ko": "유통기업, K브랜드 수출 플랫폼으로 전환",
+        "summary_ko": "국내 유통기업들이 K패션·뷰티 브랜드를 앞세워 직접 해외 판로를 여는 수출 플랫폼으로 역할을 재정의하고 있다. 단순 판매 채널을 넘어 브랜드 발굴과 글로벌 유통을 주도하는 구조로의 전환이 가속화되는 양상이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e2d99c78-a70c-45c5-8d9f-4bc07630fe60",
+        "title_ko": "Z세대 음주 습관, 절제 소비로 재정의",
+        "summary_ko": "Z세대의 알코올 소비 실태를 분석한 보도에 따르면, 이 세대는 탄수화물·담배·주류 전반에 걸쳐 절제 소비 성향을 뚜렷이 보인다. 건강 중심의 소비 가치관이 식음료·주류 카테고리 전반의 수요 구조를 바꾸고 있다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 'K소비재의 글로벌화가 플랫폼 주도로 재편되고 있다'는 점이다. 올리브영은 AI 서비스와 오프라인 매장을 동시에 미국에 이식하고, 국내 유통기업들은 K패션·뷰티 수출 창구로 스스로를 재정의하고 있다. 여기에 Z세대의 절제 소비 가치관이 전 세계적으로 확산되는 흐름은, 과잉 마케팅보다 품질·경험 중심의 브랜딩이 중장기 경쟁력을 좌우한다는 점을 시사한다. 중국 Z세대의 충동 소비 증가는 반대 방향처럼 보이지만, 오히려 지역별 맞춤 전략의 중요성을 더 부각시키는 신호로 읽힌다.",
+  "cards_meta": {
+    "3de6f937-9922-44ff-b4ba-62b37083bf36": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "03abd20c-5b9c-41f8-a6e0-4b6a011ad3e1": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f82f6c53-aa64-4239-8ca3-5c8a65869299": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQdIBZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요즘 뜨는 식물성 대체육, 맛있을까 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "561aa803-121b-44ec-ac38-6abafd51c042": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByY3I5Z3JUMG00UVE4aXpOVFhUSkhFTmJteXZRMTAzc2dKd1lRZl92SmoxWURScnlYZ2U3RzFfY1lZdmo1NW9DaUtselZCdGl3Wi03T2dzZU5iczhMemRpWVZ5RG5vWnFlSlBIQThXY1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, ‘올영 티키’ AI 쇼핑 어시스턴트 시범 운영 - 코리아리포트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1d9f65e0-62d3-4354-a319-684fcd743d93": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312775",
+      "original_headline": "K-뷰티 인재 양성 현장…메이크업·헤어·네일 분야 기술력 겨뤄",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b2444088-5f4c-4aeb-a321-5adcc1cc915c": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT3IwMjdWcVEyWHduZk1qTGtMSkZBV21qVzRGODY3Tmk5TlY2V1BJNEhFQy1yMlRaU19EQ2ExUU5HSGJybk9BbDhfVGs0dTdncV9qREtuX3EwN3ozZl9Yd3UtN01wV19rSDd3R29Gc3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "호텔신라, 대한항공과 제휴…국내외 호텔 최대 20% 할인 - 스마트경제",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7bfe41c7-99de-4aa9-89f0-8cf9cc7f0adf": {
+      "category": "소비트렌드",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iV20taGRoVk8xYlNILTV4enlTUHJMNnpYeU9NYjFjQ292YzhLTm85WllqN1Rab0wyZDhpamdoRG5UeVhVRzBINk1mejlzMklMeWdUdlhXUTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "K패션·뷰티 앞세워 세계로⋯ ‘수출 플랫폼’ 변신한 유통기업들 - 국민일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "e2d99c78-a70c-45c5-8d9f-4bc07630fe60": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnp2b0NPU3ZwcE1pUnJfQ1phTm5kaF95bVdiakNyRWhMTUM4cGtVaVhWTnpKcVBacFRKY0tCeGFGcVlOT2NaWHZucV9qdkwzWVRYRVA1OERCZjdVYmk3WlhpRG96V1dYLU0xYnA4Rmd2ZGwyTkNqczJyd0dZTTloeUVDM2FKaG5XVllMRG45M0VraGtrQ2R3VFhoT0ZBVEtfcWdhRXY3X2HSAbwBQVVfeXFMTzVJeU51bE9ZVUJmVDktY2VOZXZmT3ZYWm5Mekd5eHk0X2laRUFNWUdZOWY4UTRxczZYVWZ2RXNGWFpiMklQNFhsQ3hnTWllS1luZ2RsdDZEU1E5LW1USENVV3E1Ykh2YUtiUlNuVU1TcW8tWS0xbWRJXzdlT3NMWFNyUFNYRXRLWWdIMFpsRnFSMDVGdDN0ZkJPMVdoSlBZZC1xY3o3QVpFRVlGY3hjaEtPcXpYZkg5SjJnNEo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "La verdad sobre los hábitos de consumo de alcohol de la generación Z - TN",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
