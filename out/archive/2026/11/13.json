@@ -1,0 +1,239 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티 수출 1위가 유럽으로 재편, 북유럽까지 거점 확장 본격화",
+    "올리브영, AI 쇼핑 어시스턴트 '올영 티키' 출시로 뷰티 커머스 지형 변화",
+    "Z세대 소비 양극화: 한국·유럽은 절제형, 중국은 충동형으로 분기"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "5746484f-86c4-4c0b-aac3-a926685f9f68",
+        "title_ko": "대체육 시장, 선택지 다양화",
+        "summary_ko": "식물성 대체육 브랜드가 늘어나며 비건 소비자의 선택 폭이 넓어지고 있다. 맛과 식감의 완성도를 둘러싼 소비자 평가가 엇갈리는 가운데, 시장 성장세 자체는 가속 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "fddd5f73-a19e-4acd-a80c-10fbb62880ce",
+        "title_ko": "식물성 대체육 블라인드 테스트",
+        "summary_ko": "중앙일보가 진행한 블라인드 테스트에서 식물성 대체육과 실제 고기의 구별 가능성이 주목받았다. 맛의 유사도가 높아질수록 가격 저항이 낮아진다는 점에서 대중화 임계점에 주목할 필요가 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7423043e-477e-4d94-9b7d-fc2e526186fd",
+        "title_ko": "대체육 맛 경쟁, 본격 개막",
+        "summary_ko": "동아일보가 주요 식물성 대체육 제품의 맛을 비교 검토했다. 맛의 품질이 카테고리 성장의 핵심 변수로 부상하면서, 제조사들의 원료 및 가공 기술 경쟁이 가열되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "04683c55-89d6-4067-abc5-6c51af5cf295",
+        "title_ko": "K-뷰티 수출축, 유럽으로 이동",
+        "summary_ko": "올해 1~10월 한국 화장품 수출액은 126억 달러로 지난해 연간 실적을 이미 초과했다. 유럽(26억 달러)이 미국(23억 달러)과 중국(16억 달러)을 처음으로 앞질렀으며, 스웨덴 등 북유럽 최대 유통망까지 국내 시장 탐방에 나서 새로운 거점 확장이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "14343d5e-6d1a-4c8b-8a26-b9e98e113967",
+        "title_ko": "홍콩 코스모프로프서 K-뷰티 총출동",
+        "summary_ko": "아시아 최대 뷰티 B2B 전시회 '2026 코스모프로프 아시아 홍콩'에 국내 중소 브랜드가 대거 참가했다. 천안시 등 지자체와 서울뷰티허브가 뷰티 기업의 해외 유통망 개척을 직접 지원하면서, K-뷰티 글로벌화의 주체가 대기업에서 중소 브랜드로 무게 중심을 옮기고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "46e1dc6c-289b-4845-9e2b-de0b0ca50b82",
+        "title_ko": "올리브영 AI 어시스턴트 '올영 티키' 출시",
+        "summary_ko": "CJ올리브영이 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 시범 운영하고 12월 정식 출시를 예고했다. 별도 앱 설치 없이 기존 앱 내 검색창에서 대화형으로 상품·성분 정보를 안내해, 뷰티 커머스의 검색 경험이 질의응답 방식으로 전환되는 흐름을 가속할 것으로 보인다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "9eebcdac-3220-4c96-bdc0-a6cddc15ccbe",
+        "title_ko": "중고명품 거래 방식의 이중 구조",
+        "summary_ko": "중고명품 구매 시에는 현금 거래, 판매 시에는 위탁을 선호하는 소비 패턴이 확인된다. 가격 협상력과 판매 편의성을 동시에 추구하는 소비자 심리가 시장 거래 구조를 이분화하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "d1b073d5-9a7d-4117-af30-5d13040faf87",
+        "title_ko": "밀라노 발 인테리어 트렌드 주목",
+        "summary_ko": "밀라노 가구 박람회가 제시한 인테리어 트렌드가 국내 소비자 관심을 끌고 있다. 글로벌 디자인 흐름이 국내 주거 소비에 미치는 영향력이 커지는 추세다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "1e12b0c3-6cbf-486a-97bc-9bcefb8c7dd1",
+        "title_ko": "인테리어 트렌드 회고와 재해석",
+        "summary_ko": "과거 인테리어 트렌드에 대한 재조명이 이루어지고 있다. 복고풍 디자인 감성이 현재 소비자 취향과 교차하면서 클래식 스타일에 대한 수요가 다시 부상하는 흐름이 감지된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8aa617a0-2ce8-43b0-9284-851ce5a2f01e",
+        "title_ko": "'감성 퍼즐' 키워드로 본 공간 소비",
+        "summary_ko": "감성 중심의 인테리어 접근법이 다시 주목받고 있다. 기능 중심 공간 구성에서 개인의 감성과 취향을 반영한 복합적 공간 연출로 소비 방향이 이동하는 흐름이 꾸준히 이어진다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "8c6afdea-bdca-4fa3-8cf1-709e1f886de2",
+        "title_ko": "유럽 Z세대, 소비 절제 본격화",
+        "summary_ko": "탄수화물·담배·알코올을 멀리하는 유럽 Z세대의 절제 소비 성향이 뚜렷해지고 있다. 건강과 가치 중심의 선택이 카테고리 전반에 걸쳐 소비 구조를 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7df348c7-b046-4113-ab16-3bfecbe81092",
+        "title_ko": "중국 Z세대, 미래 낙관과 충동 소비",
+        "summary_ko": "맥킨지에 따르면 중국 Z세대는 미래에 대한 낙관도가 높고 예산을 초과하는 충동 구매 경향이 강하다. 유럽 Z세대와는 반대 방향의 소비 심리로, 국가별 접근 전략 차별화가 필요하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "85df7bf4-29c4-442b-96d5-99fae64ae136",
+        "title_ko": "중국 Z세대 소비 데이터 해부",
+        "summary_ko": "21재경이 분석한 중국 Z세대 소비 데이터는 이들이 경험·개성·브랜드 스토리에 기꺼이 지갑을 열지만, 가성비 판단 기준도 까다롭다는 점을 보여준다. 단순 가격 경쟁이 아닌 의미 있는 소비 가치 제시가 진입 열쇠다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 핵심은 '소비 주체와 채널의 동시 다변화'다. K-뷰티는 중국 의존에서 벗어나 유럽·북유럽으로 거점을 옮기고 있고, 올리브영은 AI 대화형 인터페이스로 검색 경험 자체를 재설계하고 있다. Z세대 소비 심리는 국가별로 정반대 방향을 가리킨다. 유럽은 절제·건강 중심, 중국은 낙관적 충동 소비 쪽에 가깝다. 단일 글로벌 Z세대 전략은 더 이상 유효하지 않으며, 시장별 소비 심리를 세분화한 접근이 소비재 브랜드의 필수 과제로 부상했다.",
+  "cards_meta": {
+    "5746484f-86c4-4c0b-aac3-a926685f9f68": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnA2RFJ1RFdqNVRxSEJQRlo1NzZBVE52YktyazBvWTFtNDF6RWMtR1B2bDFucmR4RHBhZHIxQ2Uwa3M1dWU0TmxHVkFINjJGb0hhLWFDSmdYQdIBX0FVX3lxTE83QnN1UWhQYTR1ajU4UGIzNGhzSHdsYUNwNU1QT3QtLWNGbFhweW8xT3NZUl9hUXp3RFpNdjk2dEZ2NGJMNUNFN19pRGlFMlNQWkRNZ2gxVzJwOUk5bGc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "‘대체육’ 시장 급성장세…‘비건’ 소비자 선택 폭 넓어진다 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "fddd5f73-a19e-4acd-a80c-10fbb62880ce": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tY2U3c1B5MUZ5OTFxRjJ3UzRoYTFVa3c5M2V2M0hURDNJbGlzeUpSbzU1ajZxcURValhTcGRDRmtGR3JsYlN0ZkM1VEdBRF9sY2I5NEN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요새 '식물성 대체육', 진짜 고기와 구별 가능할까...블라인드 테스트를 해봤다 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7423043e-477e-4d94-9b7d-fc2e526186fd": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 대체육 OR 비건",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQdIBZkFVX3lxTE5fTi1EaTlmdkJ6YnppMDBBUER3SFFycDdwa0JQcXIwMFZUVWZIVVhDd3djZkU1LUZPdGFQbXdHclAtbWx3VGJRWmtLZlg4Z040MFdaSnVxZDBLeE5MbDNPY3NPa2NoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "요즘 뜨는 식물성 대체육, 맛있을까 - 동아일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "04683c55-89d6-4067-abc5-6c51af5cf295": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312793",
+      "original_headline": "북유럽까지 번지는 K-뷰티 열풍...북유럽 최대 뷰티 유통망 방한",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "14343d5e-6d1a-4c8b-8a26-b9e98e113967": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GdUVNWFZSN0FHaVJmelFRNUJTbUtncldrRnJNcnprbmJXMXlHYVh3My1KQ19ZS2RZWEtCS3d5Z1ZxSjUzdUIwcWZYc1pWREUtaXI1M0VfT1pQRWNuLS1abkY3c2hKcmZhamVoUVV4djA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "천안시, ‘2026 홍콩 코스모프로프 아시아’ 참관단 파견…뷰티기업 해외진출 지원 - 로컬투데이",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "46e1dc6c-289b-4845-9e2b-de0b0ca50b82": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOUZiUFlGRmkyQW8xd2JBeTV5M29fT0xObmZDbloxUUQxVkNNT1FYMU1Hb1loZ1JjR3JDeEVBTW91bjJGYS0yS015eXIwbXFSSU5NWVpmNUNkUDRPQXQ5XzR2cjRUZXNXTWcwWlZLWdIBc0FVX3lxTE1GdEZEVENHVlB2emhFTEE3bEhXLUlwbzdWb09LWjVSeXdDUm9oRnZaXzRyWE5QbkMwWHVFc0I5UDktanNfb2lsVl9qYnQ3UUJRWk9ycW9IX095eGY1QnlGVWNjLThRZFhJRnA4c3M1VGlOQU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, AI 쇼핑 어시스턴트 '올영 티키' 시범운영…12월 정식 출시 - 뉴스웍스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "9eebcdac-3220-4c96-bdc0-a6cddc15ccbe": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d1b073d5-9a7d-4117-af30-5d13040faf87": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVWlLT0RHT0wyVFdiTnBVWFdFRHlpc1dRY3ludm83d3FJNXB5Y0d4Zm1hVURVUUxRanNPbW5Wcnk0RkxsTXpNX0JKQ3FtdlpqNWxGRmFDVklIUdIBX0FVX3lxTE9EZGV0YzJzM2gybS0yQkpDekRuejlNWjQzeWVrdVZYdE5OWTlYSTdZRUJTWHFTbWpWbkczYUtjSFlBUWRmWjZtSjJPc2pxSW1HTEhMRlVXVzRnelA2SzZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[스타일]밀라노 가구 박람회 인테리어 트렌드 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "1e12b0c3-6cbf-486a-97bc-9bcefb8c7dd1": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc29wVzZmdEdOSXc2cThKdHItZFdRNGpJNi1GdjFCRVF4YnNKNloyN1ltM2xpS0N4bFlQeFBHYzJ6ZzlVMXVxdWp0S21KSkd3MVAySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "2007 인테리어 트렌드 다시보기 - 중앙일보",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8aa617a0-2ce8-43b0-9284-851ce5a2f01e": {
+      "category": "라이프스타일",
+      "source_name": "GN-KO [라이프스타일] 인테리어 트렌드",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3R2ZEQkU2RkV1d09ua0NleWNjTVhMM2gzQ3NCMVQxUDlvcDZVUlltbGQxcWNRVlZkd2pQY25OOFlKNEtqT1dPdHpaMzBLVFFVZlJsVklRMk5HUdIBX0FVX3lxTE15WE02NXpXVmFhMUV6dE44cURPc3N0MERSRC1NOFpfSkl2VGtJYXVlMHBzSFhPaTZCbF95ejl6WEdRT0k3TXhka1VMOUNyVXFXTjRMV2toQ1BIOENHR2N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[그여자네]‘감성 퍼즐’…2007 인테리어 트렌드 - 경향신문",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8c6afdea-bdca-4fa3-8cf1-709e1f886de2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "7df348c7-b046-4113-ab16-3bfecbe81092": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "85df7bf4-29c4-442b-96d5-99fae64ae136": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
