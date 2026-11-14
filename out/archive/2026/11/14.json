@@ -1,0 +1,137 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K-뷰티, 유럽이 최대 수출 시장으로 부상하며 북유럽까지 확장 본격화",
+    "코스모프로프 아시아 홍콩에서 K-뷰티 글로벌 B2B 공략 가시화",
+    "중국 Z세대, 예산 초과 충동구매 성향 두드러져 소비 주도층으로 주목"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "1fee1ae8-2782-41be-8213-fb8f258ec648",
+        "title_ko": "건강기능식품 유통 단속 강화",
+        "summary_ko": "광명시가 건강기능식품 판매업소 32곳을 대상으로 현장 지도 점검을 실시했다. 소비자 관심이 높아지는 만큼 유통 관리 수위도 함께 오르는 흐름이다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d0a99992-43c4-48ea-ab95-998ba055453f",
+        "title_ko": "코스모프로프서 K-뷰티 총출동",
+        "summary_ko": "아시아 최대 뷰티 B2B 전시회 '코스모프로프 아시아 홍콩'에 K-뷰티 브랜드들이 대거 참가했다. 서울뷰티허브와 연계한 중소 브랜드까지 글로벌 유통망 확보에 나서며 수출 다각화 전략이 가시화되고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "3d99fdb3-c222-4594-83b3-fccb1f7d6a01",
+        "title_ko": "마리엔메이, 무신사 오프라인 진입",
+        "summary_ko": "해외 매출 비중 85% 이상의 글로벌 스킨케어 브랜드 마리엔메이가 무신사 뷰티 성수점에 입점했다. 해외 인지도를 발판 삼아 국내 오프라인 접점을 넓히는 역진출 전략이 주목된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "dceda645-9d72-4498-bcde-4683f31c6161",
+        "title_ko": "K-뷰티, 유럽이 1위 시장으로",
+        "summary_ko": "올해 1~10월 한국 화장품 수출액이 126억 달러를 기록해 연간 최고치를 경신했다. 유럽 수출(26억 달러)이 미국(23억 달러)·중국(16억 달러)을 처음으로 앞질렀고, 북유럽 최대 유통망까지 한국 브랜드 소싱에 나서며 지형 재편이 뚜렷하다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "538066f5-f03b-41eb-bae4-78a0caf2129d",
+        "title_ko": "중국 Z세대, 충동구매 성향 강화",
+        "summary_ko": "맥킨지 분석에 따르면 중국 Z세대는 미래에 대한 낙관 심리를 바탕으로 예산을 초과하는 충동 소비를 하는 경향이 뚜렷하다. 소비재 브랜드 입장에서는 감성 자극형 마케팅의 효과가 더 클 수 있다는 시사점을 준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "a918849f-fb81-4b30-95f4-d2fe0182b86c",
+        "title_ko": "Z세대 구매 동기 데이터 해부",
+        "summary_ko": "21재경의 Z세대 소비 데이터 분석은 이 세대가 단순 가성비보다 자기표현·경험 가치에 지갑을 연다는 점을 확인했다. 중국 내수 소비재 전략을 재설계하는 브랜드에게 직접적인 근거 자료가 된다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "e7217afb-24e7-40ad-900c-bfff98328dd0",
+        "title_ko": "Z세대 소비 물결, 대세로 굳어지나",
+        "summary_ko": "중국 증권가의 Z세대 소비 전문 리포트는 이 세대의 구매력이 이미 시장의 흐름을 바꾸고 있다고 진단한다. 맥킨지·21재경 분석과 맞물려 중국 Z세대가 단기 트렌드가 아닌 구조적 소비 주체로 자리잡고 있음을 뒷받침한다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑의 핵심 흐름은 '경계 확장'이다. K-뷰티는 중국·미국 중심에서 유럽·북유럽으로, 글로벌 브랜드는 해외에서 국내 오프라인으로 각각 무게중심을 옮기고 있다. 동시에 중국 Z세대 분석들은 단일 보고서가 아니라 맥킨지·21재경·증권리서치가 같은 방향을 가리키며 구조적 소비 변화를 확인시켜 준다. 국내 소비재 임원에게 시사점은 명확하다. 수출 포트폴리오의 유럽 비중 재점검과, Z세대 대상 감성·경험 마케팅 강화를 동시에 검토할 타이밍이다.",
+  "cards_meta": {
+    "1fee1ae8-2782-41be-8213-fb8f258ec648": {
+      "category": "식음료",
+      "source_name": "GN-KO [식음료] 건강기능식품 OR 건기식",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxbzBlMkpkaHU1QzNqaG1uYWtkajdnOGZUYWRfYU9MVllXdk9DTWplQ1NWb0JjU0tBaUVZUzdGbmVTZ0ZTUFdva2F5N05zdnpxU2p1N0s0bDIzcV83V29Cc0xFemx6eDJJZDh5RVZsYWV6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "광명시, 건강기능식품 판매업소 32곳 현장 점검 - 웹이코노미",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d0a99992-43c4-48ea-ab95-998ba055453f": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100456",
+      "original_headline": "‘2026 코스모프로프 아시아 홍콩’ K-뷰티 글로벌 시장 공략 본격화",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3d99fdb3-c222-4594-83b3-fccb1f7d6a01": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdTVJODBHWVZSYlYzUURhMmdGR3hQSkU3X1MzWm91Q1B6UDlhaFVLMzFOaVM4eEYyOXlIVHhodl9MbE5YdlFoV0ZMa01PNkNXSVd1eGVrQ21DUzZQdjBucUE1TVphcXdNX3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "마리엔메이, ‘무신사 뷰티 성수점’ 입점 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "dceda645-9d72-4498-bcde-4683f31c6161": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312793",
+      "original_headline": "북유럽까지 번지는 K-뷰티 열풍...북유럽 최대 뷰티 유통망 방한",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "538066f5-f03b-41eb-bae4-78a0caf2129d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "a918849f-fb81-4b30-95f4-d2fe0182b86c": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "e7217afb-24e7-40ad-900c-bfff98328dd0": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
