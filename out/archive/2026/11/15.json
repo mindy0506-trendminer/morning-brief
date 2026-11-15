@@ -1,0 +1,209 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 올리브영 AI 쇼핑 어시스턴트 '올영 티키' 출시로 국내 뷰티 커머스 AI 전환 본격화",
+    "라이프스타일: 호텔 직결 스키 슬로프 등 프리미엄 체험형 여행 수요 겨울 시즌 급부상",
+    "뷰티·소재: 코스메카, 국내 자생 생물자원 기반 K-뷰티 독자 소재 개발로 친환경 경쟁 가세"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "f3f215fd-7d6b-411f-9774-de9723338ac9",
+        "title_ko": "건강기능식품 판매점 현장 점검",
+        "summary_ko": "광명시가 건강기능식품 판매업소 32곳을 대상으로 현장 지도 점검을 실시했다. 소비자 신뢰 확보를 위한 행정 단속이 강화되는 흐름으로, 건기식 유통 채널 전반에 준법 경영 압력이 커지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "944607d4-ab05-405f-b182-064fbe8ffbd4",
+        "title_ko": "올리브영, AI 쇼핑 어시스턴트 가동",
+        "summary_ko": "CJ올리브영이 생성형 AI 기반 쇼핑 어시스턴트 '올영 티키'를 모바일 앱에서 시범 운영하며 12월 정식 출시를 예고했다. 별도 설치 없이 앱 내 아이콘 하나로 뷰티 추천·정보 조회를 대화형으로 처리해, 국내 뷰티 플랫폼의 AI 쇼핑 경험 경쟁이 본격화되는 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "af126b33-ca48-453e-b7f6-558834c09e15",
+        "title_ko": "K-뷰티 자생 소재 독자 개발",
+        "summary_ko": "코스메카코리아가 국립생물자원관과 MOU를 체결하고 국내 자생 생물자원을 활용한 친환경 화장품 소재 개발에 착수했다. 글로벌 공급망 불안과 천연 원료 규제 강화 속에서 국산 소재 내재화가 K-뷰티 OEM 업계의 새 경쟁 축으로 떠오르고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "ed4179e6-600e-4330-9182-db331b51dbf6",
+        "title_ko": "피지오겔, 겨울 민감 피부 팝업",
+        "summary_ko": "LG생활건강 피지오겔이 DDP '컬리뷰티페스타2026'에서 피부장벽 보수 공사장 콘셉트의 체험형 팝업을 열었다. 더마 브랜드가 계절성 피부 고민을 체험 마케팅과 결합해 소비자 접점을 넓히는 방식이 겨울 시즌 주류 전략으로 굳어지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "14333105-032e-44a4-afb1-bd0c6d9ec99a",
+        "title_ko": "중고 명품 거래 구조 재조명",
+        "summary_ko": "중고 명품 시장에서 구매는 현금, 판매는 위탁 방식이 선호되는 거래 구조가 꾸준히 주목받고 있다. 리세일 시장 확대와 함께 소비자의 가격 협상력 및 플랫폼 신뢰도가 구매 행동을 가르는 핵심 변수로 작용하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "c14bccd5-8d4e-446e-b04d-81a7e245996a",
+        "title_ko": "호텔 직결 슬로프, 프리미엄 스키 부상",
+        "summary_ko": "국내 스키장 중 호텔에서 슬로프로 바로 연결되는 '스키인·스키아웃' 방식이 유럽·일본 대안으로 조명받고 있다. 고물가 속 해외 겨울 여행 수요 일부가 국내 프리미엄 리조트로 흡수되는 구도가 형성되는 중이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bd92e4f4-a8bb-4256-8b20-cdb7c5783dab",
+        "title_ko": "호텔 배경 영화 '레이오버 호텔' 개봉",
+        "summary_ko": "예기치 않은 체류가 여행의 본질이 되는 서사를 담은 영화 '레이오버 호텔'이 화제다. 호텔을 목적지 자체로 소비하는 호캉스 감성과 맞닿아 있어, 여행 콘텐츠와 숙박 소비 욕구가 교차하는 지점에서 주목할 만하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "f5af1b8a-e7ed-4209-9bd2-e94a882d23de",
+        "title_ko": "유학생 대상 호텔 현장견학 확대",
+        "summary_ko": "안산대·경인여대가 외국인 유학생을 대상으로 호텔 서비스 현장견학을 각각 실시했다. 국내 호텔 산업 인력 저변을 외국인 유학생까지 넓히려는 움직임으로, 서비스 인력 다국적화 흐름을 가늠할 수 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "27c1b24c-4d69-40aa-b1d1-483d381e6b21",
+        "title_ko": "중국 Z세대, 낙관적 충동 소비 성향",
+        "summary_ko": "맥킨지 분석에 따르면 중국 Z세대는 미래에 대한 낙관적 태도를 바탕으로 예산 초과 충동구매 빈도가 타 세대보다 높게 나타났다. 중국 소비 시장 공략 시 Z세대의 감성·경험 중심 구매 동기를 우선 설계할 필요가 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "495eff3a-4889-44a4-a4cb-8901d42eadc2",
+        "title_ko": "중국 Z세대 소비 데이터 해부",
+        "summary_ko": "21財經 분석은 중국 Z세대가 '후랑(後浪)'으로 불리며 품질·개성·브랜드 스토리를 소비 기준으로 삼는다는 점을 데이터로 뒷받침했다. 단순 가격 경쟁보다 가치 중심 포지셔닝이 이 세대를 공략하는 열쇠임을 시사한다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5153ca0e-358c-404f-9ff0-f764a61742ff",
+        "title_ko": "中 Z세대 소비 물결, 거스르기 어렵다",
+        "summary_ko": "중국 증권사 보고서는 Z세대 소비 물결을 '도도한 파도(奔涌的後浪)'로 규정하며, 이들이 주도하는 세분화 카테고리와 디지털 채널의 성장을 중장기 투자 테마로 제시했다. 한국 소비재 브랜드에도 중국 Z세대 취향 대응이 중국 사업 재편의 핵심 과제로 부각된다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 두 가지다. 첫째, 소비 접점의 지능화다. 올리브영의 AI 쇼핑 어시스턴트는 뷰티 플랫폼이 단순 유통을 넘어 개인화 추천 엔진으로 진화하는 가속도를 보여준다. 둘째, 체험과 감성의 프리미엄화다. 호텔 직결 스키 슬로프, 더마 브랜드 팝업, 호텔 배경 영화가 같은 날 조명받는 것은 '공간·경험'에 대한 소비자 지출 의지가 여전히 견조함을 방증한다. 중국 Z세대 소비 데이터를 함께 읽으면, 디지털 편의성과 오프라인 체험이 동시에 강화되는 '하이브리드 소비 욕구'가 한중 양국에서 공통 흐름으로 굳어지고 있음을 확인할 수 있다.",
+  "cards_meta": {
+    "f3f215fd-7d6b-411f-9774-de9723338ac9": {
+      "category": "식음료",
+      "source_name": "Google News KR Food",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84dzh6MVdPY0k1Rk00M3hQUmlvQVFObTNqNVBjUWN1RWtzUktmX2pvejRzc2VOanljUHBRcXRqd2x1SU9acnJUZFIxS2x3Sk9hRW1IOTdtc0d5ckoxTnZyVW1nVmMyYjdo?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "광명시, 건강기능식품 판매업소 현장 지도 점검 실시 - 광교신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "944607d4-ab05-405f-b182-064fbe8ffbd4": {
+      "category": "뷰티",
+      "source_name": "GN-KO [뷰티] 올리브영",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByY3I5Z3JUMG00UVE4aXpOVFhUSkhFTmJteXZRMTAzc2dKd1lRZl92SmoxWURScnlYZ2U3RzFfY1lZdmo1NW9DaUtselZCdGl3Wi03T2dzZU5iczhMemRpWVZ5RG5vWnFlSlBIQThXY1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "CJ올리브영, ‘올영 티키’ AI 쇼핑 어시스턴트 시범 운영 - 코리아리포트",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "af126b33-ca48-453e-b7f6-558834c09e15": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nUVZHZHA4d0RGTmRGVWlvdmtNZ1VETVdlVkhpM3JpNDVNUEJQRkRMRUI4T3ZUWnpVbldvcEVZNnFaekwzdWduMm1GRUNhdzFWWWpBNXdmLTRzUTVLMWdkdjZFWDlrX1VDTTNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "코스메카, 국립생물자원관과 K-뷰티 독자 소재 개발 - 주간신문씨엠엔",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "ed4179e6-600e-4330-9182-db331b51dbf6": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN1lYSkxzdEZMcEYzTEpsT0lmZlBoS2hvV2Qyd3VwSVRHWDFVSFhoZFByS2k1Q2tsbWc0TGJCeUtMNXZNX3RQZWk1cGZpbU44ZHhtWHFKaHBpckhOYnB0V3FfYjZULXVxVUtQaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "[D-BIZ 뷰티 브랜드] LG생활건강 피지오겔, 겨울철 민감 피부 위한 '손상 장벽 리페어 존' 팝업 오픈 - 데일리비즈온",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "14333105-032e-44a4-afb1-bd0c6d9ec99a": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 리세일 OR 중고명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QbDFLWWtzRlhEbm1DWTFNaGZXbGV0QUJ1N3hUcDlESVZGTExINjdiYnFxN25CUFR5b2FfLW0zRGw5a0hOdzFQelZ1VmdQVUhpWmVuS25OamUyYzIwbFo2Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "중고명품 살 때는 현금, 팔 때는 위탁? 어째서... - 뉴시스",
+      "languages": [
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "c14bccd5-8d4e-446e-b04d-81a7e245996a": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BZTN4NDZNRXBXZnlWNmhMVXh2SnJ2c0hibUl4UHVFYmRIRzZmZmZaTDMxN3dlWWZNajl1dUZLOVpvaVRRdExJZVVHLVFiV3E2TVkyYmhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "유럽·일본 안 부럽다…호텔서 ‘슬로프 직행’하는 이 스키장 - 중앙일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bd92e4f4-a8bb-4256-8b20-cdb7c5783dab": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tcFpJb0tQRUpRTmtzdWtBWGs2TGt6NEdUZjFFU3pHWG1jSlc4S2Y0S1EwektOMTBLeDFBaTM1UDh4aXMySWlOZEdoOVVVRmFiZVRwaUdSWEZydlZVSFF6MtIBYEFVX3lxTE1tcFpJb0tQRUpRTmtzdWtBWGs2TGt6NEdUZjFFU3pHWG1jSlc4S2Y0S1EwektOMTBLeDFBaTM1UDh4aXMySWlOZEdoOVVVRmFiZVRwaUdSWEZydlZVSFF6Mg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "불시착한 세 쌍의 예상치 못한 여행…영화 '레이오버 호텔' - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f5af1b8a-e7ed-4209-9bd2-e94a882d23de": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14TEI4TGMyTG1EdXhPRC13eVhRYjJUelIwRFZTSl94TkZ6ZGg5VF92OUViQ1hxM253ajhySDNXNjFnTHpGbVMxeEVXa2hCR3REaFc4OEJKZDFhbzhlVTByRGJjSjg1MWhFd3MtV0VhcTc?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "안산대, 외국인 유학생 대상 호텔 산업 현장견학 실시 - 신아일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "27c1b24c-4d69-40aa-b1d1-483d381e6b21": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "495eff3a-4889-44a4-a4cb-8901d42eadc2": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "5153ca0e-358c-404f-9ff0-f764a61742ff": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmdpZVVOQ2I5bzBFSl9IM2FlTVVoR0k4UU9zQ3MzQ2R6QVRZaDdnNDR5ZHN4TFZNNGNqZXhkT081OUxfQ0NuRkZvMzdqX3VTYTNDb1Eyb0Nid1puYVpENExhRGlLcGtTOG9QSi1EbnQ3OXBVam5Zd3V2aU1nbEtOMVA1b05lZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "国君消费 | Z世代消费专题：奔涌的后浪，势不可挡的Z世代消费浪潮 - 新浪财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
