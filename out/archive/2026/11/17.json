@@ -1,0 +1,189 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, 유럽이 미국·중국 제치고 최대 수출 시장으로 부상—북유럽까지 전선 확대",
+    "올리브영, 색조 특화 매장으로 K-색조 글로벌 공략 본격화",
+    "Z세대 소비 양극화—서구권은 절제 소비, 중국은 충동 소비 경향 뚜렷"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "ab9222e8-a442-4d33-917d-3caedc4028ec",
+        "title_ko": "K뷰티, 북유럽까지 판로 확장",
+        "summary_ko": "올해 1~10월 화장품 수출액이 126억 달러로 전년 연간치를 이미 넘어섰다. 유럽 수출이 73% 급등해 처음으로 미국·중국을 추월했으며, 북유럽 1위 뷰티 유통망이 K뷰티 기업과의 협력을 위해 직접 방한했다. 스킨케어 중심이던 수출 구조가 지역적으로도 다변화되는 흐름이 뚜렷해졌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "0c247c7a-5552-492e-aa79-864096b15812",
+        "title_ko": "올리브영, K-색조 거점 매장 출범",
+        "summary_ko": "올리브영이 20일 홍대에 색조 특화 매장 '컬러 그라운드 홍대'를 연다. 특정 카테고리를 전면에 내세운 첫 번째 특화 매장으로, 스킨케어 이후 차세대 성장축을 K-색조로 설정하고 국내외 고객 접점을 확대하려는 전략이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "feffc0fd-3166-46de-b639-fa33cbc35217",
+        "title_ko": "화장품협회 80년사, K뷰티 궤적 집대성",
+        "summary_ko": "대한화장품협회가 창립 80주년을 맞아 1945년 창립부터 2024년 수출 100억 달러 돌파까지의 산업 역사를 담은 298쪽 분량의 80년사를 발간했다. 내수 중심에서 세계 2위 화장품 수출국으로 도약한 구조적 전환을 체계화했다는 점에서 업계 참고 자료로 활용될 전망이다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "a551abbb-45b7-47d9-a5e5-9fb0b5d26863",
+        "title_ko": "K패션, 제조·유통 연계 성장 모색",
+        "summary_ko": "한국패션협회가 제조와 유통을 연결하는 K패션 성장 전략을 논의했다. 브랜드 경쟁력에 집중했던 기존 접근에서 벗어나 공급망 전반의 연계 역량을 강화하려는 방향 전환 신호로 읽힌다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "2c40e40d-3896-4a93-83f4-37a59a6f24ff",
+        "title_ko": "중구 의류 강소기업 350곳 가시화",
+        "summary_ko": "서울 중구가 지역 내 의류 제조 강소기업 350곳의 역량을 한데 모아 K패션 공급 경쟁력 강화에 나선다. 대형 브랜드 중심이던 K패션 담론이 제조 기반 중소기업 육성 쪽으로 무게를 옮기는 흐름이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5640977f-132a-4f30-93d7-a50d7acb9dea",
+        "title_ko": "명품감정사 자격·중고명품 창업 교육 확대",
+        "summary_ko": "한국명품감정협회가 12월 명품감정사 자격 과정과 중고명품 창업 교육생 모집에 나섰다. 리세일 시장 성장과 함께 감정·진위 검증 전문 인력 수요가 꾸준히 늘고 있음을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "f02975ce-c94c-40d2-b366-58908505ce02",
+        "title_ko": "신라면세점, 단독 위스키로 희소성 마케팅",
+        "summary_ko": "신라면세점이 단독 입고 위스키를 앞세워 차별화 전략을 강화하고 있다. 면세 채널의 경쟁 우위를 가격보다 희소성과 단독성에서 찾으려는 프리미엄 전략으로, 주류 카테고리가 객단가 상승의 핵심 레버로 부상하고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "3cbd2e55-0aee-4d7e-8a79-6f006c91f477",
+        "title_ko": "서구 Z세대, 절제 소비로 전환",
+        "summary_ko": "탄수화물·담배·알코올을 멀리하는 서구권 Z세대의 절제 소비 행동이 두드러진다. 쾌락 소비보다 건강과 자기 관리를 우선하는 가치 전환이 식음료·주류 카테고리 전반의 수요 구조를 바꾸고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "dae64131-250d-415f-ac1f-101048d1b67b",
+        "title_ko": "중국 Z세대, 미래 낙관 속 초과 지출 경향",
+        "summary_ko": "맥킨지 조사에 따르면 중국 Z세대는 미래에 대한 낙관적 전망을 바탕으로 예산을 초과하는 충동 소비를 상대적으로 많이 보인다. 서구 Z세대의 절제 흐름과 대조적으로, 중국 시장에서는 여전히 소비 의욕이 강하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "7638849d-440a-4ed1-aab8-cdbb38143ad3",
+        "title_ko": "중국 Z세대 소비 데이터 심층 분석",
+        "summary_ko": "21재경의 Z세대 소비 데이터 분석은 이들이 체험·개성·자기표현에 기꺼이 지갑을 연다는 점을 확인했다. 가성비 중심의 이전 세대와 구분되는 소비 동기를 가진 집단으로, 카테고리별 접근 전략 차별화가 필요하다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 핵심 흐름은 'K-콘텐츠 이후 K-소비재의 공급망과 유통망이 함께 고도화되고 있다'는 점이다. K뷰티는 북유럽까지 직접 유통망을 유치하고, 올리브영은 색조를 차세대 카테고리로 선제 육성하며, K패션은 제조 기반 강소기업까지 경쟁력 범위를 확장하고 있다. 동시에 Z세대 소비 행동이 지역별로 뚜렷하게 갈리는 양상—서구의 절제 대 중국의 충동—은 글로벌 확장 전략에서 단일 접근 대신 시장별 맞춤 대응이 불가피함을 시사한다.",
+  "cards_meta": {
+    "ab9222e8-a442-4d33-917d-3caedc4028ec": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100477",
+      "original_headline": "북유럽에도 K뷰티 열풍, 1위 유통망 유치해 수출 가속화",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "0c247c7a-5552-492e-aa79-864096b15812": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100507",
+      "original_headline": "CJ올리브영, K-색조 육성 본격화…홍대 첫 특화 매장 오픈",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "feffc0fd-3166-46de-b639-fa33cbc35217": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100498",
+      "original_headline": "화장품협회, 대한화장품협회 80년사 발간",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "a551abbb-45b7-47d9-a5e5-9fb0b5d26863": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkel9ZdUl1YjZMUnpRcUw1M19aRGQ1VnhpeWF5dDBWblFaa0cwQXo4M3dWcTNFWFhnX1MxYXd3RW80T21DS1FFN29ZWXVUNWtWQlY5bDItY0xSNTRyVkw3dmh2TnlEVUJD?oc=5",
+      "original_headline": "한국패션협회, 제조·유통 연결한 K패션 성장 모색 - 한국섬유신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "2c40e40d-3896-4a93-83f4-37a59a6f24ff": {
+      "category": "패션",
+      "source_name": "Google News KR Fashion",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84YndpX0ZqVkMyeFlTWDM5WXhkZnBkdzVWN05zSkRrVGtKdFRoek04amFueUttWFVwZnJ3NW11WGVEcWlhaE9DSUlJY2psRjEyVG5yMFpCd2tkVHh0NnczYWt5OXJUN2swRXd6bWJB?oc=5",
+      "original_headline": "중구, 의류제조 강소기업 350곳 한눈에…K패션 경쟁력 잇는다 - 국제뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5640977f-132a-4f30-93d7-a50d7acb9dea": {
+      "category": "패션",
+      "source_name": "GN-KO [패션] 럭셔리 OR 명품",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtcFUxRFpYTmVfT2o0aGNmbjNPSEI4b2pLVGtKQkJyRXFQQm52TXN3c2p1cmpNLTFXUFhWV3h2VzN6YWlSNUlqTHEwWnM3YXF6TUlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "한국명품감정협회, 12월 명품감정사·중고명품창업 교육생 모집 - 유스연합",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "f02975ce-c94c-40d2-b366-58908505ce02": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaUVnbERISFRJZlVjTm9JQ3dTdFlDNHF3aTI1UDd6ZnBReW4tZjdvdVZQelVYU2pZcXlZZ05GWFhmbEVCWVVhaTVrNFZWUUR0VVE?oc=5",
+      "original_headline": "[여기, 호텔] 신라면세점, 단독 위스키로 차별화..희소성 앞세워 고객 공략 - 한국정경신문",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "3cbd2e55-0aee-4d7e-8a79-6f006c91f477": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "dae64131-250d-415f-ac1f-101048d1b67b": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORjNtTGNCUktnSnh4emhocUpTZkZzaFFyQzBlTEQtQVkyRERyWmZTTHVTOUN1aWttNG9vSTB2eWhhd01jNmc3Zl9HSzlvanZfSWgyMFhyWU1rMmc1SW5RRXkzb01tWHpCV1ZlaUdySEJKN1JxRmxkRkpVY1dsTmpxZDNzX1M5ZGFqRTZoU0J4YTNmOXNlVGkzenAtSmd5SnZEY3BGaVZlY3NmSzRqbTE2MDJLSFZ1UFgyc1hJR2hMaU55cmY3UVNGM1FqZmxFd2J1TEV3QV9CWlR5Q3ZVaXZZLS1oaFdMc3kzNmx2ZUVmOGc3MzdFZ0RDYXNIUTVtVTgtLTVkQVFOVnR4NkVtd1YyMWlIYnJ0ZFQyZjF0WWg1VC15NWhVSWZjei1MWjczME5HYTkydXJOZm9uWURQdjdJZ3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "中国 Z 世代对未来充满信心， 更易产生超过预算的冲动消费 - 麦肯锡",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    },
+    "7638849d-440a-4ed1-aab8-cdbb38143ad3": {
+      "category": "소비트렌드",
+      "source_name": "GN-ZH [소비트렌드] Z世代 消费",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnJJTHlJY05JZjQ0dVJJdnFqRjhuVE9FanhpRG5kUERnZGNNdGVnVTQxNWdLTUh1aFowaVgwUkk5VWVYeUNWay1QXzFCVlFkdHFJRVFBSldVZ0E5U1RzT25sbm1OY1pYZ2g0YUhiZF8yUGl1OV9ycTdCS1NtYzNiRTZNeXoyUzdvdnl3RlZhWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "“Z世代”消费数据洞察：这届“后浪”会为什么买单? - 21财经",
+      "languages": [
+        "zh"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
