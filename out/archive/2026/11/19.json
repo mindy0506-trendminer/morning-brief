@@ -1,0 +1,125 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "뷰티: 광군제서 K-뷰티 존재감 축소, 럭셔리·로컬 브랜드에 채널 잠식",
+    "뷰티: 코스모프로프 아시아서 K-뷰티 기술 경쟁력으로 글로벌 바이어 공략 본격화",
+    "패션: 터키, 스페인 소싱 시장서 22% 수출 급증…공급망 재편 가속"
+  ],
+  "sections": {
+    "뷰티": [
+      {
+        "cluster_id": "efbd2a5b-1730-471b-8c32-5f4049276b41",
+        "title_ko": "광군제서 K-뷰티 위상 흔들려",
+        "summary_ko": "2026년 광군제 기간 중국 온라인 화장품 거래액은 849억 위안으로 집계됐으나 일평균 거래액은 소폭 역성장했다. 더우인에서 글로벌 럭셔리 브랜드와 로컬 브랜드가 동시에 세를 불리는 사이 K-뷰티의 점유 공간이 좁아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "bf1ecdcf-13f1-4c89-a321-90e200dbaf36",
+        "title_ko": "K-뷰티, 기술력으로 글로벌 공략",
+        "summary_ko": "코스모프로프 아시아 홍콩 2026에 40여 개국 2800개 이상 기업이 참가한 가운데, K-뷰티 업체들은 하이브리드 제형·차세대 전달기술·기능성 선케어 등 기술 차별화로 북미·유럽·중동 바이어를 집중 공략했다. 광군제에서 나타난 중국 채널 약세를 다변화로 상쇄하려는 흐름이 뚜렷하다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8b1e2a5b-97f8-4ec6-9f76-6e4067662110",
+        "title_ko": "대일 K-뷰티, 스킨케어만 웃었다",
+        "summary_ko": "2026년 10월 K-뷰티의 일본 수출은 기초화장품과 메이크업 품목이 증가세를 이끈 반면, 입술화장품·마스크팩·눈화장품은 감소했다. 품목별 양극화가 심화되면서 단순 볼륨 확대보다 카테고리 선택과 집중이 중요해지고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "패션": [
+      {
+        "cluster_id": "7e8157d7-1eca-4cb2-a505-2b9d60d31e9b",
+        "title_ko": "터키, 스페인 소싱 시장 재진입",
+        "summary_ko": "터키의 스페인 패션 수출이 올해 들어 22% 급증하며 소싱 채널로 복귀했다. 중국·방글라데시의 증가세가 둔화하고 베트남·모로코가 감소한 틈을 파고든 것으로, 유럽 패션 공급망의 근거리 조달 선호 흐름이 반영된 결과로 풀이된다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "09a20378-5c7c-4d8d-937b-1a8c7b864d4e",
+        "title_ko": "제주신라, 프리미엄 딤섬으로 차별화",
+        "summary_ko": "제주신라호텔 더 파크뷰가 11월 27일부터 3일간 광둥식 딤섬 8종 프로모션을 진행한다. 홍콩 출신 리자원 셰프를 재초청해 고급 중식 경험을 전면에 내세운 것으로, 호텔 F&B가 단순 뷔페를 넘어 셰프 콜라보 이벤트로 프리미엄 포지셔닝을 강화하는 추세를 반영한다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "aa902e96-fa66-42f7-a1f8-0f17e7d1b2c7",
+        "title_ko": "Z세대, 소비보다 절제 선택",
+        "summary_ko": "스페인 Z세대를 중심으로 탄수화물·주류·담배를 줄이는 절제 소비 문화가 확산되고 있다는 분석이 나왔다. 가치 지향적 소비와 건강 중시 경향이 맞물리며, 식음료·주류 카테고리의 마케팅 접근 자체를 재검토해야 할 신호다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "오늘 브리핑을 관통하는 흐름은 '채널과 공급망의 동시 재편'이다. 중국 광군제에서 K-뷰티가 더우인 채널을 럭셔리·로컬에 내주는 사이, K-뷰티 업계는 코스모프로프를 통해 비중국 바이어 다변화를 본격화하고 있다. 패션 소싱에서도 터키의 급부상이 보여주듯 지정학적 비용 압력이 근거리·신흥 공급처로의 이동을 촉진하고 있다. 소비자 측면에서는 Z세대의 절제 소비가 식음료·주류를 넘어 라이프스타일 전반에 영향을 미칠 구조적 변수로 부상 중이다.",
+  "cards_meta": {
+    "efbd2a5b-1730-471b-8c32-5f4049276b41": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312893",
+      "original_headline": "광군제 뷰티 결산…더우인서 커진 럭셔리 브랜드, 작아진 K뷰티",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "bf1ecdcf-13f1-4c89-a321-90e200dbaf36": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312908",
+      "original_headline": "코스모프로프 아시아 2026 폐막…K-뷰티, 기술 기반 경쟁력으로 글로벌 바이어 공략",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8b1e2a5b-97f8-4ec6-9f76-6e4067662110": {
+      "category": "뷰티",
+      "source_name": "뷰티경제",
+      "source_url": "https://www.thebk.co.kr/news/articleView.html?idxno=312822",
+      "original_headline": "[K-뷰티 3대 수출시장 분석③ 일본] 스킨케어 성장세 지속…입술화장품·마스크팩은 감소",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "7e8157d7-1eca-4cb2-a505-2b9d60d31e9b": {
+      "category": "패션",
+      "source_name": "Modaes.es",
+      "source_url": "https://www.modaes.com/entorno/turquia-vuelve-a-la-partida-del-sourcing-y-eleva-un-22-sus-ventas-de-moda-a-espana",
+      "original_headline": "Turquía vuelve a la partida del ‘sourcing’ y eleva un 22% sus ventas de moda a España",
+      "languages": [
+        "es",
+        "es"
+      ],
+      "sceep_dimensions": []
+    },
+    "09a20378-5c7c-4d8d-937b-1a8c7b864d4e": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDdUFEd3o5VkNGZXk5Ym9LbFh0Ym83OXpSMXdVemZXV0E0dEtaOEl0eGF1UC01NmNfMUw5NU1GN2tSc3FaOHQ0RjNyMFREY2gtNFYzNHhhSXZGU00zUHdOZDItNXpENi1uNl9JRVcwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주신라호텔 ‘더 파크뷰’, 디너 뷔페서 광둥식 딤섬 8종 프로모션 선보여 - 이코리아",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa902e96-fa66-42f7-a1f8-0f17e7d1b2c7": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
