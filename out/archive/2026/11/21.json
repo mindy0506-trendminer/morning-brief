@@ -1,0 +1,160 @@
+{
+  "schema_version": "v2",
+  "exec_summary_ko": [
+    "K뷰티, LA 거점 확보와 내년 수출 178억 달러 전망으로 해외 공세 본격화",
+    "외식업 폐업 임계점 매출 20~40% 감소, 평균 부채 8039만원으로 구조적 위기 심화",
+    "경북·제주 중심 지방 프리미엄 호텔 투자 가속, 국내 고급 숙박 지형 재편"
+  ],
+  "sections": {
+    "식음료": [
+      {
+        "cluster_id": "cf7543bc-4598-4038-9397-135bde0e4659",
+        "title_ko": "외식업 폐업, 구조적 한계 수치로 확인",
+        "summary_ko": "중소기업중앙회 조사에서 외식업 폐업자의 40.4%가 매출 20~40% 감소 시점에 폐업을 결정했고, 폐업 당시 평균 부채는 8039만원에 달했다. 인건비·원재료비 부담이 수익성 악화의 최대 원인으로 꼽혔으며, 폐업 지연 음식점의 절반은 인수자를 찾지 못한 것으로 나타났다. 재창업 비용이 평균 1억4730만원에 이르는 만큼 시장 내 자연 순환도 제한적이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "8f182daf-56b6-4f92-96ac-432513a6aeab",
+        "title_ko": "식재료 유통·농업 상생 모델 논의 본격화",
+        "summary_ko": "한국식자재유통앤급식협회가 국회와 공동으로 농업 생산자와 유통기업 간 상생 모델을 논의하는 토론회를 열었다. 지속가능한 먹거리 유통 생태계 조성을 위한 정책·입법 과제 도출이 목적으로, 외식업 비용 구조 압박이 가중되는 시점에 공급망 상류의 협력 체계 정비 필요성이 커지고 있음을 반영한다.",
+        "is_paywalled": false
+      }
+    ],
+    "뷰티": [
+      {
+        "cluster_id": "d5a68d45-1f8c-4c76-aa17-c2d0a8f93fec",
+        "title_ko": "K뷰티 하우스, LA 거점 공식 출범",
+        "summary_ko": "한국보건산업진흥원 주관으로 LA 캘리포니아 마켓 센터에 K뷰티 중소기업 공동 오프라인 거점이 정식 개설됐다. 개별 브랜드가 단독으로 감당하기 어려운 미국 시장 진입 비용을 집약적으로 분산하는 구조로, 중소 브랜드의 북미 유통 접근성을 높이는 인프라로 기능할 전망이다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "5e2dd053-9f5d-4632-87fe-27b3a80301d9",
+        "title_ko": "K뷰티 수출, 내년 역대 최대 경신 전망",
+        "summary_ko": "NH증권은 K뷰티 수출이 2027년 178억 달러로 사상 최대치를 경신할 것으로 전망했다. LA 거점 개설과 맞물려 북미 채널 다변화가 가속화되는 국면으로, 수출 성장의 지속성에 대한 증권가의 신뢰가 높아지고 있다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "b9734240-5bba-4706-94fd-754296172ccc",
+        "title_ko": "항노화 브랜드, 약국 뷰티 채널 공략",
+        "summary_ko": "항노화 뷰티 브랜드 EOA가 무신사뷰티와 온누리약국이 협업한 '뷰티온누리성수점'에 디바이스·스킨케어 8종을 선보이며 약국 기반 유통 채널에 진입했다. 전문성과 접근성을 결합한 약국 뷰티 채널이 프리미엄 기능성 제품의 새로운 오프라인 접점으로 부상하는 흐름을 보여준다.",
+        "is_paywalled": false
+      }
+    ],
+    "라이프스타일": [
+      {
+        "cluster_id": "b674014d-6b13-4a22-a302-6194e69fe045",
+        "title_ko": "제주신화월드, 국내 최고 인센티브 호텔 선정",
+        "summary_ko": "제주신화월드 리조트가 국내 최고 인센티브 호텔로 선정됐다. 기업 포상 여행 수요를 겨냥한 고급 리조트의 브랜드 공인이 이어지면서, 비즈니스 여행과 레저를 결합한 국내 프리미엄 숙박 수요가 안정적으로 유지되고 있음을 확인시켜준다.",
+        "is_paywalled": false
+      },
+      {
+        "cluster_id": "aa16b766-0d47-4d10-9df8-5537f28ae8cf",
+        "title_ko": "포항에 4800억 규모 5성급 리조트 착공",
+        "summary_ko": "경상북도가 포항 환호지구에 4800억원을 투입해 5성급 호텔·리조트 385실을 조성하는 협약을 체결했다. 서울·제주 중심이던 고급 숙박 인프라가 비수도권으로 확장되는 신호로, 지방 광역단체의 관광 고도화 경쟁이 가시화되고 있다.",
+        "is_paywalled": false
+      }
+    ],
+    "소비트렌드": [
+      {
+        "cluster_id": "b299b8f4-01b4-4bc3-bb1b-056b327d6f1d",
+        "title_ko": "Z세대, 절제 소비로 소비 문화 재정의",
+        "summary_ko": "유럽 Z세대를 분석한 보고에 따르면 탄수화물·담배·알코올을 멀리하는 절제적 생활 방식이 확산되고 있다. 과시보다 건강과 자기 통제를 소비 가치의 중심에 두는 경향으로, 식음료·주류 업계의 제품 기획 방향에 직접적인 함의를 갖는다.",
+        "is_paywalled": false
+      }
+    ]
+  },
+  "insight_box_ko": "이번 브리핑을 관통하는 흐름은 '프리미엄화의 양극 확장'이다. K뷰티는 북미 오프라인 거점과 수출 최대치 전망으로 고급 이미지를 해외에서 굳히고 있고, 국내 호텔 시장은 제주와 포항을 축으로 비수도권까지 5성급 인프라를 넓히고 있다. 반면 외식업 현장은 인건비·원재료비 압박으로 폐업 임계점에 몰린 소상공인이 늘고 있어, 같은 소비 시장 안에서도 프리미엄 고도화와 중간층 이탈이 동시에 진행되는 구도다. Z세대의 절제 소비 확산은 이 양극화를 더욱 선명하게 만들 변수로, 외식·식품 업계는 고가 차별화 또는 가성비 특화 중 하나를 명확히 선택해야 하는 국면에 놓였다.",
+  "cards_meta": {
+    "cf7543bc-4598-4038-9397-135bde0e4659": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68816",
+      "original_headline": "외식업 40.4%, 매출 20~40% 줄면 ‘폐업’…폐업시 평균 부채 8039만원",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "8f182daf-56b6-4f92-96ac-432513a6aeab": {
+      "category": "식음료",
+      "source_name": "식품외식경제",
+      "source_url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68818",
+      "original_headline": "한국식자재유통앤급식협회 ‘농업과 식재료 유통산업 상생 토론회’ 성료",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "d5a68d45-1f8c-4c76-aa17-c2d0a8f93fec": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100552",
+      "original_headline": "‘K뷰티 하우스’ 美 LA 정식 오픈…글로벌 비즈니스 허브 공식 출범",
+      "languages": [
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "5e2dd053-9f5d-4632-87fe-27b3a80301d9": {
+      "category": "뷰티",
+      "source_name": "Google News KR Beauty",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFdVNPVUZfMVFaVTFYM3dNcU9Kc2pTSjh5T1UzNmoxOWpaSk4xNkpiNTBGelBhSjl3SjFDSzNsVDNINmpPQjdIaVJ6LWxFeWdjdElielhVUnllVWs4YWpyOdIBYEFVX3lxTFBFdVNPVUZfMVFaVTFYM3dNcU9Kc2pTSjh5T1UzNmoxOWpaSk4xNkpiNTBGelBhSjl3SjFDSzNsVDNINmpPQjdIaVJ6LWxFeWdjdElielhVUnllVWs4YWpyOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "NH증권 \"K-뷰티, 내년 수출 178억달러…역대 최대치 경신 전망\" - 연합뉴스",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b9734240-5bba-4706-94fd-754296172ccc": {
+      "category": "뷰티",
+      "source_name": "장업신문",
+      "source_url": "https://www.jangup.com/news/articleView.html?idxno=100544",
+      "original_headline": "EOA, 무신사뷰티 성수점 ‘뷰티온누리성수점’ 입점",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b674014d-6b13-4a22-a302-6194e69fe045": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TTkhwYklpQ3NTRlJLUHJjR0hiNG9BNm04czBUSkxycFlKLXBWWF9aTDVWSG9UaUNvZ1YyMUM5TC1NbUs2Qmx1bnQ4REllUHVpY0xmX0EtaDI4elp5UnBXNEtaNmFsbjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "제주신화월드, 국내 최고 인센티브 호텔 선정 - 제민일보",
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "aa16b766-0d47-4d10-9df8-5537f28ae8cf": {
+      "category": "라이프스타일",
+      "source_name": "Google News KR Hospitality",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JNnd4VlNMajU1X0h2WXFobnVWVjZWWkxNX0k1bjRTSFIxWHhGU25OYVhCSlNGMzdCUnExNW5WYmFuRU5zdzdCRU01V1E4RGRBN3Q4STI0X0g3ZXZxQmt1dXk0dHJOdXZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "경상북도, 포항 환호지구에 5성급 호텔·리조트 385실 조성 - 더쎈뉴스",
+      "languages": [
+        "ko",
+        "ko",
+        "ko",
+        "ko",
+        "ko"
+      ],
+      "sceep_dimensions": []
+    },
+    "b299b8f4-01b4-4bc3-bb1b-056b327d6f1d": {
+      "category": "소비트렌드",
+      "source_name": "GN-ES [소비트렌드] consumo generacion Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTzNDVHdiWksxZ1B0N0RsRjNJT3JpYWViaFdIamI3ZGpVOTg1UF9DZFZrWnRWeDhVLTZZdDFicHVOV0pkNWpadDhGYTZLMTNZNWpFRzVZSHYyeFd0Q0pZVlpSdENQMG1NekJaZml5MGFobTNHbi1rWUYweE5XSm90M1RhY1d2cmMyZjJobERYOFE4R1JIZUZJSkxJRkNSV2otM1lmT1lzb0hFZWdxekNzTFRfNkJvYTRaX2d6Y2N1LTNXdlY1Q1FhU2NSONIB3wFBVV95cUxOMTN2clZNOGIyaWI0VUswaFJLaWVBeEdzRGh0cUpubnA2Wk02Tkw5M2VZcFE2OWRUVUtSLVNDRTJMdGJPRjdLUDlFR1VrZHJhZThfOTl5bGRqWE1yOUVWbTFfVEVxaTd0WkhFNDlZSHhyTGJKeGRXX19kRV82U2FXSTB1LWx6eWZGbTB2YUZud3pWTEtwWTlJcnh6cTFsSmM0dzIwbEVaN05BSVhOeEI1RnQyeXg1YXVaVFg1NG5Ldkp5aTFXcXhnNWhsYzk5QWwxXzgwODVoZkpiZWlvTEc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "original_headline": "Ni carbohidratos, ni tabaco ni (casi) alcohol: con la generación Z se acabó la fiesta - EL PAÍS",
+      "languages": [
+        "es"
+      ],
+      "sceep_dimensions": []
+    }
+  }
+}
